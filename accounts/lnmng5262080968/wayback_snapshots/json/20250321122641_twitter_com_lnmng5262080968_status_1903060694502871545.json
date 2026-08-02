@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1903044468540051721",
+    "created_at": "2025-03-21T12:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T13:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903060694502871545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740016196144218112",
+          "start": 0,
+          "username": "PcWNxwblBa56956"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903060694502871545",
+    "in_reply_to_user_id": "1740016196144218112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903044468540051721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PcWNxwblBa56956 我支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1903044468540051721",
+        "created_at": "2025-03-21T12:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T13:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903060694502871545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740016196144218112",
+              "start": 0,
+              "username": "PcWNxwblBa56956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903060694502871545",
+        "in_reply_to_user_id": "1740016196144218112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903044468540051721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PcWNxwblBa56956 我支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740016196144218112",
+        "conversation_id": "1903044468540051721",
+        "created_at": "2025-03-21T11:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T12:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903044468540051721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903044468540051721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想出去玩 不想学了 谁支持谁反对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 348,
+          "like_count": 10383,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 2467
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T14:26:09.000Z",
+        "description": "头像是十年前的自拍，NJZ和kaze的小粉丝，希望你们来看我的推特都是开心的呀！       提问箱：https://t.co/05hs4adKya",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cyberpunklynn",
+                "end": 74,
+                "expanded_url": "https://ngl.link/cyberpunklynn",
+                "start": 51,
+                "url": "https://t.co/05hs4adKya"
+              }
+            ]
+          }
+        },
+        "id": "1740016196144218112",
+        "name": "亚力电蛙",
+        "pinned_tweet_id": "1889374887908700458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890444517662240768/RVv3IRDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 198,
+          "like_count": 2518,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 797
+        },
+        "username": "PcWNxwblBa56956",
+        "verified": false
+      }
+    ]
+  }
+}
