@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044796040226770944",
+        "3_2044796040327356416"
+      ],
+      "media_source_tweet_id": [
+        "2044796042839720366",
+        "2044796042839720366"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "2044835178967896495",
+    "created_at": "2026-04-16T17:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044835178967896495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qJO2a5VuAJ",
+          "end": 69,
+          "expanded_url": "https://x.com/Kyanu_tut/status/2044796042839720366/photo/1",
+          "media_key": "3_2044796040226770944",
+          "start": 46,
+          "url": "https://t.co/qJO2a5VuAJ"
+        },
+        {
+          "display_url": "pic.x.com/qJO2a5VuAJ",
+          "end": 69,
+          "expanded_url": "https://x.com/Kyanu_tut/status/2044796042839720366/photo/1",
+          "media_key": "3_2044796040327356416",
+          "start": 46,
+          "url": "https://t.co/qJO2a5VuAJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044835178967896495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044796042839720366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: 孩子你继续拉黑公狗热线殴打热线 threemeng333😁😁 https://t.co/qJO2a5VuAJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044796040226770944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCTKi_XkAAPt58.jpg",
+        "width": 989
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044796040327356416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCTKjXWYAAM7uj.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044796040226770944",
+            "3_2044796040327356416"
+          ],
+          "media_source_tweet_id": [
+            "2044796042839720366",
+            "2044796042839720366"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "2044835178967896495",
+        "created_at": "2026-04-16T17:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044835178967896495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJO2a5VuAJ",
+              "end": 69,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2044796042839720366/photo/1",
+              "media_key": "3_2044796040226770944",
+              "start": 46,
+              "url": "https://t.co/qJO2a5VuAJ"
+            },
+            {
+              "display_url": "pic.x.com/qJO2a5VuAJ",
+              "end": 69,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2044796042839720366/photo/1",
+              "media_key": "3_2044796040327356416",
+              "start": 46,
+              "url": "https://t.co/qJO2a5VuAJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044835178967896495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044796042839720366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: 孩子你继续拉黑公狗热线殴打热线 threemeng333😁😁 https://t.co/qJO2a5VuAJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044796040226770944",
+            "3_2044796040327356416"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2044796042839720366",
+        "created_at": "2026-04-16T15:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044796042839720366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJO2a5VuAJ",
+              "end": 54,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2044796042839720366/photo/1",
+              "media_key": "3_2044796040226770944",
+              "start": 31,
+              "url": "https://t.co/qJO2a5VuAJ"
+            },
+            {
+              "display_url": "pic.x.com/qJO2a5VuAJ",
+              "end": 54,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2044796042839720366/photo/1",
+              "media_key": "3_2044796040327356416",
+              "start": 31,
+              "url": "https://t.co/qJO2a5VuAJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044796042839720366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孩子你继续拉黑公狗热线殴打热线 threemeng333😁😁 https://t.co/qJO2a5VuAJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 308,
+          "like_count": 17352,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 5769
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "投稿私信奇异搞笑故事\n骂我先骂@shennaichuan22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "shennaichuan22"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "明日有香.",
+        "pinned_tweet_id": "2043766824786133368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430656332730368/-ga_5xd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 363,
+          "like_count": 575,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1529
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

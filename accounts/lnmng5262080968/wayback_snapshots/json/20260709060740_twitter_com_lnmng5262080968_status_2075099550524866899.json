@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2074519021354115365",
+    "created_at": "2026-07-09T06:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075099550524866899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075099550524866899",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074519021354115365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 风骚动人呀👅👅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074517877970059265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMorBMyaQAEfh8b.jpg",
+        "width": 1919
+      },
+      {
+        "height": 2457,
+        "media_key": "3_2074518999854125056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMosCgIakAA5MeO.jpg",
+        "width": 3276
+      },
+      {
+        "height": 2457,
+        "media_key": "3_2074519002228121600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMosCo-a4AAOYmU.jpg",
+        "width": 3276
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2074517883192061952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMorBgPbsAA4g-M.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2074519021354115365",
+        "created_at": "2026-07-09T06:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075099550524866899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075099550524866899",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074519021354115365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 风骚动人呀👅👅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074517877970059265",
+            "3_2074518999854125056",
+            "3_2074519002228121600",
+            "3_2074517883192061952"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074519021354115365",
+        "created_at": "2026-07-07T15:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074519021354115365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAXFsKzG1P",
+              "end": 26,
+              "expanded_url": "https://x.com/yu_huacs/status/2074519021354115365/photo/1",
+              "media_key": "3_2074517877970059265",
+              "start": 3,
+              "url": "https://t.co/nAXFsKzG1P"
+            },
+            {
+              "display_url": "pic.x.com/nAXFsKzG1P",
+              "end": 26,
+              "expanded_url": "https://x.com/yu_huacs/status/2074519021354115365/photo/1",
+              "media_key": "3_2074518999854125056",
+              "start": 3,
+              "url": "https://t.co/nAXFsKzG1P"
+            },
+            {
+              "display_url": "pic.x.com/nAXFsKzG1P",
+              "end": 26,
+              "expanded_url": "https://x.com/yu_huacs/status/2074519021354115365/photo/1",
+              "media_key": "3_2074519002228121600",
+              "start": 3,
+              "url": "https://t.co/nAXFsKzG1P"
+            },
+            {
+              "display_url": "pic.x.com/nAXFsKzG1P",
+              "end": 26,
+              "expanded_url": "https://x.com/yu_huacs/status/2074519021354115365/photo/1",
+              "media_key": "3_2074517883192061952",
+              "start": 3,
+              "url": "https://t.co/nAXFsKzG1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074519021354115365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2356,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "试衣 https://t.co/nAXFsKzG1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "有爱的世界回到来吗",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 313,
+          "like_count": 17810,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 6064
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "双相/准备复学中 成分复杂 ＃overdose！\nshanghai路上随机刷新的公路车手\n热衷于公路车/宅系/男娘/少有cos内容 一个公路车技师 二次元/cosplay/摄影/割手/od\n最喜欢世界第一萌の爱人 @yekatinez    哦尼酱@silentbleeding1     里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 14,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 107,
+                "username": "yekatinez"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 160,
+                "start": 148,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2073754389542830144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070906717412470784/YDT3T7qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1486,
+          "like_count": 122045,
+          "listed_count": 8,
+          "media_count": 2141,
+          "tweet_count": 20260
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

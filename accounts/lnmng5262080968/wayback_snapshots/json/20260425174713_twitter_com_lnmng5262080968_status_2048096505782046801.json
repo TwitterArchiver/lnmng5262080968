@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2047339876039979279",
+    "created_at": "2026-04-25T17:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048096505782046801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1845194453818253312",
+          "start": 0,
+          "username": "misaki5193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048096505782046801",
+    "in_reply_to_user_id": "1845194453818253312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048058485590647004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misaki5193 分不清是玉玉症脑损伤还是吃药吃的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2047339876039979279",
+        "created_at": "2026-04-25T17:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048096505782046801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1845194453818253312",
+              "start": 0,
+              "username": "misaki5193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048096505782046801",
+        "in_reply_to_user_id": "1845194453818253312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048058485590647004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki5193 分不清是玉玉症脑损伤还是吃药吃的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845194453818253312",
+        "conversation_id": "2047339876039979279",
+        "created_at": "2026-04-25T15:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048058485590647004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048058485590647004",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047339876039979279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 羡慕了 我o两次就经常忘事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 312,
+          "like_count": 17459,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 5836
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T20:07:04.000Z",
+        "description": "",
+        "id": "1845194453818253312",
+        "name": "罪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043361454989209601/QffaspXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 16,
+          "like_count": 452,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 118
+        },
+        "username": "misaki5193",
+        "verified": false
+      }
+    ]
+  }
+}

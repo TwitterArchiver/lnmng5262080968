@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1996568280312811968",
+    "created_at": "2025-12-06T13:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T14:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997304309076361382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1011861281387655169",
+          "start": 0,
+          "username": "nxssvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997304309076361382",
+    "in_reply_to_user_id": "1011861281387655169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996609585768214784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nxssvk 没有m倾向（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_1996609577299890176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Vh1QIaUAACGHJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1996568280312811968",
+        "created_at": "2025-12-06T13:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997304309076361382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1011861281387655169",
+              "start": 0,
+              "username": "nxssvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997304309076361382",
+        "in_reply_to_user_id": "1011861281387655169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996609585768214784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nxssvk 没有m倾向（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996609577299890176"
+          ]
+        },
+        "author_id": "1011861281387655169",
+        "conversation_id": "1996568280312811968",
+        "created_at": "2025-12-04T15:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996609585768214784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tnldubt7MN",
+              "end": 46,
+              "expanded_url": "https://x.com/nxssvk/status/1996609585768214784/photo/1",
+              "media_key": "3_1996609577299890176",
+              "start": 23,
+              "url": "https://t.co/Tnldubt7MN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996609585768214784",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996568280312811968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 玩黑暗之魂 https://t.co/Tnldubt7MN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 380,
+          "like_count": 14857,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 4889
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-27T06:38:23.000Z",
+        "description": "跳下去吧，不会死的",
+        "id": "1011861281387655169",
+        "location": "向日葵的坂道",
+        "name": "美少女壁画家",
+        "pinned_tweet_id": "1874817823773737252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992757366237147136/PnOr7UGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 2438,
+          "like_count": 35982,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 3997
+        },
+        "username": "nxssvk",
+        "verified": false
+      }
+    ]
+  }
+}

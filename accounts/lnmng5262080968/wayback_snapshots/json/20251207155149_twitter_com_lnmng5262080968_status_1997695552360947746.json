@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1997597499578802387",
+    "created_at": "2025-12-07T15:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T16:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997695552360947746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1365320156461686790",
+          "start": 0,
+          "username": "shaonuer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997695552360947746",
+    "in_reply_to_user_id": "1365320156461686790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997678698062028933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaonuer 一大堆😤在我眼里朋友多的不配当二次元"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1997597499578802387",
+        "created_at": "2025-12-07T15:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997695552360947746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1365320156461686790",
+              "start": 0,
+              "username": "shaonuer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997695552360947746",
+        "in_reply_to_user_id": "1365320156461686790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997678698062028933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaonuer 一大堆😤在我眼里朋友多的不配当二次元"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365320156461686790",
+        "conversation_id": "1997597499578802387",
+        "created_at": "2025-12-07T14:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997678698062028933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997678698062028933",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997597499578802387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 哪有这样的死宅👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 380,
+          "like_count": 14883,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 4900
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T15:18:12.000Z",
+        "description": "是梦怎么还不醒",
+        "id": "1365320156461686790",
+        "location": "时光机",
+        "name": "尸体cos人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1425752395942879234/I87Tr-Y2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 105,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 130
+        },
+        "username": "shaonuer",
+        "verified": false
+      }
+    ]
+  }
+}

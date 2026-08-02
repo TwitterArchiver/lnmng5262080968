@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1909967126494110093",
+    "created_at": "2025-04-10T04:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T05:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910182291747537389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865636851643744257",
+          "start": 0,
+          "username": "akanenene19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910182291747537389",
+    "in_reply_to_user_id": "1865636851643744257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909967126494110093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akanenene19 笑气什么感觉w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1909967126494110093",
+        "created_at": "2025-04-10T04:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T05:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910182291747537389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865636851643744257",
+              "start": 0,
+              "username": "akanenene19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910182291747537389",
+        "in_reply_to_user_id": "1865636851643744257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909967126494110093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akanenene19 笑气什么感觉w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865636851643744257",
+        "conversation_id": "1909967126494110093",
+        "created_at": "2025-04-09T13:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T14:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909967126494110093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909967126494110093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1000,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次笑气吸晕时候不小心打碎了我唯一的星巴克烟灰缸🙂🙂下次我不会吸晕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 369,
+          "like_count": 11283,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 2791
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T05:57:56.000Z",
+        "description": "可以叫我小茜或者Akane/18/日本語OK/💊/🔪/🚬/我不用活着了/Best Friend：@Sunflower_sk919",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "Sunflower_sk919"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanenene",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanenene",
+                "start": 0,
+                "url": "https://t.co/IqQ2zRy2gf"
+              }
+            ]
+          }
+        },
+        "id": "1865636851643744257",
+        "location": "🇯🇵",
+        "name": "茜Akane",
+        "pinned_tweet_id": "1870020495170760959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899753285944520704/PP8tXtzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 103,
+          "like_count": 6676,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/IqQ2zRy2gf",
+        "username": "akanenene19",
+        "verified": false
+      }
+    ]
+  }
+}

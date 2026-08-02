@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1929552220170617343",
+    "created_at": "2025-06-03T14:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T15:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929911906812473703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1871581121009627138",
+          "start": 0,
+          "username": "RrH8OkGs5J52227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929911906812473703",
+    "in_reply_to_user_id": "1871581121009627138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929896048522342626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RrH8OkGs5J52227 好——🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1929552220170617343",
+        "created_at": "2025-06-03T14:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929911906812473703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1871581121009627138",
+              "start": 0,
+              "username": "RrH8OkGs5J52227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929911906812473703",
+        "in_reply_to_user_id": "1871581121009627138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929896048522342626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RrH8OkGs5J52227 好——🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871581121009627138",
+        "conversation_id": "1929552220170617343",
+        "created_at": "2025-06-03T13:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929896048522342626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929896048522342626",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929552220170617343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 想干什么干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜分享日常                                                    \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 凛分身@Rinko_0o0             一点幸福都留不住",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 367,
+          "like_count": 13397,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 3747
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T15:38:27.000Z",
+        "description": "朋友圈\n百无聊赖版\nINTP or ENFP",
+        "id": "1871581121009627138",
+        "location": "6.66㎞",
+        "name": "花花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871582460779302912/fImRXK-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 81,
+          "like_count": 2780,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 836
+        },
+        "username": "RrH8OkGs5J52227",
+        "verified": false
+      }
+    ]
+  }
+}

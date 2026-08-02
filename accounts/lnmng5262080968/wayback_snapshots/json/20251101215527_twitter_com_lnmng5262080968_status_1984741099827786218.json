@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1984741099827786218",
+    "created_at": "2025-11-01T21:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T22:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984741099827786218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/awaii777/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/awaii777/status/1984543069979754546",
+          "start": 13,
+          "url": "https://t.co/Ulimtgf8MC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984741099827786218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984543069979754546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不行了你们嘴能借我用吗👍 https://t.co/Ulimtgf8MC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1984741099827786218",
+        "created_at": "2025-11-01T21:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T22:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984741099827786218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/awaii777/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/awaii777/status/1984543069979754546",
+              "start": 13,
+              "url": "https://t.co/Ulimtgf8MC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984741099827786218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984543069979754546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不行了你们嘴能借我用吗👍 https://t.co/Ulimtgf8MC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806735924258377728",
+        "conversation_id": "1984543069979754546",
+        "created_at": "2025-11-01T08:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T09:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984543069979754546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/awaii777/statu…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/awaii777/status/1984541975140512038",
+              "start": 73,
+              "url": "https://t.co/0geOnOpcdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984543069979754546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1887,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984541975140512038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发帖锐评自残自杀的人不许发帖 你可以不看但你为什么堵人嘴呢？\n评论区厕妹女大 嫖娼男大 聚集高潮了 给你们爽飞了是吧 就得要把恁推玩成招嫖平台吗 https://t.co/0geOnOpcdK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 374,
+          "like_count": 14417,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 4663
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T17:06:49.000Z",
+        "description": "幸福遥不可及//里账:@TTHoiKawaiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "TTHoiKawaiii"
+              }
+            ]
+          }
+        },
+        "id": "1806735924258377728",
+        "location": "烏魯木齊中路",
+        "name": "爱吃薯条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984540264665628672/9ZjiXR8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 373,
+          "like_count": 4512,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 3287
+        },
+        "username": "AwAii777",
+        "verified": false
+      }
+    ]
+  }
+}

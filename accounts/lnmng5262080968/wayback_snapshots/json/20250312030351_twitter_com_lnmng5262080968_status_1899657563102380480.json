@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1899444548650348705",
+    "created_at": "2025-03-12T03:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T04:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899657563102380480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1345789578276270082",
+          "start": 0,
+          "username": "x8306868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899657563102380480",
+    "in_reply_to_user_id": "1345789578276270082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899504582214226189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x8306868 我死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1899444548650348705",
+        "created_at": "2025-03-12T03:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T04:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899657563102380480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1345789578276270082",
+              "start": 0,
+              "username": "x8306868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899657563102380480",
+        "in_reply_to_user_id": "1345789578276270082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899504582214226189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x8306868 我死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345789578276270082",
+        "conversation_id": "1899444548650348705",
+        "created_at": "2025-03-11T16:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T17:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899504582214226189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899504582214226189",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899444548650348705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 直到操腻了。😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 340,
+          "like_count": 9843,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2315
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-03T17:50:24.000Z",
+        "description": "理想主义懒惰者",
+        "id": "1345789578276270082",
+        "name": "奥斯特诺夫斯基",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345789796472430592/PUeEwCTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 87,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 430
+        },
+        "username": "x8306868",
+        "verified": false
+      }
+    ]
+  }
+}

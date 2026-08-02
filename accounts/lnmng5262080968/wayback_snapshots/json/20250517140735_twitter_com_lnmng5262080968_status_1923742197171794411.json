@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1923696838730973207",
+    "created_at": "2025-05-17T14:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T15:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923742197171794411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiao_mengyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923742197171794411",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923696838730973207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_mengyu 卡瓦——"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1923696835698274304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJYFHNWsAAoojK.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1923696836260278272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJYFJTWMAA8jCR.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1923696838730973207",
+        "created_at": "2025-05-17T14:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T15:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923742197171794411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiao_mengyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923742197171794411",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923696838730973207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_mengyu 卡瓦——"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923696835698274304",
+            "3_1923696836260278272"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "1923696838730973207",
+        "created_at": "2025-05-17T11:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T12:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923696838730973207"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "君と彼女と彼女の恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPepbjg1vE",
+              "end": 45,
+              "expanded_url": "https://x.com/xiao_mengyu/status/1923696838730973207/photo/1",
+              "media_key": "3_1923696835698274304",
+              "start": 22,
+              "url": "https://t.co/dPepbjg1vE"
+            },
+            {
+              "display_url": "pic.x.com/dPepbjg1vE",
+              "end": 45,
+              "expanded_url": "https://x.com/xiao_mengyu/status/1923696838730973207/photo/1",
+              "media_key": "3_1923696836260278272",
+              "start": 22,
+              "url": "https://t.co/dPepbjg1vE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923696838730973207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "向我发誓 爱是永恒的 #君と彼女と彼女の恋 https://t.co/dPepbjg1vE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 368,
+          "like_count": 12988,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 3504
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "看状态情绪发，希望自己能开心，生活好了回归现实退推",
+        "id": "1857335218673483776",
+        "location": "我是日本入",
+        "name": "永雏小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920099793604669440/absLlf75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 245,
+          "like_count": 1696,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 748
+        },
+        "username": "xiao_mengyu",
+        "verified": false
+      }
+    ]
+  }
+}

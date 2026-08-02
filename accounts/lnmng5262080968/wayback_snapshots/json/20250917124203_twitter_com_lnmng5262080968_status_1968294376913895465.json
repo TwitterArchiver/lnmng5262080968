@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1968154841232142403",
+    "created_at": "2025-09-17T12:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T13:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968294376913895465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606351071206674438",
+          "start": 0,
+          "username": "jiyn91306622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968294376913895465",
+    "in_reply_to_user_id": "1606351071206674438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968154841232142403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiyn91306622 这就是我的日常😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1968154841232142403",
+        "created_at": "2025-09-17T12:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T13:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968294376913895465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606351071206674438",
+              "start": 0,
+              "username": "jiyn91306622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968294376913895465",
+        "in_reply_to_user_id": "1606351071206674438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968154841232142403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyn91306622 这就是我的日常😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606351071206674438",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          }
+        ],
+        "conversation_id": "1968154841232142403",
+        "created_at": "2025-09-17T03:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T04:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968154841232142403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiyn91306622/s…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/jiyn91306622/status/1968154081501028474",
+              "start": 136,
+              "url": "https://t.co/isK5bRVeSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968154841232142403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968154081501028474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我为什么生气因为我今天超倒霉，早上请假去医院，回来的时候导航有问题下错站了，走了好久好久还有两公里我也不想等了，就在公交站台打了出租车，刚打完新的公交就来了TxT回学校之后想在驿站旁边的瑞幸坐一会等我的包裹分拣完顺路拿回去，手机上买的优惠券在我们学校的瑞幸还用不了呜呜呜 https://t.co/isK5bRVeSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 368,
+          "like_count": 14052,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 4397
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T18:08:44.000Z",
+        "description": "当日记写了\n互联网唯一活跃地",
+        "id": "1606351071206674438",
+        "name": "你踩到我的呕吐物了",
+        "pinned_tweet_id": "1966857655986827715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896598211961434112/BmTnJzsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 890,
+          "like_count": 21232,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 4303
+        },
+        "username": "jiyn91306622",
+        "verified": false
+      }
+    ]
+  }
+}

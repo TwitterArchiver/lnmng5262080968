@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1933093941278306655",
+    "created_at": "2025-06-13T08:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T09:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933434733733781982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606351071206674438",
+          "start": 0,
+          "username": "jiyn91306622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933434733733781982",
+    "in_reply_to_user_id": "1606351071206674438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933093941278306655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiyn91306622 我勒个豆啊4个😍的大老鼠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933093927550414848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtO6r2UbcAArD5o.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1933093941278306655",
+        "created_at": "2025-06-13T08:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T09:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933434733733781982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606351071206674438",
+              "start": 0,
+              "username": "jiyn91306622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933434733733781982",
+        "in_reply_to_user_id": "1606351071206674438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933093941278306655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyn91306622 我勒个豆啊4个😍的大老鼠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933093927550414848"
+          ]
+        },
+        "author_id": "1606351071206674438",
+        "conversation_id": "1933093941278306655",
+        "created_at": "2025-06-12T09:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T10:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933093941278306655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HziqELz5Yf",
+              "end": 45,
+              "expanded_url": "https://x.com/jiyn91306622/status/1933093941278306655/photo/1",
+              "media_key": "3_1933093927550414848",
+              "start": 22,
+              "url": "https://t.co/HziqELz5Yf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933093941278306655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一个给我私信发乌干达的小伙伴，我好欣慰🫂 https://t.co/HziqELz5Yf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！🚪52r不退不过🚪私信不回（除互关） 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 363,
+          "like_count": 13579,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3862
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T18:08:44.000Z",
+        "description": "如果痛苦有形状",
+        "id": "1606351071206674438",
+        "name": "你踩到我的呕吐物了",
+        "pinned_tweet_id": "1931739603549265950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896598211961434112/BmTnJzsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 882,
+          "like_count": 21716,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 3917
+        },
+        "username": "jiyn91306622",
+        "verified": false
+      }
+    ]
+  }
+}

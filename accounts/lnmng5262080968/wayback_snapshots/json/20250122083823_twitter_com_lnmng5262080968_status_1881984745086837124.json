@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1881751341388984381",
+    "created_at": "2025-01-22T08:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T09:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881984745086837124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789558771980574720",
+          "start": 0,
+          "username": "abc307539296763"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881984745086837124",
+    "in_reply_to_user_id": "1789558771980574720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881984426659430518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abc307539296763 我没有欲望了😭只想要好银"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1881751341388984381",
+        "created_at": "2025-01-22T08:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T09:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881984745086837124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789558771980574720",
+              "start": 0,
+              "username": "abc307539296763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881984745086837124",
+        "in_reply_to_user_id": "1789558771980574720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881984426659430518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abc307539296763 我没有欲望了😭只想要好银"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789558771980574720",
+        "conversation_id": "1881751341388984381",
+        "created_at": "2025-01-22T08:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T09:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881984426659430518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881984426659430518",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881751341388984381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 无好银，只有欲望让我活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 152,
+          "like_count": 3122,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 624
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T07:30:45.000Z",
+        "description": "树洞，可以找我发疯。我可以倾听你说的一切。不是坐忘道！🚪1百(w)",
+        "id": "1789558771980574720",
+        "name": "悲伤过后呢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790443875645157376/bBGc1cuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 960,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1253
+        },
+        "username": "abc307539296763",
+        "verified": false
+      }
+    ]
+  }
+}

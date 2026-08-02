@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2014929280720109582",
+    "created_at": "2026-01-25T16:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T17:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015468052725596386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1864313577685045249",
+          "start": 0,
+          "username": "chsho233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015468052725596386",
+    "in_reply_to_user_id": "1864313577685045249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015467439740571830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chsho233 甚至父母一个月给的钱是普通人将近一年的生活费。。人怎能如此不知足"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2014929280720109582",
+        "created_at": "2026-01-25T16:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015468052725596386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864313577685045249",
+              "start": 0,
+              "username": "chsho233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015468052725596386",
+        "in_reply_to_user_id": "1864313577685045249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015467439740571830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chsho233 甚至父母一个月给的钱是普通人将近一年的生活费。。人怎能如此不知足"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864313577685045249",
+        "conversation_id": "2014929280720109582",
+        "created_at": "2026-01-25T16:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015467439740571830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015467439740571830",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014929280720109582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 点了兄弟，父母肯给他花钱他还在那哭原生家庭的不好之类的，这种人就不配花父母钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 300,
+          "like_count": 15213,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5307
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T14:19:41.000Z",
+        "description": "我下海了，请大家多多支持我\n还有我是男的",
+        "id": "1864313577685045249",
+        "name": "杈梢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864313811186102272/t8dzan_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 27,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 514
+        },
+        "username": "chsho233",
+        "verified": false
+      }
+    ]
+  }
+}

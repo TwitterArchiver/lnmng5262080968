@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1997588592869474624",
+    "created_at": "2025-12-08T11:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T12:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997984983076749391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431189612190486530",
+          "start": 0,
+          "username": "iktiktiktiktikr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997984983076749391",
+    "in_reply_to_user_id": "1431189612190486530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997894124448706561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iktiktiktiktikr 什么？我都在他家楼下垃圾桶蹲点你告诉我是串子😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1997588592869474624",
+        "created_at": "2025-12-08T11:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997984983076749391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431189612190486530",
+              "start": 0,
+              "username": "iktiktiktiktikr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997984983076749391",
+        "in_reply_to_user_id": "1431189612190486530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997894124448706561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iktiktiktiktikr 什么？我都在他家楼下垃圾桶蹲点你告诉我是串子😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431189612190486530",
+        "conversation_id": "1997588592869474624",
+        "created_at": "2025-12-08T05:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T06:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997894124448706561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997894124448706561",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997588592869474624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 99%都是串子，视频里的垃圾袋每次都是崭新的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 380,
+          "like_count": 14914,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 4910
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T09:39:34.000Z",
+        "description": "",
+        "id": "1431189612190486530",
+        "name": "。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985419525362192384/gFk8Lwn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4642,
+          "following_count": 853,
+          "like_count": 60032,
+          "listed_count": 17,
+          "media_count": 1786,
+          "tweet_count": 7960
+        },
+        "username": "iktiktiktiktikr",
+        "verified": false
+      }
+    ]
+  }
+}

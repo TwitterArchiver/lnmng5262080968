@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914594924919709849",
+    "created_at": "2025-04-22T23:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T00:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914829607221809258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888859733098172416",
+          "start": 0,
+          "username": "zhishi98777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914829607221809258",
+    "in_reply_to_user_id": "1888859733098172416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914746819038564806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhishi98777 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-22T23:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T00:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914829607221809258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888859733098172416",
+              "start": 0,
+              "username": "zhishi98777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914829607221809258",
+        "in_reply_to_user_id": "1888859733098172416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914746819038564806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhishi98777 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888859733098172416",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-22T18:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T19:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914746819038564806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914746819038564806",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914594924919709849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 不是，瓶子不丢垃圾桶丢那里，宝宝不哭，摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 373,
+          "like_count": 12174,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3134
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T07:57:23.000Z",
+        "description": "04，女大，有网瘾，4i，高强度打游戏，infp，聊天可以，不要一上来就看看奈子，上推是为了首冲，有没有男妈妈让我摸摸，女孩子想扩列可以dd，本人不太会维护关系，但是很会安慰听人说说话૮ต•̤ ༝ •̤ตა但是主播能量有限(-ｪ-)｡o",
+        "id": "1888859733098172416",
+        "name": "芝士香草泥",
+        "pinned_tweet_id": "1914746680672710715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912025716092194816/5w4MPOxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 34,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 203
+        },
+        "username": "zhishi98777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1880936872882659683",
+    "created_at": "2025-01-19T12:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T13:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880959485361221981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739472736693735424",
+          "start": 0,
+          "username": "guo_lao32576"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880959485361221981",
+    "in_reply_to_user_id": "1739472736693735424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880947192044912768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guo_lao32576 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1880936872882659683",
+        "created_at": "2025-01-19T12:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T13:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880959485361221981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739472736693735424",
+              "start": 0,
+              "username": "guo_lao32576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880959485361221981",
+        "in_reply_to_user_id": "1739472736693735424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880947192044912768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guo_lao32576 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739472736693735424",
+        "conversation_id": "1880936872882659683",
+        "created_at": "2025-01-19T11:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T12:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880947192044912768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880947192044912768",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880937733557989735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 抱抱小凛w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友\n🚪38好友位48有朋友圈  68聊天",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 130,
+          "like_count": 2537,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 443
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T02:26:43.000Z",
+        "description": "「承载着梦的脆弱心灵」",
+        "id": "1739472736693735424",
+        "name": "月下缭乱",
+        "pinned_tweet_id": "1880530205061853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866358782495997952/S86GkZsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 367,
+          "like_count": 1422,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 955
+        },
+        "username": "guo_lao32576",
+        "verified": false
+      }
+    ]
+  }
+}

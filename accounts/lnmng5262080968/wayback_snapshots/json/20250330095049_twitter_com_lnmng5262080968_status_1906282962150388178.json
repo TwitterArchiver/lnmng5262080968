@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1906280926797299782",
+    "created_at": "2025-03-30T09:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T10:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906282962150388178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1877612529788309504",
+          "start": 0,
+          "username": "AugOnly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906282962150388178",
+    "in_reply_to_user_id": "1877612529788309504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906280926797299782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AugOnly1 妈妈烫我🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14880,
+        "height": 1178,
+        "media_key": "13_1906280838557569024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1906280838557569024/img/HtIwqmdoQA6-32mP.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906280838557569024/vid/avc1/320x522/Ku3hNuXkefJt0Qh9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906280838557569024/vid/avc1/480x784/1Ow39XiSHjaDctFN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906280838557569024/vid/avc1/720x1178/yntbBTNCvKNpypfx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1906280838557569024/pl/2vsxxFlrrrZG-tHb.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1906280926797299782",
+        "created_at": "2025-03-30T09:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T10:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906282962150388178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1877612529788309504",
+              "start": 0,
+              "username": "AugOnly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906282962150388178",
+        "in_reply_to_user_id": "1877612529788309504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906280926797299782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AugOnly1 妈妈烫我🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906280838557569024"
+          ]
+        },
+        "author_id": "1877612529788309504",
+        "conversation_id": "1906280926797299782",
+        "created_at": "2025-03-30T09:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T10:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906280926797299782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBHvxhPzrR",
+              "end": 46,
+              "expanded_url": "https://x.com/AugOnly1/status/1906280926797299782/video/1",
+              "media_key": "13_1906280838557569024",
+              "start": 23,
+              "url": "https://t.co/JBHvxhPzrR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906280926797299782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不好混你还记得吗？你初中拿烟头烫我屁股T T https://t.co/JBHvxhPzrR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 351,
+          "like_count": 10740,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 2572
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T07:04:56.000Z",
+        "description": "Would u be mine | @xiaodiqiu0612 | 🚪纯绿138  入了不退 随缘聊天 | 高p线下查无此人 | 男私信只回过🚪有对象/未成年不能入 | 不接推广转推置顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "xiaodiqiu0612"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E5%9C%B0%E7%90%83%E6%98%AF%E4%B9%9F",
+                "start": 0,
+                "url": "https://t.co/Yzk0Bufwio"
+              }
+            ]
+          }
+        },
+        "id": "1877612529788309504",
+        "location": "🌏",
+        "name": "地球可不好混呀",
+        "pinned_tweet_id": "1891094462740254760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879980146473730048/8YXP-NZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5461,
+          "following_count": 253,
+          "like_count": 5362,
+          "listed_count": 9,
+          "media_count": 45,
+          "tweet_count": 3203
+        },
+        "url": "https://t.co/Yzk0Bufwio",
+        "username": "AugOnly1",
+        "verified": false
+      }
+    ]
+  }
+}

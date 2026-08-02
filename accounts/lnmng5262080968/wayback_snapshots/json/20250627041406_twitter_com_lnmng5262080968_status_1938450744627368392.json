@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938450728777138176"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1938450744627368392",
+    "created_at": "2025-06-27T04:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T05:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938450744627368392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m9AO21TEtC",
+          "end": 29,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1938450744627368392/photo/1",
+          "media_key": "3_1938450728777138176",
+          "start": 6,
+          "url": "https://t.co/m9AO21TEtC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938450744627368392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晶哥发力了 https://t.co/m9AO21TEtC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1938450728777138176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubCqt9bwAA7Mcc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938450728777138176"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "1938450744627368392",
+        "created_at": "2025-06-27T04:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T05:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938450744627368392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9AO21TEtC",
+              "end": 29,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1938450744627368392/photo/1",
+              "media_key": "3_1938450728777138176",
+              "start": 6,
+              "url": "https://t.co/m9AO21TEtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938450744627368392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥发力了 https://t.co/m9AO21TEtC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 368,
+          "like_count": 13672,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 4023
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

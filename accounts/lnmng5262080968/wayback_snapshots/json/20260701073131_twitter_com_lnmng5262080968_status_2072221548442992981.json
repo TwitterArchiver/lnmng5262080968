@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2072136685543121074",
+    "created_at": "2026-07-01T07:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072221548442992981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1995180305678995456",
+          "start": 0,
+          "username": "Hinper0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072221548442992981",
+    "in_reply_to_user_id": "1995180305678995456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072193119362388466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hinper0 什么，又在想rmb的事了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2072136685543121074",
+        "created_at": "2026-07-01T07:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072221548442992981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1995180305678995456",
+              "start": 0,
+              "username": "Hinper0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072221548442992981",
+        "in_reply_to_user_id": "1995180305678995456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072193119362388466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hinper0 什么，又在想rmb的事了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995180305678995456",
+        "conversation_id": "2072136685543121074",
+        "created_at": "2026-07-01T05:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072193119362388466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072193119362388466",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072136685543121074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我是真的过得很惨，求救济🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "有爱的世界回到来吗",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 316,
+          "like_count": 17801,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 6046
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T17:17:19.000Z",
+        "description": "",
+        "id": "1995180305678995456",
+        "name": "Hinper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072036669520592896/YXD1vXdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "Hinper0",
+        "verified": false
+      }
+    ]
+  }
+}

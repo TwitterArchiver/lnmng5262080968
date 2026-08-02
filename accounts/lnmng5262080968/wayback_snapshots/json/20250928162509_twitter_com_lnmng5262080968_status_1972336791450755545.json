@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1972286359302988122",
+    "created_at": "2025-09-28T16:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T17:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972336791450755545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740016196144218112",
+          "start": 0,
+          "username": "PcWNxwblBa56956"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972336791450755545",
+    "in_reply_to_user_id": "1740016196144218112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972286359302988122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PcWNxwblBa56956 果然美丽的人长痘也像化雀斑妆😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1972286341443723264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G173-lkboAAgPOL.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1972286359302988122",
+        "created_at": "2025-09-28T16:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T17:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972336791450755545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740016196144218112",
+              "start": 0,
+              "username": "PcWNxwblBa56956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972336791450755545",
+        "in_reply_to_user_id": "1740016196144218112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972286359302988122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PcWNxwblBa56956 果然美丽的人长痘也像化雀斑妆😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972286341443723264"
+          ]
+        },
+        "author_id": "1740016196144218112",
+        "conversation_id": "1972286359302988122",
+        "created_at": "2025-09-28T13:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T14:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972286359302988122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QquhjmYB5s",
+              "end": 41,
+              "expanded_url": "https://x.com/PcWNxwblBa56956/status/1972286359302988122/photo/1",
+              "media_key": "3_1972286341443723264",
+              "start": 18,
+              "url": "https://t.co/QquhjmYB5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972286359302988122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9466,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从来不长痘的人突然长痘是为什么呢。 https://t.co/QquhjmYB5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 367,
+          "like_count": 14025,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 4432
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T14:26:09.000Z",
+        "description": "NJZ和kaze的小粉丝                                                匿名箱：https://t.co/05hs4aeinI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cyberpunklynn",
+                "end": 87,
+                "expanded_url": "https://ngl.link/cyberpunklynn",
+                "start": 64,
+                "url": "https://t.co/05hs4aeinI"
+              }
+            ]
+          }
+        },
+        "id": "1740016196144218112",
+        "name": "亚力电蛙",
+        "pinned_tweet_id": "1904799169627513067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890444517662240768/RVv3IRDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3187,
+          "following_count": 209,
+          "like_count": 3562,
+          "listed_count": 6,
+          "media_count": 116,
+          "tweet_count": 1111
+        },
+        "username": "PcWNxwblBa56956",
+        "verified": false
+      }
+    ]
+  }
+}

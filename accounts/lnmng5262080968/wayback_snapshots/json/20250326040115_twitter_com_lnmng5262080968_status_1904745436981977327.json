@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1904691414883287298",
+    "created_at": "2025-03-26T04:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T05:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904745436981977327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862865795820425216",
+          "start": 0,
+          "username": "Tsubamesola"
+        },
+        {
+          "end": 22,
+          "id": "1771230355896561664",
+          "start": 13,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904745436981977327",
+    "in_reply_to_user_id": "1862865795820425216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904724513700667481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsubamesola @in2dkira 这果太真了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1904691414883287298",
+        "created_at": "2025-03-26T04:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T05:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904745436981977327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862865795820425216",
+              "start": 0,
+              "username": "Tsubamesola"
+            },
+            {
+              "end": 22,
+              "id": "1771230355896561664",
+              "start": 13,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904745436981977327",
+        "in_reply_to_user_id": "1862865795820425216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904724513700667481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsubamesola @in2dkira 这果太真了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862865795820425216",
+        "conversation_id": "1904691414883287298",
+        "created_at": "2025-03-26T02:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T03:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904724513700667481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            },
+            {
+              "end": 26,
+              "id": "1771230355896561664",
+              "start": 17,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904724513700667481",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904701240954806855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 @in2dkira 果真吗😲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 356,
+          "like_count": 10524,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 2541
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:26:48.000Z",
+        "description": "INFJ+Virgo，社会边缘垃圾桶，路边一条，恶心到您的话真是抱歉",
+        "id": "1862865795820425216",
+        "location": "🇨🇳邯郸",
+        "name": "Ameあめ",
+        "pinned_tweet_id": "1892614332258644369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882457534117879808/1BTlqODw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 143,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 144
+        },
+        "username": "Tsubamesola",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "前@Akira_10190208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Akira_10190208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH6G9I"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904357455104258048/8U1s5amP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 78,
+          "like_count": 2472,
+          "listed_count": 2,
+          "media_count": 284,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/6QBGLH6G9I",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

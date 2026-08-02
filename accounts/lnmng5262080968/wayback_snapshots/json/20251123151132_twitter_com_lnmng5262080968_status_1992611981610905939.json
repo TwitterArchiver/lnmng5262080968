@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-23T15:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T16:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992611981610905939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1635266709446709248",
+          "start": 0,
+          "username": "tracert29642034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992611981610905939",
+    "in_reply_to_user_id": "1635266709446709248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992604353572884551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tracert29642034 气哭了我还不必要臭王者原神吃鸡鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-23T15:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992611981610905939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1635266709446709248",
+              "start": 0,
+              "username": "tracert29642034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992611981610905939",
+        "in_reply_to_user_id": "1635266709446709248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992604353572884551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tracert29642034 气哭了我还不必要臭王者原神吃鸡鸡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635266709446709248",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-23T14:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992604353572884551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992604353572884551",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992559942960808149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 那这个确实很难有人在意了，喜欢打榜的会自己打，不喜欢打的会自己退坑😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 382,
+          "like_count": 14773,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 4846
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T13:09:09.000Z",
+        "description": "",
+        "id": "1635266709446709248",
+        "name": "静脉注射西地那非",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741907156348317696/_dFbpbyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 135,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "username": "tracert29642034",
+        "verified": false
+      }
+    ]
+  }
+}

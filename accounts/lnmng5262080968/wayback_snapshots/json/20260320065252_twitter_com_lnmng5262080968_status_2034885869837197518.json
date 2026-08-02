@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2034814783799898137",
+    "created_at": "2026-03-20T06:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T07:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034885869837197518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797267786651279360",
+          "start": 0,
+          "username": "JingAn1330857"
+        },
+        {
+          "end": 26,
+          "id": "1639664012907429890",
+          "start": 15,
+          "username": "Je1nFaur_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034885869837197518",
+    "in_reply_to_user_id": "1797267786651279360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034884389717647831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JingAn1330857 @Je1nFaur_l 久仰大名，但是不是我喜欢的类型hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2034814783799898137",
+        "created_at": "2026-03-20T06:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034885869837197518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797267786651279360",
+              "start": 0,
+              "username": "JingAn1330857"
+            },
+            {
+              "end": 26,
+              "id": "1639664012907429890",
+              "start": 15,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034885869837197518",
+        "in_reply_to_user_id": "1797267786651279360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034884389717647831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JingAn1330857 @Je1nFaur_l 久仰大名，但是不是我喜欢的类型hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797267786651279360",
+        "conversation_id": "2034814783799898137",
+        "created_at": "2026-03-20T06:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034884389717647831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            },
+            {
+              "end": 28,
+              "id": "1639664012907429890",
+              "start": 17,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034884389717647831",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034854312674042344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 @Je1nFaur_l 杀戮尖塔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "社会废人家里蹲，所有可能性都失败了｜清水推｜52只回口令",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1956203532807496174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 305,
+          "like_count": 16641,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5586
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T14:04:04.000Z",
+        "description": "",
+        "id": "1797267786651279360",
+        "name": "Jing An",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797272446174945281/BWrRcA4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 1335,
+          "like_count": 1977,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1794
+        },
+        "username": "JingAn1330857",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T16:22:49.000Z",
+        "description": "我是Mio大王 宅女一枚呀\n你管得着我发什么吗\n粉红网左滚\n不谈恋爱玩推只为碎碎念问就是无性恋\nshitposting & venting randomly\n #フォロバ0　 #フォロバ絶対しない",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "フォロバ0"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "tag": "フォロバ絶対しない"
+              }
+            ]
+          }
+        },
+        "id": "1639664012907429890",
+        "location": "בִּינָה",
+        "name": "mio大王@無言ブロック失礼します",
+        "pinned_tweet_id": "1939326757410349487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004336547978768384/Oz15S-zD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 3944,
+          "like_count": 203975,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 12353
+        },
+        "username": "Je1nFaur_l",
+        "verified": false
+      }
+    ]
+  }
+}

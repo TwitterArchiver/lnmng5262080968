@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1902953678560170103",
+    "created_at": "2025-03-22T01:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T02:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903262354831536443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854023857817939968",
+          "start": 0,
+          "username": "SetoNotFound"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903262354831536443",
+    "in_reply_to_user_id": "1854023857817939968",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903105199985791482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SetoNotFound ✌️✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1902953678560170103",
+        "created_at": "2025-03-22T01:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T02:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903262354831536443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854023857817939968",
+              "start": 0,
+              "username": "SetoNotFound"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903262354831536443",
+        "in_reply_to_user_id": "1854023857817939968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903105199985791482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SetoNotFound ✌️✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854023857817939968",
+        "conversation_id": "1902953678560170103",
+        "created_at": "2025-03-21T15:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T16:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903105199985791482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903105199985791482",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902953678560170103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 虽然我没钱至少我不说教 我唯一能做的就是一直陪着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 352,
+          "like_count": 10409,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 2474
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T04:51:57.000Z",
+        "description": "cn是seto\n上海萌新cosplayer(高三暂退致歉)/wargame玩家(无刷OYG34/银翼BCM MK2玩家)/jdm/f1爱好者\n电车孝子别来沾边 敢和我提电动车我骂死你\n湾岸5DX+ EAS战队首领\n抖音：jdm_seto\n微信：wmmt_seto\n皮下是个亚庇 欢迎扩列\n喜欢和漂亮姐姐互关😋",
+        "id": "1854023857817939968",
+        "location": "Shabby Club",
+        "name": "✟Seto★♪＊（互fo）",
+        "pinned_tweet_id": "1877927139112112263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900522144246734848/MncUQJxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 331,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 263
+        },
+        "username": "SetoNotFound",
+        "verified": false
+      }
+    ]
+  }
+}

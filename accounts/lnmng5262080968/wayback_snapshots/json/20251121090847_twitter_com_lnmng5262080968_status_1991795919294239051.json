@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1990482006430626213",
+    "created_at": "2025-11-21T09:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T10:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991795919294239051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1327820153975836672",
+          "start": 0,
+          "username": "Waaifu1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991795919294239051",
+    "in_reply_to_user_id": "1327820153975836672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991057567577968960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Waaifu1201 辣死我了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1990482006430626213",
+        "created_at": "2025-11-21T09:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991795919294239051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1327820153975836672",
+              "start": 0,
+              "username": "Waaifu1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991795919294239051",
+        "in_reply_to_user_id": "1327820153975836672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991057567577968960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Waaifu1201 辣死我了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327820153975836672",
+        "conversation_id": "1990482006430626213",
+        "created_at": "2025-11-19T08:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991057567577968960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991057567577968960",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990482006430626213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 搁这抽过滤棉呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 379,
+          "like_count": 14567,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4751
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-15T03:46:19.000Z",
+        "description": "躲進小樓成一統。裏推:@YVStalin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "YVStalin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NewHongqi",
+                "end": 23,
+                "expanded_url": "https://t.me/NewHongqi",
+                "start": 0,
+                "url": "https://t.co/Q8qXCWlyTG"
+              }
+            ]
+          }
+        },
+        "id": "1327820153975836672",
+        "location": "實在界",
+        "name": "槐琥",
+        "pinned_tweet_id": "1920722618790871525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628769448520998913/absTf0l4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6815,
+          "following_count": 1161,
+          "like_count": 102544,
+          "listed_count": 17,
+          "media_count": 1834,
+          "tweet_count": 17625
+        },
+        "url": "https://t.co/Q8qXCWlyTG",
+        "username": "Waaifu1201",
+        "verified": false
+      }
+    ]
+  }
+}

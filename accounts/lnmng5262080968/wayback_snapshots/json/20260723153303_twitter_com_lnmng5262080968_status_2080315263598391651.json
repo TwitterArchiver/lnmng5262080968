@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2079097698373018024",
+    "created_at": "2026-07-23T15:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080315263598391651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1801713290906898435",
+          "start": 0,
+          "username": "rggdh27965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080315263598391651",
+    "in_reply_to_user_id": "1801713290906898435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079593155863908738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rggdh27965 我去原来是印尼啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2079097698373018024",
+        "created_at": "2026-07-23T15:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080315263598391651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1801713290906898435",
+              "start": 0,
+              "username": "rggdh27965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080315263598391651",
+        "in_reply_to_user_id": "1801713290906898435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079593155863908738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rggdh27965 我去原来是印尼啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801713290906898435",
+        "conversation_id": "2079097698373018024",
+        "created_at": "2026-07-21T15:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079593155863908738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079593155863908738",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079097698373018024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 印尼啊，前段时间有个游戏主播去印尼和女友奔现，结果人不见了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "能不能活到明年了",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 311,
+          "like_count": 17834,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 6102
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T20:28:43.000Z",
+        "description": "",
+        "id": "1801713290906898435",
+        "name": "rggdh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887170529045688320/2svGabAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 89,
+          "like_count": 809,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "rggdh27965",
+        "verified": false
+      }
+    ]
+  }
+}

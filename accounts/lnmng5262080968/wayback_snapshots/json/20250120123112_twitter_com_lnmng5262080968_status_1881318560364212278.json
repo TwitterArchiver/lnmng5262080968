@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1881298079338672239",
+    "created_at": "2025-01-20T12:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T13:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881318560364212278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865050179617067008",
+          "start": 0,
+          "username": "AyaStellaria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881318560364212278",
+    "in_reply_to_user_id": "1865050179617067008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881298079338672239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyaStellaria 叼走（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1881298079338672239",
+        "created_at": "2025-01-20T12:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T13:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881318560364212278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865050179617067008",
+              "start": 0,
+              "username": "AyaStellaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881318560364212278",
+        "in_reply_to_user_id": "1865050179617067008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881298079338672239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyaStellaria 叼走（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881298063781928960"
+          ]
+        },
+        "author_id": "1865050179617067008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1881298079338672239",
+        "created_at": "2025-01-20T11:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T12:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881298079338672239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gVoQkY6ZF4",
+              "end": 39,
+              "expanded_url": "https://x.com/AyaStellaria/status/1881298079338672239/photo/1",
+              "media_key": "3_1881298063781928960",
+              "start": 16,
+              "url": "https://t.co/gVoQkY6ZF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881298079338672239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃点烤肉，路过的推友可以掰点😋 https://t.co/gVoQkY6ZF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 136,
+          "like_count": 2660,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 484
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:06:56.000Z",
+        "description": "他们的悲伤化成了灰，散落在无情的大海中",
+        "id": "1865050179617067008",
+        "name": "凛御",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878370198509740032/bt74pxSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 419,
+          "like_count": 6158,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1971
+        },
+        "username": "AyaStellaria",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-23T11:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992560782522159612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595873516179562504",
+          "start": 0,
+          "username": "antoli2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992560782522159612",
+    "in_reply_to_user_id": "1595873516179562504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992369319242567712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@antoli2022 很棒哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-23T11:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992560782522159612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595873516179562504",
+              "start": 0,
+              "username": "antoli2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992560782522159612",
+        "in_reply_to_user_id": "1595873516179562504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992369319242567712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@antoli2022 很棒哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595873516179562504",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T23:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T00:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992369319242567712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992369319242567712",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991846545025810547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我抑郁症堂妹尝试过很多工作都不能坚持，后来待在家里给父母的养猪厂打工，很脏的活但不需要与人打交道，她反正很享受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 382,
+          "like_count": 14723,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 4828
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T20:14:47.000Z",
+        "description": "已婚，不私聊。",
+        "id": "1595873516179562504",
+        "name": "Pokémon’s tango",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947038653676441601/plNy39d1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 492,
+          "like_count": 8688,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 2252
+        },
+        "username": "antoli2022",
+        "verified": false
+      }
+    ]
+  }
+}

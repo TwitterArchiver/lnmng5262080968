@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1891844500601045140",
+    "created_at": "2025-02-18T14:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T15:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891851873402950080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620792340897054720",
+          "start": 0,
+          "username": "Orange007Orange"
+        },
+        {
+          "end": 26,
+          "id": "1732356232290222080",
+          "start": 17,
+          "username": "ovo7711_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891851873402950080",
+    "in_reply_to_user_id": "1620792340897054720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891850110000132467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orange007Orange @ovo7711_ 👂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1891844500601045140",
+        "created_at": "2025-02-18T14:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T15:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891851873402950080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620792340897054720",
+              "start": 0,
+              "username": "Orange007Orange"
+            },
+            {
+              "end": 26,
+              "id": "1732356232290222080",
+              "start": 17,
+              "username": "ovo7711_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891851873402950080",
+        "in_reply_to_user_id": "1620792340897054720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891850110000132467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange007Orange @ovo7711_ 👂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620792340897054720",
+        "conversation_id": "1891844500601045140",
+        "created_at": "2025-02-18T13:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T14:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891850110000132467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "ovo7711_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891850110000132467",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891844500601045140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovo7711_ 这人是鸡哥 前科满满"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 254,
+          "like_count": 6729,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1657
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T14:33:23.000Z",
+        "description": "请问你今天要来一个🍊吗｜疯狂添加技能点中【热血bgm！】",
+        "id": "1620792340897054720",
+        "name": "melatonin🍊",
+        "pinned_tweet_id": "1878563337262317639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746475119562657793/xlrFRBsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 320,
+          "like_count": 24069,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 6644
+        },
+        "username": "Orange007Orange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜挚爱：@gw986yHQJ720113 ｜好闺蜜@yeye828282 Eng ok 日本語OK 中文OK｜大爱momo酱｜想和我互fo的女孩直接私信我好吗好的｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "gw986yHQJ720113"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891578246174736386/Fncra9Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4742,
+          "following_count": 861,
+          "like_count": 8976,
+          "listed_count": 4,
+          "media_count": 466,
+          "tweet_count": 6924
+        },
+        "username": "ovo7711_",
+        "verified": false
+      }
+    ]
+  }
+}

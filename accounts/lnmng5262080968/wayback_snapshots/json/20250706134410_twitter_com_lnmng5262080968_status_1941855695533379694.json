@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1941488903892136204",
+    "created_at": "2025-07-06T13:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T14:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941855695533379694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1591824527717470208",
+          "start": 0,
+          "username": "ji00zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941855695533379694",
+    "in_reply_to_user_id": "1591824527717470208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941776306926186913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji00zi 😡😡😡就是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1941488903892136204",
+        "created_at": "2025-07-06T13:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941855695533379694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1591824527717470208",
+              "start": 0,
+              "username": "ji00zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941855695533379694",
+        "in_reply_to_user_id": "1591824527717470208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941776306926186913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji00zi 😡😡😡就是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591824527717470208",
+        "conversation_id": "1941488903892136204",
+        "created_at": "2025-07-06T08:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941776306926186913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941776306926186913",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941488903892136204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 这么开车早晚吃席😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 367,
+          "like_count": 13670,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 4052
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T16:05:25.000Z",
+        "description": "旧号被ban，06，想开开心心平平淡淡的过每一天，聊天🚪52(同类除外)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ji1zi1",
+                "end": 23,
+                "expanded_url": "https://t.me/ji1zi1",
+                "start": 0,
+                "url": "https://t.co/LyaRH3YM9a"
+              }
+            ]
+          }
+        },
+        "id": "1591824527717470208",
+        "name": "好吃的小猫咪",
+        "pinned_tweet_id": "1885323619133509637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934803805071380480/9CUooheb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 93,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/LyaRH3YM9a",
+        "username": "ji00zi",
+        "verified": false
+      }
+    ]
+  }
+}

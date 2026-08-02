@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1929552220170617343",
+    "created_at": "2025-06-03T02:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T03:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929733382365499527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "844872246099296260",
+          "start": 0,
+          "username": "Tsaritsynowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929733382365499527",
+    "in_reply_to_user_id": "844872246099296260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929718278810656769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsaritsynowo 学什么好呢我很笨呜呜😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1929552220170617343",
+        "created_at": "2025-06-03T02:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T03:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929733382365499527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "844872246099296260",
+              "start": 0,
+              "username": "Tsaritsynowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929733382365499527",
+        "in_reply_to_user_id": "844872246099296260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929718278810656769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsaritsynowo 学什么好呢我很笨呜呜😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "844872246099296260",
+        "conversation_id": "1929552220170617343",
+        "created_at": "2025-06-03T01:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T02:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929718278810656769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929718278810656769",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929552220170617343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 趁着没毕业学一技"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜分享日常                                                    \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 凛分身@Rinko_0o0             一点幸福都把握不住都去死吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 366,
+          "like_count": 13369,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 3730
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-23T11:23:35.000Z",
+        "description": "男娘/165cm/56.5kg/cos爱好/色图爱好/方舟/这里也许会刷新色图但更大概率是日常闲谈",
+        "id": "844872246099296260",
+        "location": "广州  距离你2km",
+        "name": "梦中",
+        "pinned_tweet_id": "1926873382294860105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837540763254525952/DH8yk3Yt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 283,
+          "like_count": 1429,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 566
+        },
+        "username": "Tsaritsynowo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2030360549717078258",
+    "created_at": "2026-03-08T17:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T18:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030693863736901791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1473557683605102593",
+          "start": 0,
+          "username": "MasterG72215136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030693863736901791",
+    "in_reply_to_user_id": "1473557683605102593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030690196086526406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MasterG72215136 其实已经有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2030360549717078258",
+        "created_at": "2026-03-08T17:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T18:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030693863736901791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1473557683605102593",
+              "start": 0,
+              "username": "MasterG72215136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030693863736901791",
+        "in_reply_to_user_id": "1473557683605102593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030690196086526406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MasterG72215136 其实已经有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473557683605102593",
+        "conversation_id": "2030360549717078258",
+        "created_at": "2026-03-08T17:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T18:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030690196086526406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030690196086526406",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030360549717078258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 找个男朋友，顺便再找男闺蜜。每天都有人陪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "可以叫我凛 ｜世界的独行者",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 306,
+          "like_count": 16277,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 5516
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-22T07:35:13.000Z",
+        "description": "喜欢二次元的小萌新，请多多指教。",
+        "id": "1473557683605102593",
+        "name": "Master Game",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027866967835873284/xZXTXara_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 108
+        },
+        "username": "MasterG72215136",
+        "verified": false
+      }
+    ]
+  }
+}

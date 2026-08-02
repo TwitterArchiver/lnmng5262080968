@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1895827724293591325",
+    "created_at": "2025-03-06T13:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T14:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897645219824464316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1832494142506856449",
+          "start": 0,
+          "username": "dong0v0_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897645219824464316",
+    "in_reply_to_user_id": "1832494142506856449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897643878888726827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dong0v0_ 晕晕真的好爽哦。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1895827724293591325",
+        "created_at": "2025-03-06T13:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T14:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897645219824464316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1832494142506856449",
+              "start": 0,
+              "username": "dong0v0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897645219824464316",
+        "in_reply_to_user_id": "1832494142506856449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897643878888726827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dong0v0_ 晕晕真的好爽哦。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832494142506856449",
+        "conversation_id": "1895827724293591325",
+        "created_at": "2025-03-06T13:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T14:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897643878888726827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897643878888726827",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895827724293591325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 抽百乐的烟会让我晕晕的 这种感觉真的好爽（但抽其他烟就不会这样 好奇怪🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1896772567022911791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 326,
+          "like_count": 9441,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 2163
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T19:00:31.000Z",
+        "description": "@gybilm⬅️请跟随一下我的小号🙂‍↕️🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "gybilm"
+              }
+            ]
+          }
+        },
+        "id": "1832494142506856449",
+        "location": "抱紧我 直到肋骨断裂 发出声音",
+        "name": "脑浆煮内脏献给我的爱人",
+        "pinned_tweet_id": "1883461260693676510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887549497766735872/XtQlIoLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8175,
+          "following_count": 19,
+          "like_count": 2791,
+          "listed_count": 13,
+          "media_count": 45,
+          "tweet_count": 343
+        },
+        "username": "dong0v0_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1896828037678968897",
+    "created_at": "2025-03-04T09:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T10:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896857693253726309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882997198872596480",
+          "start": 0,
+          "username": "mayumi1625658"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896857693253726309",
+    "in_reply_to_user_id": "1882997198872596480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896847261432487968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayumi1625658 我們是高塔女王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1896828037678968897",
+        "created_at": "2025-03-04T09:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T10:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896857693253726309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882997198872596480",
+              "start": 0,
+              "username": "mayumi1625658"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896857693253726309",
+        "in_reply_to_user_id": "1882997198872596480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896847261432487968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayumi1625658 我們是高塔女王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882997198872596480",
+        "conversation_id": "1896828037678968897",
+        "created_at": "2025-03-04T08:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T09:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896847261432487968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896847261432487968",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896828037678968897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 宝宝也住5楼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 314,
+          "like_count": 8978,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 2108
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T03:41:41.000Z",
+        "description": "o.o喵喵\n 📲Sayumi^^來電（可以叫我Sayumi或者茸子 \n💝 @Ww2572245499371 \n穿孔/舌釘/acg\n想要被喜歡！\n請找我打遊戲！\n歡迎互fo （沒回請私！）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "Ww2572245499371"
+              }
+            ]
+          }
+        },
+        "id": "1882997198872596480",
+        "location": "Hong Kong",
+        "name": "SAyumi、",
+        "pinned_tweet_id": "1893899845485601111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892925878835052544/3HwotG5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 18,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 128
+        },
+        "username": "mayumi1625658",
+        "verified": false
+      }
+    ]
+  }
+}

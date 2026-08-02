@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2036101087661535489",
+    "created_at": "2026-03-25T14:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036810188464984459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1584173045710741504",
+          "start": 0,
+          "username": "SakuraSakuraX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036810188464984459",
+    "in_reply_to_user_id": "1584173045710741504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036176559984537904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraSakuraX7 是的，我就是在培养的路上4了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2036101087661535489",
+        "created_at": "2026-03-25T14:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036810188464984459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584173045710741504",
+              "start": 0,
+              "username": "SakuraSakuraX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036810188464984459",
+        "in_reply_to_user_id": "1584173045710741504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036176559984537904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraSakuraX7 是的，我就是在培养的路上4了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584173045710741504",
+        "conversation_id": "2036101087661535489",
+        "created_at": "2026-03-23T20:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T21:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036176559984537904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036176559984537904",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036101087661535489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 上一个这么说的已经成为超高校级的希望了。\n不过才能这东西，要培养，得耐心，一蹴而就的在少数"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "逃避现实｜清水推｜52只回口令",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 304,
+          "like_count": 16711,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 5598
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T13:21:16.000Z",
+        "description": "没有聊天对象所以当碎碎念废话bot\n超高校级的DM\n证明有可为我而死的爱，掐住自己的脖子吧。",
+        "id": "1584173045710741504",
+        "name": "只只九九",
+        "pinned_tweet_id": "2035304260943106129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034549095973691392/Jt8rYcSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 655,
+          "like_count": 12854,
+          "listed_count": 7,
+          "media_count": 136,
+          "tweet_count": 5699
+        },
+        "username": "SakuraSakuraX7",
+        "verified": false
+      }
+    ]
+  }
+}

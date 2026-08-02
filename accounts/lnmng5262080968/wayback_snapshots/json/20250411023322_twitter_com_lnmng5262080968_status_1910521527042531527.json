@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1910371619291488724",
+    "created_at": "2025-04-11T02:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T03:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910521527042531527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1115069049409425409",
+          "start": 0,
+          "username": "molidakeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910521527042531527",
+    "in_reply_to_user_id": "1115069049409425409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910371619291488724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@molidakeai 我要笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1910371619291488724",
+        "created_at": "2025-04-11T02:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T03:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910521527042531527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1115069049409425409",
+              "start": 0,
+              "username": "molidakeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910521527042531527",
+        "in_reply_to_user_id": "1115069049409425409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910371619291488724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@molidakeai 我要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115069049409425409",
+        "conversation_id": "1910371619291488724",
+        "created_at": "2025-04-10T16:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T17:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910371619291488724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910371619291488724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我坐在马桶上，本来只想洗个脚，也就没想着脱裤子，然后洗一半想尿尿了，自然而然的就尿了出来😇\n\n好像不是有一点唐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 367,
+          "like_count": 11344,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 2814
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-08T01:49:13.000Z",
+        "description": "我爱你，我想落泪。这是我自己的世界，精神病梦女恋爱脑日常。",
+        "id": "1115069049409425409",
+        "location": "上海",
+        "name": "黑茉莉",
+        "pinned_tweet_id": "1909676785463443866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906464723027234816/B2Hx_U4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13062,
+          "following_count": 246,
+          "like_count": 8586,
+          "listed_count": 57,
+          "media_count": 1468,
+          "tweet_count": 5010
+        },
+        "username": "molidakeai",
+        "verified": false
+      }
+    ]
+  }
+}

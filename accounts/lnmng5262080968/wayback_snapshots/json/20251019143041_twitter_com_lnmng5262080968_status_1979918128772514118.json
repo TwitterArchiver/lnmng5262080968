@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1979913672186061018",
+    "created_at": "2025-10-19T14:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T15:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979918128772514118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "449006686",
+          "start": 0,
+          "username": "xxxxxx_vh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979918128772514118",
+    "in_reply_to_user_id": "449006686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979917662269386906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxxx_vh 一个人半夜从外地回家对象不知所踪我要跳了反正"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1979913672186061018",
+        "created_at": "2025-10-19T14:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979918128772514118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "449006686",
+              "start": 0,
+              "username": "xxxxxx_vh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979918128772514118",
+        "in_reply_to_user_id": "449006686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979917662269386906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxxx_vh 一个人半夜从外地回家对象不知所踪我要跳了反正"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "449006686",
+        "conversation_id": "1979913672186061018",
+        "created_at": "2025-10-19T14:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979917662269386906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979917662269386906",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979913672186061018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 受不了这种 , 还没回话之前我就先自我毁灭了 ."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 371,
+          "like_count": 14282,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 4589
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-28T16:43:08.000Z",
+        "description": "男 / 厌蠢 / 远离我 / 土象PTSD / 关我屁事 关你屁事 / 傻屌建议自宫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cjdgrevival.com",
+                "end": 23,
+                "expanded_url": "https://www.cjdgrevival.com",
+                "start": 0,
+                "url": "https://t.co/41c5Gb4Tic"
+              }
+            ]
+          }
+        },
+        "id": "449006686",
+        "location": "☥",
+        "name": "One-way mirror",
+        "pinned_tweet_id": "1867236367216066607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975884695146819584/fmBNWrN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 506,
+          "like_count": 42088,
+          "listed_count": 6,
+          "media_count": 520,
+          "tweet_count": 9550
+        },
+        "url": "https://t.co/41c5Gb4Tic",
+        "username": "xxxxxx_vh",
+        "verified": false
+      }
+    ]
+  }
+}

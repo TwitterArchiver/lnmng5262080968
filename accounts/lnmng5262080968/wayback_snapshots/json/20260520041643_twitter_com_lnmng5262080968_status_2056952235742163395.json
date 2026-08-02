@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2056952235742163395",
+    "created_at": "2026-05-20T04:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056952235742163395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902605225774759936",
+          "start": 3,
+          "username": "haochiqu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056952235742163395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056607806875394096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haochiqu00: 对不起 依旧无法共情网上好多有钱人抑郁这件事 在穷人看来这就是无病呻吟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2056952235742163395",
+        "created_at": "2026-05-20T04:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056952235742163395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902605225774759936",
+              "start": 3,
+              "username": "haochiqu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056952235742163395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056607806875394096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haochiqu00: 对不起 依旧无法共情网上好多有钱人抑郁这件事 在穷人看来这就是无病呻吟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902605225774759936",
+        "conversation_id": "2056607806875394096",
+        "created_at": "2026-05-19T05:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056607806875394096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056607806875394096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 23723,
+          "like_count": 604,
+          "quote_count": 5,
+          "reply_count": 136,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "对不起 依旧无法共情网上好多有钱人抑郁这件事 在穷人看来这就是无病呻吟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 314,
+          "like_count": 17561,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 5922
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T06:16:59.000Z",
+        "description": "健身记录 什么都发 爱看看不看滚 / 不约不线下 不缺你那三瓜两枣 🖕🏻fuck you🖕🏻fuck you🖕🏻and especially fuck you",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw01.damoplane.com/#/register?code=eq3iNjMU",
+                "start": 0,
+                "url": "https://t.co/JcMUVm0WKv"
+              }
+            ]
+          }
+        },
+        "id": "1902605225774759936",
+        "location": "🍄大不列滇🍄",
+        "name": "好吃的蛆😋",
+        "pinned_tweet_id": "2014001863025455170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999074437791199232/hbKHZJCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 81,
+          "like_count": 501,
+          "listed_count": 7,
+          "media_count": 93,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/JcMUVm0WKv",
+        "username": "haochiqu00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1887030230239600725",
+    "created_at": "2025-02-05T07:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T08:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887046072914337859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606351071206674438",
+          "start": 0,
+          "username": "jiyn91306622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887046072914337859",
+    "in_reply_to_user_id": "1606351071206674438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887030230239600725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiyn91306622 怎么给我发出去了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1887030230239600725",
+        "created_at": "2025-02-05T07:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T08:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887046072914337859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606351071206674438",
+              "start": 0,
+              "username": "jiyn91306622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887046072914337859",
+        "in_reply_to_user_id": "1606351071206674438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887030230239600725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyn91306622 怎么给我发出去了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1887030179744374787"
+          ]
+        },
+        "author_id": "1606351071206674438",
+        "conversation_id": "1887030230239600725",
+        "created_at": "2025-02-05T06:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T07:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887030230239600725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbvcuwpf8M",
+              "end": 44,
+              "expanded_url": "https://x.com/jiyn91306622/status/1887030230239600725/video/1",
+              "media_key": "7_1887030179744374787",
+              "start": 21,
+              "url": "https://t.co/kbvcuwpf8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887030230239600725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是谁家的galgame男友出来认领一下 https://t.co/kbvcuwpf8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 220,
+          "like_count": 5090,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1291
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T18:08:44.000Z",
+        "description": "你找到现实的裂缝了吗",
+        "id": "1606351071206674438",
+        "location": "China",
+        "name": "呕吐血浆飞溅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880440265779159040/XulAoDuF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 608,
+          "like_count": 9116,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 953
+        },
+        "username": "jiyn91306622",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1891541931781509295",
+    "created_at": "2025-02-17T18:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T19:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891550260511572451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1630328378690609152",
+          "start": 0,
+          "username": "crane_wallnut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891550260511572451",
+    "in_reply_to_user_id": "1630328378690609152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891549093555490856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crane_wallnut 小核桃我爱你！没错他们都是大傻比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1891541931781509295",
+        "created_at": "2025-02-17T18:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T19:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891550260511572451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1630328378690609152",
+              "start": 0,
+              "username": "crane_wallnut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891550260511572451",
+        "in_reply_to_user_id": "1630328378690609152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891549093555490856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crane_wallnut 小核桃我爱你！没错他们都是大傻比"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630328378690609152",
+        "conversation_id": "1891541931781509295",
+        "created_at": "2025-02-17T18:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T19:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891549093555490856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891549093555490856",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891541931781509295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 小凛现在特别可爱特别特别的好！喜欢小凛🥺欺负小凛的都是傻逼🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 251,
+          "like_count": 6614,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1630
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-27T22:05:59.000Z",
+        "description": "一只横跨多个圈子的杂食性动物 / 偶尔碎碎念 / 只要有人爱我就好",
+        "id": "1630328378690609152",
+        "location": "Toronto, Ontario",
+        "name": "一只核桃",
+        "pinned_tweet_id": "1885425142299316674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888043550358589440/n2zo_bmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 143,
+          "like_count": 506,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 232
+        },
+        "username": "crane_wallnut",
+        "verified": false
+      }
+    ]
+  }
+}

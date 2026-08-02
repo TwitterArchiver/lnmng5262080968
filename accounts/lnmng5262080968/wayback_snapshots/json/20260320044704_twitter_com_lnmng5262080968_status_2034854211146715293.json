@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034854175788720128"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "2034854211146715293",
+    "created_at": "2026-03-20T04:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034854211146715293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zIYI6ShAtz",
+          "end": 170,
+          "expanded_url": "https://x.com/lnmng5262080968/status/2034854211146715293/photo/1",
+          "media_key": "3_2034854175788720128",
+          "start": 147,
+          "url": "https://t.co/zIYI6ShAtz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034854211146715293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "问完更想放弃自己了，谁写出来的。之所以放弃自己，不就是因为这些事早就做不到了吗\n1.喝水可以2.吃东西会恶心，除非饿得难受否则不会进食3.洗澡之前要做很久的心理建设，不断寻找机会和动力才能站起来，简单的清洁消耗我大部分精力4.没有药物甚至可以24小时清醒5.好累，出门真的好累6.没有很多朋友 https://t.co/zIYI6ShAtz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1245,
+        "media_key": "3_2034854175788720128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1BF32bYAAWmFf.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034854175788720128"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "2034854211146715293",
+        "created_at": "2026-03-20T04:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034854211146715293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zIYI6ShAtz",
+              "end": 170,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2034854211146715293/photo/1",
+              "media_key": "3_2034854175788720128",
+              "start": 147,
+              "url": "https://t.co/zIYI6ShAtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034854211146715293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问完更想放弃自己了，谁写出来的。之所以放弃自己，不就是因为这些事早就做不到了吗\n1.喝水可以2.吃东西会恶心，除非饿得难受否则不会进食3.洗澡之前要做很久的心理建设，不断寻找机会和动力才能站起来，简单的清洁消耗我大部分精力4.没有药物甚至可以24小时清醒5.好累，出门真的好累6.没有很多朋友 https://t.co/zIYI6ShAtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "社会废人家里蹲，所有可能性都失败了｜清水推｜只回口令",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1956203532807496174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 305,
+          "like_count": 16611,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5581
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

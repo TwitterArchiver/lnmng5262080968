@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1921744775830790297",
+    "created_at": "2025-05-12T01:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T02:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921744775830790297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/in2dkira/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/in2dkira/status/1921496224273727975",
+          "start": 16,
+          "url": "https://t.co/QlGgPpZ5Ym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921744775830790297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921496224273727975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想在推上找个认真过日子的 有吗 https://t.co/QlGgPpZ5Ym"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1921744775830790297",
+        "created_at": "2025-05-12T01:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T02:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921744775830790297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/in2dkira/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/in2dkira/status/1921496224273727975",
+              "start": 16,
+              "url": "https://t.co/QlGgPpZ5Ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921744775830790297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921496224273727975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想在推上找个认真过日子的 有吗 https://t.co/QlGgPpZ5Ym"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771230355896561664",
+        "conversation_id": "1921496224273727975",
+        "created_at": "2025-05-11T09:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T10:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921496224273727975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realeco8964/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/realeco8964/status/1921480605163786372",
+              "start": 16,
+              "url": "https://t.co/5VeRoFzxya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921496224273727975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921480605163786372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想在推上找個認真過日子的 有嗎 https://t.co/5VeRoFzxya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 367,
+          "like_count": 12863,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 3430
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "前@Akira_10190208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Akira_10190208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH6G9I"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源_office",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904357455104258048/8U1s5amP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 102,
+          "like_count": 3648,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/6QBGLH6G9I",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

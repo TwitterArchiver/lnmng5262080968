@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1973389002943373556",
+    "created_at": "2025-10-04T14:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T15:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974474955934126293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1920795331933204481",
+          "start": 0,
+          "username": "Sink__cz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974474955934126293",
+    "in_reply_to_user_id": "1920795331933204481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973758219974836290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sink__cz 可以👅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1973389002943373556",
+        "created_at": "2025-10-04T14:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T15:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974474955934126293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1920795331933204481",
+              "start": 0,
+              "username": "Sink__cz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974474955934126293",
+        "in_reply_to_user_id": "1920795331933204481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973758219974836290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sink__cz 可以👅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920795331933204481",
+        "conversation_id": "1973389002943373556",
+        "created_at": "2025-10-02T14:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T15:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973758219974836290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973758219974836290",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973389002943373556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我可以把它吃掉吗？😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 367,
+          "like_count": 14076,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 4448
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T10:57:59.000Z",
+        "description": "17/160/38kg🤔圈子很杂，你能想到的都有我/爱玩点抽象/网上幽默/现实社恐",
+        "id": "1920795331933204481",
+        "location": "泽鲁斯",
+        "name": "沉舟落雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969412039216152583/WbS-cmbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 26,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 130
+        },
+        "username": "Sink__cz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1916745767093514401",
+    "created_at": "2025-04-28T10:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T11:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916796948553846824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1863473278247141376",
+          "start": 0,
+          "username": "qaq5777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916796948553846824",
+    "in_reply_to_user_id": "1863473278247141376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916784046765691307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaq5777 冰宝🥺🥺爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1916745767093514401",
+        "created_at": "2025-04-28T10:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T11:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916796948553846824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1863473278247141376",
+              "start": 0,
+              "username": "qaq5777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916796948553846824",
+        "in_reply_to_user_id": "1863473278247141376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916784046765691307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaq5777 冰宝🥺🥺爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "1916745767093514401",
+        "created_at": "2025-04-28T09:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T10:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916784046765691307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916784046765691307",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916745767093514401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 376,
+          "like_count": 12450,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 3266
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "谢谢你喜欢我＞𐋣＜|碎碎念 自用🪜 https://t.co/8DbgWvEw2N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mi.le.mile-yun.com/index.php#/reg…",
+                "end": 41,
+                "expanded_url": "https://mi.le.mile-yun.com/index.php#/register?code=0xQPXqQf",
+                "start": 18,
+                "url": "https://t.co/8DbgWvEw2N"
+              }
+            ]
+          }
+        },
+        "id": "1863473278247141376",
+        "location": "🚪188纯绿",
+        "name": "不加冰",
+        "pinned_tweet_id": "1916491261869232516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895054154084564992/SkRpTx_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7030,
+          "following_count": 172,
+          "like_count": 4763,
+          "listed_count": 22,
+          "media_count": 142,
+          "tweet_count": 1929
+        },
+        "username": "qaq5777",
+        "verified": false
+      }
+    ]
+  }
+}

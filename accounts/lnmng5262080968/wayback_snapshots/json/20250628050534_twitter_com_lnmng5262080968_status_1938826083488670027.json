@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1938564323074535482",
+    "created_at": "2025-06-28T05:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938826083488670027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682760650442051587",
+          "start": 0,
+          "username": "senbuyu172144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938826083488670027",
+    "in_reply_to_user_id": "1682760650442051587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938778502398124273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senbuyu172144 因为腿上的是粗线条，会密一些，手上的今天已经有点淡了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1938564323074535482",
+        "created_at": "2025-06-28T05:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938826083488670027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682760650442051587",
+              "start": 0,
+              "username": "senbuyu172144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938826083488670027",
+        "in_reply_to_user_id": "1682760650442051587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938778502398124273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senbuyu172144 因为腿上的是粗线条，会密一些，手上的今天已经有点淡了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682760650442051587",
+        "conversation_id": "1938564323074535482",
+        "created_at": "2025-06-28T01:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T02:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938778502398124273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938778502398124273",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938564323074535482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 这空针扎的太密了一点吧，我一直以为是线条画那种的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 368,
+          "like_count": 13683,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 4033
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T14:33:10.000Z",
+        "description": "愿好朋友有情人终成眷属 讨厌的人给我成兄妹然后还要孽恋劈腿 ｜ 一个很温柔很好说话的人（不过温柔只给温柔的人）｜欢迎互fo大部分都会回的",
+        "id": "1682760650442051587",
+        "location": "吾心安处既是吾乡",
+        "name": "sen",
+        "pinned_tweet_id": "1861774983661556121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837702426390155268/tN-ctE2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 504,
+          "like_count": 7099,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 2218
+        },
+        "username": "senbuyu172144",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1941488903892136204",
+    "created_at": "2025-07-06T13:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T14:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941855356109418535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1893369574470623232",
+          "start": 0,
+          "username": "akawzz24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941855356109418535",
+    "in_reply_to_user_id": "1893369574470623232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941803556496974126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akawzz24 纯cs！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1941488903892136204",
+        "created_at": "2025-07-06T13:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941855356109418535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1893369574470623232",
+              "start": 0,
+              "username": "akawzz24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941855356109418535",
+        "in_reply_to_user_id": "1893369574470623232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941803556496974126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akawzz24 纯cs！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893369574470623232",
+        "conversation_id": "1941488903892136204",
+        "created_at": "2025-07-06T10:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T11:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941803556496974126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941803556496974126",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941488903892136204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 畜生吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 367,
+          "like_count": 13669,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 4050
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T18:38:27.000Z",
+        "description": "爱看漫画🍥\n赛马娘\n米宝一生推（也许吧我不是花心的人）\n魔爪一生推（饮料这一块./）\n网文入门\n宿敌@数学@物理(*¯ㅿ¯*;)\n小财迷但钱会不翼而飞\n喵喵喵～",
+        "id": "1893369574470623232",
+        "location": "涂山",
+        "name": "aka洛灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936170062164983808/-F5Rn9Ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 347,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 222
+        },
+        "username": "akawzz24",
+        "verified": false
+      }
+    ]
+  }
+}

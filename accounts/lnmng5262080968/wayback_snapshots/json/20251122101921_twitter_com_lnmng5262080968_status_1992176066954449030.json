@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-22T10:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992176066954449030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1704740628461203456",
+          "start": 0,
+          "username": "p_ppp7896307197"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992176066954449030",
+    "in_reply_to_user_id": "1704740628461203456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992074066824753645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@p_ppp7896307197 这就是我。别人轻松能做到的我要花很大的努力才可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T10:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992176066954449030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1704740628461203456",
+              "start": 0,
+              "username": "p_ppp7896307197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992176066954449030",
+        "in_reply_to_user_id": "1704740628461203456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992074066824753645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p_ppp7896307197 这就是我。别人轻松能做到的我要花很大的努力才可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704740628461203456",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T03:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992074066824753645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992074066824753645",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991846545025810547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 是的 根本控制不了 我接受治疗之前感觉好了又会复发  很羡慕那些正常的人  这种病太难受 根本控制不了自己的那种难受  上课的时候就突然要死一样   明明我只想要最平淡的生活来着 可是怎样都不会好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 380,
+          "like_count": 14688,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4809
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T06:13:45.000Z",
+        "description": "",
+        "id": "1704740628461203456",
+        "name": "人狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789218891681689601/ja8Pb-9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 159,
+          "like_count": 7204,
+          "listed_count": 14,
+          "media_count": 12,
+          "tweet_count": 1391
+        },
+        "username": "p_ppp7896307197",
+        "verified": false
+      }
+    ]
+  }
+}

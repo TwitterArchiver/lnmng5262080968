@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1877748071259422738",
+    "created_at": "2025-01-10T16:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T17:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877748071259422738"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1877748071259422738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好难受像被石头压着，好孤独，，，，，，我再也等不到消息了，，，我想自残只有这样才会开心，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1877748071259422738",
+        "created_at": "2025-01-10T16:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T17:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877748071259422738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877748071259422738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好难受像被石头压着，好孤独，，，，，，我再也等不到消息了，，，我想自残只有这样才会开心，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜已有主人                                                \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友\n🚪38好友位 68聊天 88有朋友圈",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 66,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 250
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1913569863517569119",
+    "created_at": "2025-04-20T01:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T02:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913766548759888130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1578513064088854529",
+          "start": 0,
+          "username": "pl1voti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913766548759888130",
+    "in_reply_to_user_id": "1578513064088854529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913691264379134175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pl1voti 抱抱安酱呜呜呜呜😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1913569863517569119",
+        "created_at": "2025-04-20T01:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T02:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913766548759888130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1578513064088854529",
+              "start": 0,
+              "username": "pl1voti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913766548759888130",
+        "in_reply_to_user_id": "1578513064088854529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913691264379134175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pl1voti 抱抱安酱呜呜呜呜😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578513064088854529",
+        "conversation_id": "1913569863517569119",
+        "created_at": "2025-04-19T20:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T21:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913691264379134175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913691264379134175",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913569863517569119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 不要苛责自己宝宝…抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 372,
+          "like_count": 11997,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 3029
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T22:30:29.000Z",
+        "description": "克己复礼",
+        "id": "1578513064088854529",
+        "location": "United States",
+        "name": "Ann",
+        "pinned_tweet_id": "1900376036304474312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873745276399423488/wB2fO0ap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 306,
+          "like_count": 4833,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 381
+        },
+        "username": "pl1voti",
+        "verified": false
+      }
+    ]
+  }
+}

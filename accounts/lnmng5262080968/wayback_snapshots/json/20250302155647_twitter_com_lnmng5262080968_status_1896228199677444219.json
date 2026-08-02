@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1896172416231182674",
+    "created_at": "2025-03-02T15:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T16:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896228199677444219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1647129585744773121",
+          "start": 0,
+          "username": "zhui26513793"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896228199677444219",
+    "in_reply_to_user_id": "1647129585744773121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896225335030718972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhui26513793 好喵——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1896172416231182674",
+        "created_at": "2025-03-02T15:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T16:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896228199677444219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1647129585744773121",
+              "start": 0,
+              "username": "zhui26513793"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896228199677444219",
+        "in_reply_to_user_id": "1647129585744773121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896225335030718972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhui26513793 好喵——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647129585744773121",
+        "conversation_id": "1896172416231182674",
+        "created_at": "2025-03-02T15:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T16:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896225335030718972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896225335030718972",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896172416231182674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 吃完药，要早点休息噢宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 307,
+          "like_count": 8520,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 2034
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T06:48:04.000Z",
+        "description": "已老实求放过",
+        "id": "1647129585744773121",
+        "location": "everywhere",
+        "name": "π",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893302538839171072/_JTik0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 79,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 819
+        },
+        "username": "zhui26513793",
+        "verified": false
+      }
+    ]
+  }
+}

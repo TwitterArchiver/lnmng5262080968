@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914594924919709849",
+    "created_at": "2025-04-23T01:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T02:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914860422081208423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825785408120352768",
+          "start": 0,
+          "username": "IKAKE04_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914860422081208423",
+    "in_reply_to_user_id": "1825785408120352768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914845740595339626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IKAKE04_11 因为我是实习教师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-23T01:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T02:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914860422081208423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825785408120352768",
+              "start": 0,
+              "username": "IKAKE04_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914860422081208423",
+        "in_reply_to_user_id": "1825785408120352768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914845740595339626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IKAKE04_11 因为我是实习教师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825785408120352768",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-23T00:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T01:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914845740595339626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914845740595339626",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914594924919709849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 为什么不骂回去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 373,
+          "like_count": 12186,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3148
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T06:42:33.000Z",
+        "description": "“保持耐心与优雅”—《Sound In Mind》/🐶：@jiujitsu_0515/匿名邮箱:https://t.co/uqJxtRAd4W",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "jiujitsu_0515"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ikake0411",
+                "end": 71,
+                "expanded_url": "https://ngl.link/ikake0411",
+                "start": 48,
+                "url": "https://t.co/uqJxtRAd4W"
+              }
+            ]
+          }
+        },
+        "id": "1825785408120352768",
+        "location": "MoonCell",
+        "name": "IKAKE",
+        "pinned_tweet_id": "1910505990140907713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913165350096793600/vzlTWDrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 41,
+          "like_count": 2022,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1165
+        },
+        "username": "IKAKE04_11",
+        "verified": false
+      }
+    ]
+  }
+}

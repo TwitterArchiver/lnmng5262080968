@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1909805234806993388",
+    "created_at": "2025-04-10T00:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T01:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910132631217594864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1376493277713592329",
+          "start": 0,
+          "username": "lsw991130"
+        },
+        {
+          "end": 21,
+          "id": "1644249241957588992",
+          "start": 11,
+          "username": "LoverRea1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910132631217594864",
+    "in_reply_to_user_id": "1376493277713592329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910130913410957551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lsw991130 @LoverRea1 边缘群体被主流了解的方式是他们的痛苦并且作为梗和卖点娱乐化，这很可悲不是吗。可以不理解他们的内心但是娱乐化他人痛苦和疾病并且作为时尚单品是很恶心的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1909805234806993388",
+        "created_at": "2025-04-10T00:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T01:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910132631217594864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1376493277713592329",
+              "start": 0,
+              "username": "lsw991130"
+            },
+            {
+              "end": 21,
+              "id": "1644249241957588992",
+              "start": 11,
+              "username": "LoverRea1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910132631217594864",
+        "in_reply_to_user_id": "1376493277713592329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910130913410957551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lsw991130 @LoverRea1 边缘群体被主流了解的方式是他们的痛苦并且作为梗和卖点娱乐化，这很可悲不是吗。可以不理解他们的内心但是娱乐化他人痛苦和疾病并且作为时尚单品是很恶心的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376493277713592329",
+        "conversation_id": "1909805234806993388",
+        "created_at": "2025-04-10T00:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T01:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910130913410957551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            },
+            {
+              "end": 27,
+              "id": "1644249241957588992",
+              "start": 17,
+              "username": "LoverRea1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910130913410957551",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910129052469666058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 @LoverRea1 实际上我在小红书也刷到这个图了，但我的评论是”人和人之间能平等相处，平等看待就很不错了，让人了解你的内心还是太奢侈了”。第二次在推特刷到我只能说地雷妹有点异想天开了😅。一个边缘的，精神不正常的群体，别人凭什么要了解这个群体的内心呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 369,
+          "like_count": 11272,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 2789
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-29T11:15:58.000Z",
+        "description": "可爱捏",
+        "id": "1376493277713592329",
+        "name": "rebels_17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461889210009325571/bqDDBCT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 106,
+          "like_count": 567,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 786
+        },
+        "username": "lsw991130",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T08:02:32.000Z",
+        "description": "我不要很多爱 我要很多钱",
+        "id": "1644249241957588992",
+        "name": "小哭8964",
+        "pinned_tweet_id": "1909519810989285401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908490933303218176/SbgphQDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 344,
+          "like_count": 4610,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 1799
+        },
+        "username": "LoverRea1",
+        "verified": false
+      }
+    ]
+  }
+}

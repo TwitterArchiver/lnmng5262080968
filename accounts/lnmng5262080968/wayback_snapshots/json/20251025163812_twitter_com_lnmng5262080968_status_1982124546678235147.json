@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1981798556727132367",
+    "created_at": "2025-10-25T16:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T17:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982124546678235147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1771754880052715520",
+          "start": 0,
+          "username": "FoolsChasinger"
+        },
+        {
+          "end": 28,
+          "id": "1644567522031853570",
+          "start": 16,
+          "username": "Kirara_Miku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982124546678235147",
+    "in_reply_to_user_id": "1771754880052715520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982070369533186245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoolsChasinger @Kirara_Miku 羡慕，我也想去上海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1981798556727132367",
+        "created_at": "2025-10-25T16:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T17:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982124546678235147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1771754880052715520",
+              "start": 0,
+              "username": "FoolsChasinger"
+            },
+            {
+              "end": 28,
+              "id": "1644567522031853570",
+              "start": 16,
+              "username": "Kirara_Miku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982124546678235147",
+        "in_reply_to_user_id": "1771754880052715520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982070369533186245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoolsChasinger @Kirara_Miku 羡慕，我也想去上海"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771754880052715520",
+        "conversation_id": "1981798556727132367",
+        "created_at": "2025-10-25T13:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T14:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982070369533186245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644567522031853570",
+              "start": 0,
+              "username": "Kirara_Miku"
+            },
+            {
+              "end": 29,
+              "id": "1792011763875184640",
+              "start": 13,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982070369533186245",
+        "in_reply_to_user_id": "1644567522031853570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982049521371898307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara_Miku @lnmng5262080968 本人年节应该会刷新在太原/大同，其他时间大概率在上海/杭州。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 371,
+          "like_count": 14317,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 4608
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T04:24:37.000Z",
+        "description": "热血元气奋斗逼/一般通过社会人/学习吃饭中 | 烙铁:@PainissimoVae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "PainissimoVae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dl.acm.org",
+                "end": 23,
+                "expanded_url": "https://dl.acm.org/",
+                "start": 0,
+                "url": "https://t.co/6mOYC9pMEA"
+              }
+            ]
+          }
+        },
+        "id": "1771754880052715520",
+        "location": "No such information",
+        "name": "果壳里的君王",
+        "pinned_tweet_id": "1923242028747403595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884181886760804356/ycOyoMJG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 555,
+          "like_count": 50019,
+          "listed_count": 10,
+          "media_count": 2511,
+          "tweet_count": 18097
+        },
+        "url": "https://t.co/6mOYC9pMEA",
+        "username": "FoolsChasinger",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T05:07:14.000Z",
+        "description": "起飞吧，和大家一起。| osu 5 digit player | 男，音游，galgame | 互fo随缘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/13928307",
+                "end": 23,
+                "expanded_url": "http://osu.ppy.sh/users/13928307",
+                "start": 0,
+                "url": "https://t.co/n91ct8aC9h"
+              }
+            ]
+          }
+        },
+        "id": "1644567522031853570",
+        "location": "雲母の星",
+        "name": "雲母ミク",
+        "pinned_tweet_id": "1906720128693113327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784620826220007424/r2J4Sxz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 1601,
+          "like_count": 103344,
+          "listed_count": 7,
+          "media_count": 1397,
+          "tweet_count": 14930
+        },
+        "url": "https://t.co/n91ct8aC9h",
+        "username": "Kirara_Miku",
+        "verified": false
+      }
+    ]
+  }
+}

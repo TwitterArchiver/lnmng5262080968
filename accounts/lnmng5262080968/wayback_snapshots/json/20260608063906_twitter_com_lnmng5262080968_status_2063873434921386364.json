@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2063562540584751472",
+    "created_at": "2026-06-08T06:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063873434921386364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485965176159363090",
+          "start": 0,
+          "username": "Prisoner1213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063873434921386364",
+    "in_reply_to_user_id": "1485965176159363090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063634827090526468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prisoner1213 我哭了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2063562540584751472",
+        "created_at": "2026-06-08T06:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063873434921386364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1485965176159363090",
+              "start": 0,
+              "username": "Prisoner1213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063873434921386364",
+        "in_reply_to_user_id": "1485965176159363090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063634827090526468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prisoner1213 我哭了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485965176159363090",
+        "conversation_id": "2063562540584751472",
+        "created_at": "2026-06-07T14:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063634827090526468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063634827090526468",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063562540584751472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 享受依恋，却又拒绝承担责任"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 319,
+          "like_count": 17737,
+          "listed_count": 5,
+          "media_count": 209,
+          "tweet_count": 5991
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-25T13:18:15.000Z",
+        "description": "我早已抛弃了所有幻想，认可了这乏味且疲惫的人生",
+        "id": "1485965176159363090",
+        "name": "末人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057739919095984128/QNgEyyU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 297,
+          "like_count": 8206,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 105
+        },
+        "username": "Prisoner1213",
+        "verified": false
+      }
+    ]
+  }
+}

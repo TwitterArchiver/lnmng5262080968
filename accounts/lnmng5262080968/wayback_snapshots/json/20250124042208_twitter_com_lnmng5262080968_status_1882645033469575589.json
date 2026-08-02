@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1882398215200461047",
+    "created_at": "2025-01-24T04:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T05:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882645033469575589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1590939682568736769",
+          "start": 0,
+          "username": "yybabe0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882645033469575589",
+    "in_reply_to_user_id": "1590939682568736769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882398215200461047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yybabe0 好没有边界感的说😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1882398215200461047",
+        "created_at": "2025-01-24T04:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T05:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882645033469575589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1590939682568736769",
+              "start": 0,
+              "username": "yybabe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882645033469575589",
+        "in_reply_to_user_id": "1590939682568736769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882398215200461047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yybabe0 好没有边界感的说😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "1882398215200461047",
+        "created_at": "2025-01-23T12:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T13:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882398215200461047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882398215200461047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最烦中国人一直问为什么，今天放学我跟朋友说你自己回家吧我们今天不顺路，她就一直问我要去干嘛，关你屁事啊？我就跟她说我要忙，她就问忙啥，不是说白了跟你有关吗？我说我要去图书馆，她又问去图书馆干啥，不是老铁…😹你要气死我吗？我就跟她说我要写数学作业，有病啊，一直问问问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 176,
+          "like_count": 3391,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 719
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "防丢：@rika_2009_ 想加line私我(仅限女生），本宝母语是突厥语非华语系，连麦如果听不懂我说话请见谅，我讨厌中国人汉族人满族人土家族壮族，以上群体给我发私信死爹烂妈全家s光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "rika_2009_"
+              }
+            ]
+          }
+        },
+        "id": "1590939682568736769",
+        "location": "🇦🇺",
+        "name": "175cm体重34kg体重刚刚好",
+        "pinned_tweet_id": "1881997746124853275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879520626677035008/kAgA-F--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 797,
+          "like_count": 11668,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 2482
+        },
+        "username": "yybabe0",
+        "verified": false
+      }
+    ]
+  }
+}

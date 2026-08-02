@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914943212764193210",
+    "created_at": "2025-04-23T07:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T08:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914943212764193210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiyn91306622/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jiyn91306622/status/1914923734626119955",
+          "start": 5,
+          "url": "https://t.co/44qeMOP3NU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914943212764193210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914923734626119955",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼疯了 https://t.co/44qeMOP3NU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2108,
+        "media_key": "3_1914923723565703168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpMs-xsaIAAZm66.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914943212764193210",
+        "created_at": "2025-04-23T07:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914943212764193210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiyn91306622/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jiyn91306622/status/1914923734626119955",
+              "start": 5,
+              "url": "https://t.co/44qeMOP3NU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914943212764193210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914923734626119955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼疯了 https://t.co/44qeMOP3NU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914923723565703168"
+          ]
+        },
+        "author_id": "1606351071206674438",
+        "conversation_id": "1914923734626119955",
+        "created_at": "2025-04-23T06:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T07:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914923734626119955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "顺直迷惑行为大赏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/odaL5hepCu",
+              "end": 33,
+              "expanded_url": "https://x.com/jiyn91306622/status/1914923734626119955/photo/1",
+              "media_key": "3_1914923723565703168",
+              "start": 10,
+              "url": "https://t.co/odaL5hepCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914923734626119955",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#顺直迷惑行为大赏 https://t.co/odaL5hepCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 375,
+          "like_count": 12199,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3162
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T18:08:44.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jin14792",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jin14792",
+                "start": 0,
+                "url": "https://t.co/nQ6oZl1H8m"
+              }
+            ]
+          }
+        },
+        "id": "1606351071206674438",
+        "name": "你踩到我的呕吐物了",
+        "pinned_tweet_id": "1911442420929003767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896598211961434112/BmTnJzsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 852,
+          "like_count": 19986,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 3250
+        },
+        "url": "https://t.co/nQ6oZl1H8m",
+        "username": "jiyn91306622",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2071854275735797840",
+    "created_at": "2026-07-01T02:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T03:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072143891353235953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072143891353235953",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071854275735797840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 我去还真是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2071854236661379072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMC0c3qW8AAV0_a.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2071854236699136000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMC0c3zXEAA-Nmy.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1031,
+        "media_key": "3_2071854236627849216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMC0c3iXUAAzu9C.jpg",
+        "width": 1567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2071854275735797840",
+        "created_at": "2026-07-01T02:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072143891353235953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072143891353235953",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071854275735797840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 我去还真是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071854236661379072",
+            "3_2071854236699136000",
+            "3_2071854236627849216"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071854275735797840",
+        "created_at": "2026-06-30T07:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071854275735797840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zxxetsat8",
+              "end": 31,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2071854275735797840/photo/1",
+              "media_key": "3_2071854236661379072",
+              "start": 8,
+              "url": "https://t.co/0zxxetsat8"
+            },
+            {
+              "display_url": "pic.x.com/0zxxetsat8",
+              "end": 31,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2071854275735797840/photo/1",
+              "media_key": "3_2071854236699136000",
+              "start": 8,
+              "url": "https://t.co/0zxxetsat8"
+            },
+            {
+              "display_url": "pic.x.com/0zxxetsat8",
+              "end": 31,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2071854275735797840/photo/1",
+              "media_key": "3_2071854236627849216",
+              "start": 8,
+              "url": "https://t.co/0zxxetsat8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071854275735797840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1364,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被極端主義嚇暈 https://t.co/0zxxetsat8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 316,
+          "like_count": 17795,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 6040
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "當我感到最幸福時會把五顆星星都塗滿★ ★ ★ ☆ ☆ ｜墨跡的勿擾懂得看x @D_D_ovO_｜cutie🌻：@saksamalah2nd｜v的媽媽們@misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "vico的羽毛",
+        "name": "💿我就要胃口嘔呲和ねね 因為我配",
+        "pinned_tweet_id": "2065030827835289833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4658,
+          "following_count": 404,
+          "like_count": 25015,
+          "listed_count": 19,
+          "media_count": 1437,
+          "tweet_count": 18176
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

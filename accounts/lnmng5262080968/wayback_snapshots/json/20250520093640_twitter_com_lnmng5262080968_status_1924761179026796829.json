@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1924433737045184591",
+    "created_at": "2025-05-20T09:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T10:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924761179026796829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491692173653204993",
+          "start": 0,
+          "username": "sunnan61952547"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924761179026796829",
+    "in_reply_to_user_id": "1491692173653204993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924433737045184591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunnan61952547 不会被骗走的就是你的💰吧。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1924433737045184591",
+        "created_at": "2025-05-20T09:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T10:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924761179026796829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491692173653204993",
+              "start": 0,
+              "username": "sunnan61952547"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924761179026796829",
+        "in_reply_to_user_id": "1491692173653204993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924433737045184591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunnan61952547 不会被骗走的就是你的💰吧。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491692173653204993",
+        "conversation_id": "1924433737045184591",
+        "created_at": "2025-05-19T11:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T12:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924433737045184591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924433737045184591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太痛苦了，朋友借走我七千多，然后共友告诉我他被骗了七八千块钱…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 368,
+          "like_count": 12980,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 3515
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T08:35:11.000Z",
+        "description": "好景醉千杯，菸火被燃盡。",
+        "id": "1491692173653204993",
+        "location": "万事屋",
+        "name": "轻鸾轴心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924140274948661249/BUlVaauH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 156,
+          "like_count": 1256,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 422
+        },
+        "username": "sunnan61952547",
+        "verified": false
+      }
+    ]
+  }
+}

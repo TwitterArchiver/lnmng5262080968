@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1929561969603793047",
+    "created_at": "2025-06-03T06:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T07:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929786456735969502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580505223071641600",
+          "start": 0,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929786456735969502",
+    "in_reply_to_user_id": "1580505223071641600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929561969603793047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_shark 美不行了。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1997,
+        "media_key": "3_1929561961311932416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GscuYWwakAAozzr.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1295,
+        "media_key": "3_1929561961307799553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GscuYWvbgAEUkSm.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1929561969603793047",
+        "created_at": "2025-06-03T06:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T07:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929786456735969502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929786456735969502",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929561969603793047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 美不行了。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929561961311932416",
+            "3_1929561961307799553"
+          ]
+        },
+        "author_id": "1580505223071641600",
+        "conversation_id": "1929561969603793047",
+        "created_at": "2025-06-02T15:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T16:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929561969603793047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bMv38Sk6o",
+              "end": 36,
+              "expanded_url": "https://x.com/qwq_shark/status/1929561969603793047/photo/1",
+              "media_key": "3_1929561961311932416",
+              "start": 13,
+              "url": "https://t.co/4bMv38Sk6o"
+            },
+            {
+              "display_url": "pic.x.com/4bMv38Sk6o",
+              "end": 36,
+              "expanded_url": "https://x.com/qwq_shark/status/1929561969603793047/photo/1",
+              "media_key": "3_1929561961307799553",
+              "start": 13,
+              "url": "https://t.co/4bMv38Sk6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929561969603793047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1292,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像……会这种画法了… https://t.co/4bMv38Sk6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜分享日常                                                    \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 凛分身@Rinko_0o0             一点幸福都把握不住都去死吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 367,
+          "like_count": 13379,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 3734
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "好朋友@Miekoudesu｜提问箱：https://t.co/gVJiSVQFBH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Miekoudesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/1m1ssyu0",
+                "end": 42,
+                "expanded_url": "https://ngl.link/1m1ssyu0",
+                "start": 19,
+                "url": "https://t.co/gVJiSVQFBH"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912781745281462273/HyZSDNF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5396,
+          "following_count": 324,
+          "like_count": 3481,
+          "listed_count": 9,
+          "media_count": 471,
+          "tweet_count": 9995
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1887888974775296012",
+    "created_at": "2025-02-07T16:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T17:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887899096247410778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606351071206674438",
+          "start": 0,
+          "username": "jiyn91306622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887899096247410778",
+    "in_reply_to_user_id": "1606351071206674438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887888974775296012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiyn91306622 哪个b男说我家呕吐酱啊？😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1887888974775296012",
+        "created_at": "2025-02-07T16:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T17:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887899096247410778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606351071206674438",
+              "start": 0,
+              "username": "jiyn91306622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887899096247410778",
+        "in_reply_to_user_id": "1606351071206674438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887888974775296012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyn91306622 哪个b男说我家呕吐酱啊？😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606351071206674438",
+        "conversation_id": "1887888974775296012",
+        "created_at": "2025-02-07T15:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T16:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887888974775296012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887888974775296012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不把联系方式给顺男了，玩了个梗说我下贱，让我改正，我草你全价了，我平时和朋友玩的梗比这恶俗一百倍😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 226,
+          "like_count": 5335,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1357
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T18:08:44.000Z",
+        "description": "鸟会从天空跌落，四月有时亦会飘雪",
+        "id": "1606351071206674438",
+        "location": "China",
+        "name": "呕吐血浆飞溅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880440265779159040/XulAoDuF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 619,
+          "like_count": 9383,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1015
+        },
+        "username": "jiyn91306622",
+        "verified": false
+      }
+    ]
+  }
+}

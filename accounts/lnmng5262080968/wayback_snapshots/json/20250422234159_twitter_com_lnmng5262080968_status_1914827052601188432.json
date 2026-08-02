@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914594924919709849",
+    "created_at": "2025-04-22T23:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T00:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914827052601188432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825459880268050432",
+          "start": 0,
+          "username": "shinysilver404"
+        },
+        {
+          "end": 32,
+          "id": "1782035758569717762",
+          "start": 16,
+          "username": "dsas81578789597"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914827052601188432",
+    "in_reply_to_user_id": "1825459880268050432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914816280672313481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinysilver404 @dsas81578789597 你俩都去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-22T23:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T00:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914827052601188432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825459880268050432",
+              "start": 0,
+              "username": "shinysilver404"
+            },
+            {
+              "end": 32,
+              "id": "1782035758569717762",
+              "start": 16,
+              "username": "dsas81578789597"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914827052601188432",
+        "in_reply_to_user_id": "1825459880268050432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914816280672313481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinysilver404 @dsas81578789597 你俩都去死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825459880268050432",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-22T22:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T23:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914816280672313481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782035758569717762",
+              "start": 0,
+              "username": "dsas81578789597"
+            },
+            {
+              "end": 33,
+              "id": "1792011763875184640",
+              "start": 17,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914816280672313481",
+        "in_reply_to_user_id": "1782035758569717762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914812491445723501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsas81578789597 @lnmng5262080968 点了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 373,
+          "like_count": 12163,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3124
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T09:08:57.000Z",
+        "description": "拉屎推/文字推",
+        "id": "1825459880268050432",
+        "location": "南湖",
+        "name": "人皮扣",
+        "pinned_tweet_id": "1914687327882158110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910678964764631044/vJsqw2yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 321,
+          "like_count": 7424,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 3879
+        },
+        "username": "shinysilver404",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T13:17:00.000Z",
+        "description": "我想不出来很好的简介",
+        "id": "1782035758569717762",
+        "name": "雨声残响",
+        "pinned_tweet_id": "1911023986177191954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891216615066230784/Oe6aa2-j_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 172,
+          "like_count": 2091,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1859
+        },
+        "username": "dsas81578789597",
+        "verified": false
+      }
+    ]
+  }
+}

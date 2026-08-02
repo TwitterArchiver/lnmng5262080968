@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1945382473107694055",
+    "created_at": "2025-07-17T09:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T10:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945783699057864766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1033067516728369152",
+          "start": 0,
+          "username": "EmyrntiyEkRBQ6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945783699057864766",
+    "in_reply_to_user_id": "1033067516728369152",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945552161674518643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmyrntiyEkRBQ6r (*^o^*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1945382473107694055",
+        "created_at": "2025-07-17T09:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945783699057864766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1033067516728369152",
+              "start": 0,
+              "username": "EmyrntiyEkRBQ6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945783699057864766",
+        "in_reply_to_user_id": "1033067516728369152",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945552161674518643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmyrntiyEkRBQ6r (*^o^*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1033067516728369152",
+        "conversation_id": "1945382473107694055",
+        "created_at": "2025-07-16T18:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T19:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945552161674518643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945552161674518643",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945382473107694055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 364,
+          "like_count": 13653,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 4110
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-24T19:04:24.000Z",
+        "description": "生活太无趣了",
+        "id": "1033067516728369152",
+        "name": "初音ミク01",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1057547990745915392/64SlBeux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 352,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 302
+        },
+        "username": "EmyrntiyEkRBQ6r",
+        "verified": false
+      }
+    ]
+  }
+}

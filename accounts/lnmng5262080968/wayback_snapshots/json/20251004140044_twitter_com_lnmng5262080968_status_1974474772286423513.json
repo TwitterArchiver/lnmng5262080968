@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1973389002943373556",
+    "created_at": "2025-10-04T14:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T15:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974474772286423513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495027411561627651",
+          "start": 0,
+          "username": "Kr1gaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974474772286423513",
+    "in_reply_to_user_id": "1495027411561627651",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973916520557539755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kr1gaya meat apple"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1973389002943373556",
+        "created_at": "2025-10-04T14:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T15:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974474772286423513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495027411561627651",
+              "start": 0,
+              "username": "Kr1gaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974474772286423513",
+        "in_reply_to_user_id": "1495027411561627651",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973916520557539755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kr1gaya meat apple"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495027411561627651",
+        "conversation_id": "1973389002943373556",
+        "created_at": "2025-10-03T01:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T02:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973916520557539755"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "apple",
+              "probability": 0.2803,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973916520557539755",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973389002943373556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 bad apple…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 367,
+          "like_count": 14060,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 4446
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-19T13:28:15.000Z",
+        "description": "碎碎念 \n看到都会回关 漏互fo请私我😭\nhttps://t.co/uYLjjke2ez",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/c1svul1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/c1svul1",
+                "start": 21,
+                "url": "https://t.co/uYLjjke2ez"
+              }
+            ]
+          }
+        },
+        "id": "1495027411561627651",
+        "location": "Mirage",
+        "name": "c1svul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967612070599516160/2b1uG9Ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 1058,
+          "like_count": 395,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 750
+        },
+        "username": "Kr1gaya",
+        "verified": false
+      }
+    ]
+  }
+}

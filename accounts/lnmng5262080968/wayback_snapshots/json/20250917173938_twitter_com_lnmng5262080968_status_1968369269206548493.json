@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1968267673122623958",
+    "created_at": "2025-09-17T17:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T18:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968369269206548493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968369269206548493",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968267673122623958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 吉他张法友申请"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_1968267666625548288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CxA7QaUAAdNca.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1968267673122623958",
+        "created_at": "2025-09-17T17:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T18:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968369269206548493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968369269206548493",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968267673122623958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 吉他张法友申请"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968267666625548288"
+          ]
+        },
+        "author_id": "1850566498412318720",
+        "conversation_id": "1968267673122623958",
+        "created_at": "2025-09-17T10:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968267673122623958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/199ofgDbs9",
+              "end": 33,
+              "expanded_url": "https://x.com/luobo4444/status/1968267673122623958/photo/1",
+              "media_key": "3_1968267666625548288",
+              "start": 10,
+              "url": "https://t.co/199ofgDbs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968267673122623958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32193,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迟早要了这娘们./ https://t.co/199ofgDbs9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 368,
+          "like_count": 14062,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 4403
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜06｜中推圈的大家都叫我萝卜哥｜v128看我在朋友圈刷屏｜和你想象中不一样很抱歉｜现充版本@luobodoul｜提问箱https://t.co/7PLNNU5F9q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "luobodoul"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yanyan_kwaii",
+                "end": 99,
+                "expanded_url": "https://ngl.link/yanyan_kwaii",
+                "start": 76,
+                "url": "https://t.co/7PLNNU5F9q"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "我要做一个流着泪说完蛋了 但是依旧迎难而上的人",
+        "name": "hara",
+        "pinned_tweet_id": "1956533495397781880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938181651831656448/nddFGYZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7612,
+          "following_count": 470,
+          "like_count": 3753,
+          "listed_count": 10,
+          "media_count": 512,
+          "tweet_count": 2736
+        },
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

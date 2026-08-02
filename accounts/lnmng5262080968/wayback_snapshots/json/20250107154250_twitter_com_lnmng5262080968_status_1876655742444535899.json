@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1876655742444535899",
+    "created_at": "2025-01-07T15:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T16:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876655742444535899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Youyin999/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Youyin999/status/1876583139746975780",
+          "start": 6,
+          "url": "https://t.co/rxgrFpTf8K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876655742444535899",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876583139746975780",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抱抱小脆… https://t.co/rxgrFpTf8K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1876655742444535899",
+        "created_at": "2025-01-07T15:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T16:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876655742444535899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Youyin999/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Youyin999/status/1876583139746975780",
+              "start": 6,
+              "url": "https://t.co/rxgrFpTf8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876655742444535899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876583139746975780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抱抱小脆… https://t.co/rxgrFpTf8K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876583132352409600"
+          ]
+        },
+        "author_id": "1817028680088190977",
+        "conversation_id": "1876583139746975780",
+        "created_at": "2025-01-07T10:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T11:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876583139746975780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h39KUCGNIf",
+              "end": 149,
+              "expanded_url": "https://x.com/Youyin999/status/1876583139746975780/photo/1",
+              "media_key": "3_1876583132352409600",
+              "start": 126,
+              "url": "https://t.co/h39KUCGNIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876583139746975780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小脆心脏病甲流感进医院了好难受感觉见到了上帝我觉得我活得时间不会太长好，想让你们都抱抱我我最讨厌背叛了我讨厌别人在背后议论我我什么都没有我什么都不会我也什么都不是我好难受我要死掉了真的好难受为什么会这么难受今天晕倒了希望下次不会再这个样子了..... https://t.co/h39KUCGNIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜已有主人                                                \n欢迎来到凛凛的阴暗小世界…\n🚪38好友位 68聊天 88有朋友圈",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 49,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 185
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T02:46:22.000Z",
+        "description": "：3无聊的地球生物想和其他人交朋友🍥可以互fo 想破200_(:3 」∠)_身体素质越来越差了……谁想和我来一个电子抱抱？让我来抱抱你吧～咪啪^大家都是好朋友来一起玩耍吧大家要每天开开心心哦最喜欢和大家一起聊天了哼哼！",
+        "id": "1817028680088190977",
+        "location": "Hong Kong",
+        "name": "小脆★彡",
+        "pinned_tweet_id": "1875952268601852315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875948454603620352/X5yrdqS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 116,
+          "like_count": 3340,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 139
+        },
+        "username": "Youyin999",
+        "verified": false
+      }
+    ]
+  }
+}

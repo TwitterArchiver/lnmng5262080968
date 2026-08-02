@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1915074259497443545",
+    "created_at": "2025-04-24T07:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T08:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915308007367340427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490543758160527361",
+          "start": 0,
+          "username": "Qiu1647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915308007367340427",
+    "in_reply_to_user_id": "1490543758160527361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915074259497443545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiu1647 抱抱你🥹其实你并不像他说的那么差，他只是不懂教育也不懂你。你很棒没有在打压下走歪也在一点一点强大起来。谢谢你帮我说话🩷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915074240136581120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpO13_nXkAAePnk.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1915074259497443545",
+        "created_at": "2025-04-24T07:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T08:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915308007367340427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490543758160527361",
+              "start": 0,
+              "username": "Qiu1647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915308007367340427",
+        "in_reply_to_user_id": "1490543758160527361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915074259497443545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiu1647 抱抱你🥹其实你并不像他说的那么差，他只是不懂教育也不懂你。你很棒没有在打压下走歪也在一点一点强大起来。谢谢你帮我说话🩷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915074240136581120"
+          ]
+        },
+        "author_id": "1490543758160527361",
+        "conversation_id": "1915074259497443545",
+        "created_at": "2025-04-23T16:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T17:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915074259497443545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "杂谈壹陆肆柒"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXY16EaIuZ",
+              "end": 141,
+              "expanded_url": "https://x.com/Qiu1647/status/1915074259497443545/photo/1",
+              "media_key": "3_1915074240136581120",
+              "start": 118,
+              "url": "https://t.co/hXY16EaIuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915074259497443545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃杂谈壹陆肆柒\n我对这种靠着压力和什么丛林法则的话打压别人的行为很厌恶。因为我的父亲是这样的人，每当我遇到挫折时父亲会告诉我\"你失败因为你不够努力，你很蠢，你被他人带偏了，你没有思考的能力，你不如其他人\"他通过打压的方法让我靠憎恨成长 https://t.co/hXY16EaIuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 377,
+          "like_count": 12283,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 3186
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "谢谢你的点赞与关注\n男性/直/极端厌恶弱智/尊重同性恋但对跨性持怀疑态度。自我介绍 个人照片在置顶",
+        "id": "1490543758160527361",
+        "location": "超维视界",
+        "name": "離人心上秋1647",
+        "pinned_tweet_id": "1895492350698525028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897288269643005952/i6IF9Zg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 829,
+          "like_count": 22139,
+          "listed_count": 3,
+          "media_count": 272,
+          "tweet_count": 6873
+        },
+        "username": "Qiu1647",
+        "verified": false
+      }
+    ]
+  }
+}

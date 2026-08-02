@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1945087904197353891",
+    "created_at": "2025-07-15T17:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T18:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945176153737847071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673478285970518016",
+          "start": 0,
+          "username": "1327144914V3frc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945176153737847071",
+    "in_reply_to_user_id": "1673478285970518016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945095366493224968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1327144914V3frc 怕踩到你（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1945087904197353891",
+        "created_at": "2025-07-15T17:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T18:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945176153737847071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673478285970518016",
+              "start": 0,
+              "username": "1327144914V3frc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945176153737847071",
+        "in_reply_to_user_id": "1673478285970518016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945095366493224968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1327144914V3frc 怕踩到你（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673478285970518016",
+        "conversation_id": "1945087904197353891",
+        "created_at": "2025-07-15T12:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T13:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945095366493224968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945095366493224968",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945087904197353891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我更丑，不凿，来北京请你吃饭玩，仅限于周末"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT  欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 364,
+          "like_count": 13622,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 4080
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T23:48:16.000Z",
+        "description": "男！男！男！",
+        "id": "1673478285970518016",
+        "name": "水母大军进攻蚂蚁窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896696762750173184/2vmUE9VV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 69,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 357
+        },
+        "username": "1327144914V3frc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1881385424045883580",
+    "created_at": "2025-01-20T16:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T17:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881385424045883580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1734928362894983168",
+          "start": 3,
+          "username": "Kwaiikunai_oO"
+        }
+      ],
+      "urls": [
+        {
+          "description": "未戀.。’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1YpKk…",
+          "end": 42,
+          "expanded_url": "https://x.com/i/spaces/1YpKkllAeOPGj",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1881385122093834240/Bc5K5kXN?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1881385122093834240/Bc5K5kXN?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 19,
+          "status": 200,
+          "title": "Happening now: od",
+          "unwound_url": "https://twitter.com/i/spaces/1YpKkllAeOPGj/peek",
+          "url": "https://t.co/Dk17klWlgm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881385424045883580",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881385120957137355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kwaiikunai_oO: https://t.co/Dk17klWlgm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1881385424045883580",
+        "created_at": "2025-01-20T16:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T17:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881385424045883580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1734928362894983168",
+              "start": 3,
+              "username": "Kwaiikunai_oO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "未戀.。’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1YpKk…",
+              "end": 42,
+              "expanded_url": "https://x.com/i/spaces/1YpKkllAeOPGj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1881385122093834240/Bc5K5kXN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1881385122093834240/Bc5K5kXN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "Happening now: od",
+              "unwound_url": "https://twitter.com/i/spaces/1YpKkllAeOPGj/peek",
+              "url": "https://t.co/Dk17klWlgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881385424045883580",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881385120957137355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kwaiikunai_oO: https://t.co/Dk17klWlgm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734928362894983168",
+        "conversation_id": "1881385120957137355",
+        "created_at": "2025-01-20T16:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T17:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881385120957137355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "未戀.。’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1YpKk…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1YpKkllAeOPGj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1881385122093834240/Bc5K5kXN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1881385122093834240/Bc5K5kXN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: od",
+              "unwound_url": "https://twitter.com/i/spaces/1YpKkllAeOPGj/peek",
+              "url": "https://t.co/Dk17klWlgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881385120957137355",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Dk17klWlgm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 138,
+          "like_count": 2731,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 503
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:29:59.000Z",
+        "description": "=未戀",
+        "id": "1734928362894983168",
+        "location": "尋找虛假的愛",
+        "name": "未戀.。",
+        "pinned_tweet_id": "1873046071372595624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872753222949191684/2dI2xXIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 58,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 65
+        },
+        "username": "Kwaiikunai_oO",
+        "verified": false
+      }
+    ]
+  }
+}

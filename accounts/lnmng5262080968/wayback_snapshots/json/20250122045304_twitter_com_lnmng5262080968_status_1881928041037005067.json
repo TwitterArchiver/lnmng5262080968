@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1881923531614941643",
+    "created_at": "2025-01-22T04:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T05:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881928041037005067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1608271700445265921",
+          "start": 0,
+          "username": "xiaomangguo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881928041037005067",
+    "in_reply_to_user_id": "1608271700445265921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881923531614941643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomangguo8964 我是来结束这个乐队的.jpg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1881923531614941643",
+        "created_at": "2025-01-22T04:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T05:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881928041037005067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1608271700445265921",
+              "start": 0,
+              "username": "xiaomangguo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881928041037005067",
+        "in_reply_to_user_id": "1608271700445265921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881923531614941643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomangguo8964 我是来结束这个乐队的.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881923524128018432"
+          ]
+        },
+        "author_id": "1608271700445265921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1881923531614941643",
+        "created_at": "2025-01-22T04:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T05:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881923531614941643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fOMtXJtlj",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaomangguo8964/status/1881923531614941643/photo/1",
+              "media_key": "3_1881923524128018432",
+              "start": 11,
+              "url": "https://t.co/5fOMtXJtlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881923531614941643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已重组crychic https://t.co/5fOMtXJtlj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 151,
+          "like_count": 3048,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 600
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T01:20:43.000Z",
+        "description": "花と水飴、最終電車。",
+        "id": "1608271700445265921",
+        "location": "新大陆古龙调查团四期团",
+        "name": "小芒果🧊",
+        "pinned_tweet_id": "1847310968046629301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877694764948332544/fUxr9nm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 657,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 374
+        },
+        "username": "xiaomangguo8964",
+        "verified": false
+      }
+    ]
+  }
+}

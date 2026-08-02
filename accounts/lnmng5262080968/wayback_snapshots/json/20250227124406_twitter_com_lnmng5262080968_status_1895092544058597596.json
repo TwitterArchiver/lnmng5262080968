@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1895067917747654772",
+    "created_at": "2025-02-27T12:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T13:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895092544058597596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740016196144218112",
+          "start": 0,
+          "username": "PcWNxwblBa56956"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895092544058597596",
+    "in_reply_to_user_id": "1740016196144218112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895067917747654772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PcWNxwblBa56956 但素你美美的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4200,
+        "height": 1280,
+        "media_key": "13_1895067845383319552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1895067845383319552/img/xjDY3ESHKMEIpLN4.jpg",
+        "public_metrics": {
+          "view_count": 161
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895067845383319552/vid/avc1/320x568/OJgXk23qQTGodjYL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895067845383319552/vid/avc1/480x852/Ak1ih6XqmDM_Piwj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895067845383319552/vid/avc1/720x1280/-vLKHzx7ooK-Hw5c.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1895067845383319552/pl/FppqpQR_WM7YrQI6.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1895067917747654772",
+        "created_at": "2025-02-27T12:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895092544058597596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740016196144218112",
+              "start": 0,
+              "username": "PcWNxwblBa56956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895092544058597596",
+        "in_reply_to_user_id": "1740016196144218112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895067917747654772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PcWNxwblBa56956 但素你美美的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1895067845383319552"
+          ]
+        },
+        "author_id": "1740016196144218112",
+        "conversation_id": "1895067917747654772",
+        "created_at": "2025-02-27T11:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T12:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895067917747654772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amnQ2KWfaT",
+              "end": 39,
+              "expanded_url": "https://x.com/PcWNxwblBa56956/status/1895067917747654772/video/1",
+              "media_key": "13_1895067845383319552",
+              "start": 16,
+              "url": "https://t.co/amnQ2KWfaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895067917747654772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一年前在另外一个丑丑的出租屋里 https://t.co/amnQ2KWfaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 303,
+          "like_count": 7817,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1890
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T14:26:09.000Z",
+        "description": "小林光一/小林酱。头像是十年前的自拍，NJZ和kaze的小粉丝，希望十年内能给kaze拍mv，喜欢点赞美女和日系男，hope u can teach me Japanese。希望你们来看我的推特都是开心的呀！",
+        "id": "1740016196144218112",
+        "name": "亚力电蛙",
+        "pinned_tweet_id": "1889374887908700458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890444517662240768/RVv3IRDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 146,
+          "like_count": 1702,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 464
+        },
+        "username": "PcWNxwblBa56956",
+        "verified": false
+      }
+    ]
+  }
+}

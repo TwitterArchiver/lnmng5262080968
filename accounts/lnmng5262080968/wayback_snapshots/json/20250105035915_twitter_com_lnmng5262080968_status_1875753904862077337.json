@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1875753904862077337",
+    "created_at": "2025-01-05T03:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T04:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875753904862077337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1491205591754473474",
+          "start": 3,
+          "username": "keshiwohaokun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875753904862077337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875388268864532675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keshiwohaokun: 你其实不是想谈，你只是想做别人的唯一。因为亲友有别的亲友，固聊有别的固聊，就连路边的小猫都有别的好心人。你需要成为一个人的首选和唯一，让其为你提供情绪价值，仅此而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1875753904862077337",
+        "created_at": "2025-01-05T03:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T04:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875753904862077337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1491205591754473474",
+              "start": 3,
+              "username": "keshiwohaokun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875753904862077337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875388268864532675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keshiwohaokun: 你其实不是想谈，你只是想做别人的唯一。因为亲友有别的亲友，固聊有别的固聊，就连路边的小猫都有别的好心人。你需要成为一个人的首选和唯一，让其为你提供情绪价值，仅此而已。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491205591754473474",
+        "conversation_id": "1875388268864532675",
+        "created_at": "2025-01-04T03:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T04:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875388268864532675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875388268864532675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 37519,
+          "like_count": 669,
+          "quote_count": 11,
+          "reply_count": 42,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "你其实不是想谈，你只是想做别人的唯一。因为亲友有别的亲友，固聊有别的固聊，就连路边的小猫都有别的好心人。你需要成为一个人的首选和唯一，让其为你提供情绪价值，仅此而已。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪\n欢迎来到凛凛的阴暗小世界…\n此平台不定时在线 随时暴毙\n凛凛找到了自己的主人",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 15,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 123
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T00:21:40.000Z",
+        "description": "†女的，大概是活的 † sub｜ 日常推/文盲/自由散漫/有🚪520 纯绿（意思是不免费陪聊 别骚扰我了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=PT1iuT9D",
+                "start": 0,
+                "url": "https://t.co/TMKGn0r56g"
+              }
+            ]
+          }
+        },
+        "id": "1491205591754473474",
+        "location": "自用VPN↓",
+        "name": "可是我好困",
+        "pinned_tweet_id": "1845393712739909845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818981689731031040/CRhpHpuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30065,
+          "following_count": 549,
+          "like_count": 60618,
+          "listed_count": 64,
+          "media_count": 2618,
+          "tweet_count": 29475
+        },
+        "url": "https://t.co/TMKGn0r56g",
+        "username": "keshiwohaokun",
+        "verified": false
+      }
+    ]
+  }
+}

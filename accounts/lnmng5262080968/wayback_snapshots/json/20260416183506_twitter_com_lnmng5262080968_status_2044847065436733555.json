@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044847053361295360"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "2044847065436733555",
+    "created_at": "2026-04-16T18:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T19:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044847065436733555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g3AV70QSfn",
+          "end": 43,
+          "expanded_url": "https://x.com/lnmng5262080968/status/2044847065436733555/photo/1",
+          "media_key": "3_2044847053361295360",
+          "start": 20,
+          "url": "https://t.co/g3AV70QSfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044847065436733555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为啥割小凉席还那么多血，我都擦好几遍了 https://t.co/g3AV70QSfn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2044847065436733555].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2044847065436733555",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2044847065436733555"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044847053361295360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDBj5uasAAw6OS.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 308,
+          "like_count": 17352,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 5770
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

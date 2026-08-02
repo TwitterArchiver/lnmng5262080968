@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1878799187451740285",
+    "created_at": "2025-01-13T16:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T17:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878844055330881785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472147307730817025",
+          "start": 0,
+          "username": "20080522dqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878844055330881785",
+    "in_reply_to_user_id": "1472147307730817025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878833092670230939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@20080522dqc 贴贴♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1878799187451740285",
+        "created_at": "2025-01-13T16:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T17:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878844055330881785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472147307730817025",
+              "start": 0,
+              "username": "20080522dqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878844055330881785",
+        "in_reply_to_user_id": "1472147307730817025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878833092670230939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@20080522dqc 贴贴♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472147307730817025",
+        "conversation_id": "1878799187451740285",
+        "created_at": "2025-01-13T15:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T16:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878833092670230939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878833092670230939",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878799187451740285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜已有主人                                                        \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友\n🚪38好友位48有朋友圈  68聊天",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1878291594681704469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 96,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 355
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T10:10:54.000Z",
+        "description": "辽宁抚顺 16高二啦 177cm  我叫绮辰呀～\n日常清水～  有时候会搞黄的说\n扩列扩列都来加我喵呜 喜欢furry! \nQQ：2066143179",
+        "id": "1472147307730817025",
+        "location": "辽宁抚顺",
+        "name": "绮辰Chen",
+        "pinned_tweet_id": "1840593819806634286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611699692211171331/DnEEhDyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 720,
+          "like_count": 184,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 167
+        },
+        "username": "20080522dqc",
+        "verified": false
+      }
+    ]
+  }
+}

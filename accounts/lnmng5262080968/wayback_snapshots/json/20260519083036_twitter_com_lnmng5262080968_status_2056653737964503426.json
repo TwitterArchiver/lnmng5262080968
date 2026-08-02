@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2055726240980746478",
+    "created_at": "2026-05-19T08:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056653737964503426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1422840890184269824",
+          "start": 0,
+          "username": "Tyy_jjsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056653737964503426",
+    "in_reply_to_user_id": "1422840890184269824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056467074256654643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tyy_jjsz 我也就一两个证感觉没啥用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2055726240980746478",
+        "created_at": "2026-05-19T08:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056653737964503426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1422840890184269824",
+              "start": 0,
+              "username": "Tyy_jjsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056653737964503426",
+        "in_reply_to_user_id": "1422840890184269824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056467074256654643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tyy_jjsz 我也就一两个证感觉没啥用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422840890184269824",
+        "conversation_id": "2055726240980746478",
+        "created_at": "2026-05-18T20:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T21:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056467074256654643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056467074256654643",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056410645302825113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 每天过着无社交打游戏混吃等死的摆烂生活，一个证没考，令人感叹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 313,
+          "like_count": 17515,
+          "listed_count": 5,
+          "media_count": 205,
+          "tweet_count": 5896
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T08:44:59.000Z",
+        "description": "中文/English/日本語/한국어\nVTB",
+        "id": "1422840890184269824",
+        "location": "People Republic of China",
+        "name": "輕鬆快樂🎨🦂💯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033016600962764800/kF2NMd0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 233,
+          "like_count": 2147,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 495
+        },
+        "username": "Tyy_jjsz",
+        "verified": false
+      }
+    ]
+  }
+}

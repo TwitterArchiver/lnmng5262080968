@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1927198889792221512",
+    "created_at": "2025-05-27T05:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T06:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927229867398988118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1671296977294987264",
+          "start": 0,
+          "username": "Plus_NGC1333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927229867398988118",
+    "in_reply_to_user_id": "1671296977294987264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927202791174381775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plus_NGC1333 误入🐔窝救救我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1927198889792221512",
+        "created_at": "2025-05-27T05:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T06:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927229867398988118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1671296977294987264",
+              "start": 0,
+              "username": "Plus_NGC1333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927229867398988118",
+        "in_reply_to_user_id": "1671296977294987264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927202791174381775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plus_NGC1333 误入🐔窝救救我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671296977294987264",
+        "conversation_id": "1927198889792221512",
+        "created_at": "2025-05-27T03:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T04:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927202791174381775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927202791174381775",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927198889792221512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 抄近路回家走到风情街的无力感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 366,
+          "like_count": 13202,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3634
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T23:20:35.000Z",
+        "description": "「约定是普通人也能用的言灵」||可以叫我加加/++/字母数字||NGL：https://t.co/wi6nD5FTQx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/plus_ngc1333",
+                "end": 59,
+                "expanded_url": "https://ngl.link/plus_ngc1333",
+                "start": 36,
+                "url": "https://t.co/wi6nD5FTQx"
+              }
+            ]
+          }
+        },
+        "id": "1671296977294987264",
+        "location": "消失了！",
+        "name": "★Plus_VFTS352★",
+        "pinned_tweet_id": "1922278211011985885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922279230705901568/I-Zc-uNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 499,
+          "like_count": 7672,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 4217
+        },
+        "username": "Plus_NGC1333",
+        "verified": false
+      }
+    ]
+  }
+}

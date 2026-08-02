@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-22T10:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992175878433079516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1332346767950671878",
+          "start": 0,
+          "username": "TelazaiZoro_tt"
+        },
+        {
+          "end": 27,
+          "id": "1966957265258430465",
+          "start": 16,
+          "username": "07axxxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992175878433079516",
+    "in_reply_to_user_id": "1332346767950671878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992094832664396106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TelazaiZoro_tt @07axxxxxxx 对对经常脑雾来着，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T10:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992175878433079516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1332346767950671878",
+              "start": 0,
+              "username": "TelazaiZoro_tt"
+            },
+            {
+              "end": 27,
+              "id": "1966957265258430465",
+              "start": 16,
+              "username": "07axxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992175878433079516",
+        "in_reply_to_user_id": "1332346767950671878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992094832664396106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TelazaiZoro_tt @07axxxxxxx 对对经常脑雾来着，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332346767950671878",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T04:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992094832664396106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1966957265258430465",
+              "start": 0,
+              "username": "07axxxxxxx"
+            },
+            {
+              "end": 28,
+              "id": "1792011763875184640",
+              "start": 12,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992094832664396106",
+        "in_reply_to_user_id": "1966957265258430465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991951787235099046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@07axxxxxxx @lnmng5262080968 （点头点头）我真的有青年痴呆风险…记忆力越来越差…还越来越喜欢发呆…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 380,
+          "like_count": 14686,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4807
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-27T15:33:41.000Z",
+        "description": "杂食党好快乐！耶耶耶！(˃ ⌑ ˂ഃ )\n啥都嗑，嗑啥都香！cp大乱炖也好香…嘿嘿(//̀ὢ/́/)\n我永远喜欢海贼王❤️！！！✧*｡٩(ˊᗜˋ*)و✧*｡\n\n还有——请原谅我的默默关注…",
+        "id": "1332346767950671878",
+        "name": "你是蘑菇吗？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716513817226805248/6nC3JWsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 376,
+          "like_count": 1540,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1025
+        },
+        "username": "TelazaiZoro_tt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T20:08:57.000Z",
+        "description": "so girl 你讨厌我 因为我在emo",
+        "id": "1966957265258430465",
+        "name": "算了没事",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990477349369102336/NrjvCU27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 70,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1214
+        },
+        "username": "07axxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

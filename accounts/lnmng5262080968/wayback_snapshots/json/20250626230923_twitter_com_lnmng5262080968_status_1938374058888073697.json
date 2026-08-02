@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1938261109443793222",
+    "created_at": "2025-06-26T23:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T00:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938374058888073697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1619337971039350784",
+          "start": 0,
+          "username": "LEEROUXIMoe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938374058888073697",
+    "in_reply_to_user_id": "1619337971039350784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938264651470672120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LEEROUXIMoe1 我真的好尴尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1938261109443793222",
+        "created_at": "2025-06-26T23:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T00:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938374058888073697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1619337971039350784",
+              "start": 0,
+              "username": "LEEROUXIMoe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938374058888073697",
+        "in_reply_to_user_id": "1619337971039350784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938264651470672120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LEEROUXIMoe1 我真的好尴尬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619337971039350784",
+        "conversation_id": "1938261109443793222",
+        "created_at": "2025-06-26T15:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938264651470672120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938264651470672120",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938261109443793222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 能问出这种问题的也是全家死绝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 368,
+          "like_count": 13669,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 4022
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T14:14:33.000Z",
+        "description": "=洛意 精无 /精分/重焦/很好相处大家快找我互fo",
+        "id": "1619337971039350784",
+        "name": "地雷の女の子は負けない",
+        "pinned_tweet_id": "1909944682123300869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934061783238742016/stHrJrvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 443,
+          "like_count": 2869,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 2459
+        },
+        "username": "LEEROUXIMoe1",
+        "verified": false
+      }
+    ]
+  }
+}

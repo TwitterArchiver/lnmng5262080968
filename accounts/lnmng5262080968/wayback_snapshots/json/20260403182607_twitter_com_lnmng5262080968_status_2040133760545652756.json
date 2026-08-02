@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2039820747028480162",
+    "created_at": "2026-04-03T18:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T19:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040133760545652756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779747754216198144",
+          "start": 0,
+          "username": "Mercury_97z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040133760545652756",
+    "in_reply_to_user_id": "1779747754216198144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039820747028480162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercury_97z 一样。。我没毕业就已经萎靡不振了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2039820747028480162",
+        "created_at": "2026-04-03T18:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040133760545652756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779747754216198144",
+              "start": 0,
+              "username": "Mercury_97z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040133760545652756",
+        "in_reply_to_user_id": "1779747754216198144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039820747028480162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercury_97z 一样。。我没毕业就已经萎靡不振了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779747754216198144",
+        "conversation_id": "2039820747028480162",
+        "created_at": "2026-04-02T21:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T22:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039820747028480162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039820747028480162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15885,
+          "like_count": 201,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实我感觉毕业了几年之后我想挣大钱的志气已经磨灭了………我睡不着在看工作我在想要不要就直接找一些比较老的公司面一些轻松的职位➕平时的兼职就够了………我才二十几就想躺平了怎么办我一点斗志都没有了…………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 308,
+          "like_count": 17109,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 5690
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T05:45:24.000Z",
+        "description": "热爱蓝色/双/超爱动漫/热爱美好肉体和有趣的帖子/爱随机互动/听得杂/看得杂/人有点乱七八糟/🚫关于zz",
+        "id": "1779747754216198144",
+        "name": "咩咩",
+        "pinned_tweet_id": "2039416640065175905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005372844805636096/6WLieqNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 1110,
+          "like_count": 34861,
+          "listed_count": 7,
+          "media_count": 648,
+          "tweet_count": 5032
+        },
+        "username": "Mercury_97z",
+        "verified": false
+      }
+    ]
+  }
+}

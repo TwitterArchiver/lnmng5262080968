@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1997597499578802387",
+    "created_at": "2025-12-08T10:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T11:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997982004231774357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995351341611499521",
+          "start": 0,
+          "username": "kungsnkung42480"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997982004231774357",
+    "in_reply_to_user_id": "1995351341611499521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997713411380314557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kungsnkung42480 羡慕你😭谁跟我社交"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1997597499578802387",
+        "created_at": "2025-12-08T10:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997982004231774357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995351341611499521",
+              "start": 0,
+              "username": "kungsnkung42480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997982004231774357",
+        "in_reply_to_user_id": "1995351341611499521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997713411380314557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kungsnkung42480 羡慕你😭谁跟我社交"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995351341611499521",
+        "conversation_id": "1997597499578802387",
+        "created_at": "2025-12-07T17:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T18:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997713411380314557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997713411380314557",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997597499578802387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 可是我真的离不开社交，在朋友眼里我是死宅，在同好眼里我是现充😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 380,
+          "like_count": 14906,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 4907
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T04:37:10.000Z",
+        "description": "加纳",
+        "id": "1995351341611499521",
+        "location": "长沙",
+        "name": "狂三只会起野牛的喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995522894982414336/sJXyJD6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 30,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 40
+        },
+        "username": "kungsnkung42480",
+        "verified": false
+      }
+    ]
+  }
+}

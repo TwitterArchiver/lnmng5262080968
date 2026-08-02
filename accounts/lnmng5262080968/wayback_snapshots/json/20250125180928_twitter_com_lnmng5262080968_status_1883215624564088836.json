@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1883042230564478984",
+    "created_at": "2025-01-25T18:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T19:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883215624564088836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1590939682568736769",
+          "start": 0,
+          "username": "yybabe0"
+        },
+        {
+          "end": 23,
+          "id": "1585204501149110274",
+          "start": 9,
+          "username": "jiajia1216ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883215624564088836",
+    "in_reply_to_user_id": "1590939682568736769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883043270504423844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yybabe0 @jiajia1216ovo 不觉得，因为我是没有大嗓门和社恐的小透明傻逼东北人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1883042230564478984",
+        "created_at": "2025-01-25T18:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T19:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883215624564088836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1590939682568736769",
+              "start": 0,
+              "username": "yybabe0"
+            },
+            {
+              "end": 23,
+              "id": "1585204501149110274",
+              "start": 9,
+              "username": "jiajia1216ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883215624564088836",
+        "in_reply_to_user_id": "1590939682568736769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883043270504423844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yybabe0 @jiajia1216ovo 不觉得，因为我是没有大嗓门和社恐的小透明傻逼东北人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "1883042230564478984",
+        "created_at": "2025-01-25T06:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T07:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883043270504423844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585204501149110274",
+              "start": 0,
+              "username": "jiajia1216ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883043270504423844",
+        "in_reply_to_user_id": "1585204501149110274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3852,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883042230564478984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajia1216ovo 你们不觉得东北人真的活得很容易吗，只要在网上表演他们与生俱来的大嗓门和自来熟就能当网红了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜我天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 186,
+          "like_count": 3752,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 830
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "防丢：@rika_2009_ 想加line私我(仅限女生），本宝母语是突厥语非华语系，连麦如果听不懂我说话请见谅，我讨厌汉族人满族人土家族壮族，以上群体给我发私信死爹烂妈全家s光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "rika_2009_"
+              }
+            ]
+          }
+        },
+        "id": "1590939682568736769",
+        "location": "🇦🇺",
+        "name": "176cm体重34kg体重刚刚好",
+        "pinned_tweet_id": "1883035010699288710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879520626677035008/kAgA-F--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 814,
+          "like_count": 12155,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 2663
+        },
+        "username": "yybabe0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T09:39:52.000Z",
+        "description": "门槛88 188/位 我叫sophia 我是新疆人 我有一半回族血统和4/1俄罗斯血统 我离家出走来到了内陆 请给我钱帮助我活着",
+        "id": "1585204501149110274",
+        "location": "5.2km",
+        "name": "Sophia",
+        "pinned_tweet_id": "1878786754838507997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883205505654616064/SefrE0Ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10848,
+          "following_count": 385,
+          "like_count": 8967,
+          "listed_count": 13,
+          "media_count": 459,
+          "tweet_count": 2671
+        },
+        "username": "jiajia1216ovo",
+        "verified": false
+      }
+    ]
+  }
+}

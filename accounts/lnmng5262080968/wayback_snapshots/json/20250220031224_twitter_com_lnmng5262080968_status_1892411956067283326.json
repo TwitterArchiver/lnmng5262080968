@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1892229418497519647",
+    "created_at": "2025-02-20T03:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T04:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892411956067283326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865050179617067008",
+          "start": 0,
+          "username": "AyaStellaria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892411956067283326",
+    "in_reply_to_user_id": "1865050179617067008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892229418497519647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyaStellaria 我也是，只会被动的和人聊天，交朋友完全是因为对方愿意跟我说话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 122,
+        "media_key": "3_1892229415234424832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkKMoLCX0AAJ0bi.jpg",
+        "width": 226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1892229418497519647",
+        "created_at": "2025-02-20T03:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T04:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892411956067283326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865050179617067008",
+              "start": 0,
+              "username": "AyaStellaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892411956067283326",
+        "in_reply_to_user_id": "1865050179617067008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892229418497519647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyaStellaria 我也是，只会被动的和人聊天，交朋友完全是因为对方愿意跟我说话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892229415234424832"
+          ]
+        },
+        "author_id": "1865050179617067008",
+        "conversation_id": "1892229418497519647",
+        "created_at": "2025-02-19T15:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T16:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892229418497519647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDs9d2m4Cv",
+              "end": 160,
+              "expanded_url": "https://x.com/AyaStellaria/status/1892229418497519647/photo/1",
+              "media_key": "3_1892229415234424832",
+              "start": 137,
+              "url": "https://t.co/zDs9d2m4Cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892229418497519647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 641,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有时候感觉很奇怪，处于一个既希望有人找我聊天又希望别有人找我的状态，可能被动社交就是这样的？毕竟我很少会去经常主动找人聊天，我脑子里惯是没什么话题的，但是要是对我抛出一个话题，我八成是能接住聊的，只是要是这个话题聊完了对方没有提出新的什么话题，在我这里这段聊天大概就死了x https://t.co/zDs9d2m4Cv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 255,
+          "like_count": 6987,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1690
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:06:56.000Z",
+        "description": "他们的悲伤化成了灰，散落在无情的大海中",
+        "id": "1865050179617067008",
+        "location": "超出三界外，不在五行中",
+        "name": "凛御",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881721554477953024/L7A0VqrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 622,
+          "like_count": 30095,
+          "listed_count": 8,
+          "media_count": 112,
+          "tweet_count": 6377
+        },
+        "username": "AyaStellaria",
+        "verified": false
+      }
+    ]
+  }
+}

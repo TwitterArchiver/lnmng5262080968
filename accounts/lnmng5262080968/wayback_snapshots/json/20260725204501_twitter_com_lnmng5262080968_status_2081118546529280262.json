@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2081104630281597266",
+    "created_at": "2026-07-25T20:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T21:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081118546529280262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358019615993987075",
+          "start": 0,
+          "username": "qwq_xiaoan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081118546529280262",
+    "in_reply_to_user_id": "1358019615993987075",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081111023369728156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_xiaoan ^ω^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2081104630281597266",
+        "created_at": "2026-07-25T20:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T21:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081118546529280262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1358019615993987075",
+              "start": 0,
+              "username": "qwq_xiaoan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081118546529280262",
+        "in_reply_to_user_id": "1358019615993987075",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081111023369728156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_xiaoan ^ω^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358019615993987075",
+        "conversation_id": "2081104630281597266",
+        "created_at": "2026-07-25T20:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T21:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081111023369728156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081111023369728156",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081104630281597266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 好萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 311,
+          "like_count": 17884,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 6129
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T11:48:09.000Z",
+        "description": "找回推油中……",
+        "id": "1358019615993987075",
+        "location": "广州",
+        "name": "喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053517758642700288/afqLILKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 348,
+          "like_count": 7969,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 3749
+        },
+        "url": "",
+        "username": "qwq_xiaoan",
+        "verified": false
+      }
+    ]
+  }
+}

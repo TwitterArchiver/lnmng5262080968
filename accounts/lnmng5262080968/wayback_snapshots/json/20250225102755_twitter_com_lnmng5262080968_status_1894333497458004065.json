@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1894236950435172546",
+    "created_at": "2025-02-25T10:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T11:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894333497458004065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865636851643744257",
+          "start": 0,
+          "username": "akanenene19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894333497458004065",
+    "in_reply_to_user_id": "1865636851643744257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894236950435172546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akanenene19 来财，来财，来，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1894236950435172546",
+        "created_at": "2025-02-25T10:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T11:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894333497458004065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865636851643744257",
+              "start": 0,
+              "username": "akanenene19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894333497458004065",
+        "in_reply_to_user_id": "1865636851643744257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894236950435172546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akanenene19 来财，来财，来，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865636851643744257",
+        "conversation_id": "1894236950435172546",
+        "created_at": "2025-02-25T04:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T05:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894236950435172546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894236950435172546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经两天没有抽烟了\n来财来财来财来来来财来财"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 292,
+          "like_count": 7536,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1848
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T05:57:56.000Z",
+        "description": "堂堂复活",
+        "id": "1865636851643744257",
+        "location": "🇯🇵",
+        "name": "茜Akane",
+        "pinned_tweet_id": "1893679221593068000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892232379441483777/-ioNSOjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 65,
+          "like_count": 3008,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1259
+        },
+        "username": "akanenene19",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914597344450138617",
+    "created_at": "2025-04-23T01:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T02:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914859397437907226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782035758569717762",
+          "start": 0,
+          "username": "dsas81578789597"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914859397437907226",
+    "in_reply_to_user_id": "1782035758569717762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914845034693771688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsas81578789597 你他妈就跟女孩被qj说苍蝇不叮无缝的蛋之类言论一样蠢，把刀子捅在受害者上，觉得我窝囊你就去死，自己脑子极端宽于待己严以律人看点负能推文就以为是卖惨在装挺脑残的，咱们素不相识别在这狗叫了，觉得我烦可以屏蔽我没必要一顿乱咬让大家都觉得你是sb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914597344450138617",
+        "created_at": "2025-04-23T01:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T02:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914859397437907226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782035758569717762",
+              "start": 0,
+              "username": "dsas81578789597"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914859397437907226",
+        "in_reply_to_user_id": "1782035758569717762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914845034693771688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsas81578789597 你他妈就跟女孩被qj说苍蝇不叮无缝的蛋之类言论一样蠢，把刀子捅在受害者上，觉得我窝囊你就去死，自己脑子极端宽于待己严以律人看点负能推文就以为是卖惨在装挺脑残的，咱们素不相识别在这狗叫了，觉得我烦可以屏蔽我没必要一顿乱咬让大家都觉得你是sb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782035758569717762",
+        "conversation_id": "1914597344450138617",
+        "created_at": "2025-04-23T00:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T01:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914845034693771688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914845034693771688",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914597344450138617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 窝囊的想吐 线上骂别人傻B那劲拿出来线下也不至于那么受气了 你是受害者还是你只是很爱卖惨很爱装 你自己心里清楚哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 373,
+          "like_count": 12179,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3141
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T13:17:00.000Z",
+        "description": "我想不出来很好的简介",
+        "id": "1782035758569717762",
+        "name": "雨声残响",
+        "pinned_tweet_id": "1911023986177191954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891216615066230784/Oe6aa2-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 172,
+          "like_count": 2085,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1863
+        },
+        "username": "dsas81578789597",
+        "verified": false
+      }
+    ]
+  }
+}

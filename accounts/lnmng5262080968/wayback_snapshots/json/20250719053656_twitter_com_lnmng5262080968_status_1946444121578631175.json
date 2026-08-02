@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1945830818904985783",
+    "created_at": "2025-07-19T05:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T06:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946444121578631175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875114381807427584",
+          "start": 0,
+          "username": "Liangsicheng127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946444121578631175",
+    "in_reply_to_user_id": "1875114381807427584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945896651811586228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liangsicheng127 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1945830818904985783",
+        "created_at": "2025-07-19T05:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T06:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946444121578631175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875114381807427584",
+              "start": 0,
+              "username": "Liangsicheng127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946444121578631175",
+        "in_reply_to_user_id": "1875114381807427584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945896651811586228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangsicheng127 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875114381807427584",
+        "conversation_id": "1945830818904985783",
+        "created_at": "2025-07-17T17:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T18:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945896651811586228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945896651811586228",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945830818904985783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 无论好坏，都有价值，价值高低评价的只是物理价值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 我真的很烂很恶心 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 368,
+          "like_count": 13675,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 4123
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:38:16.000Z",
+        "description": "坠入爱河的前提是，你不能有意坠入",
+        "id": "1875114381807427584",
+        "location": "福州市",
+        "name": "医生不让坠入爱河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879187300258848769/lnI5Qine_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 66,
+          "like_count": 3144,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1261
+        },
+        "username": "Liangsicheng127",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2068960189760552963",
+    "created_at": "2026-06-24T17:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069842650103230615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029552862637002752",
+          "start": 0,
+          "username": "HPnqm14412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069842650103230615",
+    "in_reply_to_user_id": "2029552862637002752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069106736037040335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HPnqm14412 怎么说！平板支架那样嘛！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2068960189760552963",
+        "created_at": "2026-06-24T17:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069842650103230615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029552862637002752",
+              "start": 0,
+              "username": "HPnqm14412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069842650103230615",
+        "in_reply_to_user_id": "2029552862637002752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069106736037040335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HPnqm14412 怎么说！平板支架那样嘛！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029552862637002752",
+        "conversation_id": "2068960189760552963",
+        "created_at": "2026-06-22T17:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069106736037040335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069106736037040335",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068960189760552963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 可以架起来打（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 318,
+          "like_count": 17765,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 6015
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T13:41:37.000Z",
+        "description": "涡耀大武盟",
+        "id": "2029552862637002752",
+        "name": "KAKBQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041106418296823808/byR9otbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 27,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 407,
+          "tweet_count": 2445
+        },
+        "url": "",
+        "username": "HPnqm14412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2074535651886903348",
+    "created_at": "2026-07-09T06:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075100443429233004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039317124053905408",
+          "start": 0,
+          "username": "SenT0rii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075100443429233004",
+    "in_reply_to_user_id": "2039317124053905408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074535651886903348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SenT0rii 骗你的🌚人家用刀乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2074535651886903348",
+        "created_at": "2026-07-09T06:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075100443429233004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039317124053905408",
+              "start": 0,
+              "username": "SenT0rii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075100443429233004",
+        "in_reply_to_user_id": "2039317124053905408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074535651886903348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SenT0rii 骗你的🌚人家用刀乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039317124053905408",
+        "conversation_id": "2074535651886903348",
+        "created_at": "2026-07-07T16:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074535651886903348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074535651886903348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 110928,
+          "like_count": 3781,
+          "quote_count": 14,
+          "reply_count": 141,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "人民币 你他吗根本不在人民手上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "有爱的世界回到来吗",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 313,
+          "like_count": 17814,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 6066
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T12:24:12.000Z",
+        "description": "好想喝酷儿苹果汁",
+        "id": "2039317124053905408",
+        "name": "苹果",
+        "pinned_tweet_id": "2057696200615411952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039318812080955392/rRXsfmY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 37,
+          "like_count": 1471,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "SenT0rii",
+        "verified": false
+      }
+    ]
+  }
+}

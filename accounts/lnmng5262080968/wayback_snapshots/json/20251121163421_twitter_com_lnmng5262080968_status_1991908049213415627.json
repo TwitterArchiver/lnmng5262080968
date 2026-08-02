@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991835092470358305",
+    "created_at": "2025-11-21T16:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T17:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991908049213415627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1501596263787208719",
+          "start": 0,
+          "username": "shiqiku40017452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991908049213415627",
+    "in_reply_to_user_id": "1501596263787208719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991880205565313287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiqiku40017452 尤其是小领导，官小架子大，看着一肚子火"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991835092470358305",
+        "created_at": "2025-11-21T16:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991908049213415627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1501596263787208719",
+              "start": 0,
+              "username": "shiqiku40017452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991908049213415627",
+        "in_reply_to_user_id": "1501596263787208719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991880205565313287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiqiku40017452 尤其是小领导，官小架子大，看着一肚子火"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501596263787208719",
+        "conversation_id": "1991835092470358305",
+        "created_at": "2025-11-21T14:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991880205565313287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991880205565313287",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991835092470358305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 工作是这样的，拿着一点点工资要和所有人勾心斗角。最累的不是上班，而是处理上班的人际关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 378,
+          "like_count": 14661,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4785
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-09T16:31:19.000Z",
+        "description": "哒哒哒～另类的朋友圈，偶尔会发色图～～",
+        "id": "1501596263787208719",
+        "location": "Eastern District, Hong Kong",
+        "name": "油炸萝卜糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991758944054964224/3Xp-sCpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 17,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 80
+        },
+        "username": "shiqiku40017452",
+        "verified": false
+      }
+    ]
+  }
+}

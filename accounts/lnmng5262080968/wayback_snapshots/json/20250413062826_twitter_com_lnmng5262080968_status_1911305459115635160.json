@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1911097685165428984",
+    "created_at": "2025-04-13T06:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T07:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911305459115635160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673478285970518016",
+          "start": 0,
+          "username": "1327144914V3frc"
+        },
+        {
+          "end": 32,
+          "id": "1864325803930243072",
+          "start": 17,
+          "username": "Shuipiaomiomio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911305459115635160",
+    "in_reply_to_user_id": "1673478285970518016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911304870281592997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1327144914V3frc @Shuipiaomiomio 强爽不好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1911097685165428984",
+        "created_at": "2025-04-13T06:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T07:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911305459115635160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673478285970518016",
+              "start": 0,
+              "username": "1327144914V3frc"
+            },
+            {
+              "end": 32,
+              "id": "1864325803930243072",
+              "start": 17,
+              "username": "Shuipiaomiomio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911305459115635160",
+        "in_reply_to_user_id": "1673478285970518016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911304870281592997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1327144914V3frc @Shuipiaomiomio 强爽不好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673478285970518016",
+        "conversation_id": "1911097685165428984",
+        "created_at": "2025-04-13T06:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T07:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911304870281592997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            },
+            {
+              "end": 32,
+              "id": "1864325803930243072",
+              "start": 17,
+              "username": "Shuipiaomiomio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911304870281592997",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911302020012605746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 @Shuipiaomiomio 强爽喝死你敢不敢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 368,
+          "like_count": 11446,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 2866
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T23:48:16.000Z",
+        "description": "男！男！男！",
+        "id": "1673478285970518016",
+        "name": "水母大军进攻蚂蚁窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896696762750173184/2vmUE9VV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 85,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 321
+        },
+        "username": "1327144914V3frc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T15:08:15.000Z",
+        "description": "偏执强迫的疯子神经病 精致的利己主义 坚信无神论的唯心者",
+        "id": "1864325803930243072",
+        "name": "水缥澪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895111479923462144/RHrvF1CC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 129,
+          "like_count": 4416,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 1986
+        },
+        "username": "Shuipiaomiomio",
+        "verified": false
+      }
+    ]
+  }
+}

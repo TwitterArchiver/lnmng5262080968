@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1968293725748220160",
+    "created_at": "2025-09-21T04:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T05:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969616277829533780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1559924184167456769",
+          "start": 0,
+          "username": "DoomProphetx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969616277829533780",
+    "in_reply_to_user_id": "1559924184167456769",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969128221934334188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoomProphetx 🌚✌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1968293725748220160",
+        "created_at": "2025-09-21T04:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T05:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969616277829533780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559924184167456769",
+              "start": 0,
+              "username": "DoomProphetx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969616277829533780",
+        "in_reply_to_user_id": "1559924184167456769",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969128221934334188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoomProphetx 🌚✌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559924184167456769",
+        "conversation_id": "1968293725748220160",
+        "created_at": "2025-09-19T19:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T20:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969128221934334188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969128221934334188",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968293725748220160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 这么漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 368,
+          "like_count": 14072,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 4409
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T15:24:53.000Z",
+        "description": "随手收录些有意思的文字",
+        "id": "1559924184167456769",
+        "location": "Chicago",
+        "name": "XMT",
+        "pinned_tweet_id": "1561308824790777857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614645248008851456/qTXcbdcb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 425,
+          "like_count": 51,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 326
+        },
+        "username": "DoomProphetx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1881928685902877032",
+    "created_at": "2025-01-22T09:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T10:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882003335571767793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1735700650472955904",
+          "start": 0,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882003335571767793",
+    "in_reply_to_user_id": "1735700650472955904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881928685902877032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErQiu8013 我吃我吃（偷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1881928685902877032",
+        "created_at": "2025-01-22T09:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T10:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882003335571767793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1735700650472955904",
+              "start": 0,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882003335571767793",
+        "in_reply_to_user_id": "1735700650472955904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881928685902877032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErQiu8013 我吃我吃（偷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881928669955772416"
+          ]
+        },
+        "author_id": "1735700650472955904",
+        "conversation_id": "1881928685902877032",
+        "created_at": "2025-01-22T04:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T05:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881928685902877032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2JhGuZIay",
+              "end": 48,
+              "expanded_url": "https://x.com/ErQiu8013/status/1881928685902877032/photo/1",
+              "media_key": "3_1881928669955772416",
+              "start": 25,
+              "url": "https://t.co/k2JhGuZIay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881928685902877032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奢侈品店（lv?忘了)送的巧克力，舍不得吃舍不得 https://t.co/k2JhGuZIay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 153,
+          "like_count": 3143,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 635
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "当有选择的时候不要让自己后悔\n           奥氮平氟伏沙明治疗ing   是点赞，关注bot\n 无偏向日常，o多了会癫，难受了会死。\n米家，Cytoid音游，赛博朋克拥护者，要是都不是默认睡死了/-—-/氟伏沙明 抑制咖啡因受体代谢，互fo，没被fo请私信，会被吞，会fo有内容的推友    发推 提问↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu80131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu80131",
+                "start": 0,
+                "url": "https://t.co/rQbp7In64X"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "精神卫生中心",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）",
+        "pinned_tweet_id": "1879726049074032880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866537587122515968/8WVcBKAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 991,
+          "like_count": 9563,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1293
+        },
+        "url": "https://t.co/rQbp7In64X",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

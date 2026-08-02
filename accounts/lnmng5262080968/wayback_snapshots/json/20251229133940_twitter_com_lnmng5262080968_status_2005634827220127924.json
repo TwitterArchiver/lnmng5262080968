@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2004485043415293956",
+    "created_at": "2025-12-29T13:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T14:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005634827220127924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789558771980574720",
+          "start": 0,
+          "username": "abc307539296763"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005634827220127924",
+    "in_reply_to_user_id": "1789558771980574720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005336669252399528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abc307539296763 哦不。。那我怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2004485043415293956",
+        "created_at": "2025-12-29T13:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005634827220127924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789558771980574720",
+              "start": 0,
+              "username": "abc307539296763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005634827220127924",
+        "in_reply_to_user_id": "1789558771980574720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005336669252399528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abc307539296763 哦不。。那我怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789558771980574720",
+        "conversation_id": "2004485043415293956",
+        "created_at": "2025-12-28T17:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T18:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005336669252399528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005336669252399528",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004485043415293956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 主人，我淡推立，没那么想上推了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 求打钱 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰                             幸福逼都该死",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 379,
+          "like_count": 15023,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 4993
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T07:30:45.000Z",
+        "description": "树洞(真)，我可以倾听你说的一切(无)。是坐忘道(真的)男的，爱看爱看",
+        "id": "1789558771980574720",
+        "name": "悲伤过后呢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886660821402705922/wHcIwVJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 1086,
+          "like_count": 3077,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 4617
+        },
+        "username": "abc307539296763",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-24T17:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T18:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993002163162038720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1884396659066691585",
+          "start": 0,
+          "username": "kk4433616257640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993002163162038720",
+    "in_reply_to_user_id": "1884396659066691585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992872334760513838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk4433616257640 这个可以试试（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-24T17:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993002163162038720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1884396659066691585",
+              "start": 0,
+              "username": "kk4433616257640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993002163162038720",
+        "in_reply_to_user_id": "1884396659066691585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992872334760513838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk4433616257640 这个可以试试（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884396659066691585",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-24T08:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T09:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992872334760513838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992872334760513838",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992560505198952698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 可以入手不织布成本大概在俩百到三百"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 382,
+          "like_count": 14785,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 4849
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T00:22:44.000Z",
+        "description": "已过隔壁大叔认证，礼貌问喔❤️🚪188//288/520/1314/5200，常驻成都，暂时不考虑✈️外地哈除非包来回邮费，私信不入门不闲聊，私信打广告si全家哈🤣",
+        "id": "1884396659066691585",
+        "location": "你心里",
+        "name": "大桃k k",
+        "pinned_tweet_id": "1896187412998725928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884627186038239232/Of2Rkdqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3086,
+          "following_count": 106,
+          "like_count": 626,
+          "listed_count": 15,
+          "media_count": 159,
+          "tweet_count": 518
+        },
+        "username": "kk4433616257640",
+        "verified": false
+      }
+    ]
+  }
+}

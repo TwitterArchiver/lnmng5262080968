@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1984999373793841174",
+    "created_at": "2025-11-03T17:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T18:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985401593165189362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660253397172490244",
+          "start": 0,
+          "username": "igotpsycho"
+        },
+        {
+          "end": 24,
+          "id": "1747999697506340864",
+          "start": 12,
+          "username": "CoCI2Na2CO3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985401593165189362",
+    "in_reply_to_user_id": "1660253397172490244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985204409756725711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igotpsycho @CoCI2Na2CO3 不想搞刻板印象但这些人非要贴脸🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1984999373793841174",
+        "created_at": "2025-11-03T17:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T18:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985401593165189362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660253397172490244",
+              "start": 0,
+              "username": "igotpsycho"
+            },
+            {
+              "end": 24,
+              "id": "1747999697506340864",
+              "start": 12,
+              "username": "CoCI2Na2CO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985401593165189362",
+        "in_reply_to_user_id": "1660253397172490244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985204409756725711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igotpsycho @CoCI2Na2CO3 不想搞刻板印象但这些人非要贴脸🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660253397172490244",
+        "conversation_id": "1984999373793841174",
+        "created_at": "2025-11-03T04:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T05:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985204409756725711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            },
+            {
+              "end": 29,
+              "id": "1747999697506340864",
+              "start": 17,
+              "username": "CoCI2Na2CO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985204409756725711",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985062016600694956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 @CoCI2Na2CO3 把食物当自己id的人我一般都会远离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 380,
+          "like_count": 14495,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 4702
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T11:57:19.000Z",
+        "description": "强迫性性行为（比性瘾更性瘾）患者，长期服用精神药物中，时间不多了，在努力寻找治疗自己的办法 \\ 有事没事可以找我聊天，直接私信或者tg都可以，基本都会回fo \\ 暂时不做药代了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sertraline6",
+                "end": 23,
+                "expanded_url": "http://t.me/sertraline6",
+                "start": 0,
+                "url": "https://t.co/FWlSjbjUY8"
+              }
+            ]
+          }
+        },
+        "id": "1660253397172490244",
+        "location": "长沙，欢迎找我约炮，如果你愿意的话，我需要一些亲密接触",
+        "name": "倒霉孩子",
+        "pinned_tweet_id": "1984826289812132037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984818907388264457/Er8Mq6ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 555,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/FWlSjbjUY8",
+        "username": "igotpsycho",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T15:09:50.000Z",
+        "description": "唉，月亮",
+        "id": "1747999697506340864",
+        "location": "黑与白之间",
+        "name": "Seraph",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922709306589503488/YVdjGN-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 27,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 333
+        },
+        "username": "CoCI2Na2CO3",
+        "verified": false
+      }
+    ]
+  }
+}

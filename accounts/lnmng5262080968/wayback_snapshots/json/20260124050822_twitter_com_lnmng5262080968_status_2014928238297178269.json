@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2014326889196999056",
+    "created_at": "2026-01-24T05:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T06:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014928238297178269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800132790287212544",
+          "start": 0,
+          "username": "306275889q18105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014928238297178269",
+    "in_reply_to_user_id": "1800132790287212544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014654767851831461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@306275889q18105 有钱也买一个，java好玩！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2014326889196999056",
+        "created_at": "2026-01-24T05:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014928238297178269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800132790287212544",
+              "start": 0,
+              "username": "306275889q18105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014928238297178269",
+        "in_reply_to_user_id": "1800132790287212544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014654767851831461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@306275889q18105 有钱也买一个，java好玩！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800132790287212544",
+        "conversation_id": "2014326889196999056",
+        "created_at": "2026-01-23T11:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T12:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014654767851831461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014654767851831461",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014326889196999056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我周围的人都是j版的就我一个基岩版"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 298,
+          "like_count": 15120,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 5270
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T11:48:16.000Z",
+        "description": "/有精神病，所以说话可能语序看起来有点怪/男的/有同好可以一起打游戏",
+        "id": "1800132790287212544",
+        "location": "半夜凌晨两点",
+        "name": "无烟火药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007433837920530432/RAtntCTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 251,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 365
+        },
+        "username": "306275889q18105",
+        "verified": false
+      }
+    ]
+  }
+}

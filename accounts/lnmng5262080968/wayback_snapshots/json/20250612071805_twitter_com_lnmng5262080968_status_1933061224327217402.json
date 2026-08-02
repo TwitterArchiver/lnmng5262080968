@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1932814960373215327",
+    "created_at": "2025-06-12T07:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T08:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933061224327217402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842423358216142849",
+          "start": 0,
+          "username": "keeganlike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933061224327217402",
+    "in_reply_to_user_id": "1842423358216142849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932814960373215327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keeganlike 咬自己然后哭，或者od"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1932814960373215327",
+        "created_at": "2025-06-12T07:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T08:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933061224327217402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842423358216142849",
+              "start": 0,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933061224327217402",
+        "in_reply_to_user_id": "1842423358216142849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932814960373215327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keeganlike 咬自己然后哭，或者od"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842423358216142849",
+        "conversation_id": "1932814960373215327",
+        "created_at": "2025-06-11T14:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932814960373215327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932814960373215327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 38648,
+          "like_count": 361,
+          "quote_count": 6,
+          "reply_count": 184,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "除了抽烟喝酒紫薇紫餐还有啥发泄方式吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！🚪52r不退不过🚪私信不回（除互关） 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 365,
+          "like_count": 13548,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3852
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "🫧istp 一个普女罢了 经常会打错字，请见谅。",
+        "id": "1842423358216142849",
+        "name": "泡啊",
+        "pinned_tweet_id": "1905663779826008348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933034574592028674/-GHeRnaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19588,
+          "following_count": 444,
+          "like_count": 9663,
+          "listed_count": 14,
+          "media_count": 211,
+          "tweet_count": 5782
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

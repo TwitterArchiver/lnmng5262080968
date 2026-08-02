@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1913904187743850786",
+    "created_at": "2025-04-20T10:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T11:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913908375232061710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894285195651813378",
+          "start": 0,
+          "username": "zhu6hua"
+        },
+        {
+          "end": 22,
+          "id": "1606351071206674438",
+          "start": 9,
+          "username": "jiyn91306622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913908375232061710",
+    "in_reply_to_user_id": "1894285195651813378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913907663458754665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu6hua @jiyn91306622 我一直在哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1913904187743850786",
+        "created_at": "2025-04-20T10:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T11:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913908375232061710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "zhu6hua"
+            },
+            {
+              "end": 22,
+              "id": "1606351071206674438",
+              "start": 9,
+              "username": "jiyn91306622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913908375232061710",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913907663458754665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu6hua @jiyn91306622 我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894285195651813378",
+        "conversation_id": "1913904187743850786",
+        "created_at": "2025-04-20T10:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T11:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913907663458754665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            },
+            {
+              "end": 30,
+              "id": "1606351071206674438",
+              "start": 17,
+              "username": "jiyn91306622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913907663458754665",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913907182325694774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 @jiyn91306622 精神状态崩了。躯体化让我感到恐惧紧张慌乱，割腿僵在床上，我现在什么事都做不了可我还有好多事没做，下周要讲课但是我连稿都读不出来，要洗澡床都下去。恨自己为什么这么没用，为什么是一个没有药就活不下去的疯子。我咬着自己的腿哭求求别折磨我了，别折磨我了，我想好好活下去。求谁都好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 372,
+          "like_count": 12017,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 3044
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "我是极左支黑温和键政魔怔类人生物请和我互fo/攻击是我表达爱的方式 初代目@zuifeiwu 二代目@6huazhu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "6huazhu"
+              }
+            ]
+          }
+        },
+        "id": "1894285195651813378",
+        "name": "把坂下和六花拍给我再睡",
+        "pinned_tweet_id": "1913826432024977493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895411742622031872/ktMsbjQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 816,
+          "like_count": 5340,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 3401
+        },
+        "username": "zhu6hua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T18:08:44.000Z",
+        "description": "覆水难收",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jin14792",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jin14792",
+                "start": 0,
+                "url": "https://t.co/nQ6oZl1H8m"
+              }
+            ]
+          }
+        },
+        "id": "1606351071206674438",
+        "name": "你踩到我的呕吐物了",
+        "pinned_tweet_id": "1911442420929003767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896598211961434112/BmTnJzsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 849,
+          "like_count": 19652,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 3132
+        },
+        "url": "https://t.co/nQ6oZl1H8m",
+        "username": "jiyn91306622",
+        "verified": false
+      }
+    ]
+  }
+}

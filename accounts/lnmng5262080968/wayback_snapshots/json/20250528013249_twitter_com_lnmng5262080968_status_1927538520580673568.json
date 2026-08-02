@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1927452411179794614",
+    "created_at": "2025-05-28T01:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T02:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927538520580673568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886278115955273728",
+          "start": 0,
+          "username": "Y0JATlyoJA46934"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927538520580673568",
+    "in_reply_to_user_id": "1886278115955273728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927452411179794614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y0JATlyoJA46934 我要笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_1927452403550289921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr-vv7sWgAEi3J0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1417,
+        "media_key": "3_1927452404254986240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr-vv-UXUAAL6GR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1927452411179794614",
+        "created_at": "2025-05-28T01:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T02:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927538520580673568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886278115955273728",
+              "start": 0,
+              "username": "Y0JATlyoJA46934"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927538520580673568",
+        "in_reply_to_user_id": "1886278115955273728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927452411179794614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y0JATlyoJA46934 我要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927452403550289921",
+            "3_1927452404254986240"
+          ]
+        },
+        "author_id": "1886278115955273728",
+        "conversation_id": "1927452411179794614",
+        "created_at": "2025-05-27T19:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T20:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927452411179794614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6Ybrv3uy4",
+              "end": 58,
+              "expanded_url": "https://x.com/Y0JATlyoJA46934/status/1927452411179794614/photo/1",
+              "media_key": "3_1927452403550289921",
+              "start": 35,
+              "url": "https://t.co/V6Ybrv3uy4"
+            },
+            {
+              "display_url": "pic.x.com/V6Ybrv3uy4",
+              "end": 58,
+              "expanded_url": "https://x.com/Y0JATlyoJA46934/status/1927452411179794614/photo/1",
+              "media_key": "3_1927452404254986240",
+              "start": 35,
+              "url": "https://t.co/V6Ybrv3uy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927452411179794614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才发现 …… 忘记给我现实中的朋友和同事屏蔽了 我甚至都没看到有评论 https://t.co/V6Ybrv3uy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 365,
+          "like_count": 13208,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3646
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T04:58:54.000Z",
+        "description": "女 双/女同p/4i/1i/ 双相/躁狂/ADHD/阅读障碍",
+        "id": "1886278115955273728",
+        "location": "🚪你妈",
+        "name": "小白",
+        "pinned_tweet_id": "1926199038493245758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888089843806388224/mocO9Zff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 123,
+          "like_count": 17826,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 2968
+        },
+        "username": "Y0JATlyoJA46934",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2080892025298379012",
+    "created_at": "2026-07-25T05:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080892025298379012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lnmng526208096…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/lnmng5262080968/status/2080499082691530860",
+          "start": 101,
+          "url": "https://t.co/Jy8FksGi52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080892025298379012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080499082691530860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像你这种人，看到我去年出车祸骂你的帖子就恼羞成怒从我的长相到学历，工作收入到情感生活，哪怕是我从前吧你当朋友才讲的不愉快的往事全都攻击个遍，你这种人说实话比你讨厌的所谓地雷系群体没好到哪去，甚至更烂。 https://t.co/Jy8FksGi52"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_2080499070972620800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9q4dDacAAt4Vn.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2080892025298379012",
+        "created_at": "2026-07-25T05:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080892025298379012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/2080499082691530860",
+              "start": 101,
+              "url": "https://t.co/Jy8FksGi52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080892025298379012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080499082691530860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像你这种人，看到我去年出车祸骂你的帖子就恼羞成怒从我的长相到学历，工作收入到情感生活，哪怕是我从前吧你当朋友才讲的不愉快的往事全都攻击个遍，你这种人说实话比你讨厌的所谓地雷系群体没好到哪去，甚至更烂。 https://t.co/Jy8FksGi52"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080499070972620800"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "2080499082691530860",
+        "created_at": "2026-07-24T03:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080499082691530860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJuFJzNWqc",
+              "end": 45,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2080499082691530860/photo/1",
+              "media_key": "3_2080499070972620800",
+              "start": 22,
+              "url": "https://t.co/uJuFJzNWqc"
+            },
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/2080458635847905739",
+              "start": 46,
+              "url": "https://t.co/3nlI7yHYXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080499082691530860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 641,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080458635847905739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骂我的那个傻逼qq号指路：48651336 https://t.co/uJuFJzNWqc https://t.co/3nlI7yHYXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 311,
+          "like_count": 17874,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 6118
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

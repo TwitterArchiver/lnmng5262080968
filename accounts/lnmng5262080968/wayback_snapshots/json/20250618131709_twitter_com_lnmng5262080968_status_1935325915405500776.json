@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1934555150691303701",
+    "created_at": "2025-06-18T13:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T14:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935325915405500776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1117609181064900608",
+          "start": 0,
+          "username": "KaguraYuuki_uni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935325915405500776",
+    "in_reply_to_user_id": "1117609181064900608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935296736005894192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraYuuki_uni 好棒呀！我要向你学习🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1934555150691303701",
+        "created_at": "2025-06-18T13:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935325915405500776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1117609181064900608",
+              "start": 0,
+              "username": "KaguraYuuki_uni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935325915405500776",
+        "in_reply_to_user_id": "1117609181064900608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935296736005894192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraYuuki_uni 好棒呀！我要向你学习🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117609181064900608",
+        "conversation_id": "1934555150691303701",
+        "created_at": "2025-06-18T11:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935296736005894192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935296736005894192",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934555150691303701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 以前还会羡慕，现在努力过上以前梦想中的生活，做着以前最想做的工作，已经觉得人生圆满了，只能说人都有一个阶段是会被外人的优秀压垮的，尤其家里还会同步上压力，加油提高自己，总会熬过内耗阶段的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 365,
+          "like_count": 13587,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3929
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-15T02:02:47.000Z",
+        "description": "UP主|地表最菜画师|后期||东方众|ジョ厨|路过的月球人|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/40040862",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/40040862",
+                "start": 0,
+                "url": "https://t.co/WXrJbUjr96"
+              }
+            ]
+          }
+        },
+        "id": "1117609181064900608",
+        "location": "幻想乡",
+        "name": "提不起劲の云烟そら",
+        "pinned_tweet_id": "1236243339545993216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744543237690597376/nqPJCVOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 219,
+          "like_count": 894,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/WXrJbUjr96",
+        "username": "KaguraYuuki_uni",
+        "verified": false
+      }
+    ]
+  }
+}

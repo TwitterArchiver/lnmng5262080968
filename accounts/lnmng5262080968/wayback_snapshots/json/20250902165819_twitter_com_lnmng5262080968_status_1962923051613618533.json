@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1962923051613618533",
+    "created_at": "2025-09-02T16:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T17:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962923051613618533"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962923051613618533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无论多少久，我永远会被少女的友情打动。\n今天是我推的生日，骨折的手也好的差不多了，打开游戏补了一下剧情被感动的哇哇哭。\n这样的友情多么珍贵，我又是多么向往，但我知道我永远拥有不了。曾经拥有过一点点也失去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1962923051613618533",
+        "created_at": "2025-09-02T16:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962923051613618533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962923051613618533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无论多少久，我永远会被少女的友情打动。\n今天是我推的生日，骨折的手也好的差不多了，打开游戏补了一下剧情被感动的哇哇哭。\n这样的友情多么珍贵，我又是多么向往，但我知道我永远拥有不了。曾经拥有过一点点也失去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 370,
+          "like_count": 13954,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 4336
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

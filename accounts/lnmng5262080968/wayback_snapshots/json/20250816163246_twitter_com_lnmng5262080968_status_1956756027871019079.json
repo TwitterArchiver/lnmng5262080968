@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1956692015489622239",
+    "created_at": "2025-08-16T16:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T17:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956756027871019079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1434492593388367872",
+          "start": 0,
+          "username": "dyroom2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956756027871019079",
+    "in_reply_to_user_id": "1434492593388367872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956732382851244429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dyroom2 素素，但是他们有点听不进去我的话，总觉得自己是为了我好。理论上没毛病但实际对我这种有心理疾病的会受到刺激。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1956692015489622239",
+        "created_at": "2025-08-16T16:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956756027871019079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1434492593388367872",
+              "start": 0,
+              "username": "dyroom2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956756027871019079",
+        "in_reply_to_user_id": "1434492593388367872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956732382851244429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dyroom2 素素，但是他们有点听不进去我的话，总觉得自己是为了我好。理论上没毛病但实际对我这种有心理疾病的会受到刺激。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434492593388367872",
+        "conversation_id": "1956692015489622239",
+        "created_at": "2025-08-16T14:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956732382851244429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956732382851244429",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956692015489622239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我待业在家一年的时候也有点类似的，和父母沟通有时候一下子感觉就情绪剧烈变化无论他们说的是日常还是说教都巨容易炸毛或者说情绪低落。我现在上班好了些，建议1.做好沟通准备预演和草稿2.干脆文字沟通（最好挑个休息时间并且距离远点，回复可以慢点有思考时间）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 世界第一 孤僻小透明凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 368,
+          "like_count": 13828,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 4256
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T12:24:37.000Z",
+        "description": "一切还行",
+        "id": "1434492593388367872",
+        "name": "dyroom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660268485296148486/KMd9ESmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 87,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "username": "dyroom2",
+        "verified": false
+      }
+    ]
+  }
+}

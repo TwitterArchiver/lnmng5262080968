@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2047339876039979279",
+    "created_at": "2026-04-25T06:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047928597604925804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1583858999014744066",
+          "start": 0,
+          "username": "miyaseeing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047928597604925804",
+    "in_reply_to_user_id": "1583858999014744066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047883658116424002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyaseeing 那你很强了，我平时也吃玉玉药😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2047339876039979279",
+        "created_at": "2026-04-25T06:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047928597604925804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1583858999014744066",
+              "start": 0,
+              "username": "miyaseeing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047928597604925804",
+        "in_reply_to_user_id": "1583858999014744066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047883658116424002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyaseeing 那你很强了，我平时也吃玉玉药😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583858999014744066",
+        "conversation_id": "2047339876039979279",
+        "created_at": "2026-04-25T03:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047883658116424002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047883658116424002",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047339876039979279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我都快五年了问题不大就是说，平常还吃抗抑郁药。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 310,
+          "like_count": 17445,
+          "listed_count": 5,
+          "media_count": 211,
+          "tweet_count": 5822
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T16:33:25.000Z",
+        "description": "我死了勿念",
+        "id": "1583858999014744066",
+        "location": "天堂",
+        "name": "咪牙miya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584454329343168512/dBc5n7_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 785,
+          "like_count": 1531,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 1822
+        },
+        "username": "miyaseeing",
+        "verified": false
+      }
+    ]
+  }
+}

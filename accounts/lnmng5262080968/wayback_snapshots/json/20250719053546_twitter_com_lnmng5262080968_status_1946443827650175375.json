@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1945784300059673068",
+    "created_at": "2025-07-19T05:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T06:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946443827650175375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1773643005532020736",
+          "start": 0,
+          "username": "wcecya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946443827650175375",
+    "in_reply_to_user_id": "1773643005532020736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946078469512958410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wcecya 不，你不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1945784300059673068",
+        "created_at": "2025-07-19T05:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T06:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946443827650175375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1773643005532020736",
+              "start": 0,
+              "username": "wcecya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946443827650175375",
+        "in_reply_to_user_id": "1773643005532020736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946078469512958410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wcecya 不，你不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773643005532020736",
+        "conversation_id": "1945784300059673068",
+        "created_at": "2025-07-18T05:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T06:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946078469512958410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946078469512958410",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945784300059673068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我也无能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 我真的很烂很恶心 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 368,
+          "like_count": 13669,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 4121
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T09:27:03.000Z",
+        "description": "炼铜丨四分之一个码农丨爱电音丨galgame丨垃圾丨不要大欧派丨 纯纯乐天派丨双性恋丨友跨🏳️‍⚧️丨日常系废话+黄推丨最可爱最喜欢的宝宝 @sanlian_yang 丨百合大手子 @Allknowbody2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "sanlian_yang"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Allknowbody2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wcgal.xyz",
+                "end": 23,
+                "expanded_url": "http://wcgal.xyz",
+                "start": 0,
+                "url": "https://t.co/zLhBO87zNa"
+              }
+            ]
+          }
+        },
+        "id": "1773643005532020736",
+        "location": "在 tm 傻逼二刺螈",
+        "name": "迷人的二次元🥵（减肥版）",
+        "pinned_tweet_id": "1903286505210347820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880292951303286793/gk8_Ut-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 199,
+          "like_count": 2688,
+          "listed_count": 0,
+          "media_count": 995,
+          "tweet_count": 3897
+        },
+        "url": "https://t.co/zLhBO87zNa",
+        "username": "wcecya",
+        "verified": true
+      }
+    ]
+  }
+}

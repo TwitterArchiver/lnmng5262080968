@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1999460783240155503",
+    "created_at": "2025-12-12T16:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T17:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999520458232758653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1336929446494793728",
+          "start": 0,
+          "username": "fzwwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999520458232758653",
+    "in_reply_to_user_id": "1336929446494793728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999464246573514819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fzwwwwww 精神萎靡的根本懒得加🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1999460783240155503",
+        "created_at": "2025-12-12T16:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T17:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999520458232758653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1336929446494793728",
+              "start": 0,
+              "username": "fzwwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999520458232758653",
+        "in_reply_to_user_id": "1336929446494793728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999464246573514819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fzwwwwww 精神萎靡的根本懒得加🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336929446494793728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1999460783240155503",
+        "created_at": "2025-12-12T12:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999464246573514819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999464246573514819",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999460783240155503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 感觉不是一类人，我加过学校的小圈子类精神病群看起来挺健康的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 求打钱 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰                             幸福逼都该死",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 376,
+          "like_count": 14951,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 4946
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-10T07:03:23.000Z",
+        "description": "男｜重度妹控｜病娇｜抑郁｜二次元｜喜欢同类｜厌现实｜厌物质化",
+        "id": "1336929446494793728",
+        "location": "Taiwan",
+        "name": "冰羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941855703670607872/mv2msWzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 34,
+          "like_count": 12723,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1275
+        },
+        "username": "fzwwwwww",
+        "verified": false
+      }
+    ]
+  }
+}

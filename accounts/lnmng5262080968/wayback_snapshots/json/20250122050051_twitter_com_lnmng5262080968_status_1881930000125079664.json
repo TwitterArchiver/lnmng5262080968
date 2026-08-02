@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1881874865348862198",
+    "created_at": "2025-01-22T05:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T06:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881930000125079664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1648402059526569988",
+          "start": 0,
+          "username": "Avxxxxyyyyyy"
+        },
+        {
+          "end": 27,
+          "id": "1606351071206674438",
+          "start": 14,
+          "username": "jiyn91306622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881930000125079664",
+    "in_reply_to_user_id": "1648402059526569988",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881929414189240380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avxxxxyyyyyy @jiyn91306622 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1881874865348862198",
+        "created_at": "2025-01-22T05:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T06:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881930000125079664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1648402059526569988",
+              "start": 0,
+              "username": "Avxxxxyyyyyy"
+            },
+            {
+              "end": 27,
+              "id": "1606351071206674438",
+              "start": 14,
+              "username": "jiyn91306622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881930000125079664",
+        "in_reply_to_user_id": "1648402059526569988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881929414189240380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avxxxxyyyyyy @jiyn91306622 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648402059526569988",
+        "conversation_id": "1881874865348862198",
+        "created_at": "2025-01-22T04:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T05:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881929414189240380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606351071206674438",
+              "start": 0,
+              "username": "jiyn91306622"
+            },
+            {
+              "end": 30,
+              "id": "1792011763875184640",
+              "start": 14,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881929414189240380",
+        "in_reply_to_user_id": "1606351071206674438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881925231075631509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyn91306622 @lnmng5262080968 洞性恋我服了，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 151,
+          "like_count": 3052,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 605
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T19:04:21.000Z",
+        "description": "( ˃̶̤́ ꒳ ˂̶̤̀ )",
+        "id": "1648402059526569988",
+        "name": "Avxy",
+        "pinned_tweet_id": "1878398609583919257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858070260961980416/U0hFiOw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 85,
+          "like_count": 1633,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 961
+        },
+        "username": "Avxxxxyyyyyy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T18:08:44.000Z",
+        "description": "你找到现实的裂缝了吗",
+        "id": "1606351071206674438",
+        "location": "China",
+        "name": "呕吐血浆飞溅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880440265779159040/XulAoDuF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 583,
+          "like_count": 7204,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 705
+        },
+        "username": "jiyn91306622",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1883733704444719226",
+    "created_at": "2025-01-27T04:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T05:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883737695077425267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771230355896561664",
+          "start": 0,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883737695077425267",
+    "in_reply_to_user_id": "1771230355896561664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883733704444719226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@in2dkira ok又被骂了✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1883733704444719226",
+        "created_at": "2025-01-27T04:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T05:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883737695077425267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771230355896561664",
+              "start": 0,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883737695077425267",
+        "in_reply_to_user_id": "1771230355896561664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883733704444719226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@in2dkira ok又被骂了✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771230355896561664",
+        "conversation_id": "1883733704444719226",
+        "created_at": "2025-01-27T04:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T05:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883733704444719226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "地雷女，真是网络上的一道别样的风景。外表看似正常，实际上一接触就让人大吃一惊，就像踩中了地雷一样。穿着暗色系，带点哥特风，精神状态不稳定，动不动就自虐、过度服药、厌世，仿佛生活就是一场无休止的戏剧。别看她们在社交平台上自称“地雷女”，实际上这词儿带点贬义，提醒你小心这群人可能带来的爆炸性冲击。说白了，就是一群在网络上晒自己“病态美”的未成年，缺少成熟的心灵成长，把一切负面情绪无限放大给大家看。当然，网络世界嘛，现实中可别轻易给别人贴上这种标签，不然后果可比踩地雷还严重。[](https://acgn-rip.fandom.com/zh/wiki/%25E5%259C%25B0%25E9%259B%25B7%25E5%25A5%25B3?variant=zh-hk)[](https://x.com/caonimadeb1/status/1709518289905549687)",
+              "display_url": "x.com/i/grok/share/J…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/JaT5GFqSmhVTllTXhBKFiV6vU",
+              "start": 0,
+              "status": 200,
+              "title": "请尖酸刻薄的评价地雷女",
+              "unwound_url": "https://x.com/i/grok/share/JaT5GFqSmhVTllTXhBKFiV6vU",
+              "url": "https://t.co/a5qnstJ2OQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883733704444719226",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a5qnstJ2OQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜我天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 187,
+          "like_count": 4007,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 896
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "前@Akira_10190208  我需要你们的关注  再多看看我吧。 もっと私を見てくださいいい🥺👍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Akira_10190208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH6G9I"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882510911291928576/bBmpa2pz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 42,
+          "like_count": 1325,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/6QBGLH6G9I",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

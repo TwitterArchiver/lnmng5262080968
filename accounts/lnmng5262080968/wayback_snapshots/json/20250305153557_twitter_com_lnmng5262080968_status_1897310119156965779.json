@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1897222866804043814",
+    "created_at": "2025-03-05T15:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T16:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897310119156965779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1758839442822004736",
+          "start": 0,
+          "username": "hera784404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897310119156965779",
+    "in_reply_to_user_id": "1758839442822004736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897307500854304792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hera784404 是的，拥有朋友，很可贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1897222866804043814",
+        "created_at": "2025-03-05T15:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T16:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897310119156965779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1758839442822004736",
+              "start": 0,
+              "username": "hera784404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897310119156965779",
+        "in_reply_to_user_id": "1758839442822004736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897307500854304792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hera784404 是的，拥有朋友，很可贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758839442822004736",
+        "conversation_id": "1897222866804043814",
+        "created_at": "2025-03-05T15:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T16:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897307500854304792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897307500854304792",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897222866804043814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我也是而且在网络上我也没有交到过任何朋友，感觉所有人有自己的事情要忙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1896772567022911791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 317,
+          "like_count": 9268,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2148
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T13:03:06.000Z",
+        "description": "I took a tablet of mescalin, 400 micrograms of mescalin, and the world opened up.",
+        "id": "1758839442822004736",
+        "name": "人机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833396272918892546/WSe9tLoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 152,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 264
+        },
+        "username": "hera784404",
+        "verified": false
+      }
+    ]
+  }
+}

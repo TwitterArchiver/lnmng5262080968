@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877927108527153152",
+        "3_1877927108531326976",
+        "3_1877927112910221312",
+        "3_1877927113086427136"
+      ],
+      "media_source_tweet_id": [
+        "1877927139112112263",
+        "1877927139112112263",
+        "1877927139112112263",
+        "1877927139112112263"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1889338708807315913",
+    "created_at": "2025-02-11T15:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T16:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889338708807315913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1854023857817939968",
+          "start": 3,
+          "username": "SetoNotFound"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hXIaFuOuB6",
+          "end": 62,
+          "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+          "media_key": "3_1877927108527153152",
+          "start": 39,
+          "url": "https://t.co/hXIaFuOuB6"
+        },
+        {
+          "display_url": "pic.x.com/hXIaFuOuB6",
+          "end": 62,
+          "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+          "media_key": "3_1877927108531326976",
+          "start": 39,
+          "url": "https://t.co/hXIaFuOuB6"
+        },
+        {
+          "display_url": "pic.x.com/hXIaFuOuB6",
+          "end": 62,
+          "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+          "media_key": "3_1877927112910221312",
+          "start": 39,
+          "url": "https://t.co/hXIaFuOuB6"
+        },
+        {
+          "display_url": "pic.x.com/hXIaFuOuB6",
+          "end": 62,
+          "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+          "media_key": "3_1877927113086427136",
+          "start": 39,
+          "url": "https://t.co/hXIaFuOuB6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889338708807315913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877927139112112263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SetoNotFound: 让我们成就shabby club的野望💀 https://t.co/hXIaFuOuB6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1877927108527153152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg-8wWnWYAA7DS3.jpg",
+        "width": 810
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1877927108531326976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg-8wWoWEAA0YDY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1877927112910221312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg-8wm8WsAA7Jzu.jpg",
+        "width": 1082
+      },
+      {
+        "height": 1818,
+        "media_key": "3_1877927113086427136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg-8wnmXYAAIelC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877927108527153152",
+            "3_1877927108531326976",
+            "3_1877927112910221312",
+            "3_1877927113086427136"
+          ],
+          "media_source_tweet_id": [
+            "1877927139112112263",
+            "1877927139112112263",
+            "1877927139112112263",
+            "1877927139112112263"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1889338708807315913",
+        "created_at": "2025-02-11T15:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T16:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889338708807315913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854023857817939968",
+              "start": 3,
+              "username": "SetoNotFound"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXIaFuOuB6",
+              "end": 62,
+              "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+              "media_key": "3_1877927108527153152",
+              "start": 39,
+              "url": "https://t.co/hXIaFuOuB6"
+            },
+            {
+              "display_url": "pic.x.com/hXIaFuOuB6",
+              "end": 62,
+              "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+              "media_key": "3_1877927108531326976",
+              "start": 39,
+              "url": "https://t.co/hXIaFuOuB6"
+            },
+            {
+              "display_url": "pic.x.com/hXIaFuOuB6",
+              "end": 62,
+              "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+              "media_key": "3_1877927112910221312",
+              "start": 39,
+              "url": "https://t.co/hXIaFuOuB6"
+            },
+            {
+              "display_url": "pic.x.com/hXIaFuOuB6",
+              "end": 62,
+              "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+              "media_key": "3_1877927113086427136",
+              "start": 39,
+              "url": "https://t.co/hXIaFuOuB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889338708807315913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877927139112112263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SetoNotFound: 让我们成就shabby club的野望💀 https://t.co/hXIaFuOuB6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877927108527153152",
+            "3_1877927108531326976",
+            "3_1877927112910221312",
+            "3_1877927113086427136"
+          ]
+        },
+        "author_id": "1854023857817939968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1877927139112112263",
+        "created_at": "2025-01-11T03:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T04:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877927139112112263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXIaFuOuB6",
+              "end": 44,
+              "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+              "media_key": "3_1877927108527153152",
+              "start": 21,
+              "url": "https://t.co/hXIaFuOuB6"
+            },
+            {
+              "display_url": "pic.x.com/hXIaFuOuB6",
+              "end": 44,
+              "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+              "media_key": "3_1877927108531326976",
+              "start": 21,
+              "url": "https://t.co/hXIaFuOuB6"
+            },
+            {
+              "display_url": "pic.x.com/hXIaFuOuB6",
+              "end": 44,
+              "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+              "media_key": "3_1877927112910221312",
+              "start": 21,
+              "url": "https://t.co/hXIaFuOuB6"
+            },
+            {
+              "display_url": "pic.x.com/hXIaFuOuB6",
+              "end": 44,
+              "expanded_url": "https://x.com/official34114/status/1877927139112112263/photo/1",
+              "media_key": "3_1877927113086427136",
+              "start": 21,
+              "url": "https://t.co/hXIaFuOuB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877927139112112263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 851,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我们成就shabby club的野望💀 https://t.co/hXIaFuOuB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 232,
+          "like_count": 5777,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1487
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T04:51:57.000Z",
+        "description": "cn是seto\n上海萌新cosplayer(高三暂退致歉)/wargame玩家(无刷OYG34/银翼BCM MK2玩家)/jdm/f1爱好者\n电车孝子别来沾边 敢和我提电动车我骂死你\n湾岸5DX+ EAS战队首领\n抖音：jdm_seto\n微信：wmmt_seto\n欢迎扩列\n喜欢和漂亮姐姐互关😋",
+        "id": "1854023857817939968",
+        "location": "Shabby Club",
+        "name": "✟Seto★♪＊",
+        "pinned_tweet_id": "1877927139112112263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881175390544449536/zzwS7wgh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 215,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 147
+        },
+        "username": "SetoNotFound",
+        "verified": false
+      }
+    ]
+  }
+}

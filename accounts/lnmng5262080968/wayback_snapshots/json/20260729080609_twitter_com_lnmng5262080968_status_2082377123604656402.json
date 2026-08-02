@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2081967032208347453",
+    "created_at": "2026-07-29T08:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082377123604656402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580505223071641600",
+          "start": 0,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082377123604656402",
+    "in_reply_to_user_id": "1580505223071641600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081967032208347453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_shark 女神要不搬出去吧好恐怖的家人完全沟通不了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081967025963032576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSh-riaYAAtORv.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2081967032208347453",
+        "created_at": "2026-07-29T08:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082377123604656402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082377123604656402",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081967032208347453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 女神要不搬出去吧好恐怖的家人完全沟通不了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081967025963032576"
+          ]
+        },
+        "author_id": "1580505223071641600",
+        "conversation_id": "2081967032208347453",
+        "created_at": "2026-07-28T04:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081967032208347453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLSBox38gM",
+              "end": 58,
+              "expanded_url": "https://x.com/qwq_shark/status/2081967032208347453/photo/1",
+              "media_key": "3_2081967025963032576",
+              "start": 35,
+              "url": "https://t.co/HLSBox38gM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081967032208347453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2996,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陷入了诡异的鬼打墙中。\n说实话在这种环境长大也真是不难为我有精神病了 https://t.co/HLSBox38gM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 311,
+          "like_count": 17918,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 6141
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "我是小惨｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076651004213530624/pwYxJ56t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5394,
+          "following_count": 351,
+          "like_count": 3679,
+          "listed_count": 8,
+          "media_count": 622,
+          "tweet_count": 13367
+        },
+        "url": "",
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

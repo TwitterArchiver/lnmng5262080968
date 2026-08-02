@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1893565833710051745",
+    "created_at": "2025-02-23T07:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T08:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893565833710051745"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 111,
+          "start": 106,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1886275612970786816",
+          "start": 3,
+          "username": "yy7182778565124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893565833710051745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889624881106473042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @yy7182778565124: 我需要钱请过我门呀!\n VX🚪188\n🚪线下288\n🚪388可以陪你聊瑟瑟\n🚪520能当你的电子女友\n🚪1314我就是你滴修狗 价格越高福利越多态度也会更好呦！#门槛哥 #金主爸爸 #门槛姐 #爸爸活 #线下 https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1893565833710051745].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1893565833710051745",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1893565833710051745"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_1889624865839390720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjlLzccaIAASeBM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1303,
+        "media_key": "3_1889624865822613504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjlLzcYaIAAM5MK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1889624865822670848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjlLzcYbAAAfZKj.jpg",
+        "width": 900
+      },
+      {
+        "height": 548,
+        "media_key": "3_1889624865818451968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjlLzcXaoAASbtq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889624865839390720",
+            "3_1889624865822613504",
+            "3_1889624865822670848",
+            "3_1889624865818451968"
+          ]
+        },
+        "author_id": "1886275612970786816",
+        "conversation_id": "1889624881106473042",
+        "created_at": "2025-02-12T10:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T11:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889624881106473042"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZMhfrjmB6",
+              "end": 128,
+              "expanded_url": "https://x.com/yy7182778565124/status/1889624881106473042/photo/1",
+              "media_key": "3_1889624865839390720",
+              "start": 105,
+              "url": "https://t.co/yZMhfrjmB6"
+            },
+            {
+              "display_url": "pic.x.com/yZMhfrjmB6",
+              "end": 128,
+              "expanded_url": "https://x.com/yy7182778565124/status/1889624881106473042/photo/1",
+              "media_key": "3_1889624865822613504",
+              "start": 105,
+              "url": "https://t.co/yZMhfrjmB6"
+            },
+            {
+              "display_url": "pic.x.com/yZMhfrjmB6",
+              "end": 128,
+              "expanded_url": "https://x.com/yy7182778565124/status/1889624881106473042/photo/1",
+              "media_key": "3_1889624865822670848",
+              "start": 105,
+              "url": "https://t.co/yZMhfrjmB6"
+            },
+            {
+              "display_url": "pic.x.com/yZMhfrjmB6",
+              "end": 128,
+              "expanded_url": "https://x.com/yy7182778565124/status/1889624881106473042/photo/1",
+              "media_key": "3_1889624865818451968",
+              "start": 105,
+              "url": "https://t.co/yZMhfrjmB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889624881106473042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 38588,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 83
+        },
+        "reply_settings": "following",
+        "text": "我需要钱请过我门呀!\n VX🚪188\n🚪线下288\n🚪388可以陪你聊瑟瑟\n🚪520能当你的电子女友\n🚪1314我就是你滴修狗 价格越高福利越多态度也会更好呦！#门槛哥 #金主爸爸 #门槛姐 #爸爸活 #线下 https://t.co/yZMhfrjmB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 288,
+          "like_count": 7308,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1795
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T04:48:53.000Z",
+        "description": "感谢您的投喂喵(^ω^)有🚪188 288 388 520 1314上不封顶 问我任何问题20米噢 要举牌的麻烦先发钱 私信只回复红包口令欢迎女宝宝找我互转互fo",
+        "id": "1886275612970786816",
+        "name": "依依",
+        "pinned_tweet_id": "1889624881106473042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886657208269840384/WKGEBsU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 119
+        },
+        "username": "yy7182778565124",
+        "verified": false
+      }
+    ]
+  }
+}

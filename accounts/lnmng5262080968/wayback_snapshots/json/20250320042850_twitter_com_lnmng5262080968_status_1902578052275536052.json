@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1902573496234078219",
+    "created_at": "2025-03-20T04:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T05:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902578052275536052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1698257227726168064",
+          "start": 0,
+          "username": "lnyynsh160321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902578052275536052",
+    "in_reply_to_user_id": "1698257227726168064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902576693383983567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnyynsh160321 是长发男我会容忍一切🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1902573496234078219",
+        "created_at": "2025-03-20T04:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T05:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902578052275536052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1698257227726168064",
+              "start": 0,
+              "username": "lnyynsh160321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902578052275536052",
+        "in_reply_to_user_id": "1698257227726168064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902576693383983567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnyynsh160321 是长发男我会容忍一切🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698257227726168064",
+        "conversation_id": "1902573496234078219",
+        "created_at": "2025-03-20T04:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T05:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902576693383983567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902576693383983567",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902573496234078219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 这就是一个取舍问题的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 347,
+          "like_count": 10289,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2420
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T08:51:00.000Z",
+        "description": "先睡一会儿，不要紧的，但愿更好的明天",
+        "id": "1698257227726168064",
+        "location": "中国大陆福建",
+        "name": "磷叶音石",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698263130319826944/TgVBhuzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 318,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1980
+        },
+        "username": "lnyynsh160321",
+        "verified": false
+      }
+    ]
+  }
+}

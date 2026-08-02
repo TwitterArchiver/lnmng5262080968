@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2063525895432995293",
+    "created_at": "2026-06-07T07:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063525895432995293"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063525895432995293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高考已经过去四年了，我做了四年关于高考的噩梦，梦见自己什么都不会，马上考试了老师什么都不教，突然改制度连着中学的一起考我已经把初中的知识忘光了，梦见自己明明已经上大学了还要复读。每次都从噩梦中焦急的醒来，还好只是一场梦。我没有释怀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2063525895432995293",
+        "created_at": "2026-06-07T07:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063525895432995293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063525895432995293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考已经过去四年了，我做了四年关于高考的噩梦，梦见自己什么都不会，马上考试了老师什么都不教，突然改制度连着中学的一起考我已经把初中的知识忘光了，梦见自己明明已经上大学了还要复读。每次都从噩梦中焦急的醒来，还好只是一场梦。我没有释怀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 319,
+          "like_count": 17734,
+          "listed_count": 5,
+          "media_count": 209,
+          "tweet_count": 5989
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1931318238844948608",
+    "created_at": "2025-06-07T11:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T12:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931318238844948608"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931318238844948608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那一天我在爱人的怀里醒来，本来我应该死去的。\"你醒啦，又是新的一天\"。于是此后的每一天都有了意义，不必循规蹈矩地日复一日活着。我们在失眠的午夜与钢琴曲共舞，在无人的悬崖旁宣誓爱情的誓言，一起翻越无人看守的围墙。别人称我们为疯子，我们视他人若荒谬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1931318238844948608",
+        "created_at": "2025-06-07T11:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T12:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931318238844948608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931318238844948608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那一天我在爱人的怀里醒来，本来我应该死去的。\"你醒啦，又是新的一天\"。于是此后的每一天都有了意义，不必循规蹈矩地日复一日活着。我们在失眠的午夜与钢琴曲共舞，在无人的悬崖旁宣誓爱情的誓言，一起翻越无人看守的围墙。别人称我们为疯子，我们视他人若荒谬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 130,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 364,
+          "like_count": 13437,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 3797
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

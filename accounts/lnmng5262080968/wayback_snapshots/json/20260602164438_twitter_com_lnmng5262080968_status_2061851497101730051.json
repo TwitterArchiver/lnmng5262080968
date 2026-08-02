@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2060727671122960512",
+    "created_at": "2026-06-02T16:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061851497101730051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1525686661895491584",
+          "start": 0,
+          "username": "zhanghaiqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061851497101730051",
+    "in_reply_to_user_id": "1525686661895491584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060982894479519810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhanghaiqi3 不挣钱，也就打发时间整点小零花"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2060727671122960512",
+        "created_at": "2026-06-02T16:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061851497101730051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1525686661895491584",
+              "start": 0,
+              "username": "zhanghaiqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061851497101730051",
+        "in_reply_to_user_id": "1525686661895491584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060982894479519810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhanghaiqi3 不挣钱，也就打发时间整点小零花"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525686661895491584",
+        "conversation_id": "2060727671122960512",
+        "created_at": "2026-05-31T07:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060982894479519810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060982894479519810",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060727671122960512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 挣钱吗，如果很多的话就可以压力大可以停几天出去放松放松，没做过代打感觉还不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 317,
+          "like_count": 17683,
+          "listed_count": 5,
+          "media_count": 209,
+          "tweet_count": 5967
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T03:57:20.000Z",
+        "description": "",
+        "id": "1525686661895491584",
+        "name": "齐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525686744758202369/AUk0ahU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 28,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "username": "zhanghaiqi3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1891872821346959585",
+    "created_at": "2025-02-19T07:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T08:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892113505198932478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746931096657231873",
+          "start": 0,
+          "username": "noneedforyous"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892113505198932478",
+    "in_reply_to_user_id": "1746931096657231873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891872821346959585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noneedforyous 是的本边缘人只能在这找存在感🌚✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1891872821346959585",
+        "created_at": "2025-02-19T07:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T08:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892113505198932478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746931096657231873",
+              "start": 0,
+              "username": "noneedforyous"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892113505198932478",
+        "in_reply_to_user_id": "1746931096657231873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891872821346959585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noneedforyous 是的本边缘人只能在这找存在感🌚✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746931096657231873",
+        "conversation_id": "1891872821346959585",
+        "created_at": "2025-02-18T15:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T16:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891872821346959585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891872821346959585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 52306,
+          "like_count": 241,
+          "quote_count": 22,
+          "reply_count": 152,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉只有社会上的loser才会玩推特"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 256,
+          "like_count": 6869,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1676
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T16:23:33.000Z",
+        "description": "不想玩了",
+        "id": "1746931096657231873",
+        "name": "妲己",
+        "pinned_tweet_id": "1868909344307499491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890365025837346816/W09Wikt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 47,
+          "like_count": 105,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 524
+        },
+        "username": "noneedforyous",
+        "verified": false
+      }
+    ]
+  }
+}

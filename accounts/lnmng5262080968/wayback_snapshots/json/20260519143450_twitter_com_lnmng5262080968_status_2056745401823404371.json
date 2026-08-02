@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2056654704130896045",
+    "created_at": "2026-05-19T14:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056745401823404371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1985931784157339648",
+          "start": 0,
+          "username": "weruio_as"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056745401823404371",
+    "in_reply_to_user_id": "1985931784157339648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056687562539049410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weruio_as 脱产阶级没有生存压力是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2056654704130896045",
+        "created_at": "2026-05-19T14:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056745401823404371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1985931784157339648",
+              "start": 0,
+              "username": "weruio_as"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056745401823404371",
+        "in_reply_to_user_id": "1985931784157339648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056687562539049410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weruio_as 脱产阶级没有生存压力是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985931784157339648",
+        "conversation_id": "2056654704130896045",
+        "created_at": "2026-05-19T10:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056687562539049410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056687562539049410",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056654704130896045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我还以为这种话是我这种发了工资哄自己一把的消费话术 现在已经蔓延到未成年了吗 真有钱啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 313,
+          "like_count": 17521,
+          "listed_count": 5,
+          "media_count": 205,
+          "tweet_count": 5905
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T04:47:05.000Z",
+        "description": "",
+        "id": "1985931784157339648",
+        "location": "Los Angeles, CA",
+        "name": "nkiiou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033578412464635904/NRK7KIWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 151
+        },
+        "username": "weruio_as",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1978122662015627590",
+    "created_at": "2025-10-14T15:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T16:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978128214263218559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1599472039949221898",
+          "start": 0,
+          "username": "Christi50831162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978128214263218559",
+    "in_reply_to_user_id": "1599472039949221898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978126491645857889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Christi50831162 不想留在这个公司我想毕业之后去南方，所以三方肯定不签的🥺主要还是想去积累经验社会化一下，感觉自己要废了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1978122662015627590",
+        "created_at": "2025-10-14T15:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978128214263218559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1599472039949221898",
+              "start": 0,
+              "username": "Christi50831162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978128214263218559",
+        "in_reply_to_user_id": "1599472039949221898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978126491645857889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Christi50831162 不想留在这个公司我想毕业之后去南方，所以三方肯定不签的🥺主要还是想去积累经验社会化一下，感觉自己要废了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599472039949221898",
+        "conversation_id": "1978122662015627590",
+        "created_at": "2025-10-14T15:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978126491645857889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978126491645857889",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978125693595603253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 你想毕业了就留在这个公司，能签三方当然好了，但是如果你在实习过程中觉得以后不想在这干，那就不签，三方就是个保证，签了之后你毕业之后就得去，不去要付违约金，公司也是不要你他就赔钱给你。我建议先去实习，边实习边打听，问问老员工这个公司"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 369,
+          "like_count": 14204,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 4550
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T18:34:14.000Z",
+        "description": "子不教父之过，你骂人我的错。",
+        "id": "1599472039949221898",
+        "name": "软木塞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902907912055558144/EFAb7ymY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 5578,
+          "like_count": 1743,
+          "listed_count": 7,
+          "media_count": 114,
+          "tweet_count": 3632
+        },
+        "username": "Christi50831162",
+        "verified": false
+      }
+    ]
+  }
+}

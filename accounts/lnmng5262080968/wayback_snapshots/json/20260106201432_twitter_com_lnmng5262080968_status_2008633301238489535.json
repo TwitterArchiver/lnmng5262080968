@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2008627669882335651",
+    "created_at": "2026-01-06T20:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T21:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008633301238489535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797267786651279360",
+          "start": 0,
+          "username": "JingAn1330857"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008633301238489535",
+    "in_reply_to_user_id": "1797267786651279360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008627960870563993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JingAn1330857 突然醒了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2008627669882335651",
+        "created_at": "2026-01-06T20:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T21:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008633301238489535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797267786651279360",
+              "start": 0,
+              "username": "JingAn1330857"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008633301238489535",
+        "in_reply_to_user_id": "1797267786651279360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008627960870563993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JingAn1330857 突然醒了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797267786651279360",
+        "conversation_id": "2008627669882335651",
+        "created_at": "2026-01-06T19:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T20:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008627960870563993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008627960870563993",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008627669882335651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 d还没睡着啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 333,
+          "like_count": 14642,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 5096
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T14:04:04.000Z",
+        "description": "",
+        "id": "1797267786651279360",
+        "name": "Jing An",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797272446174945281/BWrRcA4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 1275,
+          "like_count": 1802,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1589
+        },
+        "username": "JingAn1330857",
+        "verified": false
+      }
+    ]
+  }
+}

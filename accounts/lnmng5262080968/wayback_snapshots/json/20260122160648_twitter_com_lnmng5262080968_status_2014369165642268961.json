@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2013840569743872169",
+    "created_at": "2026-01-22T16:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T17:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014369165642268961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1628358190655246338",
+          "start": 0,
+          "username": "SNzhende2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014369165642268961",
+    "in_reply_to_user_id": "1628358190655246338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013840569743872169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNzhende2007 不是男的我一边跳楼一边吃达芬！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013840562349318145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KZUlkaoAEh_L7.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2013840569743872169",
+        "created_at": "2026-01-22T16:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T17:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014369165642268961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1628358190655246338",
+              "start": 0,
+              "username": "SNzhende2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014369165642268961",
+        "in_reply_to_user_id": "1628358190655246338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013840569743872169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNzhende2007 不是男的我一边跳楼一边吃达芬！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013840562349318145"
+          ]
+        },
+        "author_id": "1628358190655246338",
+        "conversation_id": "2013840569743872169",
+        "created_at": "2026-01-21T05:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T06:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013840569743872169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPgsixfQLh",
+              "end": 31,
+              "expanded_url": "https://x.com/SNzhende2007/status/2013840569743872169/photo/1",
+              "media_key": "3_2013840562349318145",
+              "start": 8,
+              "url": "https://t.co/zPgsixfQLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013840569743872169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特闹鬼了 https://t.co/zPgsixfQLh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 299,
+          "like_count": 15122,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 5268
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:37:28.000Z",
+        "description": "她/祂/07/sub/虐腹/mtf/lesbian/(g/acc)",
+        "id": "1628358190655246338",
+        "name": "贞德",
+        "pinned_tweet_id": "2010038985528336847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762302331314667520/gTSuaeNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2751,
+          "following_count": 394,
+          "like_count": 9300,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 2391
+        },
+        "username": "SNzhende2007",
+        "verified": false
+      }
+    ]
+  }
+}

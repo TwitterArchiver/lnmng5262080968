@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1880874065319379384",
+    "created_at": "2025-01-19T07:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T08:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880874065319379384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lnmng526208096…",
+          "end": 84,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1880873505518178497",
+          "start": 61,
+          "url": "https://t.co/7kMqeZGLoh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880874065319379384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的病，我的割痕我的烟疤我的痛苦他们都不知道，也不想让他们知道，不要问了好吗别问了，幸亏没一直追问下去不然我真的就崩溃了 https://t.co/7kMqeZGLoh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1880874065319379384",
+        "created_at": "2025-01-19T07:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T08:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880874065319379384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 84,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1880873505518178497",
+              "start": 61,
+              "url": "https://t.co/7kMqeZGLoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880874065319379384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的病，我的割痕我的烟疤我的痛苦他们都不知道，也不想让他们知道，不要问了好吗别问了，幸亏没一直追问下去不然我真的就崩溃了 https://t.co/7kMqeZGLoh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友\n🚪38好友位48有朋友圈  68聊天",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 129,
+          "like_count": 2496,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 429
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

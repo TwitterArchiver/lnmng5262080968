@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1916155426858586530",
+    "created_at": "2025-04-27T02:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T03:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916315006398025755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490543758160527361",
+          "start": 0,
+          "username": "Qiu1647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916315006398025755",
+    "in_reply_to_user_id": "1490543758160527361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916155426858586530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiu1647 同意，我踏马要放假啊啊啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1916155426858586530",
+        "created_at": "2025-04-27T02:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T03:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916315006398025755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490543758160527361",
+              "start": 0,
+              "username": "Qiu1647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916315006398025755",
+        "in_reply_to_user_id": "1490543758160527361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916155426858586530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiu1647 同意，我踏马要放假啊啊啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490543758160527361",
+        "conversation_id": "1916155426858586530",
+        "created_at": "2025-04-26T15:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T16:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916155426858586530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Greenfish_insk…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/Greenfish_insky/status/1916088975070199826",
+              "start": 65,
+              "url": "https://t.co/my0tL7m2aU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916155426858586530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916088975070199826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪个杂种发明的调休，我一直想骂\n凭什么放假需要用别的时间代偿?读高中的时候学校还缩短放假时间，放节假日还不如不放\n妈的，傻逼制度 https://t.co/my0tL7m2aU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 376,
+          "like_count": 12442,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 3248
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "谢谢你的点赞与关注\n男性/直/极端厌恶弱智/尊重同性恋但对跨性持怀疑态度。自我介绍 个人照片暂时不在置顶",
+        "id": "1490543758160527361",
+        "location": "超维视界",
+        "name": "離人心上秋1647",
+        "pinned_tweet_id": "1915638979321270550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897288269643005952/i6IF9Zg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 838,
+          "like_count": 22424,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 7007
+        },
+        "username": "Qiu1647",
+        "verified": false
+      }
+    ]
+  }
+}

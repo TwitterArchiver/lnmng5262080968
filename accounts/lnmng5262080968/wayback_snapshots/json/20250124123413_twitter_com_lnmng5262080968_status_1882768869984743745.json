@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1882763001465565332",
+    "created_at": "2025-01-24T12:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T13:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882768869984743745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1855133870355890179",
+          "start": 0,
+          "username": "q2JHzPFLk930951"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882768869984743745",
+    "in_reply_to_user_id": "1855133870355890179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882763001465565332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q2JHzPFLk930951 坏了真遇到过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1882763001465565332",
+        "created_at": "2025-01-24T12:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T13:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882768869984743745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1855133870355890179",
+              "start": 0,
+              "username": "q2JHzPFLk930951"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882768869984743745",
+        "in_reply_to_user_id": "1855133870355890179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882763001465565332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q2JHzPFLk930951 坏了真遇到过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855133870355890179",
+        "conversation_id": "1882763001465565332",
+        "created_at": "2025-01-24T12:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T13:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882763001465565332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882763001465565332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那天我想用收款码加你微信 你为什么不同意呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜我天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 179,
+          "like_count": 3552,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 747
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T06:22:51.000Z",
+        "description": "喵喵喵\n🚪20/52/90/128/520 过🚪默认不退（窝没有支付宝不支持口令）\n不线下❌❌❌❌❌❌\n推特发的都是我的日常\n纯绿❗纯绿 ❗纯绿❗纯绿 ❗\n欢迎来找我玩≧∇≦\n可以找我聊天喵喵喵\n私信我都会回的\n没有回消息就是在忙或者睡觉\n宝宝们欢迎找我互fo🥺",
+        "id": "1855133870355890179",
+        "location": "我好累",
+        "name": "人活着真累所以叫人类",
+        "pinned_tweet_id": "1875547103587664089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880591563090452480/LQYUpiK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 205,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 259
+        },
+        "username": "q2JHzPFLk930951",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1882409485484097833",
+    "created_at": "2025-01-23T15:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T16:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882448814541602957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795789577459736576",
+          "start": 0,
+          "username": "xiaoge732178"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882448814541602957",
+    "in_reply_to_user_id": "1795789577459736576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882445495467221143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoge732178 好的，，希望会好起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1882409485484097833",
+        "created_at": "2025-01-23T15:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882448814541602957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795789577459736576",
+              "start": 0,
+              "username": "xiaoge732178"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882448814541602957",
+        "in_reply_to_user_id": "1795789577459736576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882445495467221143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoge732178 好的，，希望会好起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795789577459736576",
+        "conversation_id": "1882409485484097833",
+        "created_at": "2025-01-23T15:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882445495467221143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882445495467221143",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882444841633857695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 只能先混，只要父母没啥太大矛盾或者冲突，到学上完，你去工作进社会了那就好些了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 169,
+          "like_count": 3367,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 708
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T12:09:58.000Z",
+        "description": "拥有十万个为什么的好奇人",
+        "id": "1795789577459736576",
+        "name": "xiao ge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871436583129530368/GaY6i1Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 1038,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 325
+        },
+        "username": "xiaoge732178",
+        "verified": false
+      }
+    ]
+  }
+}

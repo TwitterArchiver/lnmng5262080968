@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2006379901763621220",
+    "created_at": "2026-01-01T18:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T19:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006794011567337929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1860564982993420289",
+          "start": 0,
+          "username": "LskxLd7I7z76531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006794011567337929",
+    "in_reply_to_user_id": "1860564982993420289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006738154469130554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LskxLd7I7z76531 耄耋一脚踹死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2006379901763621220",
+        "created_at": "2026-01-01T18:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T19:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006794011567337929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1860564982993420289",
+              "start": 0,
+              "username": "LskxLd7I7z76531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006794011567337929",
+        "in_reply_to_user_id": "1860564982993420289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006738154469130554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LskxLd7I7z76531 耄耋一脚踹死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860564982993420289",
+        "conversation_id": "2006379901763621220",
+        "created_at": "2026-01-01T14:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T15:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006738154469130554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006738154469130554",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006379901763621220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 哈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r看看腿 一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 377,
+          "like_count": 15154,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 5058
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T06:04:01.000Z",
+        "description": "",
+        "id": "1860564982993420289",
+        "name": "圆头耄耋",
+        "pinned_tweet_id": "2005990073398182214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005624074698166273/IKbFeTlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 120
+        },
+        "username": "LskxLd7I7z76531",
+        "verified": false
+      }
+    ]
+  }
+}

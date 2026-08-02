@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2014331876283220087",
+    "created_at": "2026-01-22T13:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T14:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014331876283220087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mortis0721/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/mortis0721/status/2013987956118159742",
+          "start": 14,
+          "url": "https://t.co/RzOZy0ccZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014331876283220087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013987956118159742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "mygo老资历是什么新词。 https://t.co/RzOZy0ccZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 997,
+        "media_key": "3_2013987944819044352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MfXYDbsAAHhmI.jpg",
+        "width": 1214
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2014331876283220087",
+        "created_at": "2026-01-22T13:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T14:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014331876283220087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mortis0721/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/mortis0721/status/2013987956118159742",
+              "start": 14,
+              "url": "https://t.co/RzOZy0ccZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014331876283220087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013987956118159742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "mygo老资历是什么新词。 https://t.co/RzOZy0ccZY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013987944819044352"
+          ]
+        },
+        "author_id": "1750997440352890880",
+        "conversation_id": "2013987956118159742",
+        "created_at": "2026-01-21T14:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013987956118159742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MpbGIHwuE0",
+              "end": 146,
+              "expanded_url": "https://x.com/Mortis0721/status/2013987956118159742/photo/1",
+              "media_key": "3_2013987944819044352",
+              "start": 123,
+              "url": "https://t.co/MpbGIHwuE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013987956118159742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 70093,
+          "like_count": 653,
+          "quote_count": 3,
+          "reply_count": 80,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "说我皮套的如果你在2023年9月6日之前cos过若叶睦那你是对的，如果你做不到那我就是中国第一个cos若叶睦的coser，并且是女coser，老资历是肯定的，那就请你闭嘴。\n我就是仗着老资历身份为非作歹，我做素睦饭的时候你们还不认识若叶睦呢^^ https://t.co/MpbGIHwuE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 299,
+          "like_count": 15108,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 5266
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T21:41:44.000Z",
+        "description": "此女简介不简单\nCN：睦奈（hitori/独り）",
+        "id": "1750997440352890880",
+        "location": "站街中",
+        "name": "Mortis様の颜",
+        "pinned_tweet_id": "1972341770181878121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924156623414611968/h73kuxb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22257,
+          "following_count": 121,
+          "like_count": 2731,
+          "listed_count": 63,
+          "media_count": 128,
+          "tweet_count": 545
+        },
+        "username": "Mortis0721",
+        "verified": false
+      }
+    ]
+  }
+}

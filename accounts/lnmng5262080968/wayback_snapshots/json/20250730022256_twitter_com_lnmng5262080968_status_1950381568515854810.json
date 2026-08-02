@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950287027418910720",
+        "3_1950287034058485760",
+        "3_1950287041352413184",
+        "3_1950287045521526785"
+      ],
+      "media_source_tweet_id": [
+        "1950287047916388389",
+        "1950287047916388389",
+        "1950287047916388389",
+        "1950287047916388389"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1950381568515854810",
+    "created_at": "2025-07-30T02:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T03:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950381568515854810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865821618649649152",
+          "start": 3,
+          "username": "ukiyo_ou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C6JQ3J7AIK",
+          "end": 102,
+          "expanded_url": "https://x.com/ukiyo_ou/status/1950287047916388389/photo/1",
+          "media_key": "3_1950287027418910720",
+          "start": 79,
+          "url": "https://t.co/C6JQ3J7AIK"
+        },
+        {
+          "display_url": "pic.x.com/C6JQ3J7AIK",
+          "end": 102,
+          "expanded_url": "https://x.com/ukiyo_ou/status/1950287047916388389/photo/1",
+          "media_key": "3_1950287034058485760",
+          "start": 79,
+          "url": "https://t.co/C6JQ3J7AIK"
+        },
+        {
+          "display_url": "pic.x.com/C6JQ3J7AIK",
+          "end": 102,
+          "expanded_url": "https://x.com/ukiyo_ou/status/1950287047916388389/photo/1",
+          "media_key": "3_1950287041352413184",
+          "start": 79,
+          "url": "https://t.co/C6JQ3J7AIK"
+        },
+        {
+          "display_url": "pic.x.com/C6JQ3J7AIK",
+          "end": 102,
+          "expanded_url": "https://x.com/ukiyo_ou/status/1950287047916388389/photo/1",
+          "media_key": "3_1950287045521526785",
+          "start": 79,
+          "url": "https://t.co/C6JQ3J7AIK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950381568515854810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950287047916388389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ukiyo_ou: 我是浮世\n我搞了新置顶求转转互fo\nod自伤介意不要来啦\n线下过🚪解锁 支持赞赏码or口令红包\n爱我就给我打赏让我活的更好吧🥺💖 https://t.co/C6JQ3J7AIK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1950381568515854810].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1950381568515854810",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1950381568515854810"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 897,
+        "media_key": "3_1950287027418910720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDPt-dbUAAKLkj.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950287034058485760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDPuXMbMAAbDPz.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2075,
+        "media_key": "3_1950287041352413184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDPuyXbsAAK2Uu.jpg",
+        "width": 1557
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1950287045521526785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDPvB5bUAEQuZY.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950287027418910720",
+            "3_1950287034058485760",
+            "3_1950287041352413184",
+            "3_1950287045521526785"
+          ]
+        },
+        "author_id": "1865821618649649152",
+        "conversation_id": "1950287047916388389",
+        "created_at": "2025-07-29T20:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T21:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950287047916388389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6JQ3J7AIK",
+              "end": 88,
+              "expanded_url": "https://x.com/ukiyo_ou/status/1950287047916388389/photo/1",
+              "media_key": "3_1950287027418910720",
+              "start": 65,
+              "url": "https://t.co/C6JQ3J7AIK"
+            },
+            {
+              "display_url": "pic.x.com/C6JQ3J7AIK",
+              "end": 88,
+              "expanded_url": "https://x.com/ukiyo_ou/status/1950287047916388389/photo/1",
+              "media_key": "3_1950287034058485760",
+              "start": 65,
+              "url": "https://t.co/C6JQ3J7AIK"
+            },
+            {
+              "display_url": "pic.x.com/C6JQ3J7AIK",
+              "end": 88,
+              "expanded_url": "https://x.com/ukiyo_ou/status/1950287047916388389/photo/1",
+              "media_key": "3_1950287041352413184",
+              "start": 65,
+              "url": "https://t.co/C6JQ3J7AIK"
+            },
+            {
+              "display_url": "pic.x.com/C6JQ3J7AIK",
+              "end": 88,
+              "expanded_url": "https://x.com/ukiyo_ou/status/1950287047916388389/photo/1",
+              "media_key": "3_1950287045521526785",
+              "start": 65,
+              "url": "https://t.co/C6JQ3J7AIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950287047916388389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是浮世\n我搞了新置顶求转转互fo\nod自伤介意不要来啦\n线下过🚪解锁 支持赞赏码or口令红包\n爱我就给我打赏让我活的更好吧🥺💖 https://t.co/C6JQ3J7AIK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 我真的很烂很恶心 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 371,
+          "like_count": 13739,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 4177
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:12:02.000Z",
+        "description": "=浮世￴\n￴ ￴OD／憂鬱症／承認欲求／自傷／病み垢/自撮り／コントロール欲／重加工／片目／地偶痴／cosplay/oc／visualkei／sub\n吐苦水的号 互fo欢迎☺️",
+        "id": "1865821618649649152",
+        "location": "🚪166",
+        "name": "グレー",
+        "pinned_tweet_id": "1950287047916388389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931035365907025923/GBmjTBr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 72,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 438
+        },
+        "username": "ukiyo_ou",
+        "verified": false
+      }
+    ]
+  }
+}

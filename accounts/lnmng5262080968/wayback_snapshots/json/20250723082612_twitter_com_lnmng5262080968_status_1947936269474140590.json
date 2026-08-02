@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1947936269474140590",
+    "created_at": "2025-07-23T08:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T09:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947936269474140590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1542900183264010240",
+          "start": 3,
+          "username": "amekami01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947936269474140590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876453968702034316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amekami01: 还不明白吗，幸福的人就是吃拼好饭都幸福，不幸福的人就是怎样都不幸福啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1947936269474140590",
+        "created_at": "2025-07-23T08:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T09:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947936269474140590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1542900183264010240",
+              "start": 3,
+              "username": "amekami01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947936269474140590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876453968702034316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amekami01: 还不明白吗，幸福的人就是吃拼好饭都幸福，不幸福的人就是怎样都不幸福啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542900183264010240",
+        "conversation_id": "1876453968702034316",
+        "created_at": "2025-01-07T02:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T03:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876453968702034316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876453968702034316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2141,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "还不明白吗，幸福的人就是吃拼好饭都幸福，不幸福的人就是怎样都不幸福啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 我真的很烂很恶心 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 369,
+          "like_count": 13695,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 4142
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T15:57:33.000Z",
+        "description": "我不活了可以了吗。到底是谁这么恨我",
+        "id": "1542900183264010240",
+        "name": "急支血浆七代目",
+        "pinned_tweet_id": "1945665772170408005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945664641838854144/AQ9TrSHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 130,
+          "like_count": 250,
+          "listed_count": 8,
+          "media_count": 17,
+          "tweet_count": 461
+        },
+        "username": "amekami01",
+        "verified": false
+      }
+    ]
+  }
+}

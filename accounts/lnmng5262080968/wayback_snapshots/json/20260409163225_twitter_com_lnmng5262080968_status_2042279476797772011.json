@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2042279476797772011",
+    "created_at": "2026-04-09T16:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042279476797772011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lnmng526208096…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/lnmng5262080968/status/1941488903892136204",
+          "start": 85,
+          "url": "https://t.co/vQASg8gCv6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042279476797772011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941488903892136204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好开心哈哈哈哈哈骨折把我扔一边的前亲友今天分手了😁😁😁还说加回好友重新做朋友，我鸟都不鸟你😁还有就是我的论文终于写好导师也不管把我扔给学姐了欧耶，今天真是个好日子嘻嘻嘻 https://t.co/vQASg8gCv6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941488898598658048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGN3ehWYAAAF8m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2042279476797772011",
+        "created_at": "2026-04-09T16:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042279476797772011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/1941488903892136204",
+              "start": 85,
+              "url": "https://t.co/vQASg8gCv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042279476797772011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941488903892136204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好开心哈哈哈哈哈骨折把我扔一边的前亲友今天分手了😁😁😁还说加回好友重新做朋友，我鸟都不鸟你😁还有就是我的论文终于写好导师也不管把我扔给学姐了欧耶，今天真是个好日子嘻嘻嘻 https://t.co/vQASg8gCv6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941488898598658048"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "1941488903892136204",
+        "created_at": "2025-07-05T13:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941488903892136204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHOPo34xR0",
+              "end": 164,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1941488903892136204/photo/1",
+              "media_key": "3_1941488898598658048",
+              "start": 141,
+              "url": "https://t.co/dHOPo34xR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941488903892136204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9691,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么不想想我为什么想自杀，关心朋友答应他出来玩，带我骑电动车逆行导致我出车祸，断了三根手指。一个人在外地人生地不熟的就跟着他走，出了事还是自己叫的120，等车的时候他刷抖音嘿嘿乐。 一个人上车去医院，他脚底抹油跑了事后连一句问候都没有。都他妈司马了我一个人在外面吸烟区一边抽一边哭 https://t.co/dHOPo34xR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 310,
+          "like_count": 17260,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 5736
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

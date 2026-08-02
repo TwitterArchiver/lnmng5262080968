@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1876843769401598402",
+    "created_at": "2025-01-09T15:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T16:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877381714042835168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1541257518156218368",
+          "start": 0,
+          "username": "U4PSSBmeoADv1hp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877381714042835168",
+    "in_reply_to_user_id": "1541257518156218368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877381460727832600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@U4PSSBmeoADv1hp 呜…是的，，摆脱掉之后光速黑化成长（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1876843769401598402",
+        "created_at": "2025-01-09T15:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T16:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877381714042835168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1541257518156218368",
+              "start": 0,
+              "username": "U4PSSBmeoADv1hp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877381714042835168",
+        "in_reply_to_user_id": "1541257518156218368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877381460727832600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@U4PSSBmeoADv1hp 呜…是的，，摆脱掉之后光速黑化成长（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541257518156218368",
+        "conversation_id": "1876843769401598402",
+        "created_at": "2025-01-09T15:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T16:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877381460727832600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877381460727832600",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876843769401598402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 怎么会遇到这么坏的人，还好已经摆脱掉了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜已有主人                                                \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友\n🚪38好友位 68聊天 88有朋友圈",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 64,
+          "like_count": 1224,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 232
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T03:10:23.000Z",
+        "description": "不喜欢我的话，心会很痛噢",
+        "id": "1541257518156218368",
+        "location": "四川",
+        "name": "TAMIA",
+        "pinned_tweet_id": "1876299891422761147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840445655258714112/j4A_G20C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 27,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 181
+        },
+        "username": "U4PSSBmeoADv1hp",
+        "verified": false
+      }
+    ]
+  }
+}

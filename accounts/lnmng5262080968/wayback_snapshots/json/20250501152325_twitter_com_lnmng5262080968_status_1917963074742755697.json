@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1917962510134812794",
+    "created_at": "2025-05-01T15:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T16:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917963074742755697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606351071206674438",
+          "start": 0,
+          "username": "jiyn91306622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917963074742755697",
+    "in_reply_to_user_id": "1606351071206674438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917962510134812794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiyn91306622 最终还是赢不过资本"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 817,
+        "media_key": "3_1917962507526004736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp34vSGa4AAfO1G.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1917962510134812794",
+        "created_at": "2025-05-01T15:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T16:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917963074742755697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606351071206674438",
+              "start": 0,
+              "username": "jiyn91306622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917963074742755697",
+        "in_reply_to_user_id": "1606351071206674438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917962510134812794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyn91306622 最终还是赢不过资本"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917962507526004736"
+          ]
+        },
+        "author_id": "1606351071206674438",
+        "conversation_id": "1917962510134812794",
+        "created_at": "2025-05-01T15:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T16:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917962510134812794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgHUdp2XTy",
+              "end": 62,
+              "expanded_url": "https://x.com/jiyn91306622/status/1917962510134812794/photo/1",
+              "media_key": "3_1917962507526004736",
+              "start": 39,
+              "url": "https://t.co/tgHUdp2XTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917962510134812794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又动了马斯克的蛋糕了，我又被做局了，我两个转生号都用不了了，中式推特你赢了 https://t.co/tgHUdp2XTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 375,
+          "like_count": 12599,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 3293
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T18:08:44.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jin14792",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jin14792",
+                "start": 0,
+                "url": "https://t.co/nQ6oZl1H8m"
+              }
+            ]
+          }
+        },
+        "id": "1606351071206674438",
+        "name": "你踩到我的呕吐物了",
+        "pinned_tweet_id": "1915451086661713990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896598211961434112/BmTnJzsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 850,
+          "like_count": 20065,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 3307
+        },
+        "url": "https://t.co/nQ6oZl1H8m",
+        "username": "jiyn91306622",
+        "verified": false
+      }
+    ]
+  }
+}

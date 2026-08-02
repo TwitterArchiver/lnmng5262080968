@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979942642310918144"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1979942654906658876",
+    "created_at": "2025-10-19T16:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T17:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979942654906658876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kgz1ccNiL4",
+          "end": 133,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1979942654906658876/photo/1",
+          "media_key": "3_1979942642310918144",
+          "start": 110,
+          "url": "https://t.co/kgz1ccNiL4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979942654906658876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "赵*驰你再这么对我下次发的就是高清原图。我天天陪你吃拼好饭自从同居之后努力给你省钱想吃点好的也就他妈东北家常菜，你他妈趁我出远门在bangdream里充一千多。我他妈都没舍得在游戏里充那么多，你现在让我觉得自己是个笑话 https://t.co/kgz1ccNiL4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_1979942642310918144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3orV86XMAAECGY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979942642310918144"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "1979942654906658876",
+        "created_at": "2025-10-19T16:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979942654906658876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kgz1ccNiL4",
+              "end": 133,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1979942654906658876/photo/1",
+              "media_key": "3_1979942642310918144",
+              "start": 110,
+              "url": "https://t.co/kgz1ccNiL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979942654906658876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赵*驰你再这么对我下次发的就是高清原图。我天天陪你吃拼好饭自从同居之后努力给你省钱想吃点好的也就他妈东北家常菜，你他妈趁我出远门在bangdream里充一千多。我他妈都没舍得在游戏里充那么多，你现在让我觉得自己是个笑话 https://t.co/kgz1ccNiL4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 371,
+          "like_count": 14293,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 4598
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1978122662015627590",
+    "created_at": "2025-10-14T15:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T16:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978125693595603253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1599472039949221898",
+          "start": 0,
+          "username": "Christi50831162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978125693595603253",
+    "in_reply_to_user_id": "1599472039949221898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978124328777523548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Christi50831162 应该是没有的，签三方算好事咪🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1978122662015627590",
+        "created_at": "2025-10-14T15:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978125693595603253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1599472039949221898",
+              "start": 0,
+              "username": "Christi50831162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978125693595603253",
+        "in_reply_to_user_id": "1599472039949221898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978124328777523548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Christi50831162 应该是没有的，签三方算好事咪🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599472039949221898",
+        "conversation_id": "1978122662015627590",
+        "created_at": "2025-10-14T15:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978124328777523548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978124328777523548",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978122662015627590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 给签三方吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 369,
+          "like_count": 14203,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 4547
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T18:34:14.000Z",
+        "description": "子不教父之过，你骂人我的错。",
+        "id": "1599472039949221898",
+        "name": "软木塞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902907912055558144/EFAb7ymY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 5577,
+          "like_count": 1741,
+          "listed_count": 7,
+          "media_count": 114,
+          "tweet_count": 3627
+        },
+        "username": "Christi50831162",
+        "verified": false
+      }
+    ]
+  }
+}

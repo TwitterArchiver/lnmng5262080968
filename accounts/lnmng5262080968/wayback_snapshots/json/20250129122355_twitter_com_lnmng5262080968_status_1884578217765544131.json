@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1884567181364785201",
+    "created_at": "2025-01-29T12:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T13:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884578217765544131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1864325803930243072",
+          "start": 0,
+          "username": "Shuipiaomiomio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884578217765544131",
+    "in_reply_to_user_id": "1864325803930243072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884567181364785201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shuipiaomiomio 一起蹲着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1884567181364785201",
+        "created_at": "2025-01-29T12:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T13:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884578217765544131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1864325803930243072",
+              "start": 0,
+              "username": "Shuipiaomiomio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884578217765544131",
+        "in_reply_to_user_id": "1864325803930243072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884567181364785201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuipiaomiomio 一起蹲着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884567174536474624"
+          ]
+        },
+        "author_id": "1864325803930243072",
+        "conversation_id": "1884567181364785201",
+        "created_at": "2025-01-29T11:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T12:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884567181364785201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/THL59CzGY1",
+              "end": 39,
+              "expanded_url": "https://x.com/Shuipiaomiomio/status/1884567181364785201/photo/1",
+              "media_key": "3_1884567174536474624",
+              "start": 16,
+              "url": "https://t.co/THL59CzGY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884567181364785201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门不知道去哪找了个地方蹲着？ https://t.co/THL59CzGY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜我天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 183,
+          "like_count": 4349,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1027
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T15:08:15.000Z",
+        "description": "偏执强迫的疯子神经病 精致的利己主义 坚信无神论的唯心者",
+        "id": "1864325803930243072",
+        "name": "水缥澪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882083827608322048/xlGfwgvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 123,
+          "like_count": 3586,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1699
+        },
+        "username": "Shuipiaomiomio",
+        "verified": false
+      }
+    ]
+  }
+}

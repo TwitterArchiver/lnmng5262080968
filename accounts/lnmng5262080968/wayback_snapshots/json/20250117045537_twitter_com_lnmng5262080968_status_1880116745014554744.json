@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1879962167778374020",
+    "created_at": "2025-01-17T04:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T05:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880116745014554744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774063407559512064",
+          "start": 0,
+          "username": "lightly_wind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880116745014554744",
+    "in_reply_to_user_id": "1774063407559512064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880100902071333104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lightly_wind 抱抱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1879962167778374020",
+        "created_at": "2025-01-17T04:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T05:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880116745014554744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774063407559512064",
+              "start": 0,
+              "username": "lightly_wind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880116745014554744",
+        "in_reply_to_user_id": "1774063407559512064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880100902071333104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightly_wind 抱抱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774063407559512064",
+        "conversation_id": "1879962167778374020",
+        "created_at": "2025-01-17T03:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T04:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880100902071333104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880100902071333104",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879962167778374020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 抱抱你！(´∩｡• ᵕ •｡∩`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友\n🚪38好友位48有朋友圈  68聊天",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1878291594681704469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 122,
+          "like_count": 2367,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 420
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T13:17:38.000Z",
+        "description": "这里是风风，一个立誓不对任何人恶语相向的笨蛋机器人ෆ╹ .̮ ╹ෆ/想成为像暖言猫猫一样用语言温暖身边所有人的人(◍•ᴗ•◍)✧*/不排斥任何观点和立场也不歧视任何人( ◜‿◝ )♡/从深渊中醒来过所以尽力去帮助身边处于痛苦和迷茫的人♡ ᒪ∅ᐯᕮ ♡/有烦恼可以和我说说哦，请你喝奶茶(´∩｡• ᵕ •｡∩`)",
+        "id": "1774063407559512064",
+        "location": "异世界，王国都城，上城区",
+        "name": "温柔的风穿堂过（睡不醒模式）",
+        "pinned_tweet_id": "1878479133531050138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774063486559207424/dSsXFsSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 289,
+          "like_count": 3916,
+          "listed_count": 5,
+          "media_count": 71,
+          "tweet_count": 858
+        },
+        "username": "lightly_wind",
+        "verified": false
+      }
+    ]
+  }
+}

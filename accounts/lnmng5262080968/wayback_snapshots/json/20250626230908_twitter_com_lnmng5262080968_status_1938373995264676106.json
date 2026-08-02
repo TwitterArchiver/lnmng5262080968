@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1938261109443793222",
+    "created_at": "2025-06-26T23:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T00:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938373995264676106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1515920862205001732",
+          "start": 0,
+          "username": "cnmdsjdqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938373995264676106",
+    "in_reply_to_user_id": "1515920862205001732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938262071554228715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnmdsjdqs 欧米茄🌚，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1938261109443793222",
+        "created_at": "2025-06-26T23:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T00:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938373995264676106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1515920862205001732",
+              "start": 0,
+              "username": "cnmdsjdqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938373995264676106",
+        "in_reply_to_user_id": "1515920862205001732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938262071554228715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnmdsjdqs 欧米茄🌚，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515920862205001732",
+        "conversation_id": "1938261109443793222",
+        "created_at": "2025-06-26T15:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938262071554228715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938262071554228715",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938261109443793222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 你说我会拿酒精往你逼里面倒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 368,
+          "like_count": 13664,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 4020
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T05:11:56.000Z",
+        "description": "🉑叫我小玖 如果这个号被封了请移步逃生舱 @11404wa 希特勒梦女？ @Akiscara_3405这是我妈妈 有的人操你妈的，你TM爱看不看没逼着你看，不想看把我拉黑，再骂我的全家都死完🙄滚 欢迎大家匿名提问给我https://t.co/ROzpKPzEwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "11404wa"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "Akiscara_3405"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jiue1014",
+                "end": 131,
+                "expanded_url": "https://ngl.link/jiue1014",
+                "start": 108,
+                "url": "https://t.co/ROzpKPzEwO"
+              }
+            ]
+          }
+        },
+        "id": "1515920862205001732",
+        "location": "🚪88 188 288 520 1314  不退🚪",
+        "name": "上你妈上这破班",
+        "pinned_tweet_id": "1919689125059285348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900892248486932484/D4YRSeFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 121,
+          "like_count": 3540,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1313
+        },
+        "username": "cnmdsjdqs",
+        "verified": false
+      }
+    ]
+  }
+}

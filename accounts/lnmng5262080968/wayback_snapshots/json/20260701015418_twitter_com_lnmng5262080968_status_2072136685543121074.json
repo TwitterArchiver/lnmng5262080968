@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072136672662396928"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "2072136685543121074",
+    "created_at": "2026-07-01T01:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T02:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072136685543121074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JBtlEQCLUd",
+          "end": 88,
+          "expanded_url": "https://x.com/lnmng5262080968/status/2072136685543121074/photo/1",
+          "media_key": "3_2072136672662396928",
+          "start": 65,
+          "url": "https://t.co/JBtlEQCLUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072136685543121074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠找不到工作发疯的帖子下面一堆土鸡蛋社达开会了呀，去和张雪峰老师一桌吧美美哒！删帖跑路中，在网上发发疯真以为本宝宝过得很惨啊🌚 https://t.co/JBtlEQCLUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072136672662396928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMG1UzwaIAAuP_w.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072136672662396928"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "2072136685543121074",
+        "created_at": "2026-07-01T01:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072136685543121074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBtlEQCLUd",
+              "end": 88,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2072136685543121074/photo/1",
+              "media_key": "3_2072136672662396928",
+              "start": 65,
+              "url": "https://t.co/JBtlEQCLUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072136685543121074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠找不到工作发疯的帖子下面一堆土鸡蛋社达开会了呀，去和张雪峰老师一桌吧美美哒！删帖跑路中，在网上发发疯真以为本宝宝过得很惨啊🌚 https://t.co/JBtlEQCLUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 316,
+          "like_count": 17788,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 6039
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

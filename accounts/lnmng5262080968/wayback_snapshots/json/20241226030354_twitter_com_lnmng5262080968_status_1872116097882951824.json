@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1872116097882951824",
+    "created_at": "2024-12-26T03:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T04:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1872116097882951824"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1872116097882951824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男的听到你是磕药自残的阴暗女，一般有三种反应：\n1.觉得此人好恐怖，怕沾染上晦气赶紧跑，不想草了\n2.待在你身边说一些无关痛痒的东西鼓励你劝阻你，只为草一顿\n3.不惜损害自己身体健康，陪你磕药自残，只为草一顿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1872116097882951824",
+        "created_at": "2024-12-26T03:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T04:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872116097882951824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872116097882951824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男的听到你是磕药自残的阴暗女，一般有三种反应：\n1.觉得此人好恐怖，怕沾染上晦气赶紧跑，不想草了\n2.待在你身边说一些无关痛痒的东西鼓励你劝阻你，只为草一顿\n3.不惜损害自己身体健康，陪你磕药自残，只为草一顿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪\n欢迎来到凛凛的阴暗小世界…\n此平台不定时在线🚪88纯绿聊天全天在线喵来找我玩",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 71
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

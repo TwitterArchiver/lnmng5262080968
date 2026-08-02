@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1908108677103730970",
+    "created_at": "2025-04-04T12:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T13:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908131851480477891"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "豪华大",
+          "probability": 0.5104,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1747880916524158976",
+          "start": 0,
+          "username": "serouier57518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908131851480477891",
+    "in_reply_to_user_id": "1747880916524158976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908108677103730970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@serouier57518 豪华大餐啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908108660347387904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnr2t4zaQAAwJ5s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1908108677103730970",
+        "created_at": "2025-04-04T12:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T13:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908131851480477891"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "豪华大",
+              "probability": 0.5104,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1747880916524158976",
+              "start": 0,
+              "username": "serouier57518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908131851480477891",
+        "in_reply_to_user_id": "1747880916524158976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908108677103730970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@serouier57518 豪华大餐啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908108660347387904"
+          ]
+        },
+        "author_id": "1747880916524158976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1908108677103730970",
+        "created_at": "2025-04-04T10:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T11:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908108677103730970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mELVhdYiS",
+              "end": 38,
+              "expanded_url": "https://x.com/serouier57518/status/1908108677103730970/photo/1",
+              "media_key": "3_1908108660347387904",
+              "start": 15,
+              "url": "https://t.co/5mELVhdYiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908108677103730970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟我谈恋爱吧，我带你吃麻辣烫 https://t.co/5mELVhdYiS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 363,
+          "like_count": 10991,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2673
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T07:17:47.000Z",
+        "description": "小透明 只是随便发发 匿名箱子👉https://t.co/bCJqLViN6F\n扒皮下4000➕",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/serouier57518",
+                "end": 39,
+                "expanded_url": "https://ngl.link/serouier57518",
+                "start": 16,
+                "url": "https://t.co/bCJqLViN6F"
+              }
+            ]
+          }
+        },
+        "id": "1747880916524158976",
+        "location": "🚪36➕vx",
+        "name": "Serouier",
+        "pinned_tweet_id": "1905301826641297724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870096988722868226/gAiOPIu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 140,
+          "like_count": 253,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 854
+        },
+        "username": "serouier57518",
+        "verified": false
+      }
+    ]
+  }
+}

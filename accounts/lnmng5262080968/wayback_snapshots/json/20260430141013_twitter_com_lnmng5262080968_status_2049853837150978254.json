@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2049158224339993075",
+    "created_at": "2026-04-30T14:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049853837150978254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1434492593388367872",
+          "start": 0,
+          "username": "dyroom2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049853837150978254",
+    "in_reply_to_user_id": "1434492593388367872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049525925038195017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dyroom2 说实话这种差一点点的事总在我身上发生，高考差3分过一本线，中考差2分进重点，可能没那个好命吧哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2049158224339993075",
+        "created_at": "2026-04-30T14:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049853837150978254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1434492593388367872",
+              "start": 0,
+              "username": "dyroom2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049853837150978254",
+        "in_reply_to_user_id": "1434492593388367872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049525925038195017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dyroom2 说实话这种差一点点的事总在我身上发生，高考差3分过一本线，中考差2分进重点，可能没那个好命吧哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434492593388367872",
+        "conversation_id": "2049158224339993075",
+        "created_at": "2026-04-29T16:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049525925038195017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049525925038195017",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049158224339993075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 说实话以前的我还是花太多时间去想了，身体躺着不动脑子总在思考总在复盘总在回忆反而让我变的别扭拧巴，对家人的建议和劝导第一时间几乎的抗拒和易怒同时也想唱反调。这种状态在我毕业后待家里持续了一年，然后24年开始找班上之后才慢慢转变"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 318,
+          "like_count": 17533,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 5869
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T12:24:37.000Z",
+        "description": "一切还行",
+        "id": "1434492593388367872",
+        "name": "dyroom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660268485296148486/KMd9ESmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 140,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 87
+        },
+        "username": "dyroom2",
+        "verified": false
+      }
+    ]
+  }
+}

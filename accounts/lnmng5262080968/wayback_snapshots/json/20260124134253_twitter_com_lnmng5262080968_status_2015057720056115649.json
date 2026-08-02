@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015057705795567616"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015057720056115649",
+    "created_at": "2026-01-24T13:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T14:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015057720056115649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lUFW3YlKBm",
+          "end": 111,
+          "expanded_url": "https://x.com/lnmng5262080968/status/2015057720056115649/photo/1",
+          "media_key": "3_2015057705795567616",
+          "start": 88,
+          "url": "https://t.co/lUFW3YlKBm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015057720056115649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讲个笑话。这家拼豆店发视频阴阳并且人身攻击我朋友。拼豆主理人直接气到报警😂😂帽子都无语了让他找我主动把联系方式提供给👮！还让我主动去👮局自首😂不是让晶哥抓我吗怎么还把我拉黑了 https://t.co/lUFW3YlKBm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015057705795567616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bsTqPbwAAIiBR.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015057705795567616"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015057720056115649",
+        "created_at": "2026-01-24T13:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015057720056115649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUFW3YlKBm",
+              "end": 111,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2015057720056115649/photo/1",
+              "media_key": "3_2015057705795567616",
+              "start": 88,
+              "url": "https://t.co/lUFW3YlKBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015057720056115649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲个笑话。这家拼豆店发视频阴阳并且人身攻击我朋友。拼豆主理人直接气到报警😂😂帽子都无语了让他找我主动把联系方式提供给👮！还让我主动去👮局自首😂不是让晶哥抓我吗怎么还把我拉黑了 https://t.co/lUFW3YlKBm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 298,
+          "like_count": 15143,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5282
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

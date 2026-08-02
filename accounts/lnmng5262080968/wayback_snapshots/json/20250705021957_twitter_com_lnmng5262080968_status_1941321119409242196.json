@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1941321119409242196",
+    "created_at": "2025-07-05T02:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T03:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941321119409242196"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1941321119409242196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没更新的这几天是出事了。前几天刚买的iphone16被贱人偷走，报警无果。但可能是向警察提供手机号导致翻墙被发现，失联的这几天一直在给我妈打电话，长春的打老家的也打，怕我走极端。\n说什么痛苦啦想死啦都是发泄情绪而已，才不会真的去死呢～这个账号更新频率会慢一些，大家也要注意言行啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1941321119409242196",
+        "created_at": "2025-07-05T02:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T03:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941321119409242196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941321119409242196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没更新的这几天是出事了。前几天刚买的iphone16被贱人偷走，报警无果。但可能是向警察提供手机号导致翻墙被发现，失联的这几天一直在给我妈打电话，长春的打老家的也打，怕我走极端。\n说什么痛苦啦想死啦都是发泄情绪而已，才不会真的去死呢～这个账号更新频率会慢一些，大家也要注意言行啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 367,
+          "like_count": 13649,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 4025
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1883074424183869813",
+    "created_at": "2025-01-25T08:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T09:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883075396150944068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1871589175562244097",
+          "start": 0,
+          "username": "etm878"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883075396150944068",
+    "in_reply_to_user_id": "1871589175562244097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883075209777033549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@etm878 那我烧点纸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1883074424183869813",
+        "created_at": "2025-01-25T08:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T09:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883075396150944068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1871589175562244097",
+              "start": 0,
+              "username": "etm878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883075396150944068",
+        "in_reply_to_user_id": "1871589175562244097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883075209777033549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@etm878 那我烧点纸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871589175562244097",
+        "conversation_id": "1883074424183869813",
+        "created_at": "2025-01-25T08:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T09:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883075209777033549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883075209777033549",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883074424183869813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 需要我开货拉拉送他去异世界吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜我天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 184,
+          "like_count": 3653,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 803
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T16:10:16.000Z",
+        "description": "白天不会在线，因为恶魔夜晚才会出现，想互fo可以告诉我😋，想交更多的夜猫子网友，虽然我话题不多可是可以随便聊",
+        "id": "1871589175562244097",
+        "name": "SPOK",
+        "pinned_tweet_id": "1879953545207914957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872255890557952000/p0bYsAMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 22,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 697
+        },
+        "username": "etm878",
+        "verified": false
+      }
+    ]
+  }
+}

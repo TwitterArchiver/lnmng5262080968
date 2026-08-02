@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1976691018071523578",
+    "created_at": "2025-10-12T03:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T04:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977217152752271684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877870782254292992",
+          "start": 0,
+          "username": "lyln3652571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977217152752271684",
+    "in_reply_to_user_id": "1877870782254292992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977212710837534993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyln3652571 爱了爱了米米嘟太好看了✝️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1977212698648887300",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3B4eURbwAQlf4j.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1976691018071523578",
+        "created_at": "2025-10-12T03:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T04:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977217152752271684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877870782254292992",
+              "start": 0,
+              "username": "lyln3652571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977217152752271684",
+        "in_reply_to_user_id": "1877870782254292992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977212710837534993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyln3652571 爱了爱了米米嘟太好看了✝️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977212698648887300"
+          ]
+        },
+        "author_id": "1877870782254292992",
+        "conversation_id": "1976691018071523578",
+        "created_at": "2025-10-12T03:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T04:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977212710837534993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mswhj9UyG8",
+              "end": 44,
+              "expanded_url": "https://x.com/lyln3652571/status/1977212710837534993/photo/1",
+              "media_key": "3_1977212698648887300",
+              "start": 21,
+              "url": "https://t.co/Mswhj9UyG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977212710837534993",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977082900719059418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 教主！ https://t.co/Mswhj9UyG8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 369,
+          "like_count": 14163,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 4519
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T00:11:24.000Z",
+        "description": "",
+        "id": "1877870782254292992",
+        "location": "0.1km",
+        "name": "伤口",
+        "pinned_tweet_id": "1971604322468393126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977007049436545030/n0KBDzQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 5,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "username": "lyln3652571",
+        "verified": false
+      }
+    ]
+  }
+}

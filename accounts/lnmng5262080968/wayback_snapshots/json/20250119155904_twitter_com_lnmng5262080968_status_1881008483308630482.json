@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1880965901476069579",
+    "created_at": "2025-01-19T15:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T16:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881008483308630482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1608271700445265921",
+          "start": 0,
+          "username": "xiaomangguo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881008483308630482",
+    "in_reply_to_user_id": "1608271700445265921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881000880201421231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomangguo8964 七匹狼（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1880965901476069579",
+        "created_at": "2025-01-19T15:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T16:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881008483308630482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1608271700445265921",
+              "start": 0,
+              "username": "xiaomangguo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881008483308630482",
+        "in_reply_to_user_id": "1608271700445265921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881000880201421231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomangguo8964 七匹狼（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608271700445265921",
+        "conversation_id": "1880965901476069579",
+        "created_at": "2025-01-19T15:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T16:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881000880201421231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881000880201421231",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880965901476069579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 什么烟🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 131,
+          "like_count": 2608,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 459
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T01:20:43.000Z",
+        "description": "花と水飴、最終電車。",
+        "id": "1608271700445265921",
+        "location": "新大陆古龙调查团四期团",
+        "name": "小芒果",
+        "pinned_tweet_id": "1847310968046629301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877694764948332544/fUxr9nm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 583,
+          "like_count": 442,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 316
+        },
+        "username": "xiaomangguo8964",
+        "verified": false
+      }
+    ]
+  }
+}

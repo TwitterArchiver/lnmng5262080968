@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1909207331818360901",
+    "created_at": "2025-04-09T10:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T11:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909923422592774386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875114381807427584",
+          "start": 0,
+          "username": "Liangsicheng127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909923422592774386",
+    "in_reply_to_user_id": "1875114381807427584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909915419064008722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liangsicheng127 正解，爽炸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1909207331818360901",
+        "created_at": "2025-04-09T10:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T11:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909923422592774386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875114381807427584",
+              "start": 0,
+              "username": "Liangsicheng127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909923422592774386",
+        "in_reply_to_user_id": "1875114381807427584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909915419064008722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangsicheng127 正解，爽炸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875114381807427584",
+        "conversation_id": "1909207331818360901",
+        "created_at": "2025-04-09T10:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T11:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909915419064008722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909915419064008722",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909207331818360901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 左边第一排第一盒才是解药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 368,
+          "like_count": 11256,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 2780
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:38:16.000Z",
+        "description": "坠入爱河的前提是，你不能有意坠入",
+        "id": "1875114381807427584",
+        "location": "福州市",
+        "name": "梁思铖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879187300258848769/lnI5Qine_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 54,
+          "like_count": 1748,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 619
+        },
+        "username": "Liangsicheng127",
+        "verified": false
+      }
+    ]
+  }
+}

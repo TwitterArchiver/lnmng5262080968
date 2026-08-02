@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1925545150891319691",
+    "created_at": "2025-05-22T13:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T14:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925545150891319691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lnmng526208096…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/lnmng5262080968/status/1925508354178523542",
+          "start": 15,
+          "url": "https://t.co/DvjobdW2mH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925545150891319691",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925508354178523542",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人能陪我嘛，我想要有人陪着 https://t.co/DvjobdW2mH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1925545150891319691",
+        "created_at": "2025-05-22T13:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T14:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925545150891319691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/1925508354178523542",
+              "start": 15,
+              "url": "https://t.co/DvjobdW2mH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925545150891319691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925508354178523542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人能陪我嘛，我想要有人陪着 https://t.co/DvjobdW2mH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1925508354178523542",
+        "created_at": "2025-05-22T11:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T12:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925508354178523542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925508354178523542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周六谁能陪我去长春六院看病，每次都自己去好孤单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 366,
+          "like_count": 13071,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 3566
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

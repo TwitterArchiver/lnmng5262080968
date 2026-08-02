@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1945513570424197360",
+    "created_at": "2025-07-16T17:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T18:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945537004663706099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1756865271057485824",
+          "start": 0,
+          "username": "qHanTinp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945537004663706099",
+    "in_reply_to_user_id": "1756865271057485824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945525958779220089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qHanTinp 抱—"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1945513570424197360",
+        "created_at": "2025-07-16T17:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T18:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945537004663706099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1756865271057485824",
+              "start": 0,
+              "username": "qHanTinp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945537004663706099",
+        "in_reply_to_user_id": "1756865271057485824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945525958779220089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qHanTinp 抱—"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756865271057485824",
+        "conversation_id": "1945513570424197360",
+        "created_at": "2025-07-16T16:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T17:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945525958779220089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945525958779220089",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945513570424197360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 抱抱凛凛喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 364,
+          "like_count": 13643,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 4100
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T02:18:32.000Z",
+        "description": "这里是HanTin，只要你是ppy民，我们就是好朋友，情商超低，珍惜着身边的朋友们，随缘fo人w，不擅长日文、基本使用机翻｜咱超可爱的妹妹@teyop129314 @xingyue80934591｜咱可爱的小星怒@Mikhail_712｜涩涩的可爱性奴@Haruhi_LAP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "teyop129314"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "xingyue80934591"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "Mikhail_712"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "Haruhi_LAP"
+              }
+            ]
+          }
+        },
+        "id": "1756865271057485824",
+        "location": "无尽的音游之路",
+        "name": "Stardust:NYA",
+        "pinned_tweet_id": "1905048740215538012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922969079289348098/E6Hv8H9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 456,
+          "like_count": 28415,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 4474
+        },
+        "username": "qHanTinp",
+        "verified": false
+      }
+    ]
+  }
+}

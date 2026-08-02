@@ -1,0 +1,90 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1847546316920147973"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1847546411086418228",
+    "created_at": "2024-10-19T07:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T08:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1847546411086418228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TV9AgvrULo",
+          "end": 30,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1847546411086418228/photo/1",
+          "media_key": "3_1847546316920147973",
+          "start": 7,
+          "url": "https://t.co/TV9AgvrULo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847546411086418228",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好丑的创可贴 https://t.co/TV9AgvrULo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1847546411086418228].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1847546411086418228",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1847546411086418228"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1952,
+        "media_key": "3_1847546316920147973",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaPNliYbUAUT7LD.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 41,
+          "listed_count": 0,
+          "tweet_count": 22
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

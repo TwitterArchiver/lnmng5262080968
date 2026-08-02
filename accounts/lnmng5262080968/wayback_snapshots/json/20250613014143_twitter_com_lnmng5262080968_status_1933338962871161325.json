@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1933061386504212582",
+    "created_at": "2025-06-13T01:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T02:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933338962871161325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1851171470728134657",
+          "start": 0,
+          "username": "yuki40582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933338962871161325",
+    "in_reply_to_user_id": "1851171470728134657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933253426009551298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki40582 真的爽啊太爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1933061386504212582",
+        "created_at": "2025-06-13T01:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T02:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933338962871161325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1851171470728134657",
+              "start": 0,
+              "username": "yuki40582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933338962871161325",
+        "in_reply_to_user_id": "1851171470728134657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933253426009551298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki40582 真的爽啊太爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851171470728134657",
+        "conversation_id": "1933061386504212582",
+        "created_at": "2025-06-12T20:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T21:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933253426009551298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933253426009551298",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933061386504212582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 o完pr整个人都没有实感，飘飘然的🌚很爽啊很爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！🚪52r不退不过🚪私信不回（除互关） 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 364,
+          "like_count": 13549,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 3857
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T07:57:36.000Z",
+        "description": "主要碎碎念，爱看不看\n167cm／44kg\n里垢@times3512\n验证20\n接线下，出路费哪都去\n宝宝@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "times3512"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1851171470728134657",
+        "location": "🚪88，过门解锁线下价目",
+        "name": "雪",
+        "pinned_tweet_id": "1928157228801929660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911080211644370944/7OGg--BQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 47,
+          "like_count": 3865,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 180
+        },
+        "username": "yuki40582",
+        "verified": false
+      }
+    ]
+  }
+}

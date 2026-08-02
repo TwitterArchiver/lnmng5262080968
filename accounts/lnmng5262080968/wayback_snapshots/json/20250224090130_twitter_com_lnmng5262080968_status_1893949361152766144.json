@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893949356765564928",
+        "3_1893949356123766784",
+        "3_1893949355088117761",
+        "3_1893949356669054976"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1893949361152766144",
+    "created_at": "2025-02-24T09:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T10:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893949361152766144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ulyXty8c9N",
+          "end": 39,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1893949361152766144/photo/1",
+          "media_key": "3_1893949356765564928",
+          "start": 16,
+          "url": "https://t.co/ulyXty8c9N"
+        },
+        {
+          "display_url": "pic.x.com/ulyXty8c9N",
+          "end": 39,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1893949361152766144/photo/1",
+          "media_key": "3_1893949356123766784",
+          "start": 16,
+          "url": "https://t.co/ulyXty8c9N"
+        },
+        {
+          "display_url": "pic.x.com/ulyXty8c9N",
+          "end": 39,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1893949361152766144/photo/1",
+          "media_key": "3_1893949355088117761",
+          "start": 16,
+          "url": "https://t.co/ulyXty8c9N"
+        },
+        {
+          "display_url": "pic.x.com/ulyXty8c9N",
+          "end": 39,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1893949361152766144/photo/1",
+          "media_key": "3_1893949356669054976",
+          "start": 16,
+          "url": "https://t.co/ulyXty8c9N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893949361152766144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "血图补档\n没有很深因为我不敢🌚 https://t.co/ulyXty8c9N"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1893949361152766144].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1893949361152766144",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1893949361152766144"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_1893949356765564928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkio58iXUAAFmW9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1371,
+        "media_key": "3_1893949356123766784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkio56JWQAAQcfr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 758,
+        "media_key": "3_1893949355088117761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkio52SbgAE0cM4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1411,
+        "media_key": "3_1893949356669054976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkio58LWsAATlDq.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 292,
+          "like_count": 7413,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1823
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

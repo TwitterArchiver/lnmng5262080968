@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1984890527909830962",
+    "created_at": "2025-11-02T19:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T20:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985061232739783095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1538971399427174403",
+          "start": 0,
+          "username": "xbbovo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985061232739783095",
+    "in_reply_to_user_id": "1538971399427174403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985036349389640109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xbbovo_ 发奶沟子免费给大家看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1984890527909830962",
+        "created_at": "2025-11-02T19:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T20:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985061232739783095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1538971399427174403",
+              "start": 0,
+              "username": "xbbovo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985061232739783095",
+        "in_reply_to_user_id": "1538971399427174403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985036349389640109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xbbovo_ 发奶沟子免费给大家看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538971399427174403",
+        "conversation_id": "1984890527909830962",
+        "created_at": "2025-11-02T17:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985036349389640109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985036349389640109",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984890527909830962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 她咋那么多fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 381,
+          "like_count": 14468,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 4682
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-20T19:45:59.000Z",
+        "description": "有对象别过门 过门的都是我老公*^o^*希望好事发生",
+        "id": "1538971399427174403",
+        "location": "🚪99/199/299/520/1314",
+        "name": "意志薄弱酱",
+        "pinned_tweet_id": "1967970300014084436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983869201900302338/YexglYwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 139,
+          "like_count": 21437,
+          "listed_count": 4,
+          "media_count": 134,
+          "tweet_count": 3329
+        },
+        "username": "xbbovo_",
+        "verified": false
+      }
+    ]
+  }
+}

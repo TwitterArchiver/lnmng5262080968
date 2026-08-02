@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1994794779683819523"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1994795040649220470",
+    "created_at": "2025-11-29T15:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994795040649220470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VL5hISN1Mk",
+          "end": 35,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1994795040649220470/video/1",
+          "media_key": "13_1994794779683819523",
+          "start": 12,
+          "url": "https://t.co/VL5hISN1Mk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994795040649220470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的血像尿一样流了出来 https://t.co/VL5hISN1Mk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994795040649220470].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994795040649220470",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994795040649220470"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6105,
+        "height": 1280,
+        "media_key": "13_1994794779683819523",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994794779683819523/img/1xoETo3pkNSm0ggj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994794779683819523/vid/avc1/320x568/uPzY-xrgvRCu3Ig-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994794779683819523/vid/avc1/480x852/bpwXyJ1PAyHm_Vdh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994794779683819523/vid/avc1/720x1280/xp8r9qqWKt76w4ew.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994794779683819523/pl/K3-xeYYV31c-iqsa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 378,
+          "like_count": 14833,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 4876
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1885589631196160355",
+    "created_at": "2025-02-01T07:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T08:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885594777095491600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771230355896561664",
+          "start": 0,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885594777095491600",
+    "in_reply_to_user_id": "1771230355896561664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885589631196160355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@in2dkira 你好我是男的能收到吗我是男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1885589631196160355",
+        "created_at": "2025-02-01T07:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T08:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885594777095491600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771230355896561664",
+              "start": 0,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885594777095491600",
+        "in_reply_to_user_id": "1771230355896561664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885589631196160355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@in2dkira 你好我是男的能收到吗我是男的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885589620852920320",
+            "3_1885589620840423426"
+          ]
+        },
+        "author_id": "1771230355896561664",
+        "conversation_id": "1885589631196160355",
+        "created_at": "2025-02-01T07:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T08:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885589631196160355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4v6PPCn1P",
+              "end": 28,
+              "expanded_url": "https://x.com/in2dkira/status/1885589631196160355/photo/1",
+              "media_key": "3_1885589620852920320",
+              "start": 5,
+              "url": "https://t.co/s4v6PPCn1P"
+            },
+            {
+              "display_url": "pic.x.com/s4v6PPCn1P",
+              "end": 28,
+              "expanded_url": "https://x.com/in2dkira/status/1885589631196160355/photo/1",
+              "media_key": "3_1885589620840423426",
+              "start": 5,
+              "url": "https://t.co/s4v6PPCn1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885589631196160355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "库存*2 https://t.co/s4v6PPCn1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 210,
+          "like_count": 4640,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1141
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "前@Akira_10190208  我需要你们的关注  再多看看我吧。 もっと私を見てくださいいい🥺👍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Akira_10190208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH6G9I"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882510911291928576/bBmpa2pz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 47,
+          "like_count": 1448,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/6QBGLH6G9I",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

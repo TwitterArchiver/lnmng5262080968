@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1883026582752956530",
+    "created_at": "2025-01-25T05:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T06:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883031076018540664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681716872415440896",
+          "start": 0,
+          "username": "Kirayoumiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883031076018540664",
+    "in_reply_to_user_id": "1681716872415440896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883026582752956530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirayoumiya 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈医者不能自医"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1883026582752956530",
+        "created_at": "2025-01-25T05:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T06:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883031076018540664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Kirayoumiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883031076018540664",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883026582752956530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirayoumiya 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈医者不能自医"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883026574829899776"
+          ]
+        },
+        "author_id": "1681716872415440896",
+        "conversation_id": "1883026582752956530",
+        "created_at": "2025-01-25T05:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T06:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883026582752956530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LzlKhrFzac",
+              "end": 64,
+              "expanded_url": "https://x.com/Kirayoumiya/status/1883026582752956530/photo/1",
+              "media_key": "3_1883026574829899776",
+              "start": 41,
+              "url": "https://t.co/LzlKhrFzac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883026582752956530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去医院看皮肤科\n发现诊室里的规培医生都是一脸的痤疮\n于是我开始怀疑医生的治疗水平 https://t.co/LzlKhrFzac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜我天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 184,
+          "like_count": 3639,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 799
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "可以把这里当树洞哦 提问箱https://t.co/M01koGznLh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirayoumiya1",
+                "end": 36,
+                "expanded_url": "https://ngl.link/kirayoumiya1",
+                "start": 13,
+                "url": "https://t.co/M01koGznLh"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "name": "Kirayoumiya",
+        "pinned_tweet_id": "1880843039654211614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828404677039554561/SUV17_Q__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 546,
+          "like_count": 2772,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2284
+        },
+        "username": "Kirayoumiya",
+        "verified": false
+      }
+    ]
+  }
+}

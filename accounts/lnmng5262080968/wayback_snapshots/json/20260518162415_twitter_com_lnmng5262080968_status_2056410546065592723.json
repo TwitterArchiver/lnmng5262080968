@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2055726240980746478",
+    "created_at": "2026-05-18T16:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056410546065592723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036310132750266368",
+          "start": 0,
+          "username": "DickersonJ32708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056410546065592723",
+    "in_reply_to_user_id": "2036310132750266368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055833618057134586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DickersonJ32708 是😭但是上班太牢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2055726240980746478",
+        "created_at": "2026-05-18T16:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056410546065592723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036310132750266368",
+              "start": 0,
+              "username": "DickersonJ32708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056410546065592723",
+        "in_reply_to_user_id": "2036310132750266368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055833618057134586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DickersonJ32708 是😭但是上班太牢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036310132750266368",
+        "conversation_id": "2055726240980746478",
+        "created_at": "2026-05-17T02:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055833618057134586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055833618057134586",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055726240980746478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 恭喜了，其实世界就是一个草台班子，不用害怕社会，也可以不和别人相处，做好自己该做的，问心无愧就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 313,
+          "like_count": 17507,
+          "listed_count": 5,
+          "media_count": 205,
+          "tweet_count": 5891
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T05:12:45.000Z",
+        "description": "医学生です。最近日本語を練習していて、もし話したいことがあれば、ぜひ声をかけてくださいね。",
+        "id": "2036310132750266368",
+        "name": "星河の神様",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036316753312264192/f20KuY7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 42,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "DickersonJ32708",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2008620665243660477",
+    "created_at": "2026-01-07T12:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T13:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008876085996654999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1998947335213350912",
+          "start": 0,
+          "username": "mmtzjsj_"
+        },
+        {
+          "end": 22,
+          "id": "1600491914545008645",
+          "start": 10,
+          "username": "liw87558160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008876085996654999",
+    "in_reply_to_user_id": "1998947335213350912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008852941814513960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmtzjsj_ @liw87558160 是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2008620665243660477",
+        "created_at": "2026-01-07T12:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008876085996654999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1998947335213350912",
+              "start": 0,
+              "username": "mmtzjsj_"
+            },
+            {
+              "end": 22,
+              "id": "1600491914545008645",
+              "start": 10,
+              "username": "liw87558160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008876085996654999",
+        "in_reply_to_user_id": "1998947335213350912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008852941814513960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmtzjsj_ @liw87558160 是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998947335213350912",
+        "conversation_id": "2008620665243660477",
+        "created_at": "2026-01-07T10:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T11:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008852941814513960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600491914545008645",
+              "start": 0,
+              "username": "liw87558160"
+            },
+            {
+              "end": 29,
+              "id": "1792011763875184640",
+              "start": 13,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008852941814513960",
+        "in_reply_to_user_id": "1600491914545008645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008840453597315248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liw87558160 @lnmng5262080968 被人拉黑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 289,
+          "like_count": 14651,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 5104
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T02:46:10.000Z",
+        "description": "你听我在说什么，你不要猜我是谁｜匿名提问https://t.co/UOtiAG6kyZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mmtzjsj",
+                "end": 43,
+                "expanded_url": "https://ngl.link/mmtzjsj",
+                "start": 20,
+                "url": "https://t.co/UOtiAG6kyZ"
+              }
+            ]
+          }
+        },
+        "id": "1998947335213350912",
+        "location": "🚪233",
+        "name": "猫猫头拯救世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000112181724237824/GsQ1WlFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 100,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 530
+        },
+        "username": "mmtzjsj_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T14:06:37.000Z",
+        "description": "fine",
+        "id": "1600491914545008645",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "Iso",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004249512333004804/er1F3mnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 41,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 107
+        },
+        "username": "liw87558160",
+        "verified": false
+      }
+    ]
+  }
+}

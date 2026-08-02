@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1922919372332351819",
+    "created_at": "2025-05-15T23:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T00:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923155464226836841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886423551424561152",
+          "start": 0,
+          "username": "hi3861198529833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923155464226836841",
+    "in_reply_to_user_id": "1886423551424561152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923046512008761806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hi3861198529833 因为很痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1922919372332351819",
+        "created_at": "2025-05-15T23:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T00:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923155464226836841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886423551424561152",
+              "start": 0,
+              "username": "hi3861198529833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923155464226836841",
+        "in_reply_to_user_id": "1886423551424561152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923046512008761806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hi3861198529833 因为很痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886423551424561152",
+        "conversation_id": "1922919372332351819",
+        "created_at": "2025-05-15T16:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T17:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923046512008761806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923046512008761806",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922919372332351819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 不太懂，爸妈吵架，为什么要割自己手。是能缓解心理上的痛苦嘛，我不开心的时候就会找冰镇可乐，喝第一口气最足的时候，然后喝一口就丢掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 367,
+          "like_count": 12970,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 3491
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T14:36:44.000Z",
+        "description": "你今天拉屎了嘛",
+        "id": "1886423551424561152",
+        "location": "还",
+        "name": "还（huan）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887181596396298241/nF0VHkgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 913,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1038
+        },
+        "username": "hi3861198529833",
+        "verified": false
+      }
+    ]
+  }
+}

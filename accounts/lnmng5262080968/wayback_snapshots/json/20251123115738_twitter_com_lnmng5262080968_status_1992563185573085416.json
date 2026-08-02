@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-23T11:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992563185573085416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677603269181575169",
+          "start": 0,
+          "username": "Rkatsiteli18146"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992563185573085416",
+    "in_reply_to_user_id": "1677603269181575169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992227299232764033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rkatsiteli18146 我也想躺三个月可是总想买谷子（虽然只有几百"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-23T11:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992563185573085416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1677603269181575169",
+              "start": 0,
+              "username": "Rkatsiteli18146"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992563185573085416",
+        "in_reply_to_user_id": "1677603269181575169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992227299232764033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rkatsiteli18146 我也想躺三个月可是总想买谷子（虽然只有几百"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677603269181575169",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T13:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992227299232764033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992227299232764033",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991846545025810547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我特别特别怕人多的地方很抗拒自己一个人出门，如果没人陪我出门可能会一个人在家待到死。在家躺了三个月自己找了个工作。但是我完全没有动力去做好我的工作……每天也是很怕和人接触的样子，怎么样都好难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 382,
+          "like_count": 14745,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 4837
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T08:59:32.000Z",
+        "description": "",
+        "id": "1677603269181575169",
+        "name": "hbbhhxbxjajsndwqzzzz",
+        "pinned_tweet_id": "1974722702549361132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991514081938059264/y0RHCTHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 20,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 175
+        },
+        "username": "Rkatsiteli18146",
+        "verified": false
+      }
+    ]
+  }
+}

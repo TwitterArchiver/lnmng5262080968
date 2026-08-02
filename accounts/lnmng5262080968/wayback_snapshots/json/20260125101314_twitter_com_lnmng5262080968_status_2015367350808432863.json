@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2014929280720109582",
+    "created_at": "2026-01-25T10:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015367350808432863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1401718140376174592",
+          "start": 0,
+          "username": "MalakNO_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015367350808432863",
+    "in_reply_to_user_id": "1401718140376174592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015352883210805567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MalakNO_2 不是说有钱人不配抑郁😳只是我看到有钱人卖惨想笑😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2014929280720109582",
+        "created_at": "2026-01-25T10:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015367350808432863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1401718140376174592",
+              "start": 0,
+              "username": "MalakNO_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015367350808432863",
+        "in_reply_to_user_id": "1401718140376174592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015352883210805567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MalakNO_2 不是说有钱人不配抑郁😳只是我看到有钱人卖惨想笑😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401718140376174592",
+        "conversation_id": "2014929280720109582",
+        "created_at": "2026-01-25T09:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T10:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015352883210805567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015352883210805567",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014929280720109582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 其实真和条件没啥关系，好些名人不也抑郁症没了😵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 300,
+          "like_count": 15194,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5298
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T01:50:29.000Z",
+        "description": "不生则死，不战则亡",
+        "id": "1401718140376174592",
+        "name": "Laphicet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840614650141978624/2PfBLwBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 673,
+          "like_count": 41094,
+          "listed_count": 21,
+          "media_count": 1912,
+          "tweet_count": 11656
+        },
+        "username": "MalakNO_2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1919427088919998703",
+    "created_at": "2025-05-05T16:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T17:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919427088919998703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886413119809024000",
+          "start": 3,
+          "username": "ytllyt7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919427088919998703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886635771358257322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ytllyt7: 琦琦08 9.30 isfp♎️双 身高165\n-\n精神状态不好 玻璃心 od🈹\n抑郁 焦虑\n-\n雷品客 开精神疾病玩笑 单取单删\n互删请说明原因 看我不爽就去死\n门槛🚪288\n只跟女孩子互fo 男的请过门槛..\n我很好交流的\n欢迎互关互转 https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_1886635761174536192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi6tOp1bYAAbO6q.jpg",
+        "width": 1702
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1886635761166114816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi6tOpza4AAkz00.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2032,
+        "media_key": "3_1886635761166114818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi6tOpza4AIXjsb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1886635761166114819",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi6tOpza4AMS-wO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1919427088919998703",
+        "created_at": "2025-05-05T16:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T17:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919427088919998703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886413119809024000",
+              "start": 3,
+              "username": "ytllyt7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919427088919998703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886635771358257322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ytllyt7: 琦琦08 9.30 isfp♎️双 身高165\n-\n精神状态不好 玻璃心 od🈹\n抑郁 焦虑\n-\n雷品客 开精神疾病玩笑 单取单删\n互删请说明原因 看我不爽就去死\n门槛🚪288\n只跟女孩子互fo 男的请过门槛..\n我很好交流的\n欢迎互关互转 https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886635761174536192",
+            "3_1886635761166114816",
+            "3_1886635761166114818",
+            "3_1886635761166114819"
+          ]
+        },
+        "author_id": "1886413119809024000",
+        "conversation_id": "1886635771358257322",
+        "created_at": "2025-02-04T04:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T05:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886635771358257322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgLaaDAhLX",
+              "end": 144,
+              "expanded_url": "https://x.com/ytllyt7/status/1886635771358257322/photo/1",
+              "media_key": "3_1886635761174536192",
+              "start": 121,
+              "url": "https://t.co/XgLaaDAhLX"
+            },
+            {
+              "display_url": "pic.x.com/XgLaaDAhLX",
+              "end": 144,
+              "expanded_url": "https://x.com/ytllyt7/status/1886635771358257322/photo/1",
+              "media_key": "3_1886635761166114816",
+              "start": 121,
+              "url": "https://t.co/XgLaaDAhLX"
+            },
+            {
+              "display_url": "pic.x.com/XgLaaDAhLX",
+              "end": 144,
+              "expanded_url": "https://x.com/ytllyt7/status/1886635771358257322/photo/1",
+              "media_key": "3_1886635761166114818",
+              "start": 121,
+              "url": "https://t.co/XgLaaDAhLX"
+            },
+            {
+              "display_url": "pic.x.com/XgLaaDAhLX",
+              "end": 144,
+              "expanded_url": "https://x.com/ytllyt7/status/1886635771358257322/photo/1",
+              "media_key": "3_1886635761166114819",
+              "start": 121,
+              "url": "https://t.co/XgLaaDAhLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886635771358257322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1107,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "琦琦08 9.30 isfp♎️双 身高165\n-\n精神状态不好 玻璃心 od🈹\n抑郁 焦虑\n-\n雷品客 开精神疾病玩笑 单取单删\n互删请说明原因 看我不爽就去死\n门槛🚪288\n只跟女孩子互fo 男的请过门槛..\n我很好交流的\n欢迎互关互转 https://t.co/XgLaaDAhLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 377,
+          "like_count": 12725,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 3376
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T13:55:24.000Z",
+        "description": "︎琦琦 isfp♎️ 08双 坐标🇨🇳丨od 🈹 精神状态不好丨感谢follow",
+        "id": "1886413119809024000",
+        "location": "Tokyo-to, Japan",
+        "name": "ytllyt7",
+        "pinned_tweet_id": "1886635771358257322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892899576618582016/fBp5zyep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 3,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "ytllyt7",
+        "verified": false
+      }
+    ]
+  }
+}

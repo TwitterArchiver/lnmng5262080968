@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1984163275911860234",
+    "created_at": "2025-11-01T07:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T08:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984529715689042274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669599710347403264",
+          "start": 0,
+          "username": "baigeinuofeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984529715689042274",
+    "in_reply_to_user_id": "1669599710347403264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984395389441871926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baigeinuofeng 曼波"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_1984395386283573250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4n9Fw1bQAItaJh.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1984163275911860234",
+        "created_at": "2025-11-01T07:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T08:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984529715689042274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669599710347403264",
+              "start": 0,
+              "username": "baigeinuofeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984529715689042274",
+        "in_reply_to_user_id": "1669599710347403264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984395389441871926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baigeinuofeng 曼波"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984395386283573250"
+          ]
+        },
+        "author_id": "1669599710347403264",
+        "conversation_id": "1984163275911860234",
+        "created_at": "2025-10-31T23:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T00:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984395389441871926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkz8A0DHyc",
+              "end": 40,
+              "expanded_url": "https://x.com/baigeinuofeng/status/1984395389441871926/photo/1",
+              "media_key": "3_1984395386283573250",
+              "start": 17,
+              "url": "https://t.co/gkz8A0DHyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984395389441871926",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984163275911860234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 https://t.co/gkz8A0DHyc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 372,
+          "like_count": 14355,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 4648
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T06:56:15.000Z",
+        "description": "😭😭😭",
+        "id": "1669599710347403264",
+        "location": "/郑/州/",
+        "name": "宇智波斑",
+        "pinned_tweet_id": "1904029505397928061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971956396595073024/FPQZ2Psj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 93,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 353
+        },
+        "username": "baigeinuofeng",
+        "verified": false
+      }
+    ]
+  }
+}

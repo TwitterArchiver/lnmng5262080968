@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2006322053687746890",
+    "created_at": "2025-12-31T12:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T13:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006342048476274871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920308340737126400",
+          "start": 0,
+          "username": "fusedjiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006342048476274871",
+    "in_reply_to_user_id": "1920308340737126400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006322053687746890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fusedjiii 求建模教程"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006322040287211520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fjRARbMAAeLp4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2006322053687746890",
+        "created_at": "2025-12-31T12:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T13:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006342048476274871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920308340737126400",
+              "start": 0,
+              "username": "fusedjiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006342048476274871",
+        "in_reply_to_user_id": "1920308340737126400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006322053687746890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusedjiii 求建模教程"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006322040287211520"
+          ]
+        },
+        "author_id": "1920308340737126400",
+        "conversation_id": "2006322053687746890",
+        "created_at": "2025-12-31T11:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T12:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006322053687746890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gfy4y9JpAc",
+              "end": 30,
+              "expanded_url": "https://x.com/fusedjiii/status/2006322053687746890/photo/1",
+              "media_key": "3_2006322040287211520",
+              "start": 7,
+              "url": "https://t.co/Gfy4y9JpAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006322053687746890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发点以前好了 https://t.co/Gfy4y9JpAc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 求打钱 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰                             幸福逼都该死",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 378,
+          "like_count": 15093,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 5013
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "一般路过门槛妹。问坐标10R/过门业务陪聊/Cos定制/疤痕身材照片定制/接纯绿线下。会很爱你们的。药物咨询/神必物质请私信。",
+        "id": "1920308340737126400",
+        "location": "🚪128/288/520/1314",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1994016765752549629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002426842415050753/RwNkXDQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8940,
+          "following_count": 170,
+          "like_count": 906,
+          "listed_count": 15,
+          "media_count": 159,
+          "tweet_count": 2302
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

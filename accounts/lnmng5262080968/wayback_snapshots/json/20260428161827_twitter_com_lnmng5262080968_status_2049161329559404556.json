@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2049161329559404556",
+    "created_at": "2026-04-28T16:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049161329559404556"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049161329559404556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说实话如果以前的老同学知道我活成这样肯定爽死了。从小就是个纯良妹努力学习高中一直班级前十这样😇没得罪过什么人但一直以来神经质脑子不正常，很多人暗戳戳嫉妒把我当成竞争对象巴不得我摔下去。他们如今考公考研前途光明，我成了世俗上的废人，简历实习什么都懒得投"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2049161329559404556",
+        "created_at": "2026-04-28T16:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049161329559404556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049161329559404556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话如果以前的老同学知道我活成这样肯定爽死了。从小就是个纯良妹努力学习高中一直班级前十这样😇没得罪过什么人但一直以来神经质脑子不正常，很多人暗戳戳嫉妒把我当成竞争对象巴不得我摔下去。他们如今考公考研前途光明，我成了世俗上的废人，简历实习什么都懒得投"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 318,
+          "like_count": 17504,
+          "listed_count": 5,
+          "media_count": 213,
+          "tweet_count": 5854
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

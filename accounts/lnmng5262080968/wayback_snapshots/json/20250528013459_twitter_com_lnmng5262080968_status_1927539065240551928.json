@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1927198889792221512",
+    "created_at": "2025-05-28T01:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T02:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927539065240551928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1833332268833869824",
+          "start": 0,
+          "username": "Yikeyasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927539065240551928",
+    "in_reply_to_user_id": "1833332268833869824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927361410939441288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yikeyasa 不要啊不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1927198889792221512",
+        "created_at": "2025-05-28T01:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T02:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927539065240551928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1833332268833869824",
+              "start": 0,
+              "username": "Yikeyasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927539065240551928",
+        "in_reply_to_user_id": "1833332268833869824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927361410939441288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yikeyasa 不要啊不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833332268833869824",
+        "conversation_id": "1927198889792221512",
+        "created_at": "2025-05-27T13:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927361410939441288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927361410939441288",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927198889792221512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 被片姐盯上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 365,
+          "like_count": 13213,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 3650
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T02:31:03.000Z",
+        "description": "人生啊...",
+        "id": "1833332268833869824",
+        "location": "NOT OK",
+        "name": "😔",
+        "pinned_tweet_id": "1892199183609725319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926237190008324096/0pBDbXUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 115,
+          "like_count": 1568,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 787
+        },
+        "username": "Yikeyasa",
+        "verified": false
+      }
+    ]
+  }
+}

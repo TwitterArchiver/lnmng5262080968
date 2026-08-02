@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1985633884990816266",
+    "created_at": "2025-11-26T07:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T08:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993585054652809527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1520199851342176256",
+          "start": 0,
+          "username": "meph4786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993585054652809527",
+    "in_reply_to_user_id": "1520199851342176256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993391758299017557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meph4786 这就是我。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993391755576930304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nzPYFa8AA7qrz.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1985633884990816266",
+        "created_at": "2025-11-26T07:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T08:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993585054652809527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1520199851342176256",
+              "start": 0,
+              "username": "meph4786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993585054652809527",
+        "in_reply_to_user_id": "1520199851342176256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993391758299017557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meph4786 这就是我。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993391755576930304"
+          ]
+        },
+        "author_id": "1520199851342176256",
+        "conversation_id": "1985633884990816266",
+        "created_at": "2025-11-25T18:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T19:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993391758299017557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2tpy3uAUb",
+              "end": 56,
+              "expanded_url": "https://x.com/meph4786/status/1993391758299017557/photo/1",
+              "media_key": "3_1993391755576930304",
+              "start": 33,
+              "url": "https://t.co/c2tpy3uAUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993391758299017557",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985633884990816266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 联想到命に嫌われている的开头了 https://t.co/c2tpy3uAUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 382,
+          "like_count": 14790,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 4859
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T00:34:33.000Z",
+        "description": "",
+        "id": "1520199851342176256",
+        "name": "Meph4786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520200140602376192/3BOR4ACN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 53,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 66
+        },
+        "username": "meph4786",
+        "verified": false
+      }
+    ]
+  }
+}

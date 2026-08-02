@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2015039816921174434",
+    "created_at": "2026-01-24T14:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T15:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015070241035067876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981563709102477312",
+          "start": 0,
+          "username": "yui804275429451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015070241035067876",
+    "in_reply_to_user_id": "1981563709102477312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015039816921174434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui804275429451 抖音傻逼是我见过最多的地方"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015039806938775552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bcBzzbgAAGexI.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015039806934523904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bcBzyaoAAMtRp.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015039807135567872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bcB0iWUAAqGr8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2015039816921174434",
+        "created_at": "2026-01-24T14:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015070241035067876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981563709102477312",
+              "start": 0,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015070241035067876",
+        "in_reply_to_user_id": "1981563709102477312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015039816921174434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui804275429451 抖音傻逼是我见过最多的地方"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015039806938775552",
+            "3_2015039806934523904",
+            "3_2015039807135567872"
+          ]
+        },
+        "author_id": "1981563709102477312",
+        "conversation_id": "2015039816921174434",
+        "created_at": "2026-01-24T12:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T13:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015039816921174434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wnulrlITxm",
+              "end": 45,
+              "expanded_url": "https://x.com/yui804275429451/status/2015039816921174434/photo/1",
+              "media_key": "3_2015039806938775552",
+              "start": 22,
+              "url": "https://t.co/wnulrlITxm"
+            },
+            {
+              "display_url": "pic.x.com/wnulrlITxm",
+              "end": 45,
+              "expanded_url": "https://x.com/yui804275429451/status/2015039816921174434/photo/1",
+              "media_key": "3_2015039806934523904",
+              "start": 22,
+              "url": "https://t.co/wnulrlITxm"
+            },
+            {
+              "display_url": "pic.x.com/wnulrlITxm",
+              "end": 45,
+              "expanded_url": "https://x.com/yui804275429451/status/2015039816921174434/photo/1",
+              "media_key": "3_2015039807135567872",
+              "start": 22,
+              "url": "https://t.co/wnulrlITxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015039816921174434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3293,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互联网世界的大家，走过路过再多看我一眼啊！ https://t.co/wnulrlITxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 299,
+          "like_count": 15160,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5290
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "1986500531519701099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984910597394505728/ts_obaKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3426,
+          "following_count": 596,
+          "like_count": 2063,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 806
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

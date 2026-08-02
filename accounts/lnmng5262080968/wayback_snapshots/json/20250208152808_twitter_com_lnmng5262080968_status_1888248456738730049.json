@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1888244226691113075",
+    "created_at": "2025-02-08T15:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T16:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888248456738730049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865636851643744257",
+          "start": 0,
+          "username": "akanenene19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888248456738730049",
+    "in_reply_to_user_id": "1865636851643744257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888247101903274174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akanenene19 大大的接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1888244226691113075",
+        "created_at": "2025-02-08T15:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T16:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888248456738730049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865636851643744257",
+              "start": 0,
+              "username": "akanenene19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888248456738730049",
+        "in_reply_to_user_id": "1865636851643744257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888247101903274174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akanenene19 大大的接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865636851643744257",
+        "conversation_id": "1888244226691113075",
+        "created_at": "2025-02-08T15:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T16:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888247101903274174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888247101903274174",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888244226691113075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 229,
+          "like_count": 5399,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1399
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T05:57:56.000Z",
+        "description": "18/大一/中国人/日本語OK/JLPT准备中/来年日本行く/戒自伤OD中/负能量碎碎念/匿名提问：https://t.co/IqQ2zRy2gf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanenene",
+                "end": 73,
+                "expanded_url": "https://ngl.link/akanenene",
+                "start": 50,
+                "url": "https://t.co/IqQ2zRy2gf"
+              }
+            ]
+          }
+        },
+        "id": "1865636851643744257",
+        "location": "距离你3km",
+        "name": "茜Akane",
+        "pinned_tweet_id": "1870020495170760959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879459241448345600/lQXPJ2bh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 48,
+          "like_count": 1609,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 825
+        },
+        "username": "akanenene19",
+        "verified": false
+      }
+    ]
+  }
+}

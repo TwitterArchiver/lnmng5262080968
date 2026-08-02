@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-23T11:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992562561632686303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "967957798729474048",
+          "start": 0,
+          "username": "coldwinter01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992562561632686303",
+    "in_reply_to_user_id": "967957798729474048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992233312476389686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldwinter01 话说真的有人会接受线上委托吗🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-23T11:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992562561632686303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "967957798729474048",
+              "start": 0,
+              "username": "coldwinter01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992562561632686303",
+        "in_reply_to_user_id": "967957798729474048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992233312476389686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldwinter01 话说真的有人会接受线上委托吗🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "967957798729474048",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T14:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992233312476389686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992233312476389686",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991846545025810547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 怎么说呢 如果你还在上学可以试试做小红书/抖音cos类的账号，接委托，这个也是有市场的，收入起码比兼职强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 382,
+          "like_count": 14739,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 4834
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-26T03:01:37.000Z",
+        "description": "坐标天津/男摄/社畜/约拍请私信/不卖图/互勉会审妆造",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NobelSmaragdin…",
+                "end": 23,
+                "expanded_url": "https://t.me/NobelSmaragdineTable",
+                "start": 0,
+                "url": "https://t.co/gDN9gLgwb7"
+              }
+            ]
+          }
+        },
+        "id": "967957798729474048",
+        "location": "天津",
+        "name": "炼金术士诺贝尔",
+        "pinned_tweet_id": "1992215893619929499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1436999155776323587/9wwu72G7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8109,
+          "following_count": 1333,
+          "like_count": 13856,
+          "listed_count": 58,
+          "media_count": 437,
+          "tweet_count": 6271
+        },
+        "url": "https://t.co/gDN9gLgwb7",
+        "username": "coldwinter01",
+        "verified": false
+      }
+    ]
+  }
+}

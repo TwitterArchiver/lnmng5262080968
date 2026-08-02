@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2074712726241427482",
+    "created_at": "2026-07-08T04:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074712726241427482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lnmng526208096…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/lnmng5262080968/status/2073797681626108128",
+          "start": 125,
+          "url": "https://t.co/CofL6XAcWH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074712726241427482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073797681626108128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家不用恭喜我也不用羡慕我的心态，实际上是没招了。已跑路，大家谨慎选择单休工作，单休最小的缺点就是单休。老板奴隶主思维觉得3500已经很多了一直说我创造不出3500的价值，下班的时候我马上走了她把我扣下来压力，半夜在工作群说我这个做的不行那个有问题 https://t.co/CofL6XAcWH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2074712726241427482",
+        "created_at": "2026-07-08T04:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074712726241427482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/2073797681626108128",
+              "start": 125,
+              "url": "https://t.co/CofL6XAcWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074712726241427482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073797681626108128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家不用恭喜我也不用羡慕我的心态，实际上是没招了。已跑路，大家谨慎选择单休工作，单休最小的缺点就是单休。老板奴隶主思维觉得3500已经很多了一直说我创造不出3500的价值，下班的时候我马上走了她把我扣下来压力，半夜在工作群说我这个做的不行那个有问题 https://t.co/CofL6XAcWH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2073797681626108128",
+        "created_at": "2026-07-05T15:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073797681626108128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073797681626108128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 71221,
+          "like_count": 313,
+          "quote_count": 3,
+          "reply_count": 176,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好消息本宝找到了一份3500单休工作，加油呀美美哒。明天又要上班好开心哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "有爱的世界回到来吗",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 314,
+          "like_count": 17794,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 6053
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1925085772958597226",
+    "created_at": "2025-05-21T10:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T11:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925136392134570325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1050606956501643264",
+          "start": 0,
+          "username": "Se_xi_Eros"
+        },
+        {
+          "end": 21,
+          "id": "1720779183809519616",
+          "start": 12,
+          "username": "RyyyYoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925136392134570325",
+    "in_reply_to_user_id": "1050606956501643264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925116414467412448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Se_xi_Eros @RyyyYoin 一人一口不许抢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1925085772958597226",
+        "created_at": "2025-05-21T10:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T11:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925136392134570325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1050606956501643264",
+              "start": 0,
+              "username": "Se_xi_Eros"
+            },
+            {
+              "end": 21,
+              "id": "1720779183809519616",
+              "start": 12,
+              "username": "RyyyYoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925136392134570325",
+        "in_reply_to_user_id": "1050606956501643264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925116414467412448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Se_xi_Eros @RyyyYoin 一人一口不许抢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1050606956501643264",
+        "conversation_id": "1925085772958597226",
+        "created_at": "2025-05-21T09:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T10:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925116414467412448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720779183809519616",
+              "start": 0,
+              "username": "RyyyYoin"
+            },
+            {
+              "end": 26,
+              "id": "1792011763875184640",
+              "start": 10,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925116414467412448",
+        "in_reply_to_user_id": "1720779183809519616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925097464538726772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyyyYoin @lnmng5262080968 我抢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 365,
+          "like_count": 13018,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 3539
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-12T04:39:52.000Z",
+        "description": "感受生活中，偶尔发推推空间。世界就是个巨大的orange，酸酸甜甜的。https://t.co/6lGcymEQaY          有什么问题，小朋友们可以问我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xixi23802",
+                "end": 58,
+                "expanded_url": "https://ngl.link/xixi23802",
+                "start": 35,
+                "url": "https://t.co/6lGcymEQaY"
+              }
+            ]
+          }
+        },
+        "id": "1050606956501643264",
+        "location": "Dream",
+        "name": "Loooooose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915808772871884803/VUeBau0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 97,
+          "like_count": 6460,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1009
+        },
+        "username": "Se_xi_Eros",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "余韻",
+        "pinned_tweet_id": "1923960404994097413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920319685645438976/0H7iabmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 229,
+          "like_count": 49329,
+          "listed_count": 7,
+          "media_count": 1165,
+          "tweet_count": 9352
+        },
+        "username": "RyyyYoin",
+        "verified": false
+      }
+    ]
+  }
+}

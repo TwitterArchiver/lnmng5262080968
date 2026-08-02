@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2079097698373018024",
+    "created_at": "2026-07-20T06:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079097698373018024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hiirogekkaflan…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/hiirogekkaflan/status/2078824780539793624",
+          "start": 9,
+          "url": "https://t.co/GdiJR5emg8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079097698373018024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078824780539793624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪个地方避雷一下 https://t.co/GdiJR5emg8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_2078824773409476609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl4HglakAEzOBH.jpg",
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2079097698373018024",
+        "created_at": "2026-07-20T06:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079097698373018024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hiirogekkaflan…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hiirogekkaflan/status/2078824780539793624",
+              "start": 9,
+              "url": "https://t.co/GdiJR5emg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079097698373018024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078824780539793624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪个地方避雷一下 https://t.co/GdiJR5emg8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078824773409476609"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-19T12:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078824780539793624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tlk5YjZHnN",
+              "end": 25,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2078824780539793624/photo/1",
+              "media_key": "3_2078824773409476609",
+              "start": 2,
+              "url": "https://t.co/Tlk5YjZHnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078824780539793624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 358,
+          "impression_count": 518113,
+          "like_count": 3090,
+          "quote_count": 6,
+          "reply_count": 167,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "😨 https://t.co/Tlk5YjZHnN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "有爱的世界会到来吗",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 311,
+          "like_count": 17833,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 6089
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 899,
+          "like_count": 13085,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 3925
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

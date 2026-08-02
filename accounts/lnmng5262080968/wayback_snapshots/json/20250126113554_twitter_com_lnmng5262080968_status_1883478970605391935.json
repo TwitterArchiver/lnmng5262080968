@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1883474409303978174",
+    "created_at": "2025-01-26T11:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T12:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883478970605391935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1682031537016147972",
+          "start": 0,
+          "username": "KimJong_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883478970605391935",
+    "in_reply_to_user_id": "1682031537016147972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883478304201797682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KimJong_114514 可能（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1883474409303978174",
+        "created_at": "2025-01-26T11:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T12:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883478970605391935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1682031537016147972",
+              "start": 0,
+              "username": "KimJong_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883478970605391935",
+        "in_reply_to_user_id": "1682031537016147972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883478304201797682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KimJong_114514 可能（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682031537016147972",
+        "conversation_id": "1883474409303978174",
+        "created_at": "2025-01-26T11:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T12:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883478304201797682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883478304201797682",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883476490815418504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 啥意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜我天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 186,
+          "like_count": 3831,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 839
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T14:15:54.000Z",
+        "description": "花有重开日人无再少年 中国古代神话爱好者",
+        "id": "1682031537016147972",
+        "location": "大铁棍子医院主治医师办公室",
+        "name": "阿拉巴马市市长不是你市长",
+        "pinned_tweet_id": "1876635803088220580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881688098037456896/c3UCMQA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 5699,
+          "like_count": 13845,
+          "listed_count": 9,
+          "media_count": 684,
+          "tweet_count": 11948
+        },
+        "username": "KimJong_114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1900540800800551101",
+    "created_at": "2025-03-14T14:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T15:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900554558067335626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580505223071641600",
+          "start": 0,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900554558067335626",
+    "in_reply_to_user_id": "1580505223071641600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900540800800551101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_shark 抽抽我的女神！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_1900540707405754368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmATtDIW8AAuiRc.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1900540800800551101",
+        "created_at": "2025-03-14T14:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T15:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900554558067335626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900554558067335626",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900540800800551101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 抽抽我的女神！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900540707405754368"
+          ]
+        },
+        "author_id": "1580505223071641600",
+        "conversation_id": "1900540800800551101",
+        "created_at": "2025-03-14T13:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T14:33:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900540717543641249",
+          "1900540800800551101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9I44dddH7u",
+              "end": 108,
+              "expanded_url": "https://x.com/qwq_shark/status/1900540800800551101/photo/1",
+              "media_key": "3_1900540707405754368",
+              "start": 85,
+              "url": "https://t.co/9I44dddH7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900540800800551101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞 这个入2000fo了 谢谢大家喜欢！\n那么我思考了半天还是决定：\n抽两个50元作为感谢礼物！\n需要评论加关注哦❤️\n\n16号晚上八点开始抽奖！随机数字在评论里抽！ https://t.co/9I44dddH7u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 345,
+          "like_count": 10175,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2361
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "你好，如果不知道怎么称呼我的话，你可以叫我小惨。欢迎来到我的精神世界倾听我的内心独白｜@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "location": "宇宙",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891155386117586944/Jt1tP4D3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 241,
+          "like_count": 2581,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 5417
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

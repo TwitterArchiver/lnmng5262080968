@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927905466610503685"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1927905478325194843",
+    "created_at": "2025-05-29T01:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T02:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927905478325194843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OaVgFPrqUd",
+          "end": 39,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1927905478325194843/photo/1",
+          "media_key": "3_1927905466610503685",
+          "start": 16,
+          "url": "https://t.co/OaVgFPrqUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927905478325194843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的人生就像一个巨大溃烂的伤口 https://t.co/OaVgFPrqUd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927905478325194843].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927905478325194843",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927905478325194843"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927905466610503685",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFLzrHaUAURV6o.jpg",
+        "width": 1538
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 364,
+          "like_count": 13230,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 3660
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

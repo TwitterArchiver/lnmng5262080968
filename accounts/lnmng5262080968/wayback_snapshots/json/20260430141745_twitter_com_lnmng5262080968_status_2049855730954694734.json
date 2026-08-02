@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049855702416723968"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "2049855730954694734",
+    "created_at": "2026-04-30T14:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049855730954694734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bFKRFyF0lu",
+          "end": 166,
+          "expanded_url": "https://x.com/lnmng5262080968/status/2049855730954694734/video/1",
+          "media_key": "13_2049855702416723968",
+          "start": 143,
+          "url": "https://t.co/bFKRFyF0lu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049855730954694734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近真的好崩溃啊生活就这样针对我，唯一证明自己有点价值逃避现实也能挣零花的只有代打了，领着十几块的时薪为什么还要这么对我真的不明白啊。昨天给老板冲榜因为网卡拖累队友被掐着秒表说慢了几秒，我急得一边哭一边打好崩溃啊，最后主动提下线一两百单子没了。上x吐黑泥账号被msk封了还有人骂我去死 https://t.co/bFKRFyF0lu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049855730954694734].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049855730954694734",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049855730954694734"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5933,
+        "height": 1280,
+        "media_key": "13_2049855702416723968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049855702416723968/img/t6pboJOv-rR8QcUx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049855702416723968/vid/avc1/320x568/_YYIkza1zmvfh0Ky.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049855702416723968/vid/avc1/480x852/7Hyj5f2N_0sAutFZ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049855702416723968/vid/avc1/720x1280/gTKR4oTf-JMel0LP.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049855702416723968/pl/nMb49IjES9QE_nHX.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 318,
+          "like_count": 17536,
+          "listed_count": 5,
+          "media_count": 213,
+          "tweet_count": 5871
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

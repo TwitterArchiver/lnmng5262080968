@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1882343859121971650",
+    "created_at": "2025-01-23T09:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T10:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882353241859702944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775473332248625154",
+          "start": 0,
+          "username": "ww0426237376186"
+        },
+        {
+          "end": 31,
+          "id": "1734928362894983168",
+          "start": 17,
+          "username": "Kwaiikunai_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882353241859702944",
+    "in_reply_to_user_id": "1775473332248625154",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882353179624657304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ww0426237376186 @Kwaiikunai_oO tmr（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1882343859121971650",
+        "created_at": "2025-01-23T09:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T10:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882353241859702944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775473332248625154",
+              "start": 0,
+              "username": "ww0426237376186"
+            },
+            {
+              "end": 31,
+              "id": "1734928362894983168",
+              "start": 17,
+              "username": "Kwaiikunai_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882353241859702944",
+        "in_reply_to_user_id": "1775473332248625154",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882353179624657304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww0426237376186 @Kwaiikunai_oO tmr（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775473332248625154",
+        "conversation_id": "1882343859121971650",
+        "created_at": "2025-01-23T09:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T10:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882353179624657304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1734928362894983168",
+              "start": 0,
+              "username": "Kwaiikunai_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882353179624657304",
+        "in_reply_to_user_id": "1734928362894983168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882343859121971650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kwaiikunai_oO 听不出来是谁在说话，都不认识（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 163,
+          "like_count": 3266,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 678
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T10:40:12.000Z",
+        "description": "马上进入工作模式( ⌯' '⌯)💼\n🚪-5",
+        "id": "1775473332248625154",
+        "name": "チーズ絆創膏",
+        "pinned_tweet_id": "1834445320396439915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880173095706849282/SPkAFVGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 682,
+          "like_count": 5247,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2543
+        },
+        "username": "ww0426237376186",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:29:59.000Z",
+        "description": "=未戀",
+        "id": "1734928362894983168",
+        "location": "尋找虛假的愛",
+        "name": "未戀.。",
+        "pinned_tweet_id": "1873046071372595624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872753222949191684/2dI2xXIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 52,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 79
+        },
+        "username": "Kwaiikunai_oO",
+        "verified": false
+      }
+    ]
+  }
+}

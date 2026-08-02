@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2073797681626108128",
+    "created_at": "2026-07-07T03:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074337370481234123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1260985034007171073",
+          "start": 0,
+          "username": "zeT6ruXzh2aeZ1M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074337370481234123",
+    "in_reply_to_user_id": "1260985034007171073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073981669477159101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zeT6ruXzh2aeZ1M 真的好痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2073797681626108128",
+        "created_at": "2026-07-07T03:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074337370481234123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1260985034007171073",
+              "start": 0,
+              "username": "zeT6ruXzh2aeZ1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074337370481234123",
+        "in_reply_to_user_id": "1260985034007171073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073981669477159101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeT6ruXzh2aeZ1M 真的好痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260985034007171073",
+        "conversation_id": "2073797681626108128",
+        "created_at": "2026-07-06T04:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073981669477159101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073981669477159101",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073797681626108128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 上班，好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "有爱的世界回到来吗",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 313,
+          "like_count": 17796,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 6052
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-14T17:27:35.000Z",
+        "description": "希望结交一些喜欢旅游的朋友，目前想去英国，日本，澳大利亚。不过还在被生活打压折磨中。",
+        "id": "1260985034007171073",
+        "location": "あっ",
+        "name": "Urkii",
+        "pinned_tweet_id": "2072504716526026758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833056739614412800/qdL7_DHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 67,
+          "like_count": 313,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "zeT6ruXzh2aeZ1M",
+        "verified": false
+      }
+    ]
+  }
+}

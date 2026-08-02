@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1895802397542531556",
+    "created_at": "2025-03-01T12:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T13:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895816714367148137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824394555904626689",
+          "start": 0,
+          "username": "xiaoxun2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895816714367148137",
+    "in_reply_to_user_id": "1824394555904626689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895802397542531556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxun2007 萌得我翻跟头"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3333,
+        "height": 1280,
+        "media_key": "13_1895802339031736320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1895802339031736320/img/ajlU9X42hTMtfJ4I.jpg",
+        "public_metrics": {
+          "view_count": 48
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895802339031736320/vid/avc1/320x568/ywV6aKcjC5P2Tlpi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895802339031736320/vid/avc1/480x852/FFz_vOZwG_0DoiQV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895802339031736320/vid/avc1/720x1280/BNEUPTXAZAh3LuMT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1895802339031736320/pl/xKov5FtBXZvh-k-s.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1895802397542531556",
+        "created_at": "2025-03-01T12:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895816714367148137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824394555904626689",
+              "start": 0,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895816714367148137",
+        "in_reply_to_user_id": "1824394555904626689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895802397542531556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxun2007 萌得我翻跟头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1895802339031736320"
+          ]
+        },
+        "author_id": "1824394555904626689",
+        "conversation_id": "1895802397542531556",
+        "created_at": "2025-03-01T11:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T12:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895802397542531556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3sqgaHYel",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaoxun2007/status/1895802397542531556/video/1",
+              "media_key": "13_1895802339031736320",
+              "start": 40,
+              "url": "https://t.co/Q3sqgaHYel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895802397542531556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个小女孩拿着门槛费做了一个美睫，你们每过一个门槛都能换来这个小女孩的一次开心 https://t.co/Q3sqgaHYel"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 300,
+          "like_count": 8181,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 1960
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:35:50.000Z",
+        "description": "寧可痛苦不要麻木",
+        "id": "1824394555904626689",
+        "name": "潯",
+        "pinned_tweet_id": "1893535423265112266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824394722246529024/nNDsNPXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 195,
+          "like_count": 506,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 274
+        },
+        "username": "xiaoxun2007",
+        "verified": false
+      }
+    ]
+  }
+}

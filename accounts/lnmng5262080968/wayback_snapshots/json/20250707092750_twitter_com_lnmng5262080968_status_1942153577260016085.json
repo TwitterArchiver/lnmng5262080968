@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1942103321470468358",
+    "created_at": "2025-07-07T09:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T10:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942153577260016085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865636851643744257",
+          "start": 0,
+          "username": "akanenene19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942153577260016085",
+    "in_reply_to_user_id": "1865636851643744257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942103321470468358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akanenene19 绝望 啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1942103321470468358",
+        "created_at": "2025-07-07T09:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T10:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942153577260016085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865636851643744257",
+              "start": 0,
+              "username": "akanenene19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942153577260016085",
+        "in_reply_to_user_id": "1865636851643744257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942103321470468358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akanenene19 绝望 啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865636851643744257",
+        "conversation_id": "1942103321470468358",
+        "created_at": "2025-07-07T06:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T07:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942103321470468358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942103321470468358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "rojita裙子抽烟不小心烫了俩洞咋办。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 368,
+          "like_count": 13680,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 4061
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T05:57:56.000Z",
+        "description": "我有非常严重的自毁倾向｜第二人格：@Tsukishima_hane",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "Tsukishima_hane"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanenene",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanenene",
+                "start": 0,
+                "url": "https://t.co/IqQ2zRy2gf"
+              }
+            ]
+          }
+        },
+        "id": "1865636851643744257",
+        "location": "🇯🇵",
+        "name": "茜Akane",
+        "pinned_tweet_id": "1940708850833019146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899753285944520704/PP8tXtzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 115,
+          "like_count": 8419,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 3168
+        },
+        "url": "https://t.co/IqQ2zRy2gf",
+        "username": "akanenene19",
+        "verified": false
+      }
+    ]
+  }
+}

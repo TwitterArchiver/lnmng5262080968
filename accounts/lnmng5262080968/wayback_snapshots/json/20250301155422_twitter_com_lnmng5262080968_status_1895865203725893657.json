@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1895827724293591325",
+    "created_at": "2025-03-01T15:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T16:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895865203725893657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1058614499463360514",
+          "start": 0,
+          "username": "sakuya5552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895865203725893657",
+    "in_reply_to_user_id": "1058614499463360514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895863249771614423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakuya5552 呜呜我不喜欢焦油味，只想要头晕的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1895827724293591325",
+        "created_at": "2025-03-01T15:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T16:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895865203725893657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1058614499463360514",
+              "start": 0,
+              "username": "sakuya5552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895865203725893657",
+        "in_reply_to_user_id": "1058614499463360514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895863249771614423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakuya5552 呜呜我不喜欢焦油味，只想要头晕的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058614499463360514",
+        "conversation_id": "1895827724293591325",
+        "created_at": "2025-03-01T15:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T16:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895863249771614423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895863249771614423",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895827724293591325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 与其说是为了尼古丁，不如说是焦油味的心理依赖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 300,
+          "like_count": 8281,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 1985
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-03T06:58:59.000Z",
+        "description": "社畜/中国在住/日本留学経歴有/ENTP/泛亚主义者/形而上学/嗜酒嗜烟但不OD/我基本只会留你喜欢听的话（除非是在躁狂期）/球形关节控/✝️",
+        "id": "1058614499463360514",
+        "location": "きさらぎ駅",
+        "name": "斑鳩Ikaruga",
+        "pinned_tweet_id": "1895707898925527402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895488833078128640/iYOONPpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 265,
+          "like_count": 3108,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1850
+        },
+        "username": "sakuya5552",
+        "verified": false
+      }
+    ]
+  }
+}

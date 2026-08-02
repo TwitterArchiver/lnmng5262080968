@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914886772888363199",
+    "created_at": "2025-04-23T07:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T08:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914943343353848272"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "茜茜",
+          "probability": 0.9011,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865636851643744257",
+          "start": 0,
+          "username": "akanenene19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914943343353848272",
+    "in_reply_to_user_id": "1865636851643744257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914886772888363199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akanenene19 茜茜好棒！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1914886764080324609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpMLXc4a4AEdrZx.jpg",
+        "width": 1527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914886772888363199",
+        "created_at": "2025-04-23T07:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914943343353848272"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "茜茜",
+              "probability": 0.9011,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865636851643744257",
+              "start": 0,
+              "username": "akanenene19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914943343353848272",
+        "in_reply_to_user_id": "1865636851643744257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914886772888363199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akanenene19 茜茜好棒！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914886764080324609"
+          ]
+        },
+        "author_id": "1865636851643744257",
+        "conversation_id": "1914886772888363199",
+        "created_at": "2025-04-23T03:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T04:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914886772888363199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RR48tbvGMp",
+              "end": 53,
+              "expanded_url": "https://x.com/akanenene19/status/1914886772888363199/photo/1",
+              "media_key": "3_1914886764080324609",
+              "start": 30,
+              "url": "https://t.co/RR48tbvGMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914886772888363199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我高中的时候一直画画接稿…自从嗑药之后好久没有动过笔了 https://t.co/RR48tbvGMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 375,
+          "like_count": 12200,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3163
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T05:57:56.000Z",
+        "description": "你好我是小茜あかね^ ^不定期展示我的生活/EJU備考中/🚬🔪💊/最好的閨蜜：@Tsukishima_hane/可靠的男友：@sakuya5552",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "Tsukishima_hane"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "sakuya5552"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanenene",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanenene",
+                "start": 0,
+                "url": "https://t.co/IqQ2zRy2gf"
+              }
+            ]
+          }
+        },
+        "id": "1865636851643744257",
+        "location": "🇯🇵",
+        "name": "茜Akane",
+        "pinned_tweet_id": "1870020495170760959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899753285944520704/PP8tXtzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 110,
+          "like_count": 7616,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 2738
+        },
+        "url": "https://t.co/IqQ2zRy2gf",
+        "username": "akanenene19",
+        "verified": false
+      }
+    ]
+  }
+}

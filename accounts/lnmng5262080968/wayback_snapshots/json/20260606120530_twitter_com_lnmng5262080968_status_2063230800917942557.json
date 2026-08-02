@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2062927426167218563",
+    "created_at": "2026-06-06T12:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063230800917942557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708116381005434880",
+          "start": 0,
+          "username": "origamicmic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063230800917942557",
+    "in_reply_to_user_id": "1708116381005434880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062927426167218563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@origamicmic 才发现老大关注我了，严肃回关www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2062921875035205632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKD4g_jbMAAM_kd.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2062927426167218563",
+        "created_at": "2026-06-06T12:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063230800917942557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708116381005434880",
+              "start": 0,
+              "username": "origamicmic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063230800917942557",
+        "in_reply_to_user_id": "1708116381005434880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062927426167218563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@origamicmic 才发现老大关注我了，严肃回关www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062921875035205632"
+          ]
+        },
+        "author_id": "1708116381005434880",
+        "conversation_id": "2062927426167218563",
+        "created_at": "2026-06-05T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062927426167218563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxIhES6qHU",
+              "end": 134,
+              "expanded_url": "https://x.com/origamicmic/status/2062927426167218563/photo/1",
+              "media_key": "3_2062921875035205632",
+              "start": 111,
+              "url": "https://t.co/sxIhES6qHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062927426167218563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1116,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清fo致歉喵（发出时应该清完了\n- 🧹了骗互fo、仅转帖/引用、低质meme、忽视冷落咱的、不友好的账号\n- 👁了全列表，如果没有收到很多❤️，说明你最近活跃在咱的tl上喵，咱看到会点的\n- 现列表都超好的，喜欢你们喵！ https://t.co/sxIhES6qHU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 318,
+          "like_count": 17713,
+          "listed_count": 5,
+          "media_count": 209,
+          "tweet_count": 5981
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T13:47:44.000Z",
+        "description": "休学准备…",
+        "id": "1708116381005434880",
+        "name": "𝕜𝕪𝕦𝕜𝕪𝕦",
+        "pinned_tweet_id": "2027636209363857692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050554628711100417/WCMTkF4N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 449,
+          "like_count": 23150,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1473
+        },
+        "username": "origamicmic",
+        "verified": false
+      }
+    ]
+  }
+}

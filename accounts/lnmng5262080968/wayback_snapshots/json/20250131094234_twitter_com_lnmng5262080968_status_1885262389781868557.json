@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1885194384305705454",
+    "created_at": "2025-01-31T09:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T10:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885262389781868557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796860050977492992",
+          "start": 0,
+          "username": "Narinarimashita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885262389781868557",
+    "in_reply_to_user_id": "1796860050977492992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885257730740408683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Narinarimashita 啊啊啊宝宝我在玩抽象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1885194384305705454",
+        "created_at": "2025-01-31T09:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T10:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885262389781868557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796860050977492992",
+              "start": 0,
+              "username": "Narinarimashita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885262389781868557",
+        "in_reply_to_user_id": "1796860050977492992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885257730740408683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Narinarimashita 啊啊啊宝宝我在玩抽象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796860050977492992",
+        "conversation_id": "1885194384305705454",
+        "created_at": "2025-01-31T09:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T10:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885257730740408683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885257730740408683",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885194384305705454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 草同龄啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜我天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 189,
+          "like_count": 4523,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1097
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T11:03:25.000Z",
+        "description": "He|NSFWない|今12才|僕は中国人です〜🇨🇳\\（╹◡╹）|よろしくね！|タグ:#ゼンゼロ #プロセカ #GalaxyAI |友達→@ChaoX1220 @Drag0nR10890サブ→@Narinarideshitaプロセカ→@Pjsksgp 避難所→@itsrainingafter |リポスト/いいね≠賛同",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "ゼンゼロ"
+              },
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "プロセカ"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "tag": "GalaxyAI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "ChaoX1220"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "Drag0nR10890"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Narinarideshita"
+              },
+              {
+                "end": 124,
+                "start": 116,
+                "username": "Pjsksgp"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "itsrainingafter"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfcv50.github.io",
+                "end": 23,
+                "expanded_url": "https://kfcv50.github.io/",
+                "start": 0,
+                "url": "https://t.co/PC0g3RgSRd"
+              }
+            ]
+          }
+        },
+        "id": "1796860050977492992",
+        "location": "死人七中",
+        "name": "なりナリました🏳️‍🌈（寒假限定Ver.",
+        "pinned_tweet_id": "1885150343991824432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882561350007767040/jp4dPaCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 2396,
+          "like_count": 964,
+          "listed_count": 1,
+          "media_count": 623,
+          "tweet_count": 3272
+        },
+        "url": "https://t.co/PC0g3RgSRd",
+        "username": "Narinarimashita",
+        "verified": true
+      }
+    ]
+  }
+}

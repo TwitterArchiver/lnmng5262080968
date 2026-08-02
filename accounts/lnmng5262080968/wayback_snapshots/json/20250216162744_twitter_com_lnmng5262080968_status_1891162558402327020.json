@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1891162528207802368"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1891162558402327020",
+    "created_at": "2025-02-16T16:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T17:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891162558402327020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dHrNj79lv9",
+          "end": 31,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1891162558402327020/video/1",
+          "media_key": "7_1891162528207802368",
+          "start": 8,
+          "url": "https://t.co/dHrNj79lv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891162558402327020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两根一起塞嘴里 https://t.co/dHrNj79lv9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5874,
+        "height": 1280,
+        "media_key": "7_1891162528207802368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1891162528207802368/pu/img/1gVPQ6HvpIe4Faan.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1891162528207802368/pu/vid/avc1/320x568/zsuybSWcPvDd-odM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1891162528207802368/pu/vid/avc1/480x852/8OdVkSF5vDbrmt_o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1891162528207802368/pu/vid/avc1/720x1280/e5ARQ_OmW9al9eKC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1891162528207802368/pu/pl/jgQtIlWIZf8-j0JX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1891162528207802368"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "1891162558402327020",
+        "created_at": "2025-02-16T16:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T17:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891162558402327020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHrNj79lv9",
+              "end": 31,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1891162558402327020/video/1",
+              "media_key": "7_1891162528207802368",
+              "start": 8,
+              "url": "https://t.co/dHrNj79lv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891162558402327020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两根一起塞嘴里 https://t.co/dHrNj79lv9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 247,
+          "like_count": 6470,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1605
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

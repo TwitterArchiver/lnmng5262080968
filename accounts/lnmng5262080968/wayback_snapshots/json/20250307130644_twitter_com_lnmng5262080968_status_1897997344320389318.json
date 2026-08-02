@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897997260245671937",
+        "3_1897997261445251074"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1897997344320389318",
+    "created_at": "2025-03-07T13:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T14:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897997344320389318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cySgFZS69s",
+          "end": 33,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1897997344320389318/photo/1",
+          "media_key": "3_1897997260245671937",
+          "start": 10,
+          "url": "https://t.co/cySgFZS69s"
+        },
+        {
+          "display_url": "pic.x.com/cySgFZS69s",
+          "end": 33,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1897997344320389318/photo/1",
+          "media_key": "3_1897997261445251074",
+          "start": 10,
+          "url": "https://t.co/cySgFZS69s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897997344320389318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "祝我生日快乐•ᴗ• https://t.co/cySgFZS69s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897997260245671937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlcKc8GboAEzSLJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1897997261445251074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlcKdAkbwAI3arQ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897997260245671937",
+            "3_1897997261445251074"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1897997344320389318",
+        "created_at": "2025-03-07T13:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T14:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897997344320389318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cySgFZS69s",
+              "end": 33,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1897997344320389318/photo/1",
+              "media_key": "3_1897997260245671937",
+              "start": 10,
+              "url": "https://t.co/cySgFZS69s"
+            },
+            {
+              "display_url": "pic.x.com/cySgFZS69s",
+              "end": 33,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1897997344320389318/photo/1",
+              "media_key": "3_1897997261445251074",
+              "start": 10,
+              "url": "https://t.co/cySgFZS69s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897997344320389318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐•ᴗ• https://t.co/cySgFZS69s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1896772567022911791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 326,
+          "like_count": 9519,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2171
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

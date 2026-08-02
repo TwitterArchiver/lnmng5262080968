@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1888592651928445397",
+    "created_at": "2025-02-10T05:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T06:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888829208648135141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865636851643744257",
+          "start": 0,
+          "username": "akanenene19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888829208648135141",
+    "in_reply_to_user_id": "1865636851643744257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888592651928445397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akanenene19 这人也给我私信了，他们要干啥啊这是🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1888592651928445397",
+        "created_at": "2025-02-10T05:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T06:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888829208648135141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865636851643744257",
+              "start": 0,
+              "username": "akanenene19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888829208648135141",
+        "in_reply_to_user_id": "1865636851643744257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888592651928445397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akanenene19 这人也给我私信了，他们要干啥啊这是🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888592643514621952"
+          ]
+        },
+        "author_id": "1865636851643744257",
+        "conversation_id": "1888592651928445397",
+        "created_at": "2025-02-09T14:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T15:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888592651928445397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VAcmhUsTjz",
+              "end": 44,
+              "expanded_url": "https://x.com/akanenene19/status/1888592651928445397/photo/1",
+              "media_key": "3_1888592643514621952",
+              "start": 21,
+              "url": "https://t.co/VAcmhUsTjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888592651928445397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1986,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜们我接了这个广子你们会笑话我吗。？🌚 https://t.co/VAcmhUsTjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 236,
+          "like_count": 5588,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1437
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T05:57:56.000Z",
+        "description": "18/大一/中国人/日本語OK/EJU备考中/戒自伤OD中/负能量碎碎念/🚪只收口令/想加我LINE的妹子私信我好吗好的/匿名提问：https://t.co/IqQ2zRy2gf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanenene",
+                "end": 89,
+                "expanded_url": "https://ngl.link/akanenene",
+                "start": 66,
+                "url": "https://t.co/IqQ2zRy2gf"
+              }
+            ]
+          }
+        },
+        "id": "1865636851643744257",
+        "location": "🇯🇵",
+        "name": "茜Akane",
+        "pinned_tweet_id": "1870020495170760959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879459241448345600/lQXPJ2bh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 61,
+          "like_count": 1923,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 974
+        },
+        "username": "akanenene19",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1881409758848249925",
+    "created_at": "2025-01-20T18:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T19:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881409758848249925"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1881409758848249925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果我正常点他是不是就不会讨厌我了，我不会再向别人说自己的病自己的伤自己的恶习了。本身也是不光彩的事说出去也只会让人讨厌为什么要让人接受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1881409758848249925",
+        "created_at": "2025-01-20T18:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T19:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881409758848249925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881409758848249925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我正常点他是不是就不会讨厌我了，我不会再向别人说自己的病自己的伤自己的恶习了。本身也是不光彩的事说出去也只会让人讨厌为什么要让人接受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 142,
+          "like_count": 2744,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 511
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

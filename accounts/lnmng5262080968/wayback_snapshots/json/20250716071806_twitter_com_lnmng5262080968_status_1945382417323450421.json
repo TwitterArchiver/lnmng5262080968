@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1945197171021639900",
+    "created_at": "2025-07-16T07:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T08:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945382417323450421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1336929446494793728",
+          "start": 0,
+          "username": "fzwwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945382417323450421",
+    "in_reply_to_user_id": "1336929446494793728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945216375926006206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fzwwwwww 求世界善待我，呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1945197171021639900",
+        "created_at": "2025-07-16T07:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T08:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945382417323450421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1336929446494793728",
+              "start": 0,
+              "username": "fzwwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945382417323450421",
+        "in_reply_to_user_id": "1336929446494793728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945216375926006206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fzwwwwww 求世界善待我，呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336929446494793728",
+        "conversation_id": "1945197171021639900",
+        "created_at": "2025-07-15T20:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T21:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945216375926006206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945216375926006206",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945197171021639900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 一次次的遭遇辛苦了。你对这个世界真好，心累了就休息一会，未来绝对会遇到一些好的情境，加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 364,
+          "like_count": 13626,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 4085
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-10T07:03:23.000Z",
+        "description": "男｜重度妹控｜病娇｜抑郁｜二次元｜喜欢同类｜厌现实｜厌物质化",
+        "id": "1336929446494793728",
+        "location": "Taiwan",
+        "name": "冰羽",
+        "pinned_tweet_id": "1724887316781760908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941855703670607872/mv2msWzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 32,
+          "like_count": 9439,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 987
+        },
+        "username": "fzwwwwww",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1887123768285499813",
+    "created_at": "2025-02-05T15:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T16:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887168775885324767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1813878430188072960",
+          "start": 0,
+          "username": "WHZYzpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887168775885324767",
+    "in_reply_to_user_id": "1813878430188072960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887133234804457960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WHZYzpy 挺冷的😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1887123768285499813",
+        "created_at": "2025-02-05T15:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T16:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887168775885324767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1813878430188072960",
+              "start": 0,
+              "username": "WHZYzpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887168775885324767",
+        "in_reply_to_user_id": "1813878430188072960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887133234804457960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WHZYzpy 挺冷的😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813878430188072960",
+        "conversation_id": "1887123768285499813",
+        "created_at": "2025-02-05T13:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T14:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887133234804457960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887133234804457960",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887123768285499813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 阿哲，不冷吗哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 220,
+          "like_count": 5168,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1306
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T10:08:49.000Z",
+        "description": "",
+        "id": "1813878430188072960",
+        "name": "wvw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814086775096410112/bdEu6MMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 20,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 247
+        },
+        "username": "WHZYzpy",
+        "verified": false
+      }
+    ]
+  }
+}

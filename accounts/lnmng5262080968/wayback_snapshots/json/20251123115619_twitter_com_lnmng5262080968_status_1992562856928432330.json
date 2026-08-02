@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-23T11:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992562856928432330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1803545294485012480",
+          "start": 0,
+          "username": "Luciadomiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992562856928432330",
+    "in_reply_to_user_id": "1803545294485012480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992231367573385559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luciadomiiii 嗯嗯我在找感兴趣的手工hhh流麻假发什么的太毒了之前弄的我身体不舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-23T11:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992562856928432330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803545294485012480",
+              "start": 0,
+              "username": "Luciadomiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992562856928432330",
+        "in_reply_to_user_id": "1803545294485012480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992231367573385559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luciadomiiii 嗯嗯我在找感兴趣的手工hhh流麻假发什么的太毒了之前弄的我身体不舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803545294485012480",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T13:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992231367573385559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992231367573385559",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991846545025810547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 宝宝要不要试试做手工赚钱呢？我个人觉得做手工很疗愈，相对来讲对创造力和客户的要求也不会像画画那些那么多（不求当大佬的话）。手工单价不低，成本低，还是不错的；时间自由，大学生也方便些。可以先试试找个爱好的类别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 382,
+          "like_count": 14740,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 4835
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T21:48:35.000Z",
+        "description": "广深 /  dom＞s / 4i  3i💖\n小狗/妈妈 🫵到我怀里来🤗",
+        "id": "1803545294485012480",
+        "name": "小鹿爱吃肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805126440125636609/Y77eKgjp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 117,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "Luciadomiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1930090663582020096",
+    "created_at": "2025-06-04T11:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T12:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930221556111946157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930221556111946157",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930090663582020096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 哇我们离得好近"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_1930090653473746949",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GskPOSiasAUSc7d.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930090653435998208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GskPOSZasAAl1ei.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1930090663582020096",
+        "created_at": "2025-06-04T11:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T12:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930221556111946157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930221556111946157",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930090663582020096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 哇我们离得好近"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930090653473746949",
+            "3_1930090653435998208"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "1930090663582020096",
+        "created_at": "2025-06-04T02:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T03:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930090663582020096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDJUkLv7lT",
+              "end": 41,
+              "expanded_url": "https://x.com/amecandy_x/status/1930090663582020096/photo/1",
+              "media_key": "3_1930090653473746949",
+              "start": 18,
+              "url": "https://t.co/jDJUkLv7lT"
+            },
+            {
+              "display_url": "pic.x.com/jDJUkLv7lT",
+              "end": 41,
+              "expanded_url": "https://x.com/amecandy_x/status/1930090663582020096/photo/1",
+              "media_key": "3_1930090653435998208",
+              "start": 18,
+              "url": "https://t.co/jDJUkLv7lT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930090663582020096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑龙江岸边\n对岸就是布拉戈维申斯克 https://t.co/jDJUkLv7lT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜分享日常                                                    \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 凛分身@Rinko_0o0             一点幸福都留不住",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 366,
+          "like_count": 13414,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 3756
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "小雨不乖，请你抱紧 我会写点东西求你看看 //// 互 fo 请私信 /// ♡❀✦💘 @appleneko2001 ✦❀♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "appleneko2001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "name": "超絕最可愛 Rain 💙🧬",
+        "pinned_tweet_id": "1926501642251202861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 1084,
+          "like_count": 15845,
+          "listed_count": 7,
+          "media_count": 332,
+          "tweet_count": 4966
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

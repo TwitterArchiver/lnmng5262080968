@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2056654704130896045",
+    "created_at": "2026-05-19T14:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056745175318454707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1733434270377541632",
+          "start": 0,
+          "username": "ygyuti660347768"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056745175318454707",
+    "in_reply_to_user_id": "1733434270377541632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056699890475176155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygyuti660347768 对对，虽然我也买但是这风气简直离谱，，实际上都攀比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2056654704130896045",
+        "created_at": "2026-05-19T14:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056745175318454707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733434270377541632",
+              "start": 0,
+              "username": "ygyuti660347768"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056745175318454707",
+        "in_reply_to_user_id": "1733434270377541632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056699890475176155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygyuti660347768 对对，虽然我也买但是这风气简直离谱，，实际上都攀比"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733434270377541632",
+        "conversation_id": "2056654704130896045",
+        "created_at": "2026-05-19T11:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056699890475176155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056699890475176155",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2120,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056654704130896045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我甚至不理解买谷子的人，现在谷子好像已经成了爱不爱一个角色的证明了不买就是不爱不配入圈，我不明白为什么一个勋章能卖这么贵甚至比手办还贵附加值高到离谱，与其说谷子是爱角色的证明不如说是炫耀财力的资本还有管动漫角色叫爸爸妈妈的更是傻福啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 313,
+          "like_count": 17521,
+          "listed_count": 5,
+          "media_count": 205,
+          "tweet_count": 5904
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T10:32:01.000Z",
+        "description": "",
+        "id": "1733434270377541632",
+        "name": "乙骨忧太",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019580343486140416/G1r_6K5z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 130,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "username": "ygyuti660347768",
+        "verified": false
+      }
+    ]
+  }
+}

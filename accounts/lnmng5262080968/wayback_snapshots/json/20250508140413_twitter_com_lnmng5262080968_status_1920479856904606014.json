@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1920430326192476372",
+    "created_at": "2025-05-08T14:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T15:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920479856904606014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910715228523831296",
+          "start": 0,
+          "username": "jade2486520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920479856904606014",
+    "in_reply_to_user_id": "1910715228523831296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920474456561991714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jade2486520 嗯，，抱抱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1920430326192476372",
+        "created_at": "2025-05-08T14:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920479856904606014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "jade2486520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920479856904606014",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920474456561991714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jade2486520 嗯，，抱抱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1920430326192476372",
+        "created_at": "2025-05-08T13:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T14:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920474456561991714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920474456561991714",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920430326192476372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 不要，好好活着，都会过去（抱抱）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 365,
+          "like_count": 12836,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 3403
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，infp，做一只善良的鹰🦅，下面挂的tg无聊想聊天可以找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yr248652",
+                "end": 23,
+                "expanded_url": "http://t.me/yr248652",
+                "start": 0,
+                "url": "https://t.co/y8yCTzGeM2"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "王者峡谷边路草丛",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1919837260310093975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920396293957906432/Z3REo-xE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 53,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/y8yCTzGeM2",
+        "username": "jade2486520",
+        "verified": false
+      }
+    ]
+  }
+}

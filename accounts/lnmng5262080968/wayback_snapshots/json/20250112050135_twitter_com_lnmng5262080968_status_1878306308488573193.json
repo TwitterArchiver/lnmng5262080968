@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1878306308488573193",
+    "created_at": "2025-01-12T05:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T06:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878306308488573193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/redaizhu/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/redaizhu/status/1878094559349211556",
+          "start": 5,
+          "url": "https://t.co/IKk3seOvns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878306308488573193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878094559349211556",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "够了，， https://t.co/IKk3seOvns"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1878306308488573193",
+        "created_at": "2025-01-12T05:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T06:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878306308488573193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/redaizhu/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/redaizhu/status/1878094559349211556",
+              "start": 5,
+              "url": "https://t.co/IKk3seOvns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878306308488573193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878094559349211556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "够了，， https://t.co/IKk3seOvns"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490941014030561283",
+        "conversation_id": "1878094559349211556",
+        "created_at": "2025-01-11T15:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T16:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878094559349211556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878094559349211556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 47356,
+          "like_count": 446,
+          "quote_count": 18,
+          "reply_count": 51,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "你们只是暧昧了几天  新鲜感也是通过聊骚保持的   只是聊骚的新鲜感让你误以为相见恨晚罢了  你只是没得到而已 不要搞得像失去了一样 ​​​ 不理你就是在跟别人聊骚  你还傻了吧唧的跟人废话一大堆  还真以为这次终于被特殊对待了是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜已有主人                                                        \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友\n🚪38好友位48有朋友圈  68聊天",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1878291594681704469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 70,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 283
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T06:50:26.000Z",
+        "description": "普信男     不喜欢看屏蔽就好了      祝大家天天开心喽 ❗❗❗       匿名📭📭📭 https://t.co/f0Oh2hS41M                  开心药@kaixinyao0987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "kaixinyao0987"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/goujuanjii",
+                "end": 71,
+                "expanded_url": "http://ngl.link/goujuanjii",
+                "start": 48,
+                "url": "https://t.co/f0Oh2hS41M"
+              }
+            ]
+          }
+        },
+        "id": "1490941014030561283",
+        "location": "不收口令 不收巨款 不收小款 不接推广  不加联系",
+        "name": "热带猪🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875558956464271365/jS3Awz6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 79,
+          "like_count": 24898,
+          "listed_count": 10,
+          "media_count": 1507,
+          "tweet_count": 4360
+        },
+        "username": "redaizhu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2077209261231558788",
+    "created_at": "2026-07-15T02:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T03:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077214909562278252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2044793265635971072",
+          "start": 0,
+          "username": "vufdEMQq1m48065"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077214909562278252",
+    "in_reply_to_user_id": "2044793265635971072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077213500066382137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vufdEMQq1m48065 正常的兄弟比上一个好多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2077209261231558788",
+        "created_at": "2026-07-15T02:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077214909562278252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2044793265635971072",
+              "start": 0,
+              "username": "vufdEMQq1m48065"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077214909562278252",
+        "in_reply_to_user_id": "2044793265635971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077213500066382137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vufdEMQq1m48065 正常的兄弟比上一个好多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044793265635971072",
+        "conversation_id": "2077209261231558788",
+        "created_at": "2026-07-15T02:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077213500066382137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077213500066382137",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077209261231558788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 真的正常吗😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "有爱的世界会到来吗",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 311,
+          "like_count": 17852,
+          "listed_count": 5,
+          "media_count": 213,
+          "tweet_count": 6075
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:01:29.000Z",
+        "description": "",
+        "id": "2044793265635971072",
+        "name": "gugugaga",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044794862101479424/kIl40oGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 564,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "vufdEMQq1m48065",
+        "verified": false
+      }
+    ]
+  }
+}

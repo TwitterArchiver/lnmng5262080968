@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1957152459048280543",
+    "created_at": "2025-08-18T04:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T05:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957291812512813387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1345789578276270082",
+          "start": 0,
+          "username": "x8306868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957291812512813387",
+    "in_reply_to_user_id": "1345789578276270082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957287261726519685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x8306868 不，是你刷到的推推。俺也一样就是倒苦水用的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1957152459048280543",
+        "created_at": "2025-08-18T04:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T05:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957291812512813387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1345789578276270082",
+              "start": 0,
+              "username": "x8306868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957291812512813387",
+        "in_reply_to_user_id": "1345789578276270082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957287261726519685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x8306868 不，是你刷到的推推。俺也一样就是倒苦水用的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345789578276270082",
+        "conversation_id": "1957152459048280543",
+        "created_at": "2025-08-18T03:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957287261726519685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957287261726519685",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957286089468559556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 妹，别看。推上本来就是废料。我是来直面内心的。不是来给别人看我的生活有多惨的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 371,
+          "like_count": 13878,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 4276
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-03T17:50:24.000Z",
+        "description": "理想主义懒惰者",
+        "id": "1345789578276270082",
+        "name": "奥斯特诺夫斯基",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345789796472430592/PUeEwCTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 110,
+          "like_count": 715,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 646
+        },
+        "username": "x8306868",
+        "verified": false
+      }
+    ]
+  }
+}

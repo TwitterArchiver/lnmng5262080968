@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925363898703912960"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1925363905976836162",
+    "created_at": "2025-05-22T01:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T02:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925363905976836162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KYnw3jI0km",
+          "end": 43,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1925363905976836162/photo/1",
+          "media_key": "3_1925363898703912960",
+          "start": 20,
+          "url": "https://t.co/KYnw3jI0km"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925363905976836162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "七樱宝宝可以私信我一下嘛谢谢你好开心😭 https://t.co/KYnw3jI0km"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_1925363898703912960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrhEQ82boAAU6gs.jpg",
+        "width": 935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925363898703912960"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "1925363905976836162",
+        "created_at": "2025-05-22T01:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T02:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925363905976836162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KYnw3jI0km",
+              "end": 43,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1925363905976836162/photo/1",
+              "media_key": "3_1925363898703912960",
+              "start": 20,
+              "url": "https://t.co/KYnw3jI0km"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925363905976836162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七樱宝宝可以私信我一下嘛谢谢你好开心😭 https://t.co/KYnw3jI0km"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 366,
+          "like_count": 13052,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 3556
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

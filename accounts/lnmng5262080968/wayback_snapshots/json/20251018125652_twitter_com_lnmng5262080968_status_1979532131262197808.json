@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1979477933216735363",
+    "created_at": "2025-10-18T12:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T13:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979532131262197808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945208841244979200",
+          "start": 0,
+          "username": "shuiwuyou66"
+        },
+        {
+          "end": 26,
+          "id": "1801841843837276163",
+          "start": 13,
+          "username": "icraveoflove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979532131262197808",
+    "in_reply_to_user_id": "1945208841244979200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979531667883897003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuiwuyou66 @icraveoflove 对对太真实了，现在跟我玩的好的都是莫名其妙认识的，不过基本上还是我自己一个人玩^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1979477933216735363",
+        "created_at": "2025-10-18T12:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979532131262197808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945208841244979200",
+              "start": 0,
+              "username": "shuiwuyou66"
+            },
+            {
+              "end": 26,
+              "id": "1801841843837276163",
+              "start": 13,
+              "username": "icraveoflove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979532131262197808",
+        "in_reply_to_user_id": "1945208841244979200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979531667883897003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiwuyou66 @icraveoflove 对对太真实了，现在跟我玩的好的都是莫名其妙认识的，不过基本上还是我自己一个人玩^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945208841244979200",
+        "conversation_id": "1979477933216735363",
+        "created_at": "2025-10-18T12:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979531667883897003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            },
+            {
+              "end": 30,
+              "id": "1801841843837276163",
+              "start": 17,
+              "username": "icraveoflove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979531667883897003",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979528396410609981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 @icraveoflove 是的是的，自从遇到这种事以后就再也不加所谓的游戏群了，也不想找什么同好了不如自己玩，有卡关或者疑问就小黑盒或者其他游戏论坛求助都比这些群有用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 371,
+          "like_count": 14244,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 4578
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T19:48:34.000Z",
+        "description": "愿望是希望身边的人都远离苦难",
+        "id": "1945208841244979200",
+        "name": "让我停止思考吧",
+        "pinned_tweet_id": "1976652414712533081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976693436561735681/HG1Zk8BY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 211
+        },
+        "username": "shuiwuyou66",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T04:59:14.000Z",
+        "description": "22｜ig ：esinenard",
+        "id": "1801841843837276163",
+        "location": "🚪120/288/520/1314",
+        "name": "esinenard",
+        "pinned_tweet_id": "1967308141521260757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968703304386383872/EPqkcjHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12688,
+          "following_count": 162,
+          "like_count": 1785,
+          "listed_count": 18,
+          "media_count": 125,
+          "tweet_count": 1229
+        },
+        "username": "icraveoflove",
+        "verified": false
+      }
+    ]
+  }
+}

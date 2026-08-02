@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1979162126615732386",
+    "created_at": "2025-10-18T12:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T13:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979530797528006931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1548993250349895680",
+          "start": 0,
+          "username": "willlin_lan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979530797528006931",
+    "in_reply_to_user_id": "1548993250349895680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979243701290570094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willlin_lan 炫压抑之笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1979162126615732386",
+        "created_at": "2025-10-18T12:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979530797528006931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1548993250349895680",
+              "start": 0,
+              "username": "willlin_lan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979530797528006931",
+        "in_reply_to_user_id": "1548993250349895680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979243701290570094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willlin_lan 炫压抑之笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548993250349895680",
+        "conversation_id": "1979162126615732386",
+        "created_at": "2025-10-17T17:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T18:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979243701290570094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979243701290570094",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979162126615732386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 重點是看到女生不知道為啥笑的時候男生會跟著假笑，明明難笑得要死，有必要當公狗當成這樣嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 371,
+          "like_count": 14241,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 4577
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T11:29:12.000Z",
+        "description": "中文/eng/台灣/廢文負能量",
+        "id": "1548993250349895680",
+        "location": "Taipei ",
+        "name": "lan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978105365456658432/5-js5EKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 86,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "willlin_lan",
+        "verified": false
+      }
+    ]
+  }
+}

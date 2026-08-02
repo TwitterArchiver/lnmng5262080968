@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1955644751866454120",
+    "created_at": "2025-08-13T15:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T16:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955654184247914673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1867755654070349824",
+          "start": 0,
+          "username": "zezhe463149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955654184247914673",
+    "in_reply_to_user_id": "1867755654070349824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955644751866454120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zezhe463149 我受不了这帮富姐地雷女天天想着去中味，去中卫最好的方式就是把钱都扔了像日本正统地雷女那样又穷又惨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1955644751866454120",
+        "created_at": "2025-08-13T15:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T16:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955654184247914673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867755654070349824",
+              "start": 0,
+              "username": "zezhe463149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955654184247914673",
+        "in_reply_to_user_id": "1867755654070349824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955644751866454120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zezhe463149 我受不了这帮富姐地雷女天天想着去中味，去中卫最好的方式就是把钱都扔了像日本正统地雷女那样又穷又惨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867755654070349824",
+        "conversation_id": "1955644751866454120",
+        "created_at": "2025-08-13T14:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955644751866454120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/1955638340499509688",
+              "start": 69,
+              "url": "https://t.co/hMf8fJDKwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955644751866454120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955638340499509688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同意，来个富婆地雷女门槛姐，听我咕嘟俩小时原生家庭带来的心理创伤然后给我发一些新鲜的血图涩涩的黄片当宵夜再倒贴我88/288/520门槛 https://t.co/hMf8fJDKwT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 世界第一 孤僻小透明凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 370,
+          "like_count": 13776,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 4228
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T02:17:45.000Z",
+        "description": "桀桀桀\n🧠想些奇怪dx，，",
+        "id": "1867755654070349824",
+        "name": "ze zhe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954505559912460288/GzLK7KHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 71,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "username": "zezhe463149",
+        "verified": false
+      }
+    ]
+  }
+}

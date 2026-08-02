@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1940004987255627934",
+    "created_at": "2025-07-01T16:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T17:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940092996390961256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1826483540554645507",
+          "start": 0,
+          "username": "zbzjzyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940092996390961256",
+    "in_reply_to_user_id": "1826483540554645507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940065960221974940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zbzjzyl 谢谢宝宝，，，谢谢你不嫌弃我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1940004987255627934",
+        "created_at": "2025-07-01T16:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T17:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940092996390961256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1826483540554645507",
+              "start": 0,
+              "username": "zbzjzyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940092996390961256",
+        "in_reply_to_user_id": "1826483540554645507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940065960221974940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zbzjzyl 谢谢宝宝，，，谢谢你不嫌弃我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826483540554645507",
+        "conversation_id": "1940004987255627934",
+        "created_at": "2025-07-01T15:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T16:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940065960221974940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940065960221974940",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940004987255627934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 没有这回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 369,
+          "like_count": 13694,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 4054
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T04:56:38.000Z",
+        "description": "08丨敏感丨多疑丨包容丨不鉴证丨放假玩推丨互fo看成分丨你觉得我是男的我就是男的 是女的我就是女的🤗 小号👉@zbzjzyl02 提问箱👉https://t.co/ATYjdvrqKx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "zbzjzyl02"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zbzjzyl",
+                "end": 92,
+                "expanded_url": "https://ngl.link/zbzjzyl",
+                "start": 69,
+                "url": "https://t.co/ATYjdvrqKx"
+              }
+            ]
+          }
+        },
+        "id": "1826483540554645507",
+        "name": "Xi（淡推）",
+        "pinned_tweet_id": "1939731358223671473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910682790741630978/JIyGRm1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 392,
+          "like_count": 8598,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1934
+        },
+        "username": "zbzjzyl",
+        "verified": false
+      }
+    ]
+  }
+}

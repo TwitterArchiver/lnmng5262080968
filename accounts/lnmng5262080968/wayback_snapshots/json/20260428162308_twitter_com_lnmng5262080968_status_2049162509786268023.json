@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2049162509786268023",
+    "created_at": "2026-04-28T16:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049162509786268023"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049162509786268023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不在意脱下长衫，但很讨厌同事都没什么素质。我之前做过一天的垃圾工作，同事一边骂脏话一边吐槽平台上的人感觉像进入某中专全是精神小伙和太妹。宁可工作环境死气沉沉也不想要和这帮人一起上班，所以第一天就提桶跑路了盒盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2049162509786268023",
+        "created_at": "2026-04-28T16:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049162509786268023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049162509786268023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不在意脱下长衫，但很讨厌同事都没什么素质。我之前做过一天的垃圾工作，同事一边骂脏话一边吐槽平台上的人感觉像进入某中专全是精神小伙和太妹。宁可工作环境死气沉沉也不想要和这帮人一起上班，所以第一天就提桶跑路了盒盒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 318,
+          "like_count": 17504,
+          "listed_count": 5,
+          "media_count": 213,
+          "tweet_count": 5855
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

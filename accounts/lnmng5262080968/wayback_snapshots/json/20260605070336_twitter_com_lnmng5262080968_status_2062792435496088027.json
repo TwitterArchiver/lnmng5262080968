@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2062535484480598156",
+    "created_at": "2026-06-05T07:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062792435496088027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004483824122793984",
+          "start": 0,
+          "username": "momocha1599214e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062792435496088027",
+    "in_reply_to_user_id": "2004483824122793984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062535484480598156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momocha1599214e 互关回家，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2062535484480598156",
+        "created_at": "2026-06-05T07:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062792435496088027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004483824122793984",
+              "start": 0,
+              "username": "momocha1599214e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062792435496088027",
+        "in_reply_to_user_id": "2004483824122793984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062535484480598156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momocha1599214e 互关回家，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004483824122793984",
+        "conversation_id": "2062535484480598156",
+        "created_at": "2026-06-04T14:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062535484480598156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062535484480598156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 982,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的互关在慢慢消失…互关回家…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 316,
+          "like_count": 17697,
+          "listed_count": 5,
+          "media_count": 209,
+          "tweet_count": 5972
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T09:26:10.000Z",
+        "description": "可以叫我小璃|压抑女大的黄色废料处理地|超业余女喘|只回复礼貌私信|有🚪|随机视奸所有人|女生互fo大欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/momocha%E5%9D%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/momocha%E5%9D%9A%E6%9E%9C",
+                "start": 0,
+                "url": "https://t.co/UyThplTnDm"
+              }
+            ]
+          }
+        },
+        "id": "2004483824122793984",
+        "location": "互联网幽灵",
+        "name": "momocha坚果",
+        "pinned_tweet_id": "2016917753995911185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026303218331131904/9WYJrmPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 83,
+          "like_count": 6801,
+          "listed_count": 5,
+          "media_count": 58,
+          "tweet_count": 258
+        },
+        "url": "https://t.co/UyThplTnDm",
+        "username": "momocha1599214e",
+        "verified": false
+      }
+    ]
+  }
+}

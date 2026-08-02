@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1976691018071523578",
+    "created_at": "2025-10-11T06:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T07:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976897430420701661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934279767173586944",
+          "start": 0,
+          "username": "Aleiiii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976897430420701661",
+    "in_reply_to_user_id": "1934279767173586944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976885639632322903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aleiiii_ 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1976691018071523578",
+        "created_at": "2025-10-11T06:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T07:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976897430420701661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934279767173586944",
+              "start": 0,
+              "username": "Aleiiii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976897430420701661",
+        "in_reply_to_user_id": "1934279767173586944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976885639632322903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aleiiii_ 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934279767173586944",
+        "conversation_id": "1976691018071523578",
+        "created_at": "2025-10-11T05:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T06:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976885639632322903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976885639632322903",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976691018071523578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 366,
+          "like_count": 14114,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 4484
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T16:00:30.000Z",
+        "description": "男的全拉黑 | 精神病｜od｜负能｜已戒割｜碎碎念｜女宝互fo私信｜请友好相处^w^｜双生子 @0724_eiko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "0724_eiko"
+              }
+            ]
+          }
+        },
+        "id": "1934279767173586944",
+        "location": "不再痛苦的天国",
+        "name": "汜水泪",
+        "pinned_tweet_id": "1948521821105782929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976105250202513408/QGd9KyhZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 74,
+          "like_count": 3237,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1777
+        },
+        "username": "Aleiiii_",
+        "verified": false
+      }
+    ]
+  }
+}

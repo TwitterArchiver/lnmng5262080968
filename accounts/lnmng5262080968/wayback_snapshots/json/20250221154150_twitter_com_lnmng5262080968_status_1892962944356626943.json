@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1892962944356626943",
+    "created_at": "2025-02-21T15:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T16:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892962944356626943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1515920862205001732",
+          "start": 3,
+          "username": "cnmdsjdqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892962944356626943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865376908008911110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cnmdsjdqs: 05/大二休学中（在上班赚取窝囊费）/重度焦虑型抑郁/可互fo/自残/od/会喜欢你们所有女宝可以随便加好友聊天/男👉🚪88解锁wx好友陪聊188半绿，偶尔打赏给我吃点饭也行🥺就当喂养了一个电子宠物\n我希望有rua不完的小猫还有钱💰 https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1865376886647332864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeMmZSzWoAA9Y97.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1865376887519817728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeMmZWDXsAAMb1Q.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1865376891953139712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeMmZmkW0AAXFWD.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1587,
+        "media_key": "3_1865376887528124416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeMmZWFWcAAdz-i.jpg",
+        "width": 2116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1892962944356626943",
+        "created_at": "2025-02-21T15:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T16:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892962944356626943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1515920862205001732",
+              "start": 3,
+              "username": "cnmdsjdqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892962944356626943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865376908008911110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cnmdsjdqs: 05/大二休学中（在上班赚取窝囊费）/重度焦虑型抑郁/可互fo/自残/od/会喜欢你们所有女宝可以随便加好友聊天/男👉🚪88解锁wx好友陪聊188半绿，偶尔打赏给我吃点饭也行🥺就当喂养了一个电子宠物\n我希望有rua不完的小猫还有钱💰 https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865376886647332864",
+            "3_1865376887519817728",
+            "3_1865376891953139712",
+            "3_1865376887528124416"
+          ]
+        },
+        "author_id": "1515920862205001732",
+        "conversation_id": "1865376908008911110",
+        "created_at": "2024-12-07T12:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T13:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865376908008911110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fES4zeyds",
+              "end": 140,
+              "expanded_url": "https://x.com/cnmdsjdqs/status/1865376908008911110/photo/1",
+              "media_key": "3_1865376886647332864",
+              "start": 117,
+              "url": "https://t.co/4fES4zeyds"
+            },
+            {
+              "display_url": "pic.x.com/4fES4zeyds",
+              "end": 140,
+              "expanded_url": "https://x.com/cnmdsjdqs/status/1865376908008911110/photo/1",
+              "media_key": "3_1865376887519817728",
+              "start": 117,
+              "url": "https://t.co/4fES4zeyds"
+            },
+            {
+              "display_url": "pic.x.com/4fES4zeyds",
+              "end": 140,
+              "expanded_url": "https://x.com/cnmdsjdqs/status/1865376908008911110/photo/1",
+              "media_key": "3_1865376891953139712",
+              "start": 117,
+              "url": "https://t.co/4fES4zeyds"
+            },
+            {
+              "display_url": "pic.x.com/4fES4zeyds",
+              "end": 140,
+              "expanded_url": "https://x.com/cnmdsjdqs/status/1865376908008911110/photo/1",
+              "media_key": "3_1865376887528124416",
+              "start": 117,
+              "url": "https://t.co/4fES4zeyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865376908008911110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 24237,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "05/大二休学中（在上班赚取窝囊费）/重度焦虑型抑郁/可互fo/自残/od/会喜欢你们所有女宝可以随便加好友聊天/男👉🚪88解锁wx好友陪聊188半绿，偶尔打赏给我吃点饭也行🥺就当喂养了一个电子宠物\n我希望有rua不完的小猫还有钱💰 https://t.co/4fES4zeyds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 280,
+          "like_count": 7217,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1761
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T05:11:56.000Z",
+        "description": "05/休学中/喜欢小猫/互fo请私信谢谢你🥺/上学期间常驻ip宜宾/喜欢二战史（德国佬居多）希特勒梦女？！👉🚪58（纯绿仅添加好友，聊，但不多）",
+        "id": "1515920862205001732",
+        "name": "一どしふゆん",
+        "pinned_tweet_id": "1865376908008911110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891763958895235072/jtvKc8V7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 77,
+          "like_count": 1151,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 982
+        },
+        "username": "cnmdsjdqs",
+        "verified": false
+      }
+    ]
+  }
+}

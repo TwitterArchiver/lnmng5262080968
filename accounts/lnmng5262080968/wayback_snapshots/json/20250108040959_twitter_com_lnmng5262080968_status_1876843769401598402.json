@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1876843769401598402",
+    "created_at": "2025-01-08T04:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T05:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876843769401598402"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1876843769401598402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天跟朋友聊了前男友相关…凛凛每次提到伤心事都好难过，，前男友只想着凛凛的身体和钱，没钱了就骂我…凛凛辛辛苦苦挣的稿费还被埋怨不给他花…凛凛那时候病的很严重不知道什么是对什么是错，前男友一直pua凛凛不让跟朋友讲恋爱上的苦恼，被发现又是一顿骂，，每次深夜耳边都是前男友骂凛凛的幻听，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1876843769401598402",
+        "created_at": "2025-01-08T04:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T05:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876843769401598402"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876843769401598402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天跟朋友聊了前男友相关…凛凛每次提到伤心事都好难过，，前男友只想着凛凛的身体和钱，没钱了就骂我…凛凛辛辛苦苦挣的稿费还被埋怨不给他花…凛凛那时候病的很严重不知道什么是对什么是错，前男友一直pua凛凛不让跟朋友讲恋爱上的苦恼，被发现又是一顿骂，，每次深夜耳边都是前男友骂凛凛的幻听，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜已有主人                                                \n欢迎来到凛凛的阴暗小世界…\n🚪38好友位 68聊天 88有朋友圈",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 51,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 192
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

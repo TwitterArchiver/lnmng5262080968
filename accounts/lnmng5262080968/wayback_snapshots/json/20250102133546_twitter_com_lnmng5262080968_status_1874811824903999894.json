@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1874811824903999894",
+    "created_at": "2025-01-02T13:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T14:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874811824903999894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1467368317258248192",
+          "start": 3,
+          "username": "loolzaozmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874811824903999894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1770837022980050957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loolzaozmin: 我不想要普通的朋友关系，也不想谈正常的恋爱，我要我们的灵魂高度契合，我偏爱极端，拥抱、撕扯、粘连、融合到一起，我死了你不能活，你死了我就做你身上的裹尸布，我要你就是我，我们共生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1874811824903999894",
+        "created_at": "2025-01-02T13:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T14:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874811824903999894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1467368317258248192",
+              "start": 3,
+              "username": "loolzaozmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874811824903999894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1770837022980050957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loolzaozmin: 我不想要普通的朋友关系，也不想谈正常的恋爱，我要我们的灵魂高度契合，我偏爱极端，拥抱、撕扯、粘连、融合到一起，我死了你不能活，你死了我就做你身上的裹尸布，我要你就是我，我们共生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467368317258248192",
+        "conversation_id": "1770837022980050957",
+        "created_at": "2024-03-21T15:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-21T16:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1770837022980050957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1770837022980050957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 38290,
+          "like_count": 116,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我不想要普通的朋友关系，也不想谈正常的恋爱，我要我们的灵魂高度契合，我偏爱极端，拥抱、撕扯、粘连、融合到一起，我死了你不能活，你死了我就做你身上的裹尸布，我要你就是我，我们共生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪\n欢迎来到凛凛的阴暗小世界…\n此平台不定时在线 随时暴毙",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 95
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "我是藻｜泛性恋｜ 它/ta｜非二元性别｜三个人格",
+        "id": "1467368317258248192",
+        "name": "我胃里面的蝴蝶",
+        "pinned_tweet_id": "1845795124061823157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872191897885880322/UKztJ3i0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9573,
+          "following_count": 195,
+          "like_count": 539,
+          "listed_count": 14,
+          "media_count": 101,
+          "tweet_count": 319
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

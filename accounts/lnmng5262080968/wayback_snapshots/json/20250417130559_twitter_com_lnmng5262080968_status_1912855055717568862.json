@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1912841804942348603",
+    "created_at": "2025-04-17T13:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T14:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912855055717568862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1584173045710741504",
+          "start": 0,
+          "username": "SakuraSakuraX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912855055717568862",
+    "in_reply_to_user_id": "1584173045710741504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912841804942348603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraSakuraX7 bro有点太帅了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6873,
+        "height": 1920,
+        "media_key": "13_1912841680203698176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912841680203698176/img/97sy_ZOatWfoDh1f.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912841680203698176/vid/avc1/320x568/Tgnbit4AK1wgbZc9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912841680203698176/vid/avc1/480x852/bw-dBoi_4mrDEfQU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912841680203698176/vid/avc1/720x1280/DUD1RW9U4JPVDkGy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912841680203698176/pl/EJAqq_4Rka-zawul.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1912841804942348603",
+        "created_at": "2025-04-17T13:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T14:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912855055717568862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584173045710741504",
+              "start": 0,
+              "username": "SakuraSakuraX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912855055717568862",
+        "in_reply_to_user_id": "1584173045710741504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912841804942348603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraSakuraX7 bro有点太帅了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912841680203698176"
+          ]
+        },
+        "author_id": "1584173045710741504",
+        "conversation_id": "1912841804942348603",
+        "created_at": "2025-04-17T12:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T13:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912841804942348603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4dS1HL5ik",
+              "end": 64,
+              "expanded_url": "https://x.com/SakuraSakuraX7/status/1912841804942348603/video/1",
+              "media_key": "13_1912841680203698176",
+              "start": 41,
+              "url": "https://t.co/d4dS1HL5ik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912841804942348603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“他人即地狱”萨特这句话是他人的凝视可以影响个体的自由，这个自由在他的观念是动词 https://t.co/d4dS1HL5ik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 372,
+          "like_count": 11739,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 2951
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T13:21:16.000Z",
+        "description": "分离焦虑丨救世主情结丨爱理TV丨想见她想见她想见她想见她……@sengogogogo11｜提问箱➡️https://t.co/sehZRkKlL5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "sengogogogo11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sakurasakurax7",
+                "end": 73,
+                "expanded_url": "https://ngl.link/sakurasakurax7",
+                "start": 50,
+                "url": "https://t.co/sehZRkKlL5"
+              }
+            ]
+          }
+        },
+        "id": "1584173045710741504",
+        "location": "丸喜的世界",
+        "name": "只九",
+        "pinned_tweet_id": "1910613264771461121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911048580816633856/_BhxFRNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 733,
+          "like_count": 13439,
+          "listed_count": 6,
+          "media_count": 152,
+          "tweet_count": 5445
+        },
+        "username": "SakuraSakuraX7",
+        "verified": false
+      }
+    ]
+  }
+}

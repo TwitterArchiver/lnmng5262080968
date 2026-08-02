@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1998842931910947006",
+    "created_at": "2025-12-12T16:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T17:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999520356739043829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1641348685693870080",
+          "start": 0,
+          "username": "meet9146"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999520356739043829",
+    "in_reply_to_user_id": "1641348685693870080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999481477831291279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meet9146 至少买了谷子（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1998842931910947006",
+        "created_at": "2025-12-12T16:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T17:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999520356739043829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1641348685693870080",
+              "start": 0,
+              "username": "meet9146"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999520356739043829",
+        "in_reply_to_user_id": "1641348685693870080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999481477831291279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meet9146 至少买了谷子（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641348685693870080",
+        "conversation_id": "1998842931910947006",
+        "created_at": "2025-12-12T14:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T15:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999481477831291279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999481477831291279",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998842931910947006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 自从吃谷以后我就失去了财富自由。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 求打钱 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰                             幸福逼都该死",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 376,
+          "like_count": 14949,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 4945
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T07:56:43.000Z",
+        "description": "痛苦/一具尸体/说唱/💊/看动漫/喜欢萌妹子/coser/粥/烤/求你了和我聊天",
+        "id": "1641348685693870080",
+        "name": "好大一片麦子，咱俩一起坏掉吧",
+        "pinned_tweet_id": "1944668604697325695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956328268958744576/g5f0XFaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 183,
+          "like_count": 3118,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 417
+        },
+        "username": "meet9146",
+        "verified": false
+      }
+    ]
+  }
+}

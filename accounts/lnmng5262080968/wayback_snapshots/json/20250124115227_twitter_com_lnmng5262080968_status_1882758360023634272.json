@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882712142182588416",
+        "3_1882712142157336576"
+      ],
+      "media_source_tweet_id": [
+        "1882712150638252219",
+        "1882712150638252219"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1882758360023634272",
+    "created_at": "2025-01-24T11:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T12:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882758360023634272"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "半绿"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "纯绿"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "线下"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "聊天"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "陪聊"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "求入门"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879724160513179648",
+          "start": 3,
+          "username": "Guiling731"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j9UL1B5dpn",
+          "end": 112,
+          "expanded_url": "https://x.com/Guiling731/status/1882712150638252219/photo/1",
+          "media_key": "3_1882712142182588416",
+          "start": 89,
+          "url": "https://t.co/j9UL1B5dpn"
+        },
+        {
+          "display_url": "pic.x.com/j9UL1B5dpn",
+          "end": 112,
+          "expanded_url": "https://x.com/Guiling731/status/1882712150638252219/photo/1",
+          "media_key": "3_1882712142157336576",
+          "start": 89,
+          "url": "https://t.co/j9UL1B5dpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882758360023634272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882712150638252219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Guiling731: 🚪88/188/288 想和小女孩互fo互转😭\n#门槛哥 #门槛姐 #爸爸活 #妈妈活 #半绿 #纯绿 #线下 #聊天 #陪聊 #求入门 #门槛 https://t.co/j9UL1B5dpn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1882758360023634272].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1882758360023634272",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1882758360023634272"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1882712142182588416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiC8t-EboAA0SMx.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1882712142157336576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiC8t9-aUAATnwE.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882712142182588416",
+            "3_1882712142157336576"
+          ]
+        },
+        "author_id": "1879724160513179648",
+        "conversation_id": "1882712150638252219",
+        "created_at": "2025-01-24T08:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T09:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882712150638252219"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "半绿"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "纯绿"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "线下"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "聊天"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "陪聊"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "求入门"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j9UL1B5dpn",
+              "end": 96,
+              "expanded_url": "https://x.com/Guiling731/status/1882712150638252219/photo/1",
+              "media_key": "3_1882712142182588416",
+              "start": 73,
+              "url": "https://t.co/j9UL1B5dpn"
+            },
+            {
+              "display_url": "pic.x.com/j9UL1B5dpn",
+              "end": 96,
+              "expanded_url": "https://x.com/Guiling731/status/1882712150638252219/photo/1",
+              "media_key": "3_1882712142157336576",
+              "start": 73,
+              "url": "https://t.co/j9UL1B5dpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882712150638252219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2967,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 17
+        },
+        "reply_settings": "following",
+        "text": "🚪88/188/288 想和小女孩互fo互转😭\n#门槛哥 #门槛姐 #爸爸活 #妈妈活 #半绿 #纯绿 #线下 #聊天 #陪聊 #求入门 #门槛 https://t.co/j9UL1B5dpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜我天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 179,
+          "like_count": 3530,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 739
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T02:55:48.000Z",
+        "description": "🚪88（好友位）188（可以给我发消息会回复 ）288（会主动找你）520（有图包）@lznnnnn245019 大号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "lznnnnn245019"
+              }
+            ]
+          }
+        },
+        "id": "1879724160513179648",
+        "name": "guiling bb",
+        "pinned_tweet_id": "1882712150638252219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882707434566991872/PHUmSQXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 29,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "Guiling731",
+        "verified": false
+      }
+    ]
+  }
+}

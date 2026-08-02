@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1982464604761739770",
+    "created_at": "2025-10-26T18:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T19:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982520823803261361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1848522601485754368",
+          "start": 0,
+          "username": "xsh102263694743"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982520823803261361",
+    "in_reply_to_user_id": "1848522601485754368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982484926323970370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsh102263694743 算了还是不搞了，感觉割脖子好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1982464604761739770",
+        "created_at": "2025-10-26T18:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T19:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982520823803261361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1848522601485754368",
+              "start": 0,
+              "username": "xsh102263694743"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982520823803261361",
+        "in_reply_to_user_id": "1848522601485754368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982484926323970370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsh102263694743 算了还是不搞了，感觉割脖子好玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848522601485754368",
+        "conversation_id": "1982464604761739770",
+        "created_at": "2025-10-26T16:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982484926323970370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982484926323970370",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982464604761739770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 实在不行，我帮你买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 371,
+          "like_count": 14300,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 4618
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T00:32:01.000Z",
+        "description": "本人男",
+        "id": "1848522601485754368",
+        "name": "徐庶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848522990083768320/1PhByo6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 57,
+          "like_count": 2688,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1276
+        },
+        "username": "xsh102263694743",
+        "verified": false
+      }
+    ]
+  }
+}

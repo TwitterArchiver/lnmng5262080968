@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2009247380236046455",
+    "created_at": "2026-01-09T08:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T09:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009543347199995961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933804631727157248",
+          "start": 0,
+          "username": "hit2054567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009543347199995961",
+    "in_reply_to_user_id": "1933804631727157248",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009495536332923184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hit2054567 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2009247380236046455",
+        "created_at": "2026-01-09T08:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009543347199995961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933804631727157248",
+              "start": 0,
+              "username": "hit2054567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009543347199995961",
+        "in_reply_to_user_id": "1933804631727157248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009495536332923184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hit2054567 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933804631727157248",
+        "conversation_id": "2009247380236046455",
+        "created_at": "2026-01-09T05:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009495536332923184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009495536332923184",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009247380236046455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我也，好崩溃啊..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 290,
+          "like_count": 14649,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 5122
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T08:32:35.000Z",
+        "description": "笑面教授左位梦女最大浓度是原创oc，oc原创世界观有私设的她｜\n生理女｜心理性别流动非二元\n精神状态不好低精力死宅，三次元男性（男娘也不行，只喜欢小女孩）别来骚扰容易不安，美少女欢迎贴贴✨偶尔有18+内容纯赛博露出癖犯了，雷者慎关",
+        "id": "1933804631727157248",
+        "name": "笑面教授の黑兔先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009217653370703877/xDBHHmtr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 96,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 99
+        },
+        "username": "hit2054567",
+        "verified": false
+      }
+    ]
+  }
+}

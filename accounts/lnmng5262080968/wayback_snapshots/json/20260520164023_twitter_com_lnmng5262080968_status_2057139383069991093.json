@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2057055397584797784",
+    "created_at": "2026-05-20T16:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057139383069991093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683138004075024385",
+          "start": 0,
+          "username": "QmzzmfS36461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057139383069991093",
+    "in_reply_to_user_id": "1683138004075024385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057055397584797784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QmzzmfS36461 有啥好笑的，我说的是wcn。小孩子除非家里特殊有几个天天愁吃饭工作买房子的，多数都是学业和家庭压力吧，不理解你笑啥。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2057055397584797784",
+        "created_at": "2026-05-20T16:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057139383069991093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683138004075024385",
+              "start": 0,
+              "username": "QmzzmfS36461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057139383069991093",
+        "in_reply_to_user_id": "1683138004075024385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057055397584797784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QmzzmfS36461 有啥好笑的，我说的是wcn。小孩子除非家里特殊有几个天天愁吃饭工作买房子的，多数都是学业和家庭压力吧，不理解你笑啥。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683138004075024385",
+        "conversation_id": "2057055397584797784",
+        "created_at": "2026-05-20T11:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057055397584797784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/2056745401823404371",
+              "start": 6,
+              "url": "https://t.co/yVDloyEsMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057055397584797784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056745401823404371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全是笑话 https://t.co/yVDloyEsMW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 314,
+          "like_count": 17595,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 5935
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T15:32:50.000Z",
+        "description": "",
+        "id": "1683138004075024385",
+        "location": "Levallois-Perret, France",
+        "name": "kkkgswedp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982049738338787328/s8VmZOwr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 463,
+          "like_count": 2356,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 617
+        },
+        "username": "QmzzmfS36461",
+        "verified": false
+      }
+    ]
+  }
+}

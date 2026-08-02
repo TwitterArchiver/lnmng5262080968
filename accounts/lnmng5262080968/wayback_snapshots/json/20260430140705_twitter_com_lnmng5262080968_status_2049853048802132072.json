@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2049176614915686486",
+    "created_at": "2026-04-30T14:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049853048802132072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2002479368980090881",
+          "start": 0,
+          "username": "Sevenen0529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049853048802132072",
+    "in_reply_to_user_id": "2002479368980090881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049502116302258669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sevenen0529 对^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2049176614915686486",
+        "created_at": "2026-04-30T14:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049853048802132072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2002479368980090881",
+              "start": 0,
+              "username": "Sevenen0529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049853048802132072",
+        "in_reply_to_user_id": "2002479368980090881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049502116302258669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sevenen0529 对^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002479368980090881",
+        "conversation_id": "2049176614915686486",
+        "created_at": "2026-04-29T14:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049502116302258669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049502116302258669",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049176614915686486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 尼瑪這個病居然還能治好嗎呵呵呵。。我的醫生已經打算建議我去做腦部手術了呃。真的看不慣健人就這樣用抑鬱做標籤然後賣慘或者展現自己的頑強意志力啊好恨。再讓我刷到這種視頻祝願他們得不治之症^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 318,
+          "like_count": 17516,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 5863
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T20:41:12.000Z",
+        "description": "發負能的小號，取關隨意🙇‍♀️",
+        "id": "2002479368980090881",
+        "name": "Aaa破爛褲衩縫補鋪",
+        "pinned_tweet_id": "2029392221393568167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002490833833283584/cNGmgwI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 364,
+          "like_count": 10673,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1231
+        },
+        "username": "Sevenen0529",
+        "verified": false
+      }
+    ]
+  }
+}

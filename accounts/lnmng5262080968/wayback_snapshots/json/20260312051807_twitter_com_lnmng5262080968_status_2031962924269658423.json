@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2030834706774925786",
+    "created_at": "2026-03-12T05:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T06:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031962924269658423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1876826722504769536",
+          "start": 0,
+          "username": "Trevor_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031962924269658423",
+    "in_reply_to_user_id": "1876826722504769536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030918916289986837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trevor_520 老大你也太强了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2030834706774925786",
+        "created_at": "2026-03-12T05:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031962924269658423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1876826722504769536",
+              "start": 0,
+              "username": "Trevor_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031962924269658423",
+        "in_reply_to_user_id": "1876826722504769536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030918916289986837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trevor_520 老大你也太强了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876826722504769536",
+        "conversation_id": "2030834706774925786",
+        "created_at": "2026-03-09T08:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030918916289986837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030918916289986837",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030834706774925786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 人生是动态的，我大学四年全部荒废，刚毕业的时候还浑浑噩噩玩了两年，应届生身份造没了，又是分手又是负债的，几年后还是步入正轨了，总之不用拿别人的尺子量自己，真正需要解决的只有生理上的不适，人的存在本身就是有价值的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "可以叫我凛 ｜世界的独行者",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 305,
+          "like_count": 16305,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 5529
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T03:02:32.000Z",
+        "description": "我上网不是为了看你装逼的",
+        "id": "1876826722504769536",
+        "name": "水下放电",
+        "pinned_tweet_id": "2026705189277712516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028871082875273222/TOrRgznh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 42,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 399
+        },
+        "username": "Trevor_520",
+        "verified": false
+      }
+    ]
+  }
+}

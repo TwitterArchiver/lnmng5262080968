@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1877231971203424403",
+    "created_at": "2025-01-09T15:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T16:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877383757868540049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1245586764837695493",
+          "start": 0,
+          "username": "i0OJoOpG5NuTcjG"
+        },
+        {
+          "end": 27,
+          "id": "1795072631169044480",
+          "start": 17,
+          "username": "KillBasi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877383757868540049",
+    "in_reply_to_user_id": "1245586764837695493",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877383579950280943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i0OJoOpG5NuTcjG @KillBasi1 😢😢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1877231971203424403",
+        "created_at": "2025-01-09T15:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T16:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877383757868540049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1245586764837695493",
+              "start": 0,
+              "username": "i0OJoOpG5NuTcjG"
+            },
+            {
+              "end": 27,
+              "id": "1795072631169044480",
+              "start": 17,
+              "username": "KillBasi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877383757868540049",
+        "in_reply_to_user_id": "1245586764837695493",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877383579950280943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i0OJoOpG5NuTcjG @KillBasi1 😢😢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1245586764837695493",
+        "conversation_id": "1877231971203424403",
+        "created_at": "2025-01-09T15:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T16:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877383579950280943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            },
+            {
+              "end": 27,
+              "id": "1795072631169044480",
+              "start": 17,
+              "username": "KillBasi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877383579950280943",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877284240024387704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 @KillBasi1 点了😿😿😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜已有主人                                                \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友\n🚪38好友位 68聊天 88有朋友圈",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 65,
+          "like_count": 1242,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 236
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-02T05:40:11.000Z",
+        "description": "纯良二次元\n戒o戒割中，希望大家都能幸福地活下去😡🔥👊",
+        "id": "1245586764837695493",
+        "location": "鏡の世界",
+        "name": "柘榴sukisu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721174450366992384/MDgo_P8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 194,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 211
+        },
+        "username": "i0OJoOpG5NuTcjG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "I love Mari🥰 互动小号：@qhqq114514 最喜欢睡觉 | 无性别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "qhqq114514"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "帕拉迪岛",
+        "name": "柏林天使（最強魔劍士",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876932180976562176/FjggBAAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3034,
+          "following_count": 1098,
+          "like_count": 15517,
+          "listed_count": 6,
+          "media_count": 63,
+          "tweet_count": 336
+        },
+        "username": "KillBasi1",
+        "verified": false
+      }
+    ]
+  }
+}

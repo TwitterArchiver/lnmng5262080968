@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1883697125437084040",
+    "created_at": "2025-01-27T02:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T03:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883703922407473552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1590939682568736769",
+          "start": 0,
+          "username": "yybabe0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883703922407473552",
+    "in_reply_to_user_id": "1590939682568736769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883697125437084040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yybabe0 脸上纹身以为是洗脸没洗干净"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1883697125437084040",
+        "created_at": "2025-01-27T02:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T03:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883703922407473552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1590939682568736769",
+              "start": 0,
+              "username": "yybabe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883703922407473552",
+        "in_reply_to_user_id": "1590939682568736769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883697125437084040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yybabe0 脸上纹身以为是洗脸没洗干净"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883697114703937536"
+          ]
+        },
+        "author_id": "1590939682568736769",
+        "conversation_id": "1883697125437084040",
+        "created_at": "2025-01-27T02:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T03:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883697125437084040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdZKoBviPm",
+              "end": 45,
+              "expanded_url": "https://x.com/yybabe0/status/1883697125437084040/photo/1",
+              "media_key": "3_1883697114703937536",
+              "start": 22,
+              "url": "https://t.co/MdZKoBviPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883697125437084040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 769,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山东人纹身是死罪，衮，你们最爱的德州男孩😹 https://t.co/MdZKoBviPm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜我天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 186,
+          "like_count": 3950,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 884
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "养号中🌚勿念💔",
+        "id": "1590939682568736769",
+        "location": "🇦🇺",
+        "name": "私信我自动领取你全家大头照",
+        "pinned_tweet_id": "1883315050678792446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883330114727137280/FwfwYLzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 826,
+          "like_count": 12472,
+          "listed_count": 4,
+          "media_count": 93,
+          "tweet_count": 2797
+        },
+        "username": "yybabe0",
+        "verified": false
+      }
+    ]
+  }
+}

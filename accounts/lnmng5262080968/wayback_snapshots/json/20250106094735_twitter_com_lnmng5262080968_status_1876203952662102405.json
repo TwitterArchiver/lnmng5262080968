@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1875903502884782564",
+    "created_at": "2025-01-06T09:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T10:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876203952662102405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796459448728489984",
+          "start": 0,
+          "username": "Snake_k1ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876203952662102405",
+    "in_reply_to_user_id": "1796459448728489984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875903502884782564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snake_k1ng 这个真的特别特别好喝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1875903502884782564",
+        "created_at": "2025-01-06T09:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T10:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876203952662102405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796459448728489984",
+              "start": 0,
+              "username": "Snake_k1ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876203952662102405",
+        "in_reply_to_user_id": "1796459448728489984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875903502884782564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snake_k1ng 这个真的特别特别好喝！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875903493841825792"
+          ]
+        },
+        "author_id": "1796459448728489984",
+        "conversation_id": "1875903502884782564",
+        "created_at": "2025-01-05T13:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T14:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875903502884782564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xpHhPVFJgq",
+              "end": 51,
+              "expanded_url": "https://x.com/Snake_k1ng/status/1875903502884782564/photo/1",
+              "media_key": "3_1875903493841825792",
+              "start": 28,
+              "url": "https://t.co/xpHhPVFJgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875903502884782564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13449,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一点点这个巨好喝！\n就是这个季节喝一口跟我的尸体一样冷 https://t.co/xpHhPVFJgq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜已有主人                                                \n欢迎来到凛凛的阴暗小世界…\n🚪88好友位 100开放朋友圈",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 35,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 141
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T08:31:47.000Z",
+        "description": "想发什么发什么",
+        "id": "1796459448728489984",
+        "name": "Snake3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840885948961472515/PhmwzsTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 41,
+          "like_count": 1827,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1141
+        },
+        "username": "Snake_k1ng",
+        "verified": false
+      }
+    ]
+  }
+}

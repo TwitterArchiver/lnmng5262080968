@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2048025995119313097",
+    "created_at": "2026-04-27T18:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T19:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048825548202557758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1776155156553621504",
+          "start": 0,
+          "username": "discardr0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048825548202557758",
+    "in_reply_to_user_id": "1776155156553621504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048327214849220628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@discardr0106 在这个数据膨胀的时代算不了什么（摇头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2048025995119313097",
+        "created_at": "2026-04-27T18:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T19:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048825548202557758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776155156553621504",
+              "start": 0,
+              "username": "discardr0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048825548202557758",
+        "in_reply_to_user_id": "1776155156553621504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048327214849220628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@discardr0106 在这个数据膨胀的时代算不了什么（摇头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776155156553621504",
+        "conversation_id": "2048025995119313097",
+        "created_at": "2026-04-26T09:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048327214849220628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048327214849220628",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048025995119313097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 追蹤數很多人，演算法很愛你啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 313,
+          "like_count": 17487,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 5846
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T07:49:34.000Z",
+        "description": "",
+        "id": "1776155156553621504",
+        "name": "r0106",
+        "pinned_tweet_id": "1896569016736768052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896465649997918208/fSw-N76L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 49,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 90
+        },
+        "username": "discardr0106",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2006413289321017720",
+    "created_at": "2026-01-01T10:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T11:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006679609795043334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805042080898551808",
+          "start": 0,
+          "username": "wang_yi72252"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006679609795043334",
+    "in_reply_to_user_id": "1805042080898551808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006669303320657982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_yi72252 我吃的pr感觉还好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2006413289321017720",
+        "created_at": "2026-01-01T10:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006679609795043334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805042080898551808",
+              "start": 0,
+              "username": "wang_yi72252"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006679609795043334",
+        "in_reply_to_user_id": "1805042080898551808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006669303320657982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_yi72252 我吃的pr感觉还好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805042080898551808",
+        "conversation_id": "2006413289321017720",
+        "created_at": "2026-01-01T10:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006669303320657982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006669303320657982",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006413289321017720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 下次吃美莎记得先含一口水再吞药片，每吞一次不要超过4颗，这玩意没有糖衣，干吃能膈应死人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r看看腿 一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 378,
+          "like_count": 15128,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 5042
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T00:58:59.000Z",
+        "description": "有些人已经死了，但他还在剧烈变形",
+        "id": "1805042080898551808",
+        "location": "Mexico, PA",
+        "name": "spring风残躯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983908760776323072/uCddU5D6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 150,
+          "like_count": 3556,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 362
+        },
+        "username": "wang_yi72252",
+        "verified": false
+      }
+    ]
+  }
+}

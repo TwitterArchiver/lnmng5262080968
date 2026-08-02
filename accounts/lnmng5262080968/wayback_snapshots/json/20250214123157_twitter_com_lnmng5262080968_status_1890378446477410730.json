@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1890332866870911170",
+    "created_at": "2025-02-14T12:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T13:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890378446477410730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843607857973047296",
+          "start": 0,
+          "username": "Namidaa02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890378446477410730",
+    "in_reply_to_user_id": "1843607857973047296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890332866870911170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Namidaa02 卡瓦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1890332866870911170",
+        "created_at": "2025-02-14T12:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T13:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890378446477410730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843607857973047296",
+              "start": 0,
+              "username": "Namidaa02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890378446477410730",
+        "in_reply_to_user_id": "1843607857973047296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890332866870911170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Namidaa02 卡瓦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890332857614364674"
+          ]
+        },
+        "author_id": "1843607857973047296",
+        "conversation_id": "1890332866870911170",
+        "created_at": "2025-02-14T09:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T10:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890332866870911170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SwSl5KXRnG",
+              "end": 149,
+              "expanded_url": "https://x.com/Namidaa02/status/1890332866870911170/photo/1",
+              "media_key": "3_1890332857614364674",
+              "start": 126,
+              "url": "https://t.co/SwSl5KXRnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890332866870911170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不如我哋一齊過情人節啦好唔好？\n人哋拖手 我哋可以食煙🚬\n人哋攬攬 我哋可以食煙🚬\n人哋錫錫 我哋可以食煙🚬\n人哋表白 我哋可以食煙🚬\n人哋瞓覺 我哋可以食煙🚬\n人哋食飯 我哋可以食煙🚬\n人哋分手 我哋可以食煙🚬\nSmoking everyday 🚬 https://t.co/SwSl5KXRnG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 237,
+          "like_count": 6137,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1554
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:02:40.000Z",
+        "description": "淚水打濕了信件 而你不在我身邊 永遠追隨@Maorou_K8M🐭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Maorou_K8M"
+              }
+            ]
+          }
+        },
+        "id": "1843607857973047296",
+        "location": "你的心裡",
+        "name": "涙",
+        "pinned_tweet_id": "1878796781708021927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843607988847947778/XUhP47FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 282,
+          "like_count": 13991,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1662
+        },
+        "username": "Namidaa02",
+        "verified": false
+      }
+    ]
+  }
+}

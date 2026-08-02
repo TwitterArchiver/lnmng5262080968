@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1902147444814774623",
+    "created_at": "2025-03-19T00:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T01:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902150518652408030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1813550631879389184",
+          "start": 0,
+          "username": "bw7rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902150518652408030",
+    "in_reply_to_user_id": "1813550631879389184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902147444814774623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bw7rei 宝宝！你好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8607,
+        "height": 1280,
+        "media_key": "7_1902146935559000065",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1902146935559000065/pu/img/xtSeMO78upKxc5jQ.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902146935559000065/pu/vid/avc1/320x568/UYYGK7vBt50JpPkV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902146935559000065/pu/vid/avc1/480x852/aIqhHLQSmzDQ0SmT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902146935559000065/pu/vid/avc1/720x1280/8ZaVtp3loMWHJlvn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1902146935559000065/pu/pl/qyWnjrlTTIkomUkS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1902147444814774623",
+        "created_at": "2025-03-19T00:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T01:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902150518652408030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1813550631879389184",
+              "start": 0,
+              "username": "bw7rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902150518652408030",
+        "in_reply_to_user_id": "1813550631879389184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902147444814774623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bw7rei 宝宝！你好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1902146935559000065"
+          ]
+        },
+        "author_id": "1813550631879389184",
+        "conversation_id": "1902147444814774623",
+        "created_at": "2025-03-18T23:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T00:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902147444814774623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZTxzcJRr2E",
+              "end": 37,
+              "expanded_url": "https://x.com/bw7rei/status/1902147444814774623/video/1",
+              "media_key": "7_1902146935559000065",
+              "start": 14,
+              "url": "https://t.co/ZTxzcJRr2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902147444814774623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有一个纯卖萌的也发发（） https://t.co/ZTxzcJRr2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 347,
+          "like_count": 10246,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2410
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T12:25:53.000Z",
+        "description": "我要你看穿我，不是杀了我",
+        "id": "1813550631879389184",
+        "name": "Internet医学奇迹&萋晞",
+        "pinned_tweet_id": "1867173417952157864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867130640342077441/mBjiBjtg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 52,
+          "like_count": 1071,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 550
+        },
+        "username": "bw7rei",
+        "verified": false
+      }
+    ]
+  }
+}

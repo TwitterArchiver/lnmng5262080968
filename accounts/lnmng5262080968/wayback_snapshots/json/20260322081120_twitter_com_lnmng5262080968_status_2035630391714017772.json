@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2035240234510946628",
+    "created_at": "2026-03-22T08:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035630391714017772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035630391714017772",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035240234510946628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura 命运故意针对。。为什么会这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 253,
+        "media_key": "3_2035240228269826048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6gNFaboAAWi1G.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035240229335085056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6gNJYaMAAqh9h.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035240229234515970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6gNJAboAIPT5X.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035240230224371713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6gNMsboAE5DvL.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2035240234510946628",
+        "created_at": "2026-03-22T08:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035630391714017772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035630391714017772",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035240234510946628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura 命运故意针对。。为什么会这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035240228269826048",
+            "3_2035240229335085056",
+            "3_2035240229234515970",
+            "3_2035240230224371713"
+          ]
+        },
+        "author_id": "764856941151596549",
+        "conversation_id": "2035240234510946628",
+        "created_at": "2026-03-21T06:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035240234510946628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePdq0aOgt6",
+              "end": 74,
+              "expanded_url": "https://x.com/_AkitaYura/status/2035240234510946628/photo/1",
+              "media_key": "3_2035240228269826048",
+              "start": 51,
+              "url": "https://t.co/ePdq0aOgt6"
+            },
+            {
+              "display_url": "pic.x.com/ePdq0aOgt6",
+              "end": 74,
+              "expanded_url": "https://x.com/_AkitaYura/status/2035240234510946628/photo/1",
+              "media_key": "3_2035240229335085056",
+              "start": 51,
+              "url": "https://t.co/ePdq0aOgt6"
+            },
+            {
+              "display_url": "pic.x.com/ePdq0aOgt6",
+              "end": 74,
+              "expanded_url": "https://x.com/_AkitaYura/status/2035240234510946628/photo/1",
+              "media_key": "3_2035240229234515970",
+              "start": 51,
+              "url": "https://t.co/ePdq0aOgt6"
+            },
+            {
+              "display_url": "pic.x.com/ePdq0aOgt6",
+              "end": 74,
+              "expanded_url": "https://x.com/_AkitaYura/status/2035240234510946628/photo/1",
+              "media_key": "3_2035240230224371713",
+              "start": 51,
+              "url": "https://t.co/ePdq0aOgt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035240234510946628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 134719,
+          "like_count": 1474,
+          "quote_count": 12,
+          "reply_count": 53,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "前两天发生的月经弄脏卧铺被索赔的事件的女生，我去搜了一下真的是她，这姐妹也太难了😩都狠狠关注支持她！ https://t.co/ePdq0aOgt6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "逃避现实｜清水推｜52只回口令",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1956203532807496174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 305,
+          "like_count": 16662,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5588
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双🏳‍🌈|喵拉图女爵👑|颜控💅|#银桂 #銀桂 #ginzura\n▫️BFF🐑@Ariesicecream",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "银桂"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "銀桂"
+              },
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "ginzura"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "Ariesicecream"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1990621040578613679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015807718745849856/eDAk5T34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 623,
+          "like_count": 72069,
+          "listed_count": 9,
+          "media_count": 2269,
+          "tweet_count": 18979
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

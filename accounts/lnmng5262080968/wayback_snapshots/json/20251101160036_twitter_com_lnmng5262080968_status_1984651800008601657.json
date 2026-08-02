@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1984534954618065130",
+    "created_at": "2025-11-01T16:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T17:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984651800008601657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948869135833989122",
+          "start": 0,
+          "username": "CarieShepp51778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984651800008601657",
+    "in_reply_to_user_id": "1948869135833989122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984620920015896682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarieShepp51778 原来是友军！差点误伤。啊啊啊是啊都翻墙吐黑泥了还想怎样。。朋友圈发不行抖音不行在哪发都不行。高高在上嘲讽边缘人自己不爱自己是跟别人共用一个大脑吗凭三言两语定义别人🌚还有就是0个人想要这样的傻逼安慰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1984534954618065130",
+        "created_at": "2025-11-01T16:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984651800008601657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948869135833989122",
+              "start": 0,
+              "username": "CarieShepp51778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984651800008601657",
+        "in_reply_to_user_id": "1948869135833989122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984620920015896682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarieShepp51778 原来是友军！差点误伤。啊啊啊是啊都翻墙吐黑泥了还想怎样。。朋友圈发不行抖音不行在哪发都不行。高高在上嘲讽边缘人自己不爱自己是跟别人共用一个大脑吗凭三言两语定义别人🌚还有就是0个人想要这样的傻逼安慰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948869135833989122",
+        "conversation_id": "1984534954618065130",
+        "created_at": "2025-11-01T13:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T14:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984620920015896682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984620920015896682",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984610567576047715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 就是这些爱骂别人发负能量的说影响自己的好心情。人家自己的号发负能量咋了，一个劲地骂骂骂毁自己好心情还美其名曰“你自己都不爱你自己还想要勒索我的情绪价值”自我意识过剩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 373,
+          "like_count": 14397,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 4662
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T22:13:06.000Z",
+        "description": "只会复制粘贴",
+        "id": "1948869135833989122",
+        "location": "North Canton",
+        "name": "何意何意味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973045928279130112/txouKZBs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 250,
+          "like_count": 4740,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 208
+        },
+        "username": "CarieShepp51778",
+        "verified": false
+      }
+    ]
+  }
+}

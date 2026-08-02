@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1909207331818360901",
+    "created_at": "2025-04-08T00:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T01:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909404479830860110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1622511426215755777",
+          "start": 0,
+          "username": "dntuxngjihuxng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909404479830860110",
+    "in_reply_to_user_id": "1622511426215755777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909284110239248516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dntuxngjihuxng1 来来来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1909207331818360901",
+        "created_at": "2025-04-08T00:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T01:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909404479830860110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1622511426215755777",
+              "start": 0,
+              "username": "dntuxngjihuxng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909404479830860110",
+        "in_reply_to_user_id": "1622511426215755777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909284110239248516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dntuxngjihuxng1 来来来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622511426215755777",
+        "conversation_id": "1909207331818360901",
+        "created_at": "2025-04-07T16:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T17:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909284110239248516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909284110239248516",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909207331818360901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 主播可以分点嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 369,
+          "like_count": 11155,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 2733
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T08:24:40.000Z",
+        "description": "",
+        "id": "1622511426215755777",
+        "name": "我是一个低能",
+        "pinned_tweet_id": "1906047918408401239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904964295102025728/mrdxjipZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 472,
+          "like_count": 5101,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 4496
+        },
+        "username": "dntuxngjihuxng1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1997391666974777699",
+    "created_at": "2025-12-07T12:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T13:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997649596403572831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1854926783369691139",
+          "start": 0,
+          "username": "yu120160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997649596403572831",
+    "in_reply_to_user_id": "1854926783369691139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997391666974777699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu120160 很多人上辈子不像人，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1997391666974777699",
+        "created_at": "2025-12-07T12:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T13:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997649596403572831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1854926783369691139",
+              "start": 0,
+              "username": "yu120160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997649596403572831",
+        "in_reply_to_user_id": "1854926783369691139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997391666974777699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu120160 很多人上辈子不像人，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854926783369691139",
+        "conversation_id": "1997391666974777699",
+        "created_at": "2025-12-06T19:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T20:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997391666974777699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997391666974777699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2099,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么大家总在争吵\n好讨厌好讨厌，讨厌对立，讨厌误解，讨厌歧视……\n所有事情都是有原因的，为什么不愿意互相理解呢？\n好好生活下去就已经很不容易了，为什么不能多点善意呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 380,
+          "like_count": 14882,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 4899
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T16:40:16.000Z",
+        "description": "𐙚 ‧₊˚ ⋅ ✝︎少女祈祷中✝︎ ‧₊˚ ⋅  𐙚                                                                              OD💊需要互fo可以戳戳w        非常需要零花钱喜欢我请打赏",
+        "id": "1854926783369691139",
+        "location": "空无一人之地",
+        "name": "xx酱",
+        "pinned_tweet_id": "1993375595292770434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988313851788775424/X395DJHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 98,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 275
+        },
+        "username": "yu120160",
+        "verified": false
+      }
+    ]
+  }
+}

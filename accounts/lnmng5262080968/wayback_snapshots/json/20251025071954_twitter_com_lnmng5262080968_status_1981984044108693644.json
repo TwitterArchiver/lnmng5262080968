@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1981798556727132367",
+    "created_at": "2025-10-25T07:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T08:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981984044108693644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1771754880052715520",
+          "start": 0,
+          "username": "FoolsChasinger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981984044108693644",
+    "in_reply_to_user_id": "1771754880052715520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981976683990380691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoolsChasinger 那东北的北呢😛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1981798556727132367",
+        "created_at": "2025-10-25T07:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T08:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981984044108693644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1771754880052715520",
+              "start": 0,
+              "username": "FoolsChasinger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981984044108693644",
+        "in_reply_to_user_id": "1771754880052715520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981976683990380691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoolsChasinger 那东北的北呢😛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771754880052715520",
+        "conversation_id": "1981798556727132367",
+        "created_at": "2025-10-25T06:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T07:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981976683990380691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981976683990380691",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981798556727132367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 北方也有北京呢，甚至在挂壁地方也能面到（）。\n在华北地区，面了3人，两个都是老乡，顺手的事儿。\n在华东地区，面了3个，有两个是浙江人(祖上)。\n这是全部了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 370,
+          "like_count": 14312,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 4607
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T04:24:37.000Z",
+        "description": "热血元气奋斗逼/一般通过社会人/学习吃饭中 | 烙铁:@PainissimoVae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "PainissimoVae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dl.acm.org",
+                "end": 23,
+                "expanded_url": "https://dl.acm.org/",
+                "start": 0,
+                "url": "https://t.co/6mOYC9pMEA"
+              }
+            ]
+          }
+        },
+        "id": "1771754880052715520",
+        "location": "No such information",
+        "name": "果壳里的君王",
+        "pinned_tweet_id": "1923242028747403595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884181886760804356/ycOyoMJG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 555,
+          "like_count": 49982,
+          "listed_count": 10,
+          "media_count": 2508,
+          "tweet_count": 18067
+        },
+        "url": "https://t.co/6mOYC9pMEA",
+        "username": "FoolsChasinger",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1958037899750130171",
+    "created_at": "2025-08-20T16:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T17:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958199432337379509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1593078755379011584",
+          "start": 0,
+          "username": "emi2005ko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958199432337379509",
+    "in_reply_to_user_id": "1593078755379011584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958175575396450392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emi2005ko 她们都挺好的，只是偶尔我会想起来一些不美好的经历"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1958037899750130171",
+        "created_at": "2025-08-20T16:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T17:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958199432337379509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1593078755379011584",
+              "start": 0,
+              "username": "emi2005ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958199432337379509",
+        "in_reply_to_user_id": "1593078755379011584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958175575396450392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emi2005ko 她们都挺好的，只是偶尔我会想起来一些不美好的经历"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593078755379011584",
+        "conversation_id": "1958037899750130171",
+        "created_at": "2025-08-20T14:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958175575396450392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958175575396450392",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958037899750130171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 不行就别跟他们一起了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 370,
+          "like_count": 13888,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 4285
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T03:09:25.000Z",
+        "description": "本人应该没有什么恋足癖",
+        "id": "1593078755379011584",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "koma",
+        "pinned_tweet_id": "1957698264175935678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957137469717311489/d8UdzUA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 23,
+          "like_count": 7167,
+          "listed_count": 1,
+          "media_count": 559,
+          "tweet_count": 8424
+        },
+        "username": "emi2005ko",
+        "verified": false
+      }
+    ]
+  }
+}

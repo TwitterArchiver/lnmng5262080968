@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1937869720285233551",
+    "created_at": "2025-06-26T01:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T02:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938043759708803419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490543758160527361",
+          "start": 0,
+          "username": "Qiu1647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938043759708803419",
+    "in_reply_to_user_id": "1490543758160527361",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937869720285233551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiu1647 175"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1937869716262973440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuSyPVrXcAAX0xJ.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1937869720285233551",
+        "created_at": "2025-06-26T01:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T02:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938043759708803419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490543758160527361",
+              "start": 0,
+              "username": "Qiu1647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938043759708803419",
+        "in_reply_to_user_id": "1490543758160527361",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937869720285233551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiu1647 175"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937869716262973440"
+          ]
+        },
+        "author_id": "1490543758160527361",
+        "conversation_id": "1937869720285233551",
+        "created_at": "2025-06-25T13:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T14:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937869720285233551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9IqKdpvzCQ",
+              "end": 47,
+              "expanded_url": "https://x.com/Qiu1647/status/1937869720285233551/photo/1",
+              "media_key": "3_1937869716262973440",
+              "start": 24,
+              "url": "https://t.co/9IqKdpvzCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937869720285233551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "178\n有互关想透露自己身高的可以回复一下我🌹 https://t.co/9IqKdpvzCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 368,
+          "like_count": 13722,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 4007
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "男人，精神病患脑子不好，没事找事在老子面前乱叫，直接拉黑。和我互关的话我会理解为想和我做朋友\n(互关可以私我＋v",
+        "id": "1490543758160527361",
+        "location": "在你脑子里面",
+        "name": "PHILLIP.H.U(lip/qiu",
+        "pinned_tweet_id": "1937926048357716427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930243285861502976/JrxNmSPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 1293,
+          "like_count": 31361,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 9851
+        },
+        "username": "Qiu1647",
+        "verified": false
+      }
+    ]
+  }
+}

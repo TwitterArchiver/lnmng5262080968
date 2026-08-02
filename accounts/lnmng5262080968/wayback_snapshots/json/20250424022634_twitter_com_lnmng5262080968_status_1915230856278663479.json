@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1915073340462759985",
+    "created_at": "2025-04-24T02:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T03:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915230856278663479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842423358216142849",
+          "start": 0,
+          "username": "keeganlike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915230856278663479",
+    "in_reply_to_user_id": "1842423358216142849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915073340462759985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keeganlike 对烫伤的渴望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1915073340462759985",
+        "created_at": "2025-04-24T02:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T03:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915230856278663479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842423358216142849",
+              "start": 0,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915230856278663479",
+        "in_reply_to_user_id": "1842423358216142849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915073340462759985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keeganlike 对烫伤的渴望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842423358216142849",
+        "conversation_id": "1915073340462759985",
+        "created_at": "2025-04-23T16:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T17:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915073340462759985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915073340462759985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3886,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都是怎么染上抽烟的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 377,
+          "like_count": 12257,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 3180
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "istp 多云转晴 🫧 小号@paopao152025 只过互关 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "paopao152025"
+              }
+            ]
+          }
+        },
+        "id": "1842423358216142849",
+        "location": "🚪纯绿288",
+        "name": "泡泡",
+        "pinned_tweet_id": "1915062750968975869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911040583637827584/F-_oQaNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10302,
+          "following_count": 516,
+          "like_count": 7516,
+          "listed_count": 8,
+          "media_count": 401,
+          "tweet_count": 9585
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

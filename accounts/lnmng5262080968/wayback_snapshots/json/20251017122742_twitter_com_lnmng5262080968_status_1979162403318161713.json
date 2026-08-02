@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1978122662015627590",
+    "created_at": "2025-10-17T12:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T13:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979162403318161713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1424913204681969666",
+          "start": 0,
+          "username": "czarbobay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979162403318161713",
+    "in_reply_to_user_id": "1424913204681969666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978130928338682220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@czarbobay 不用签三方的喵，只是实习而已，但是我担心对面放鸽子🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1978122662015627590",
+        "created_at": "2025-10-17T12:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979162403318161713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1424913204681969666",
+              "start": 0,
+              "username": "czarbobay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979162403318161713",
+        "in_reply_to_user_id": "1424913204681969666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978130928338682220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@czarbobay 不用签三方的喵，只是实习而已，但是我担心对面放鸽子🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424913204681969666",
+        "conversation_id": "1978122662015627590",
+        "created_at": "2025-10-14T16:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978130928338682220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978130928338682220",
+        "in_reply_to_user_id": "1424913204681969666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978130631381950714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 如果他不给你签三方协议的话，花个几百块钱盖个章，你可以去做你想做的那种实习工作，这样子还可以找好多份不一样的工作，看一下哪个适合你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 371,
+          "like_count": 14212,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 4558
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-10T01:59:28.000Z",
+        "description": "1",
+        "id": "1424913204681969666",
+        "name": "czar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799142411752685568/TZHwABX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 33,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "czarbobay",
+        "verified": false
+      }
+    ]
+  }
+}

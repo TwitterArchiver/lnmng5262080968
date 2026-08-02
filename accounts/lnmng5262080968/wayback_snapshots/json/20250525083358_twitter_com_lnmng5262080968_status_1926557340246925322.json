@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1926220335554203804",
+    "created_at": "2025-05-25T08:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T09:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926557340246925322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824394555904626689",
+          "start": 0,
+          "username": "xiaoxun2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926557340246925322",
+    "in_reply_to_user_id": "1824394555904626689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926220335554203804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxun2007 好可爱www"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7373,
+        "height": 1280,
+        "media_key": "13_1926220271444180993",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1926220271444180993/img/wcCxokR236KS3kHe.jpg",
+        "public_metrics": {
+          "view_count": 1995
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926220271444180993/vid/avc1/320x690/zshumO_kzKZlYaA0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926220271444180993/vid/avc1/480x1036/dOdb68sWTFVv62Gt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926220271444180993/vid/avc1/592x1280/yXogUcq88nPZxJEC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926220271444180993/pl/Y51H3GWS5RzHvluX.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1926220335554203804",
+        "created_at": "2025-05-25T08:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T09:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926557340246925322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824394555904626689",
+              "start": 0,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926557340246925322",
+        "in_reply_to_user_id": "1824394555904626689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926220335554203804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxun2007 好可爱www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926220271444180993"
+          ]
+        },
+        "author_id": "1824394555904626689",
+        "conversation_id": "1926220335554203804",
+        "created_at": "2025-05-24T10:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T11:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926220335554203804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/32i9ag8W9I",
+              "end": 30,
+              "expanded_url": "https://x.com/xiaoxun2007/status/1926220335554203804/video/1",
+              "media_key": "13_1926220271444180993",
+              "start": 7,
+              "url": "https://t.co/32i9ag8W9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926220335554203804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4800,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "直播切片实录 https://t.co/32i9ag8W9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 365,
+          "like_count": 13161,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 3609
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:35:50.000Z",
+        "description": "畅联世界!无广告干扰，机场节点随便挑，蜂鸟 VPN，: https://t.co/PhqYoiKN4A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register",
+                "end": 51,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register",
+                "start": 28,
+                "url": "https://t.co/PhqYoiKN4A"
+              }
+            ]
+          }
+        },
+        "id": "1824394555904626689",
+        "name": "潯",
+        "pinned_tweet_id": "1926518232229286289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824394722246529024/nNDsNPXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 269,
+          "like_count": 1768,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 1056
+        },
+        "username": "xiaoxun2007",
+        "verified": false
+      }
+    ]
+  }
+}

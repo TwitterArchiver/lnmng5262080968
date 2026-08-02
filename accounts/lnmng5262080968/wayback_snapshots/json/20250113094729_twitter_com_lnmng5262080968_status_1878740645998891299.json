@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1878621285384949932",
+    "created_at": "2025-01-13T09:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T10:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878740645998891299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758796570676576256",
+          "start": 0,
+          "username": "nostalgia070807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878740645998891299",
+    "in_reply_to_user_id": "1758796570676576256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878738454961615014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nostalgia070807 😰😰其实我也有想过，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1878621285384949932",
+        "created_at": "2025-01-13T09:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T10:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878740645998891299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758796570676576256",
+              "start": 0,
+              "username": "nostalgia070807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878740645998891299",
+        "in_reply_to_user_id": "1758796570676576256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878738454961615014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nostalgia070807 😰😰其实我也有想过，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758796570676576256",
+        "conversation_id": "1878621285384949932",
+        "created_at": "2025-01-13T09:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T10:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878738454961615014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878738454961615014",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878621285384949932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我咋感觉这是想开你啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜已有主人                                                        \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友\n🚪38好友位48有朋友圈  68聊天",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1878291594681704469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 90,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 317
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T10:12:48.000Z",
+        "description": "Mtf/hrt2024.04.03/07年滴/174cm/高三，物化地/持小证含糖🍥/喜欢摄影，钢琴，地理/互fo/已经是家长党了(^･ｪ･^)",
+        "id": "1758796570676576256",
+        "location": "浙江",
+        "name": "Nostalgia🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1877204288755098092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758797743081021440/6ZmJdqkY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 529,
+          "like_count": 5609,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 593
+        },
+        "username": "nostalgia070807",
+        "verified": false
+      }
+    ]
+  }
+}

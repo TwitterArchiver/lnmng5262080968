@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1984999373793841174",
+    "created_at": "2025-11-03T17:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T18:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985401952575111255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727040684669202432",
+          "start": 0,
+          "username": "Bb1998Bb1998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985401952575111255",
+    "in_reply_to_user_id": "1727040684669202432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985163299881934974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bb1998Bb1998 纯欲女大，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1984999373793841174",
+        "created_at": "2025-11-03T17:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T18:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985401952575111255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727040684669202432",
+              "start": 0,
+              "username": "Bb1998Bb1998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985401952575111255",
+        "in_reply_to_user_id": "1727040684669202432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985163299881934974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bb1998Bb1998 纯欲女大，唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727040684669202432",
+        "conversation_id": "1984999373793841174",
+        "created_at": "2025-11-03T01:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T02:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985163299881934974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985163299881934974",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984999373793841174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 这种人更是该乱棍打死  受不了就滚回墙内 唇珠东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 380,
+          "like_count": 14499,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 4705
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T19:06:13.000Z",
+        "description": "🚪388 有福利 不退门槛 私信只回门槛 没有纸飞机 没有任何其他账号 只有x 注意甄别 被骗别找我🌚 不接推广",
+        "id": "1727040684669202432",
+        "location": "Chengdu",
+        "name": "sand",
+        "pinned_tweet_id": "1944139574357504491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935778556149182465/Kinv5gw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10535,
+          "following_count": 109,
+          "like_count": 653,
+          "listed_count": 40,
+          "media_count": 316,
+          "tweet_count": 1458
+        },
+        "username": "Bb1998Bb1998",
+        "verified": false
+      }
+    ]
+  }
+}

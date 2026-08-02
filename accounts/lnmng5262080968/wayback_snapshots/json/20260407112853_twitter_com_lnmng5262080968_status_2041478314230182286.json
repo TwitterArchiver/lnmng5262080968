@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2041154403495751740",
+    "created_at": "2026-04-07T11:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T12:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041478314230182286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653078335709396992",
+          "start": 0,
+          "username": "tsu8asaAcid"
+        },
+        {
+          "end": 22,
+          "id": "1852135214795100164",
+          "start": 13,
+          "username": "ayameeii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041478314230182286",
+    "in_reply_to_user_id": "1653078335709396992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041154403495751740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsu8asaAcid @ayameeii 我也玩烤！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2041154384931790848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOjGT2XIAAil-L.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041154385011712000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOjGUJaoAAqD-i.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2041154384910864384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOjGTxX0AABppR.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1316,
+        "media_key": "3_2041154385062076416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOjGUVbIAAdSLR.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2041154403495751740",
+        "created_at": "2026-04-07T11:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041478314230182286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653078335709396992",
+              "start": 0,
+              "username": "tsu8asaAcid"
+            },
+            {
+              "end": 22,
+              "id": "1852135214795100164",
+              "start": 13,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041478314230182286",
+        "in_reply_to_user_id": "1653078335709396992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041154403495751740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsu8asaAcid @ayameeii 我也玩烤！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041154384931790848",
+            "3_2041154385011712000",
+            "3_2041154384910864384",
+            "3_2041154385062076416"
+          ]
+        },
+        "author_id": "1653078335709396992",
+        "conversation_id": "2041154403495751740",
+        "created_at": "2026-04-06T14:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041154403495751740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LctwzhASXc",
+              "end": 193,
+              "expanded_url": "https://x.com/tsu8asaAcid/status/2041154403495751740/photo/1",
+              "media_key": "3_2041154384931790848",
+              "start": 170,
+              "url": "https://t.co/LctwzhASXc"
+            },
+            {
+              "display_url": "pic.x.com/LctwzhASXc",
+              "end": 193,
+              "expanded_url": "https://x.com/tsu8asaAcid/status/2041154403495751740/photo/1",
+              "media_key": "3_2041154385011712000",
+              "start": 170,
+              "url": "https://t.co/LctwzhASXc"
+            },
+            {
+              "display_url": "pic.x.com/LctwzhASXc",
+              "end": 193,
+              "expanded_url": "https://x.com/tsu8asaAcid/status/2041154403495751740/photo/1",
+              "media_key": "3_2041154384910864384",
+              "start": 170,
+              "url": "https://t.co/LctwzhASXc"
+            },
+            {
+              "display_url": "pic.x.com/LctwzhASXc",
+              "end": 193,
+              "expanded_url": "https://x.com/tsu8asaAcid/status/2041154403495751740/photo/1",
+              "media_key": "3_2041154385062076416",
+              "start": 170,
+              "url": "https://t.co/LctwzhASXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041154403495751740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "･ﾟ: *✧･ﾟ:*自介･ﾟ: *✧･ﾟ:*\n\ncn翼米  是喜歡日系/蕾系妝容的小女孩（嗯不是地雷系 沒錢買衣服）\n\n非典型地雷女 會po負能量 戒割中！\n烤批一枚 推ena！喜歡日常/樂隊/百合番 \n最近喜歡去僕咖 玩皮克敏 同坑的寶子來聊天！\n有男友啦 喜歡蕾蕾消腫b萌妹子們 來互fo擴列&gt;𖥦&lt;\n\n求互fo們轉推ÒωÓ https://t.co/LctwzhASXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 311,
+          "like_count": 17220,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 5715
+        },
+        "username": "lnmng5262080968",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-01T16:46:14.000Z",
+        "description": "歡迎互fo！地雷/自殘/負能/高二/美術/pjsk/4i",
+        "id": "1653078335709396992",
+        "name": "翼米",
+        "pinned_tweet_id": "2041154403495751740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018699341930930177/PZZIzv-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 239,
+          "like_count": 3666,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 722
+        },
+        "username": "tsu8asaAcid",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 559,
+          "like_count": 9098,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3354
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2037196654324179403",
+    "created_at": "2026-03-26T18:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T19:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037239158239076783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1593905954575171584",
+          "start": 0,
+          "username": "wbsdsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037239158239076783",
+    "in_reply_to_user_id": "1593905954575171584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037225571856638172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbsdsf 生日快乐呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2037196654324179403",
+        "created_at": "2026-03-26T18:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037239158239076783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1593905954575171584",
+              "start": 0,
+              "username": "wbsdsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037239158239076783",
+        "in_reply_to_user_id": "1593905954575171584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037225571856638172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbsdsf 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593905954575171584",
+        "conversation_id": "2037196654324179403",
+        "created_at": "2026-03-26T17:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037225571856638172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037225571856638172",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037196654324179403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 生日快乐，窝也是今天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "逃避现实｜清水推｜52只回口令",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 305,
+          "like_count": 16739,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 5619
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T09:56:15.000Z",
+        "description": "一个纯粹的性压抑郭楠\n仇男仇女仇异性恋仇同性恋仇顺直仇多元仇年上仇年下仇左仇友仇s仇m仇猫仇狗仇小孩仇老人\n埋胸爱好者\n再也不叫妈了因为没人愿意当\n@shbwbclmg 碎碎念小号只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "shbwbclmg"
+              }
+            ]
+          }
+        },
+        "id": "1593905954575171584",
+        "location": "马斯克妈妈的坟墓里",
+        "name": "也许没人认识我",
+        "pinned_tweet_id": "2034683026307961326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978164101701611520/lJ5SMSpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13154,
+          "following_count": 2246,
+          "like_count": 57570,
+          "listed_count": 19,
+          "media_count": 2591,
+          "tweet_count": 25913
+        },
+        "username": "wbsdsf",
+        "verified": false
+      }
+    ]
+  }
+}

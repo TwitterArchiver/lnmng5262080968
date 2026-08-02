@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1897997344320389318",
+    "created_at": "2025-03-08T11:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T12:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898331761618411818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1694068450220744707",
+          "start": 0,
+          "username": "Z_YS26293"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898331761618411818",
+    "in_reply_to_user_id": "1694068450220744707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898272253969940728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z_YS26293 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1897997344320389318",
+        "created_at": "2025-03-08T11:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T12:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898331761618411818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1694068450220744707",
+              "start": 0,
+              "username": "Z_YS26293"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898331761618411818",
+        "in_reply_to_user_id": "1694068450220744707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898272253969940728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z_YS26293 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694068450220744707",
+        "conversation_id": "1897997344320389318",
+        "created_at": "2025-03-08T07:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T08:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898272253969940728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898272253969940728",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897997344320389318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1896772567022911791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 331,
+          "like_count": 9628,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2241
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T19:26:15.000Z",
+        "description": "🇨🇳大学生一名/会玩音游的都是大神/有时会转帖插画/#maimai #Arcaea #CHUNITHM #Phigros #プロセカ/PCR BA HBR 星铁/Bilibili同名/互fo🉑/小号：①bluesky：https://t.co/XjEX0sUhIc  ②@YydS97OwO\n［日语绝赞学习中］",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "maimai"
+              },
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "Arcaea"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "CHUNITHM"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "tag": "Phigros"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 145,
+                "start": 135,
+                "username": "YydS97OwO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ys1230.bsky.social",
+                "end": 132,
+                "expanded_url": "http://ys1230.bsky.social",
+                "start": 109,
+                "url": "https://t.co/XjEX0sUhIc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/2EYEfVr",
+                "end": 23,
+                "expanded_url": "https://b23.tv/2EYEfVr",
+                "start": 0,
+                "url": "https://t.co/31KLSn1fkz"
+              }
+            ]
+          }
+        },
+        "id": "1694068450220744707",
+        "name": "游笙さん",
+        "pinned_tweet_id": "1854553242308686210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 2141,
+          "like_count": 55703,
+          "listed_count": 6,
+          "media_count": 2221,
+          "tweet_count": 20219
+        },
+        "url": "https://t.co/31KLSn1fkz",
+        "username": "Z_YS26293",
+        "verified": false
+      }
+    ]
+  }
+}

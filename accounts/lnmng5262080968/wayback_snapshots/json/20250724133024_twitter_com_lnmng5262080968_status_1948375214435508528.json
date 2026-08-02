@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1948346775435436043",
+    "created_at": "2025-07-24T13:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T14:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948375214435508528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883669403532693504",
+          "start": 0,
+          "username": "_Kochiya_X_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948375214435508528",
+    "in_reply_to_user_id": "1883669403532693504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948346775435436043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Kochiya_X_ 辛苦了喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1948346768992956416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnrEEka8AAxDT6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1948346775435436043",
+        "created_at": "2025-07-24T13:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T14:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948375214435508528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883669403532693504",
+              "start": 0,
+              "username": "_Kochiya_X_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948375214435508528",
+        "in_reply_to_user_id": "1883669403532693504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948346775435436043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Kochiya_X_ 辛苦了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948346768992956416"
+          ]
+        },
+        "author_id": "1883669403532693504",
+        "conversation_id": "1948346775435436043",
+        "created_at": "2025-07-24T11:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T12:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948346775435436043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czS3fQ0YtI",
+              "end": 23,
+              "expanded_url": "https://x.com/_Kochiya_X_/status/1948346775435436043/photo/1",
+              "media_key": "3_1948346768992956416",
+              "start": 0,
+              "url": "https://t.co/czS3fQ0YtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948346775435436043",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/czS3fQ0YtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 我真的很烂很恶心 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 369,
+          "like_count": 13732,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 4157
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T00:12:46.000Z",
+        "description": "住在加拿大、过着相对失败的人生的我... 姑且算是...? 大概在搞一些OC（孩子们）偶尔玩游戏 有种小学生写作文想不到字数的感觉 那就先这样吧 总之请和我做朋友请和我做朋友",
+        "id": "1883669403532693504",
+        "location": "定位失败",
+        "name": "悲剧少女唐唐子",
+        "pinned_tweet_id": "1883671731640185314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883671634017411072/ELR7uAtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 19,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 78
+        },
+        "username": "_Kochiya_X_",
+        "verified": false
+      }
+    ]
+  }
+}

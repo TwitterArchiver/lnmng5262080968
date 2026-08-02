@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2002914903267696681",
+    "created_at": "2026-01-06T19:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T20:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008624762545992108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1813550631879389184",
+          "start": 0,
+          "username": "bw7rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008624762545992108",
+    "in_reply_to_user_id": "1813550631879389184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002914903267696681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bw7rei 萋儿我这个想你😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2002914903267696681",
+        "created_at": "2026-01-06T19:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T20:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008624762545992108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1813550631879389184",
+              "start": 0,
+              "username": "bw7rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008624762545992108",
+        "in_reply_to_user_id": "1813550631879389184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002914903267696681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bw7rei 萋儿我这个想你😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813550631879389184",
+        "conversation_id": "2002914903267696681",
+        "created_at": "2025-12-22T01:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T02:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002914903267696681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002914903267696681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我身边就这样盛产白眼狼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 365,
+          "like_count": 14632,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 5092
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T12:25:53.000Z",
+        "description": "我要你看穿我，不是杀了我",
+        "id": "1813550631879389184",
+        "name": "Internet医学奇迹&萋晞",
+        "pinned_tweet_id": "1978267396075847696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867130640342077441/mBjiBjtg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 50,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 811
+        },
+        "username": "bw7rei",
+        "verified": false
+      }
+    ]
+  }
+}

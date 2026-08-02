@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1847546035180360034",
+    "created_at": "2024-10-19T07:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T08:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1847546035180360034"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1847546035180360034",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "问除割手和od以外的自残方式\n\n割手不会再让我有任何爽快的感觉了，而且以后大概率是当老师。od的话有呕吐恐惧症，实在不想把呕吐物咽下去喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1847546035180360034",
+        "created_at": "2024-10-19T07:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T08:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847546035180360034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847546035180360034",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问除割手和od以外的自残方式\n\n割手不会再让我有任何爽快的感觉了，而且以后大概率是当老师。od的话有呕吐恐惧症，实在不想把呕吐物咽下去喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 40,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

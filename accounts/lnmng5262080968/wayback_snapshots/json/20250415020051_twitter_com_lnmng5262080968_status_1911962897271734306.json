@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1911962897271734306",
+    "created_at": "2025-04-15T02:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T03:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911962897271734306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/in2dkira/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/in2dkira/status/1911862346047426703",
+          "start": 49,
+          "url": "https://t.co/QDB1JRfb02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911962897271734306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911862346047426703",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的钉子摘掉了 嗑药正在慢慢戒 清纯可爱的穿搭和爱笑的性格我正在学 给我点时间 请你不要爱上别人 https://t.co/QDB1JRfb02"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1911962897271734306",
+        "created_at": "2025-04-15T02:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T03:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911962897271734306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/in2dkira/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/in2dkira/status/1911862346047426703",
+              "start": 49,
+              "url": "https://t.co/QDB1JRfb02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911962897271734306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911862346047426703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的钉子摘掉了 嗑药正在慢慢戒 清纯可爱的穿搭和爱笑的性格我正在学 给我点时间 请你不要爱上别人 https://t.co/QDB1JRfb02"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771230355896561664",
+        "conversation_id": "1911862346047426703",
+        "created_at": "2025-04-14T19:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T20:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911862346047426703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realeco_77/sta…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/realeco_77/status/1911702660010352917",
+              "start": 49,
+              "url": "https://t.co/oRJjsieUuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911862346047426703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911702660010352917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的钉子摘掉了 嗑药正在慢慢戒 清纯可爱的穿搭和爱笑的性格我正在学 给我点时间 请你不要爱上别人 https://t.co/oRJjsieUuj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 369,
+          "like_count": 11582,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 2910
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "前@Akira_10190208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Akira_10190208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH6G9I"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904357455104258048/8U1s5amP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 93,
+          "like_count": 3162,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/6QBGLH6G9I",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

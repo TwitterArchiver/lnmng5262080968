@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1987353272345145618",
+    "created_at": "2025-11-10T11:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T12:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987844930149224611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490543758160527361",
+          "start": 0,
+          "username": "Qiu1647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987844930149224611",
+    "in_reply_to_user_id": "1490543758160527361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987353272345145618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiu1647 天呐这就是我👅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1987353272345145618",
+        "created_at": "2025-11-10T11:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T12:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987844930149224611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490543758160527361",
+              "start": 0,
+              "username": "Qiu1647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987844930149224611",
+        "in_reply_to_user_id": "1490543758160527361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987353272345145618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiu1647 天呐这就是我👅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490543758160527361",
+        "conversation_id": "1987353272345145618",
+        "created_at": "2025-11-09T02:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T03:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987353272345145618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987353272345145618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 95689,
+          "like_count": 670,
+          "quote_count": 8,
+          "reply_count": 101,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "会关注那种分享日常，有碎碎念，时不时会抱怨生活中的小事，偶尔会发一点漂亮照片的女推。最好是能回我评论^⁠_⁠^\n\n我觉得这样的账号活人感满满，情感很细腻丰富\n好像是社交媒体上的人给我的形象更立体，生活中没哪个人会和我分享这么多，我也不会和现生中的人说这么多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 381,
+          "like_count": 14550,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 4722
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "蠢货评论我直接毕业。禁止过度解读本人。连赞➕关注是喜欢你^⁠_⁠^。裸照号@novak345171951（熟人可过，不再更新",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "novak345171951"
+              }
+            ]
+          }
+        },
+        "id": "1490543758160527361",
+        "location": "никто не знает",
+        "name": "Philip（p",
+        "pinned_tweet_id": "1971906088422592751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985773139050233858/2ILUQKT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1586,
+          "like_count": 59291,
+          "listed_count": 5,
+          "media_count": 614,
+          "tweet_count": 14796
+        },
+        "username": "Qiu1647",
+        "verified": false
+      }
+    ]
+  }
+}

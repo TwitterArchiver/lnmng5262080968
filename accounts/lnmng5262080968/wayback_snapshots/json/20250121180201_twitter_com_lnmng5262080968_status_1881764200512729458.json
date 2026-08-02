@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881764088747012096"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1881764200512729458",
+    "created_at": "2025-01-21T18:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T19:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881764200512729458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iql8tDkMR4",
+          "end": 72,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1881764200512729458/photo/1",
+          "media_key": "3_1881764088747012096",
+          "start": 49,
+          "url": "https://t.co/iql8tDkMR4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881764200512729458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太苦了，想到以后只能抽这个傻逼苦烟就难受，像我的命一样\n能不能把这个变成蓝带中支，奶香甜甜的多好 https://t.co/iql8tDkMR4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1881764088747012096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh1ed_zaMAAytub.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881764088747012096"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1881764200512729458",
+        "created_at": "2025-01-21T18:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T19:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881764200512729458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iql8tDkMR4",
+              "end": 72,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1881764200512729458/photo/1",
+              "media_key": "3_1881764088747012096",
+              "start": 49,
+              "url": "https://t.co/iql8tDkMR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881764200512729458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太苦了，想到以后只能抽这个傻逼苦烟就难受，像我的命一样\n能不能把这个变成蓝带中支，奶香甜甜的多好 https://t.co/iql8tDkMR4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 145,
+          "like_count": 2980,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 584
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1926177735589695864",
+    "created_at": "2025-05-25T07:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T08:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926539907331129434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911818625369128960",
+          "start": 0,
+          "username": "ORisKiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926539907331129434",
+    "in_reply_to_user_id": "1911818625369128960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926507357434974589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ORisKiki 建议锁死但是已经把门酱踹了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1926177735589695864",
+        "created_at": "2025-05-25T07:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T08:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926539907331129434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911818625369128960",
+              "start": 0,
+              "username": "ORisKiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926539907331129434",
+        "in_reply_to_user_id": "1911818625369128960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926507357434974589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ORisKiki 建议锁死但是已经把门酱踹了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911818625369128960",
+        "conversation_id": "1926177735589695864",
+        "created_at": "2025-05-25T05:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T06:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926507357434974589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926507357434974589",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926177735589695864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 她搞互联网的能力挺强的。每次直播说的话都没几句重样的。但是人确实不行。这边建议还是继续和门酱炒cp吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 365,
+          "like_count": 13149,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 3607
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T16:28:51.000Z",
+        "description": "无知、平庸、淫荡、悲观，这就是我。\n\n此账号用于记录我所有好与不好的内心想法以及生活。\n\n我很喜欢我男朋友BK。",
+        "id": "1911818625369128960",
+        "location": "ORisKiki的女巫扫帚",
+        "name": "Oskiき_7",
+        "pinned_tweet_id": "1916165136785805760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916802122299174912/6uqv64BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 44,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 635
+        },
+        "username": "ORisKiki",
+        "verified": false
+      }
+    ]
+  }
+}

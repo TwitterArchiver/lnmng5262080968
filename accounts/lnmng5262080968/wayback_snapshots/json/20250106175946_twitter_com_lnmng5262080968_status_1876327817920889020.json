@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1876321407585722396",
+    "created_at": "2025-01-06T17:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T18:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876327817920889020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774063407559512064",
+          "start": 0,
+          "username": "lightly_wind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876327817920889020",
+    "in_reply_to_user_id": "1774063407559512064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876325729358754160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lightly_wind 好哦谢谢你…我在努力克服…有时候也会被痛苦压倒，，谢谢你的鼓励，，我会努力站起来的，也希望你做个好梦，晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1876321407585722396",
+        "created_at": "2025-01-06T17:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T18:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876327817920889020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774063407559512064",
+              "start": 0,
+              "username": "lightly_wind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876327817920889020",
+        "in_reply_to_user_id": "1774063407559512064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876325729358754160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightly_wind 好哦谢谢你…我在努力克服…有时候也会被痛苦压倒，，谢谢你的鼓励，，我会努力站起来的，也希望你做个好梦，晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774063407559512064",
+        "conversation_id": "1876321407585722396",
+        "created_at": "2025-01-06T17:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T18:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876325729358754160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876325729358754160",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876321407585722396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 虽然我不支持你伤害自己，但是我尊重你的每一个选择，身边经常会有很多人因为自己的利益伤害到我们，这是很常有的事情，我们能做的就是离这些人远远的。\n至少我不觉得你讨厌，我也不希望你因为别人的过错而伤害自己，是他们的错，不是你的错。生活中有很多坏人，但也有很多好人，还是要乐观一些呀😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜已有主人                                                \n欢迎来到凛凛的阴暗小世界…\n🚪88好友位 100有朋友圈",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 43,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 169
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T13:17:38.000Z",
+        "description": "🇨🇳/来自中国福建/目前日本在住/一个和气的文学青年/法律系本科毕业文科生/努力用语言温暖每一个人/对所有友善的人友善/能接受不同思想观念和立场/反对一切以偏概全的国籍、种族、民族歧视/喜欢二次元，旅游和摄影/不参与谏政⚠️",
+        "id": "1774063407559512064",
+        "location": "异世界，王国都城，上城区",
+        "name": "やさしい風通り",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774063486559207424/dSsXFsSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 138,
+          "like_count": 1265,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 314
+        },
+        "username": "lightly_wind",
+        "verified": false
+      }
+    ]
+  }
+}

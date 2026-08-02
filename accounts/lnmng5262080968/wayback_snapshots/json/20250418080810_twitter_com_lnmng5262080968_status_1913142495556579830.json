@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1913140618341261726",
+    "created_at": "2025-04-18T08:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T09:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913142495556579830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1608271700445265921",
+          "start": 0,
+          "username": "xiaomangguo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913142495556579830",
+    "in_reply_to_user_id": "1608271700445265921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913140618341261726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomangguo8964 抱抱小芒果"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7688,
+        "height": 1280,
+        "media_key": "13_1913140545536598016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1913140545536598016/img/PuEL6tTaV2aEy0fo.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913140545536598016/vid/avc1/320x568/4VJZw3KcUxpHeP28.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913140545536598016/vid/avc1/480x852/WWW1bJydqghQ60HQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913140545536598016/vid/avc1/720x1280/5snlRpyThzcW1tPE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1913140545536598016/pl/nLB_nZLzepGwwSYd.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1913140545737879552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GozXMKoacAAbGRc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1913140618341261726",
+        "created_at": "2025-04-18T08:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T09:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913142495556579830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1608271700445265921",
+              "start": 0,
+              "username": "xiaomangguo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913142495556579830",
+        "in_reply_to_user_id": "1608271700445265921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913140618341261726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomangguo8964 抱抱小芒果"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1913140545536598016",
+            "3_1913140545737879552"
+          ]
+        },
+        "author_id": "1608271700445265921",
+        "conversation_id": "1913140618341261726",
+        "created_at": "2025-04-18T08:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T09:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913140618341261726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cR2olvbzpt",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaomangguo8964/status/1913140618341261726/video/1",
+              "media_key": "13_1913140545536598016",
+              "start": 8,
+              "url": "https://t.co/cR2olvbzpt"
+            },
+            {
+              "display_url": "pic.x.com/cR2olvbzpt",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaomangguo8964/status/1913140618341261726/video/1",
+              "media_key": "3_1913140545737879552",
+              "start": 8,
+              "url": "https://t.co/cR2olvbzpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913140618341261726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气胸了，好痛😢 https://t.co/cR2olvbzpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 372,
+          "like_count": 11873,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 2988
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T01:20:43.000Z",
+        "description": "花と水飴、最終電車。",
+        "id": "1608271700445265921",
+        "location": "新大陆古龙调查团四期团",
+        "name": "小芒果🧊",
+        "pinned_tweet_id": "1847310968046629301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889974320547684352/3V-qU12P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 808,
+          "like_count": 1965,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 607
+        },
+        "username": "xiaomangguo8964",
+        "verified": false
+      }
+    ]
+  }
+}

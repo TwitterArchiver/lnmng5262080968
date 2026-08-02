@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1989341625919959199",
+    "created_at": "2025-11-16T15:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T16:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990084801462739290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1515920862205001732",
+          "start": 0,
+          "username": "cnmdsjdqs"
+        },
+        {
+          "end": 27,
+          "id": "1673478285970518016",
+          "start": 11,
+          "username": "1327144914V3frc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990084801462739290",
+    "in_reply_to_user_id": "1515920862205001732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990074811532337177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnmdsjdqs @1327144914V3frc 小9我想你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1989341625919959199",
+        "created_at": "2025-11-16T15:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990084801462739290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1515920862205001732",
+              "start": 0,
+              "username": "cnmdsjdqs"
+            },
+            {
+              "end": 27,
+              "id": "1673478285970518016",
+              "start": 11,
+              "username": "1327144914V3frc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990084801462739290",
+        "in_reply_to_user_id": "1515920862205001732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990074811532337177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnmdsjdqs @1327144914V3frc 小9我想你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515920862205001732",
+        "conversation_id": "1989341625919959199",
+        "created_at": "2025-11-16T15:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990074811532337177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673478285970518016",
+              "start": 0,
+              "username": "1327144914V3frc"
+            },
+            {
+              "end": 33,
+              "id": "1792011763875184640",
+              "start": 17,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990074811532337177",
+        "in_reply_to_user_id": "1673478285970518016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990043713222148262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1327144914V3frc @lnmng5262080968 不是说蟑螂要人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 380,
+          "like_count": 14556,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 4734
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T05:11:56.000Z",
+        "description": "🉑叫我小玖 如果这个号被封了请移步逃生舱 @11404wa 希特勒梦女？ @Akiscara_3405这是我妈妈 有的人操你妈的，你TM爱看不看没逼着你看，不想看把我拉黑，再骂我的全家都死完🙄滚 欢迎大家匿名提问给我https://t.co/ROzpKPzEwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "11404wa"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "Akiscara_3405"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jiue1014",
+                "end": 131,
+                "expanded_url": "https://ngl.link/jiue1014",
+                "start": 108,
+                "url": "https://t.co/ROzpKPzEwO"
+              }
+            ]
+          }
+        },
+        "id": "1515920862205001732",
+        "location": "🚪88 188 288 520 1314  不退🚪",
+        "name": "玖枙",
+        "pinned_tweet_id": "1919689125059285348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975797595575623681/3O4t-yU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 130,
+          "like_count": 3731,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 1497
+        },
+        "username": "cnmdsjdqs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T23:48:16.000Z",
+        "description": "男！男！男！",
+        "id": "1673478285970518016",
+        "name": "水母大军进攻蚂蚁窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896696762750173184/2vmUE9VV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 78,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 368
+        },
+        "username": "1327144914V3frc",
+        "verified": false
+      }
+    ]
+  }
+}

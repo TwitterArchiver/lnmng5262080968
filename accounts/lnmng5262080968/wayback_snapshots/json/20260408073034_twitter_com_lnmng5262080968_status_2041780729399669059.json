@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2041544279521415448",
+    "created_at": "2026-04-08T07:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T08:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041780729399669059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981174176829603840",
+          "start": 0,
+          "username": "BreezeHarry6703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041780729399669059",
+    "in_reply_to_user_id": "1981174176829603840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041756675057586322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BreezeHarry6703 🌚那我就是下一个莉哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2041544279521415448",
+        "created_at": "2026-04-08T07:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041780729399669059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981174176829603840",
+              "start": 0,
+              "username": "BreezeHarry6703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041780729399669059",
+        "in_reply_to_user_id": "1981174176829603840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041756675057586322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BreezeHarry6703 🌚那我就是下一个莉哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981174176829603840",
+        "conversation_id": "2041544279521415448",
+        "created_at": "2026-04-08T05:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041756675057586322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041756675057586322",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041544279521415448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 有没有兴趣参加中国好声音，感觉烟嗓应该挺有市场的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 311,
+          "like_count": 17237,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 5722
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T01:41:58.000Z",
+        "description": "一个无趣的人",
+        "id": "1981174176829603840",
+        "location": "吾悦广场",
+        "name": "Breeze harry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981174277610102784/ypYgOYji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 93,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "BreezeHarry6703",
+        "verified": false
+      }
+    ]
+  }
+}

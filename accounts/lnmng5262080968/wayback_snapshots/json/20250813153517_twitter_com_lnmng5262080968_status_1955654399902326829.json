@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1955638340499509688",
+    "created_at": "2025-08-13T15:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T16:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955654399902326829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801688874118483969",
+          "start": 0,
+          "username": "beomgyuzzzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955654399902326829",
+    "in_reply_to_user_id": "1801688874118483969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955653202554323005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beomgyuzzzy 有钱人抢占卖惨空间那真正的普通人怎么办，321姐妹们跳😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1955638340499509688",
+        "created_at": "2025-08-13T15:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T16:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955654399902326829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801688874118483969",
+              "start": 0,
+              "username": "beomgyuzzzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955654399902326829",
+        "in_reply_to_user_id": "1801688874118483969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955653202554323005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beomgyuzzzy 有钱人抢占卖惨空间那真正的普通人怎么办，321姐妹们跳😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801688874118483969",
+        "conversation_id": "1955638340499509688",
+        "created_at": "2025-08-13T15:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T16:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955653202554323005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955653202554323005",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955638340499509688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 有钱人卖惨就去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 世界第一 孤僻小透明凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 370,
+          "like_count": 13776,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 4229
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T18:51:22.000Z",
+        "description": "我离开了",
+        "id": "1801688874118483969",
+        "name": "zehAert",
+        "pinned_tweet_id": "1953444963213017196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897235463293034499/nGjwHZpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 75,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 95
+        },
+        "username": "beomgyuzzzy",
+        "verified": false
+      }
+    ]
+  }
+}

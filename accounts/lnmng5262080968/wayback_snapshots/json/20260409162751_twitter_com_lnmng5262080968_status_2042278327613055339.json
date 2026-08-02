@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2041941824168972532",
+    "created_at": "2026-04-09T16:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042278327613055339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2031195446337744897",
+          "start": 0,
+          "username": "zjl205126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042278327613055339",
+    "in_reply_to_user_id": "2031195446337744897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042076635428745282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zjl205126 注意力缺陷啥的，全名忘记了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2041941824168972532",
+        "created_at": "2026-04-09T16:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042278327613055339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2031195446337744897",
+              "start": 0,
+              "username": "zjl205126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042278327613055339",
+        "in_reply_to_user_id": "2031195446337744897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042076635428745282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zjl205126 注意力缺陷啥的，全名忘记了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031195446337744897",
+        "conversation_id": "2041941824168972532",
+        "created_at": "2026-04-09T03:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042076635428745282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042076635428745282",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041941824168972532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 adhd是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 310,
+          "like_count": 17260,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 5734
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T02:28:54.000Z",
+        "description": "",
+        "id": "2031195446337744897",
+        "name": "混子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031195562721378304/gj8zIIY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 167
+        },
+        "username": "zjl205126",
+        "verified": false
+      }
+    ]
+  }
+}

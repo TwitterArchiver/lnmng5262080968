@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2045839800931082376",
+    "created_at": "2026-04-19T15:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045888957272252846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "miss_u_shen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045888957272252846",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045839800931082376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miss_u_shen 理想型"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1868,
+        "media_key": "3_2045839797860900864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRIdPLbIAAMy-j.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2045839800931082376",
+        "created_at": "2026-04-19T15:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045888957272252846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "miss_u_shen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045888957272252846",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045839800931082376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miss_u_shen 理想型"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045839797860900864"
+          ]
+        },
+        "author_id": "1490976522362302465",
+        "conversation_id": "2045839800931082376",
+        "created_at": "2026-04-19T12:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045839800931082376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTkMxv7zwu",
+              "end": 38,
+              "expanded_url": "https://x.com/miss_u_shen/status/2045839800931082376/photo/1",
+              "media_key": "3_2045839797860900864",
+              "start": 15,
+              "url": "https://t.co/lTkMxv7zwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045839800931082376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吉他张本人照片都没有有无懂得 https://t.co/lTkMxv7zwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 310,
+          "like_count": 17379,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 5787
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "“You may know a person and see their face, but you cannot know their heart.”",
+        "id": "1490976522362302465",
+        "location": "ㅤㅤㅤㅤ",
+        "name": "坂本龍一",
+        "pinned_tweet_id": "1882598938395697606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026231673411764224/A7nsKyEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8976,
+          "following_count": 1144,
+          "like_count": 7605,
+          "listed_count": 18,
+          "media_count": 1939,
+          "tweet_count": 14202
+        },
+        "username": "miss_u_shen",
+        "verified": false
+      }
+    ]
+  }
+}

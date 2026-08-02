@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2080348952248062090",
+    "created_at": "2026-07-23T17:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080348952248062090"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080348952248062090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "某人再他妈视奸我死爸死妈死爷爷，死爹死娘死奶奶，姥姥姥爷全都死，一家全部死光光。少他妈用短浅的认知扁平的大脑锐评别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2080348952248062090",
+        "created_at": "2026-07-23T17:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080348952248062090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080348952248062090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某人再他妈视奸我死爸死妈死爷爷，死爹死娘死奶奶，姥姥姥爷全都死，一家全部死光光。少他妈用短浅的认知扁平的大脑锐评别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 311,
+          "like_count": 17852,
+          "listed_count": 5,
+          "media_count": 215,
+          "tweet_count": 6110
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

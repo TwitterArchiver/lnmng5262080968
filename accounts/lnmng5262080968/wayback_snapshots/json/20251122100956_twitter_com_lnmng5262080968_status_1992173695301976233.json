@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-22T10:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992173695301976233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3069811542",
+          "start": 0,
+          "username": "SaberEmyia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992173695301976233",
+    "in_reply_to_user_id": "3069811542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992154234553536523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaberEmyia 你说的没错，我自以为已经稳定了+金钱焦虑步子迈大了，应该一点一点来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T10:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992173695301976233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3069811542",
+              "start": 0,
+              "username": "SaberEmyia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992173695301976233",
+        "in_reply_to_user_id": "3069811542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992154234553536523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaberEmyia 你说的没错，我自以为已经稳定了+金钱焦虑步子迈大了，应该一点一点来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3069811542",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T08:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992154234553536523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992154234553536523",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991846545025810547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 虽然这么说有站着说话不腰疼的嫌疑，但有心理疾病最好还是先治疗到不影响社会活动然后再考虑做什么比较好，不然做什么都很容易疾病加剧然后做不好负反馈严重。我自己的感受来说是这样的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 380,
+          "like_count": 14666,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4793
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-09T13:56:29.000Z",
+        "description": "这是一个神必的人",
+        "id": "3069811542",
+        "location": "Kwun Tong District, Hong Kong",
+        "name": "Dovahkiin773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347850182096867328/sFvJPdoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 126,
+          "like_count": 1717,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 317
+        },
+        "username": "SaberEmyia",
+        "verified": false
+      }
+    ]
+  }
+}

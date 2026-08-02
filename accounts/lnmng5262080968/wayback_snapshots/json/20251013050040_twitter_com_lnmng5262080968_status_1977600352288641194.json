@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1977218818520105402",
+    "created_at": "2025-10-13T05:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T06:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977600352288641194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "973759224273670144",
+          "start": 0,
+          "username": "amaxmadu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977600352288641194",
+    "in_reply_to_user_id": "973759224273670144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977261040879747436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amaxmadu 是啊，但一般别人不会领情的。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1977218818520105402",
+        "created_at": "2025-10-13T05:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977600352288641194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "973759224273670144",
+              "start": 0,
+              "username": "amaxmadu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977600352288641194",
+        "in_reply_to_user_id": "973759224273670144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977261040879747436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amaxmadu 是啊，但一般别人不会领情的。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "973759224273670144",
+        "conversation_id": "1977218818520105402",
+        "created_at": "2025-10-12T06:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977261040879747436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977261040879747436",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977218818520105402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我也舍不得把负面情绪带给身边的人，大多数还是自己处理吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 370,
+          "like_count": 14175,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 4529
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-14T03:14:25.000Z",
+        "description": "和善的家伙/喜欢二次元、喜欢游戏，喜欢东方-喜欢猎奇x喜欢所有东西\n另外可能有点西格玛，排解自己负面情绪的方式是做事，各种有趣的事。",
+        "id": "973759224273670144",
+        "location": "People's Republic of China",
+        "name": "lilist",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959486370705240064/G02siSZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 80,
+          "like_count": 53,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 367
+        },
+        "username": "amaxmadu",
+        "verified": false
+      }
+    ]
+  }
+}

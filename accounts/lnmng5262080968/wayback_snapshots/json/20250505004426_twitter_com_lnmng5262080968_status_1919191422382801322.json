@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1918587439473668272",
+    "created_at": "2025-05-05T00:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T01:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919191422382801322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1554005819649568768",
+          "start": 0,
+          "username": "wingattackqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919191422382801322",
+    "in_reply_to_user_id": "1554005819649568768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919066505150406925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingattackqwq 开心www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1918587439473668272",
+        "created_at": "2025-05-05T00:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T01:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919191422382801322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1554005819649568768",
+              "start": 0,
+              "username": "wingattackqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919191422382801322",
+        "in_reply_to_user_id": "1554005819649568768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919066505150406925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingattackqwq 开心www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554005819649568768",
+        "conversation_id": "1918587439473668272",
+        "created_at": "2025-05-04T16:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T17:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919066505150406925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919066505150406925",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918587439473668272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 佬！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n🚪52r不退 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 377,
+          "like_count": 12667,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 3352
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T07:27:21.000Z",
+        "description": "我很美，你爱怎样怎样👀我没有任何小号，别相信任何冒充我小号的！！！🥺目前没有对象",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/cureflora",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/c/cureflora",
+                "start": 0,
+                "url": "https://t.co/QVGwL1EQKt"
+              }
+            ]
+          }
+        },
+        "id": "1554005819649568768",
+        "location": "枕阳",
+        "name": "小兔姬没有小肚叽🎀（唯一推特账号）",
+        "pinned_tweet_id": "1859965263472668897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566996868976640/69DYcj6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10073,
+          "following_count": 3612,
+          "like_count": 3039,
+          "listed_count": 13,
+          "media_count": 76,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/QVGwL1EQKt",
+        "username": "wingattackqwq",
+        "verified": false
+      }
+    ]
+  }
+}

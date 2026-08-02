@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2014929280720109582",
+    "created_at": "2026-01-25T10:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015367681718059333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830821813804507136",
+          "start": 0,
+          "username": "s00127424338"
+        },
+        {
+          "end": 30,
+          "id": "1580956665842499590",
+          "start": 14,
+          "username": "littlesylvie147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015367681718059333",
+    "in_reply_to_user_id": "1830821813804507136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015321084900626922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s00127424338 @littlesylvie147 对比一下存款就不会心酸了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2014929280720109582",
+        "created_at": "2026-01-25T10:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015367681718059333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830821813804507136",
+              "start": 0,
+              "username": "s00127424338"
+            },
+            {
+              "end": 30,
+              "id": "1580956665842499590",
+              "start": 14,
+              "username": "littlesylvie147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015367681718059333",
+        "in_reply_to_user_id": "1830821813804507136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015321084900626922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s00127424338 @littlesylvie147 对比一下存款就不会心酸了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830821813804507136",
+        "conversation_id": "2014929280720109582",
+        "created_at": "2026-01-25T07:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015321084900626922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1580956665842499590",
+              "start": 0,
+              "username": "littlesylvie147"
+            },
+            {
+              "end": 33,
+              "id": "1792011763875184640",
+              "start": 17,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015321084900626922",
+        "in_reply_to_user_id": "1580956665842499590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015318972040929707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlesylvie147 @lnmng5262080968 这样的人我看他们生活逐渐坠落会感觉很心酸呃😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 300,
+          "like_count": 15195,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5299
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T04:15:17.000Z",
+        "description": "",
+        "id": "1830821813804507136",
+        "name": "しけん🦐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974817162398515200/1v_dL36I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 103,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 98
+        },
+        "username": "s00127424338",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T16:20:24.000Z",
+        "description": "nothing but pony/\neverything and death",
+        "id": "1580956665842499590",
+        "name": "美好的二次元毛绒蛋蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618647222845054978/JfPxsPNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 628,
+          "like_count": 1607,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 146
+        },
+        "username": "littlesylvie147",
+        "verified": false
+      }
+    ]
+  }
+}

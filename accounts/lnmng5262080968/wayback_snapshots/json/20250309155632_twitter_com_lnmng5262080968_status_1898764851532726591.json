@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1898764578856595839",
+    "created_at": "2025-03-09T15:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T16:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898764851532726591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1504799211799265282",
+          "start": 0,
+          "username": "LiuSuK_Arcaea"
+        },
+        {
+          "end": 25,
+          "id": "1898762814342443008",
+          "start": 15,
+          "username": "Rinko_0o0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898764851532726591",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898764717772202014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuSuK_Arcaea @Rinko_0o0 是的差不点号没了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1898764717772202014].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1898764717772202014",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1898764717772202014"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1898764578856595839",
+        "created_at": "2025-03-09T15:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T16:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898764851532726591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK_Arcaea"
+            },
+            {
+              "end": 25,
+              "id": "1898762814342443008",
+              "start": 15,
+              "username": "Rinko_0o0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898764851532726591",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898764717772202014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK_Arcaea @Rinko_0o0 是的差不点号没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1896772567022911791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 1,
+          "like_count": 11,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2278
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "Arknights/崩壊:スターレイル/Arcaea/MaimaiDX/東方Project/ VOCALOID/Galgame/最喜欢的人@yeziyu7777 友跨友同 可以找我交朋友喵 关注@KojikaXiaoLu_ @_FiniteWorld谢谢喵 小号@yufange198964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 69,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "KojikaXiaoLu_"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "yufange198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "网页非常好用！",
+        "name": "☆流苏☆",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894389166021992448/uPFJzVMo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 1499,
+          "like_count": 25175,
+          "listed_count": 8,
+          "media_count": 721,
+          "tweet_count": 15087
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK_Arcaea",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T15:48:38.000Z",
+        "description": "凛分身",
+        "id": "1898762814342443008",
+        "location": "0.1m",
+        "name": "每天都要上天台",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898763007234351104/lK8NlJKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "Rinko_0o0",
+        "verified": false
+      }
+    ]
+  }
+}

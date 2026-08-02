@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914897635644686370",
+    "created_at": "2025-04-23T04:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T05:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914897635644686370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1130077248579465217",
+          "start": 3,
+          "username": "AntonioZore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914897635644686370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914716370102865981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AntonioZore: 好恶心。好恶心。好恶心。\n你的言论真的好恶心。\n相当高高在上了。每个人过得生活都截然不同\n如果真的一点同理心都没有 那么为什么要去评价别人的活法\n言语霸凌。恶心。\n理解不了别人的痛苦反而认为对方在借助痛苦把自己塑造成弱势群体\n如果真的可以幸福…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914897635644686370",
+        "created_at": "2025-04-23T04:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T05:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914897635644686370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1130077248579465217",
+              "start": 3,
+              "username": "AntonioZore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914897635644686370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914716370102865981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AntonioZore: 好恶心。好恶心。好恶心。\n你的言论真的好恶心。\n相当高高在上了。每个人过得生活都截然不同\n如果真的一点同理心都没有 那么为什么要去评价别人的活法\n言语霸凌。恶心。\n理解不了别人的痛苦反而认为对方在借助痛苦把自己塑造成弱势群体\n如果真的可以幸福…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130077248579465217",
+        "conversation_id": "1914716370102865981",
+        "created_at": "2025-04-22T16:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T17:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914716370102865981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914716370102865981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好恶心。好恶心。好恶心。\n你的言论真的好恶心。\n相当高高在上了。每个人过得生活都截然不同\n如果真的一点同理心都没有 那么为什么要去评价别人的活法\n言语霸凌。恶心。\n理解不了别人的痛苦反而认为对方在借助痛苦把自己塑造成弱势群体\n如果真的可以幸福 有的选的话 需要弱势群体形象那一点点好处吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 375,
+          "like_count": 12195,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3159
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-19T11:46:26.000Z",
+        "description": "伪装成讨好型人格也是我补偿性自恋的一种手段",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakusei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakusei",
+                "start": 0,
+                "url": "https://t.co/Jdg9bvkzr7"
+              }
+            ]
+          }
+        },
+        "id": "1130077248579465217",
+        "location": "Kyoto-fu, Japan",
+        "name": "霍星瑶",
+        "pinned_tweet_id": "1913162837381517567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914533838182891520/6DunwCsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 252,
+          "like_count": 17932,
+          "listed_count": 1,
+          "media_count": 820,
+          "tweet_count": 12584
+        },
+        "url": "https://t.co/Jdg9bvkzr7",
+        "username": "AntonioZore",
+        "verified": false
+      }
+    ]
+  }
+}

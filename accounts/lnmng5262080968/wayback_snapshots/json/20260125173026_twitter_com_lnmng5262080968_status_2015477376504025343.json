@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2015191107030962178",
+    "created_at": "2026-01-25T17:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T18:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015477376504025343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002819291087777792",
+          "start": 0,
+          "username": "Yamikawaiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015477376504025343",
+    "in_reply_to_user_id": "2002819291087777792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015191107030962178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamikawaiiiiii 萌过分了吧！像小宝宝一样😻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1466,
+        "height": 1280,
+        "media_key": "13_2015191046699831298",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015191046699831298/img/yBY91pus1lRV7cl_.jpg",
+        "public_metrics": {
+          "view_count": 56
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015191046699831298/vid/avc1/320x568/1NTtnfu2JD_alzLK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015191046699831298/vid/avc1/480x852/N20_Ud6OpBisk4BQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015191046699831298/vid/avc1/720x1280/2nDBWxAj1lGYoCnA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015191046699831298/pl/4YMi8bks6JF3Z8ih.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2015191107030962178",
+        "created_at": "2026-01-25T17:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015477376504025343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002819291087777792",
+              "start": 0,
+              "username": "Yamikawaiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015477376504025343",
+        "in_reply_to_user_id": "2002819291087777792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015191107030962178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamikawaiiiiii 萌过分了吧！像小宝宝一样😻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015191046699831298"
+          ]
+        },
+        "author_id": "2002819291087777792",
+        "conversation_id": "2015191107030962178",
+        "created_at": "2026-01-24T22:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T23:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015191107030962178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T4yTmeQ6mO",
+              "end": 29,
+              "expanded_url": "https://x.com/Yamikawaiiiiii/status/2015191107030962178/video/1",
+              "media_key": "13_2015191046699831298",
+              "start": 6,
+              "url": "https://t.co/T4yTmeQ6mO"
+            },
+            {
+              "display_url": "x.com/yamikawaiiiiii…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/yamikawaiiiiii/status/2015187020252107201",
+              "start": 30,
+              "url": "https://t.co/wTPrjs0qnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015191107030962178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015187020252107201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不吓人了 https://t.co/T4yTmeQ6mO https://t.co/wTPrjs0qnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 300,
+          "like_count": 15223,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5310
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T19:13:21.000Z",
+        "description": "呪 いぬい ひぎょう (;´༎ຶД༎ຶ`)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/rcW1W7a5UT"
+              }
+            ]
+          }
+        },
+        "id": "2002819291087777792",
+        "location": "AntiChrist",
+        "name": "Nitoaa664",
+        "pinned_tweet_id": "2003394134737059967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015431842686730240/5UhpgI5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 124,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/rcW1W7a5UT",
+        "username": "Yamikawaiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

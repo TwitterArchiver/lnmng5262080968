@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2006091089141457026",
+    "created_at": "2025-12-31T19:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T20:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006440595464794567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1652379995883601921",
+          "start": 0,
+          "username": "miaomiao0830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006440595464794567",
+    "in_reply_to_user_id": "1652379995883601921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006091089141457026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomiao0830 彻底对友情失望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2006091089141457026",
+        "created_at": "2025-12-31T19:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T20:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006440595464794567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1652379995883601921",
+              "start": 0,
+              "username": "miaomiao0830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006440595464794567",
+        "in_reply_to_user_id": "1652379995883601921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006091089141457026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomiao0830 彻底对友情失望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652379995883601921",
+        "conversation_id": "2006091089141457026",
+        "created_at": "2025-12-30T19:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T20:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006091089141457026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006091089141457026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5019,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "朋友之间的感情比恋人复杂好多…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r看看腿 一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 378,
+          "like_count": 15142,
+          "listed_count": 4,
+          "media_count": 192,
+          "tweet_count": 5031
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T18:31:34.000Z",
+        "description": "账号主人是一只小猫｜纯绿🚪线上288/线下520一日女友cos委托｜坐标10r｜坐标＋咨询线下50r｜私信只回口令｜喜欢可以投喂让我更好♡｜置顶关评推广自辩",
+        "id": "1652379995883601921",
+        "name": "喵呜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004480569154158592/m18a2taO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12722,
+          "following_count": 360,
+          "like_count": 11981,
+          "listed_count": 20,
+          "media_count": 400,
+          "tweet_count": 8124
+        },
+        "username": "miaomiao0830",
+        "verified": false
+      }
+    ]
+  }
+}

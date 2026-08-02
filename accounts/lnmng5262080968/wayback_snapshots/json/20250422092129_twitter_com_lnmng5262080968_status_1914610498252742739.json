@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914594924919709849",
+    "created_at": "2025-04-22T09:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T10:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914610498252742739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1851122179523690497",
+          "start": 0,
+          "username": "yczy11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914610498252742739",
+    "in_reply_to_user_id": "1851122179523690497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914610140449288210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yczy11 对啊，，，我来这个学校当黑奴没惹任何人😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-22T09:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T10:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914610498252742739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1851122179523690497",
+              "start": 0,
+              "username": "yczy11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914610498252742739",
+        "in_reply_to_user_id": "1851122179523690497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914610140449288210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yczy11 对啊，，，我来这个学校当黑奴没惹任何人😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851122179523690497",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-22T09:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T10:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914610140449288210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914610140449288210",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914594924919709849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 垃圾桶不装垃圾装什么？装她吗？不想干活可以直说，把怨气撒别人身上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 372,
+          "like_count": 12150,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3106
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T04:41:52.000Z",
+        "description": "很正常，可以聊天倾诉倒垃圾\n不嗑药不自残很安全\n负能量很多，性成瘾\n不觉得麻烦的话请互关我",
+        "id": "1851122179523690497",
+        "name": "Δ",
+        "pinned_tweet_id": "1908776099565494579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852464820060344320/3g1_CJ5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 114,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 876
+        },
+        "username": "yczy11",
+        "verified": false
+      }
+    ]
+  }
+}

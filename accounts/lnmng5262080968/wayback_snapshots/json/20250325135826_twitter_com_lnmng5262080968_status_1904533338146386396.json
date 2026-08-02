@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1904522209671987420",
+    "created_at": "2025-03-25T13:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T14:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904533338146386396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752528596718211072",
+          "start": 0,
+          "username": "GotouSugi_Kh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904533338146386396",
+    "in_reply_to_user_id": "1752528596718211072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904530015276179473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GotouSugi_Kh 抱抱！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1904530015276179473].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1904530015276179473",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1904530015276179473"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1904522209671987420",
+        "created_at": "2025-03-25T13:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T14:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904533338146386396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752528596718211072",
+              "start": 0,
+              "username": "GotouSugi_Kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904533338146386396",
+        "in_reply_to_user_id": "1752528596718211072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904530015276179473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GotouSugi_Kh 抱抱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 355,
+          "like_count": 10522,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2536
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:06:13.000Z",
+        "description": "帳戶已（半）停用/09年/初三/原神/崩鐵/納西妲流螢厨/是虫豸/五学家/遠視壬/精神高棉人🇰🇭/永遠愛著可愛的 @Raiden_1927/小號@CharmingFirefly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Raiden_1927"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "CharmingFirefly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kcna.kp/kp",
+                "end": 23,
+                "expanded_url": "http://www.kcna.kp/kp",
+                "start": 0,
+                "url": "https://t.co/FqSpnwSc2O"
+              }
+            ]
+          }
+        },
+        "id": "1752528596718211072",
+        "location": "青瓦台，大韓民國🇰🇷",
+        "name": "⛩️後藤 스기🌸（大考半退網版）",
+        "pinned_tweet_id": "1891130806963142822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845095597038239745/93vRoCpH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1804,
+          "like_count": 24960,
+          "listed_count": 4,
+          "media_count": 853,
+          "tweet_count": 13438
+        },
+        "url": "https://t.co/FqSpnwSc2O",
+        "username": "GotouSugi_Kh",
+        "verified": false
+      }
+    ]
+  }
+}

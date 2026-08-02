@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1945513570424197360",
+    "created_at": "2025-07-17T09:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T10:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945783607521403106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1927217605921644545",
+          "start": 0,
+          "username": "rtsscghl67492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945783607521403106",
+    "in_reply_to_user_id": "1927217605921644545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945635428289450394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rtsscghl67492 对！男生没有责任心就是一坨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1945513570424197360",
+        "created_at": "2025-07-17T09:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945783607521403106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1927217605921644545",
+              "start": 0,
+              "username": "rtsscghl67492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945783607521403106",
+        "in_reply_to_user_id": "1927217605921644545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945635428289450394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rtsscghl67492 对！男生没有责任心就是一坨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927217605921644545",
+        "conversation_id": "1945513570424197360",
+        "created_at": "2025-07-17T00:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T01:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945635428289450394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945635428289450394",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945513570424197360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 感觉他完全没有把自己的所作所为当回事，真的很坏。\n凛凛别太难过,这种朋友不值得我们交际。\n如果手肿的太难受的化，建议用冰袋冷敷一下，会好很多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 364,
+          "like_count": 13649,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 4108
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T04:17:58.000Z",
+        "description": "即使在互联网上依然是个小透明，爱好是私信骚扰😩,请别举报我...",
+        "id": "1927217605921644545",
+        "name": "小千呀",
+        "pinned_tweet_id": "1935231661207113937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930052889751281664/ei4bURbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 89,
+          "like_count": 1312,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 495
+        },
+        "username": "rtsscghl67492",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881038719920332800"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1881038722797588743",
+    "created_at": "2025-01-19T17:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T18:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881038722797588743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L8AlmymhU2",
+          "end": 58,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1881038722797588743/photo/1",
+          "media_key": "3_1881038719920332800",
+          "start": 35,
+          "url": "https://t.co/L8AlmymhU2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881038722797588743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蓝带中支，有股奶香，好抽👍\n还有就是一晚上抽了10根我又迷糊了，好爽 https://t.co/L8AlmymhU2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1881038719920332800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhrKv-WbYAAcXPt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881038719920332800"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "1881038722797588743",
+        "created_at": "2025-01-19T17:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881038722797588743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8AlmymhU2",
+              "end": 58,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1881038722797588743/photo/1",
+              "media_key": "3_1881038719920332800",
+              "start": 35,
+              "url": "https://t.co/L8AlmymhU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881038722797588743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝带中支，有股奶香，好抽👍\n还有就是一晚上抽了10根我又迷糊了，好爽 https://t.co/L8AlmymhU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 132,
+          "like_count": 2640,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 472
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

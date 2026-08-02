@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2006191705247367238",
+    "created_at": "2025-12-31T12:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T13:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006342699088331241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1535674049631617024",
+          "start": 0,
+          "username": "ihateuTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006342699088331241",
+    "in_reply_to_user_id": "1535674049631617024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006191705247367238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ihateuTvT 卧槽还真是，因为没人陪每次到圣诞跨年这几天都特别焦虑，但实际上这只是普通的一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2006191705247367238",
+        "created_at": "2025-12-31T12:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T13:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006342699088331241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1535674049631617024",
+              "start": 0,
+              "username": "ihateuTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006342699088331241",
+        "in_reply_to_user_id": "1535674049631617024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006191705247367238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ihateuTvT 卧槽还真是，因为没人陪每次到圣诞跨年这几天都特别焦虑，但实际上这只是普通的一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535674049631617024",
+        "conversation_id": "2006191705247367238",
+        "created_at": "2025-12-31T02:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T03:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006191705247367238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006191705247367238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 45221,
+          "like_count": 684,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "明明是很普通的一天，偏偏要给它弄个特别的含义，你妈的，2025最后一天，搞这种东西让人感觉格外寂寞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 求打钱 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰                             幸福逼都该死",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 378,
+          "like_count": 15105,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 5015
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T17:23:31.000Z",
+        "description": "我不想被任何人找到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ihateutvt",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ihateutvt",
+                "start": 0,
+                "url": "https://t.co/7PkLi4LGAo"
+              }
+            ]
+          }
+        },
+        "id": "1535674049631617024",
+        "location": "🚪88纯绿/推广自辨",
+        "name": "世界对我太苛刻了",
+        "pinned_tweet_id": "2005583648494633261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004079724977704966/oR-qoZKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 77,
+          "like_count": 5986,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 4304
+        },
+        "url": "https://t.co/7PkLi4LGAo",
+        "username": "ihateuTvT",
+        "verified": false
+      }
+    ]
+  }
+}

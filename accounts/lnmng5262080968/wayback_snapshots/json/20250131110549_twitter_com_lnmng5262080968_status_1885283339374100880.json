@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1885283339374100880",
+    "created_at": "2025-01-31T11:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T12:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885283339374100880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lnmng526208096…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/lnmng5262080968/status/1885194384305705454",
+          "start": 33,
+          "url": "https://t.co/996sTBfU1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885283339374100880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885194384305705454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是抽象文案啊。。。我记得前一阵挺多人发的来着，问约炮的是不傻逼 https://t.co/996sTBfU1c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1885283339374100880",
+        "created_at": "2025-01-31T11:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T12:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885283339374100880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/1885194384305705454",
+              "start": 33,
+              "url": "https://t.co/996sTBfU1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885283339374100880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885194384305705454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是抽象文案啊。。。我记得前一阵挺多人发的来着，问约炮的是不傻逼 https://t.co/996sTBfU1c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1885194384305705454",
+        "created_at": "2025-01-31T05:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T06:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885194384305705454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885194384305705454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3202,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "12年女初中生第一次日常无门槛找炮友\n\n要求：长度5cm以上，一晚上两次以上，我不收费免费的，不要担心费用问题\n请我看电影，我可以在电影院帮口出来，随便摸，我可以穿黑丝，白丝也可以哦，我也可以帮你舔\n结束了一起开房，不用你出钱开房，我给钱就好了，房间你选，可以内射"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 191,
+          "like_count": 4539,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1101
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

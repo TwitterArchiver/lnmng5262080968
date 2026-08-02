@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914559746809717042",
+    "created_at": "2025-04-23T02:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T03:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914864182648037714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1841885528633049088",
+          "start": 0,
+          "username": "hyt_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914864182648037714",
+    "in_reply_to_user_id": "1841885528633049088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914863578437574816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyt_8964 🌚别呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914559746809717042",
+        "created_at": "2025-04-23T02:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T03:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914864182648037714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1841885528633049088",
+              "start": 0,
+              "username": "hyt_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914864182648037714",
+        "in_reply_to_user_id": "1841885528633049088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914863578437574816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyt_8964 🌚别呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841885528633049088",
+        "conversation_id": "1914559746809717042",
+        "created_at": "2025-04-23T02:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T03:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914863578437574816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914863578437574816",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914559746809717042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 兄弟我恨你😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 373,
+          "like_count": 12190,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3151
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T16:58:44.000Z",
+        "description": "@tt_8964 \n当朋友圈发 fo就回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "tt_8964"
+              }
+            ]
+          }
+        },
+        "id": "1841885528633049088",
+        "location": "朝鮮",
+        "name": "羊羊咩煙🍥💕🐾",
+        "pinned_tweet_id": "1887543832759410801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880301896877109248/R47k25JT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 288,
+          "like_count": 7234,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1079
+        },
+        "username": "hyt_8964",
+        "verified": false
+      }
+    ]
+  }
+}

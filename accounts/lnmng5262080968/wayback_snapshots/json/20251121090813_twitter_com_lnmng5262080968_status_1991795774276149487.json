@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1990447626047881654",
+    "created_at": "2025-11-21T09:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T10:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991795774276149487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906733295024656384",
+          "start": 0,
+          "username": "xiao_yi26467"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991795774276149487",
+    "in_reply_to_user_id": "1906733295024656384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991205190737985807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_yi26467 我也没怎么氪但是疯狂吃谷来着。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1990447626047881654",
+        "created_at": "2025-11-21T09:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991795774276149487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906733295024656384",
+              "start": 0,
+              "username": "xiao_yi26467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991795774276149487",
+        "in_reply_to_user_id": "1906733295024656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991205190737985807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_yi26467 我也没怎么氪但是疯狂吃谷来着。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906733295024656384",
+        "conversation_id": "1990447626047881654",
+        "created_at": "2025-11-19T18:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T19:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991205190737985807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991205190737985807",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990447626047881654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 音游没必要吧，我也很喜欢烧烤啤酒，但是从来没氪过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 379,
+          "like_count": 14563,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4749
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T15:40:30.000Z",
+        "description": "南梁/无糖/正常人/正常性取向/无门槛/拒绝骚扰/喜欢打游戏/喜欢我可以私信一起玩呀",
+        "id": "1906733295024656384",
+        "name": "rin凛",
+        "pinned_tweet_id": "1987190283470061612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991202129000701952/WsIIgvSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 221,
+          "like_count": 1967,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 390
+        },
+        "username": "xiao_yi26467",
+        "verified": false
+      }
+    ]
+  }
+}

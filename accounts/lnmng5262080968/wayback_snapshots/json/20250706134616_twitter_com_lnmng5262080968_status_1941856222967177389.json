@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1941488903892136204",
+    "created_at": "2025-07-06T13:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T14:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941856222967177389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1336929446494793728",
+          "start": 0,
+          "username": "fzwwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941856222967177389",
+    "in_reply_to_user_id": "1336929446494793728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941717788642640073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fzwwwwww 那很好了🌚🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1941488903892136204",
+        "created_at": "2025-07-06T13:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941856222967177389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1336929446494793728",
+              "start": 0,
+              "username": "fzwwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941856222967177389",
+        "in_reply_to_user_id": "1336929446494793728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941717788642640073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fzwwwwww 那很好了🌚🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336929446494793728",
+        "conversation_id": "1941488903892136204",
+        "created_at": "2025-07-06T04:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T05:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941717788642640073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941717788642640073",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941713769119318173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 套一句海眠刚发的 有必要的时候歼灭人类🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 367,
+          "like_count": 13678,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 4056
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-10T07:03:23.000Z",
+        "description": "男｜重度妹控｜病娇｜抑郁｜二次元｜喜欢同类｜厌现实｜厌物质化",
+        "id": "1336929446494793728",
+        "location": "Taiwan",
+        "name": "冰羽",
+        "pinned_tweet_id": "1724887316781760908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941855703670607872/mv2msWzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 33,
+          "like_count": 9337,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 968
+        },
+        "username": "fzwwwwww",
+        "verified": false
+      }
+    ]
+  }
+}

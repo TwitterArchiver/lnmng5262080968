@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2080311727733068263",
+    "created_at": "2026-07-23T15:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080311727733068263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/myohane3958/st…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/myohane3958/status/2079966853091516779",
+          "start": 50,
+          "url": "https://t.co/63swD9VlpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080311727733068263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079966853091516779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都他妈哪年的帖子了还在这岁月史书😂是四大丑女排名第四这都能记错按照你话说还是重开吧别污染空气啦👅👅 https://t.co/63swD9VlpZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2080311727733068263",
+        "created_at": "2026-07-23T15:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080311727733068263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/myohane3958/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/myohane3958/status/2079966853091516779",
+              "start": 50,
+              "url": "https://t.co/63swD9VlpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080311727733068263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079966853091516779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都他妈哪年的帖子了还在这岁月史书😂是四大丑女排名第四这都能记错按照你话说还是重开吧别污染空气啦👅👅 https://t.co/63swD9VlpZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048151692861227008",
+        "conversation_id": "2042279476797772011",
+        "created_at": "2026-07-22T16:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079966853091516779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079966853091516779",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042279476797772011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 也是很理解初中同学为啥评选你为十大丑女之首了，不仅脸肿内心也烂的一塌糊涂啊，愿普瑞巴林和躯体化早日战胜你😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "能不能活到明年了",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 311,
+          "like_count": 17834,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 6098
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T21:26:41.000Z",
+        "description": "",
+        "id": "2048151692861227008",
+        "name": "Musou Yohane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048151739778711552/jLD40fW6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "MYohane3958",
+        "verified": false
+      }
+    ]
+  }
+}

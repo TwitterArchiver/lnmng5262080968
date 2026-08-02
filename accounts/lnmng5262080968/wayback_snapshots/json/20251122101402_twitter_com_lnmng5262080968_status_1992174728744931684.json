@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-22T10:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992174728744931684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583811449071480832",
+          "start": 0,
+          "username": "ashen_pulse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992174728744931684",
+    "in_reply_to_user_id": "1583811449071480832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992126470337270014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashen_pulse 对对！不过你的病友很厉害至少可以靠劳动养活自己！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T10:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992174728744931684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583811449071480832",
+              "start": 0,
+              "username": "ashen_pulse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992174728744931684",
+        "in_reply_to_user_id": "1583811449071480832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992126470337270014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashen_pulse 对对！不过你的病友很厉害至少可以靠劳动养活自己！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583811449071480832",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T07:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992126470337270014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992126470337270014",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991846545025810547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 與人相關的工作需要裝作自己沒有精神疾病的去做，真的很累。我身邊的病友一般都是從事體力勞動，一些在工地、或者舉牌打雜甚麼，做日結的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 380,
+          "like_count": 14674,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4799
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T13:24:24.000Z",
+        "description": "",
+        "id": "1583811449071480832",
+        "name": "AshenPulse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583811511751180288/0_HU6wgq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 653,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 151
+        },
+        "username": "ashen_pulse",
+        "verified": false
+      }
+    ]
+  }
+}

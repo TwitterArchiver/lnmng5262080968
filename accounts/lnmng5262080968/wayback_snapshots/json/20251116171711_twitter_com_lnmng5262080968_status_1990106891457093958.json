@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1990046770915865087",
+    "created_at": "2025-11-16T17:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T18:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990106891457093958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyv_zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990106891457093958",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990046770915865087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyv_zero 晚上小心点，会被大姐姐抓走当宠物养👅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1990046763437420544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54Q_NUacAAFDMo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1990046770915865087",
+        "created_at": "2025-11-16T17:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T18:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990106891457093958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyv_zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990106891457093958",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990046770915865087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyv_zero 晚上小心点，会被大姐姐抓走当宠物养👅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990046763437420544"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "1990046770915865087",
+        "created_at": "2025-11-16T13:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990046770915865087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3X5dW6hj5I",
+              "end": 50,
+              "expanded_url": "https://x.com/xiaoyv_zero/status/1990046770915865087/photo/1",
+              "media_key": "3_1990046763437420544",
+              "start": 27,
+              "url": "https://t.co/3X5dW6hj5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990046770915865087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4006,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别人说我出cos男角色一点都不阳刚，我皮下照够阳刚吗 https://t.co/3X5dW6hj5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 380,
+          "like_count": 14561,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 4739
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "16//叫我小雨就好//生理男双性恋//不收🚪想要互关或者加好友请私信然后我看成分//女宝妹子帅哥直接fo🥺//宅//傻13男和部分男娘直接毕业∥一点点抽象//不混厕所//抑郁//偶尔发疯//cos//碎碎念//自伤//电波//好闺蜜@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏小雨",
+        "pinned_tweet_id": "1974121185056338267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987201608393105409/kE_VhTSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 458,
+          "like_count": 4724,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 2509
+        },
+        "username": "xiaoyv_zero",
+        "verified": false
+      }
+    ]
+  }
+}

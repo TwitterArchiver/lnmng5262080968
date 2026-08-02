@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1896240107394666661",
+    "created_at": "2025-03-03T14:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T15:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896566131412123717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1152893917953609728",
+          "start": 0,
+          "username": "MediocreDiary_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896566131412123717",
+    "in_reply_to_user_id": "1152893917953609728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896558218069037300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MediocreDiary_ 是啊啊啊啊啊啊我真绝望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1896240107394666661",
+        "created_at": "2025-03-03T14:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T15:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896566131412123717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1152893917953609728",
+              "start": 0,
+              "username": "MediocreDiary_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896566131412123717",
+        "in_reply_to_user_id": "1152893917953609728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896558218069037300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MediocreDiary_ 是啊啊啊啊啊啊我真绝望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1152893917953609728",
+        "conversation_id": "1896240107394666661",
+        "created_at": "2025-03-03T13:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896558218069037300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896558218069037300",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896240107394666661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 没错，每次上镜看到自己的大饼脸都受不了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 309,
+          "like_count": 8733,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 2070
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-21T10:51:44.000Z",
+        "description": "无性别｜泛性恋｜S｜DOM｜1｜INTP｜Writer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/carmen25632",
+                "end": 23,
+                "expanded_url": "https://ngl.link/carmen25632",
+                "start": 0,
+                "url": "https://t.co/mdoDU730FS"
+              }
+            ]
+          }
+        },
+        "id": "1152893917953609728",
+        "location": "妈妈的子宫里",
+        "name": "碌碌日记",
+        "pinned_tweet_id": "1629542109232463878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774060933587050496/q1qV4ToV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 243,
+          "like_count": 6915,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 995
+        },
+        "url": "https://t.co/mdoDU730FS",
+        "username": "MediocreDiary_",
+        "verified": false
+      }
+    ]
+  }
+}

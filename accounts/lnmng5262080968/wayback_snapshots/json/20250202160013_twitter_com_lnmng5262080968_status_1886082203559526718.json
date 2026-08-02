@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1886074324756681054",
+    "created_at": "2025-02-02T16:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T17:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886082203559526718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775473332248625154",
+          "start": 0,
+          "username": "ww0426237376186"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886082203559526718",
+    "in_reply_to_user_id": "1775473332248625154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886080815307903113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ww0426237376186 好哦谢谢，，呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1886074324756681054",
+        "created_at": "2025-02-02T16:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886082203559526718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775473332248625154",
+              "start": 0,
+              "username": "ww0426237376186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886082203559526718",
+        "in_reply_to_user_id": "1775473332248625154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886080815307903113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww0426237376186 好哦谢谢，，呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775473332248625154",
+        "conversation_id": "1886074324756681054",
+        "created_at": "2025-02-02T15:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T16:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886080815307903113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886080815307903113",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886080425396973738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 有什么难过的事情实在解决不了的话可以跟朋友讲述，或者在被窝里哭出来，会好一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 214,
+          "like_count": 4802,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1197
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T10:40:12.000Z",
+        "description": "马上进入工作模式( ⌯' '⌯)💼\n🚪-5",
+        "id": "1775473332248625154",
+        "name": "チーズ絆創膏",
+        "pinned_tweet_id": "1834445320396439915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880173095706849282/SPkAFVGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 696,
+          "like_count": 5554,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 2645
+        },
+        "username": "ww0426237376186",
+        "verified": false
+      }
+    ]
+  }
+}

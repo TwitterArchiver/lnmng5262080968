@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2006508980953296901",
+    "created_at": "2026-01-01T07:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T08:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006626909325767103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920308340737126400",
+          "start": 0,
+          "username": "fusedjiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006626909325767103",
+    "in_reply_to_user_id": "1920308340737126400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006508980953296901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fusedjiii 妈妈级别"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2006508967216689152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9iNRlWWMAA6K9m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2006508980953296901",
+        "created_at": "2026-01-01T07:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006626909325767103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920308340737126400",
+              "start": 0,
+              "username": "fusedjiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006626909325767103",
+        "in_reply_to_user_id": "1920308340737126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006508980953296901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusedjiii 妈妈级别"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006508967216689152"
+          ]
+        },
+        "author_id": "1920308340737126400",
+        "conversation_id": "2006508980953296901",
+        "created_at": "2025-12-31T23:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T00:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006508980953296901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X4CSTQEEG0",
+              "end": 36,
+              "expanded_url": "https://x.com/fusedjiii/status/2006508980953296901/photo/1",
+              "media_key": "3_2006508967216689152",
+              "start": 13,
+              "url": "https://t.co/X4CSTQEEG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006508980953296901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 3984,
+          "like_count": 329,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "上帝什么时候赦免我的罪行 https://t.co/X4CSTQEEG0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r看看腿 一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 378,
+          "like_count": 15137,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 5035
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "一般路过门槛妹。问坐标10R/过门业务陪聊/Cos定制/疤痕身材照片定制/接纯绿线下。会很爱你们的。药物咨询/神必物质请私信。",
+        "id": "1920308340737126400",
+        "location": "🚪128/288/520/1314",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1994016765752549629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002426842415050753/RwNkXDQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8937,
+          "following_count": 169,
+          "like_count": 908,
+          "listed_count": 15,
+          "media_count": 160,
+          "tweet_count": 2312
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

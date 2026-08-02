@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914594924919709849",
+    "created_at": "2025-04-22T09:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T10:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914610302231908357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664320819995066378",
+          "start": 0,
+          "username": "YuanCCWindowsXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914610302231908357",
+    "in_reply_to_user_id": "1664320819995066378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914604652181799153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuanCCWindowsXP 呜呜呜你给她扔出去吧我好难过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-22T09:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T10:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914610302231908357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664320819995066378",
+              "start": 0,
+              "username": "YuanCCWindowsXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914610302231908357",
+        "in_reply_to_user_id": "1664320819995066378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914604652181799153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuanCCWindowsXP 呜呜呜你给她扔出去吧我好难过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664320819995066378",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-22T08:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T09:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914604652181799153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914604652181799153",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914594924919709849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 在遇到下次找我我给那大姨扛着扔进去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 372,
+          "like_count": 12149,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3104
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T17:20:14.000Z",
+        "description": "所有的决定，\n到头来并非真正选择了哪一种幸福，\n而更像是，\n选择究竟宁愿受哪一种苦。\n——《断代》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yingjiesheng.com",
+                "end": 23,
+                "expanded_url": "http://www.yingjiesheng.com/",
+                "start": 0,
+                "url": "https://t.co/oDlw5WStiB"
+              }
+            ]
+          }
+        },
+        "id": "1664320819995066378",
+        "location": "枫糖的夜宫",
+        "name": "鸢（Sigma伦敦精神病人版）",
+        "pinned_tweet_id": "1912175265733902346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913998424594395136/tYrPmUIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 449,
+          "like_count": 4037,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1649
+        },
+        "url": "https://t.co/oDlw5WStiB",
+        "username": "YuanCCWindowsXP",
+        "verified": false
+      }
+    ]
+  }
+}

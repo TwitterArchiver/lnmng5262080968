@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1938559315050148026",
+    "created_at": "2025-06-27T11:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T12:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938564128165314935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "KillMuisto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938564128165314935",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938559315050148026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillMuisto 女王。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1938559277758603265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuclZGbW4AEOHJv.jpg",
+        "width": 1949
+      },
+      {
+        "height": 1779,
+        "media_key": "3_1938559277762830336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuclZGcXYAAcxsn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1938559315050148026",
+        "created_at": "2025-06-27T11:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938564128165314935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "KillMuisto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938564128165314935",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938559315050148026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillMuisto 女王。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938559277758603265",
+            "3_1938559277762830336"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1938559315050148026",
+        "created_at": "2025-06-27T11:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938559315050148026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jp8PDS7UBA",
+              "end": 23,
+              "expanded_url": "https://x.com/KillMuisto/status/1938559315050148026/photo/1",
+              "media_key": "3_1938559277758603265",
+              "start": 0,
+              "url": "https://t.co/jp8PDS7UBA"
+            },
+            {
+              "display_url": "pic.x.com/jp8PDS7UBA",
+              "end": 23,
+              "expanded_url": "https://x.com/KillMuisto/status/1938559315050148026/photo/1",
+              "media_key": "3_1938559277762830336",
+              "start": 0,
+              "url": "https://t.co/jp8PDS7UBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938559315050148026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jp8PDS7UBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 368,
+          "like_count": 13674,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 4024
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "五號淘汰王時行",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937877714578374656/Okl0tsfp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 248,
+          "like_count": 28461,
+          "listed_count": 13,
+          "media_count": 152,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "KillMuisto",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1890768421836435835",
+    "created_at": "2025-02-15T14:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T15:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890772961151385794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1578513064088854529",
+          "start": 0,
+          "username": "pl1voti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890772961151385794",
+    "in_reply_to_user_id": "1578513064088854529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890769602692423922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pl1voti 宝宝😭🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1890768421836435835",
+        "created_at": "2025-02-15T14:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T15:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890772961151385794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1578513064088854529",
+              "start": 0,
+              "username": "pl1voti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890772961151385794",
+        "in_reply_to_user_id": "1578513064088854529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890769602692423922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pl1voti 宝宝😭🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578513064088854529",
+        "conversation_id": "1890768421836435835",
+        "created_at": "2025-02-15T14:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T15:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890769602692423922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890769602692423922",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890768421836435835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 美晕宝宝。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 241,
+          "like_count": 6234,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1575
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T22:30:29.000Z",
+        "description": "Les｜美东大学在读｜🏳️‍⚧️ISFJ｜無言フォロー失礼します",
+        "id": "1578513064088854529",
+        "location": "United States",
+        "name": "Ann",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873745276399423488/wB2fO0ap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 202,
+          "like_count": 1688,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 84
+        },
+        "username": "pl1voti",
+        "verified": false
+      }
+    ]
+  }
+}

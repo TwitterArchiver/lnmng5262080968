@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1976691018071523578",
+    "created_at": "2025-10-12T03:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T04:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977216603721974157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1889969175810154496",
+          "start": 0,
+          "username": "XuanOuO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977216603721974157",
+    "in_reply_to_user_id": "1889969175810154496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977098791573680261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuanOuO_ 阿门，我有什么坏心思呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1976691018071523578",
+        "created_at": "2025-10-12T03:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T04:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977216603721974157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1889969175810154496",
+              "start": 0,
+              "username": "XuanOuO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977216603721974157",
+        "in_reply_to_user_id": "1889969175810154496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977098791573680261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuanOuO_ 阿门，我有什么坏心思呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889969175810154496",
+        "conversation_id": "1976691018071523578",
+        "created_at": "2025-10-11T19:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T20:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977098791573680261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977098791573680261",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976691018071523578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 花刀都改十字架的人能有什么坏心思👿👿摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 369,
+          "like_count": 14157,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 4515
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T09:25:53.000Z",
+        "description": "07 ip广东 先看置顶 购买原味加QQ:721728923 唯一电报: https://t.co/o0ydmIYMqy 每天会健身 发发日常/足照 \n-我的忠犬:@SmithSherl17697",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 82,
+                "username": "SmithSherl17697"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xuan_orz",
+                "end": 60,
+                "expanded_url": "https://t.me/xuan_orz",
+                "start": 37,
+                "url": "https://t.co/o0ydmIYMqy"
+              }
+            ]
+          }
+        },
+        "id": "1889969175810154496",
+        "name": "泫泫的原味事务所",
+        "pinned_tweet_id": "1959635631061283223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967966733068800008/fjBcZU-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 14,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 126
+        },
+        "username": "XuanOuO_",
+        "verified": false
+      }
+    ]
+  }
+}

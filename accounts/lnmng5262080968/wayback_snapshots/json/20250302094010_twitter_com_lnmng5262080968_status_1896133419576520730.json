@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1896107063983616480",
+    "created_at": "2025-03-02T09:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T10:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896133419576520730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847887611320553472",
+          "start": 0,
+          "username": "Justice78583670"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896133419576520730",
+    "in_reply_to_user_id": "1847887611320553472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896132473689674072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Justice78583670 作文可以写属性图吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1896107063983616480",
+        "created_at": "2025-03-02T09:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T10:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896133419576520730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847887611320553472",
+              "start": 0,
+              "username": "Justice78583670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896133419576520730",
+        "in_reply_to_user_id": "1847887611320553472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896132473689674072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Justice78583670 作文可以写属性图吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847887611320553472",
+        "conversation_id": "1896107063983616480",
+        "created_at": "2025-03-02T09:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T10:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896132473689674072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896132473689674072",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896107063983616480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 应该写QQ号的😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 301,
+          "like_count": 8323,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 2015
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T06:28:43.000Z",
+        "description": "高中生/异性恋/养了两只蓝猫/看情况互fo/Switch/男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/d5hMMYYCXN"
+              }
+            ]
+          }
+        },
+        "id": "1847887611320553472",
+        "location": "Vancouver, British Columbia",
+        "name": "June",
+        "pinned_tweet_id": "1894332643056988458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895667497061195776/FRFzUFTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 317,
+          "like_count": 5572,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 654
+        },
+        "url": "https://t.co/d5hMMYYCXN",
+        "username": "Justice78583670",
+        "verified": false
+      }
+    ]
+  }
+}

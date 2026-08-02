@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1893700045720965572",
+    "created_at": "2025-02-23T16:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T17:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893706467426844832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719492702683959296",
+          "start": 0,
+          "username": "DuckOne1018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893706467426844832",
+    "in_reply_to_user_id": "1719492702683959296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893706261989879965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuckOne1018 嗯嗯好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1893700045720965572",
+        "created_at": "2025-02-23T16:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T17:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893706467426844832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719492702683959296",
+              "start": 0,
+              "username": "DuckOne1018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893706467426844832",
+        "in_reply_to_user_id": "1719492702683959296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893706261989879965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuckOne1018 嗯嗯好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719492702683959296",
+        "conversation_id": "1893700045720965572",
+        "created_at": "2025-02-23T16:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T17:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893706261989879965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893706261989879965",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893700045720965572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 🥺好好休息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 291,
+          "like_count": 7376,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1812
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T23:13:20.000Z",
+        "description": "风摇动着丁香，怯弱或粗野\n（经常性淡推，偶尔性诈尸）\n某过气男大，喜欢文学|音乐|诗歌|摄影|无线电|钢笔|改装车|↙️|友🏳️‍⚧️|包容性极强|梦想是拥有自己的改装hiace\n欢迎互fo！请与我交朋友吧！",
+        "id": "1719492702683959296",
+        "location": "附近5km",
+        "name": "DuckOne",
+        "pinned_tweet_id": "1887858325964128428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892970802456449024/PkisowQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 287,
+          "like_count": 9322,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 899
+        },
+        "username": "DuckOne1018",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2063231923372339341",
+    "created_at": "2026-06-07T07:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063523175544332761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1500996020729114625",
+          "start": 0,
+          "username": "killua087z"
+        },
+        {
+          "end": 22,
+          "id": "1814307458636279808",
+          "start": 12,
+          "username": "linchi086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063523175544332761",
+    "in_reply_to_user_id": "1500996020729114625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063297292078321781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@killua087z @linchi086 其实很爽很上头💪💪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2063231923372339341",
+        "created_at": "2026-06-07T07:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063523175544332761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1500996020729114625",
+              "start": 0,
+              "username": "killua087z"
+            },
+            {
+              "end": 22,
+              "id": "1814307458636279808",
+              "start": 12,
+              "username": "linchi086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063523175544332761",
+        "in_reply_to_user_id": "1500996020729114625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063297292078321781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@killua087z @linchi086 其实很爽很上头💪💪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500996020729114625",
+        "conversation_id": "2063231923372339341",
+        "created_at": "2026-06-06T16:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063297292078321781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1814307458636279808",
+              "start": 0,
+              "username": "linchi086"
+            },
+            {
+              "end": 27,
+              "id": "1792011763875184640",
+              "start": 11,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063297292078321781",
+        "in_reply_to_user_id": "1814307458636279808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063296360393388267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linchi086 @lnmng5262080968 佐匹吃完第二天醒来嘴里苦到爆炸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 319,
+          "like_count": 17725,
+          "listed_count": 5,
+          "media_count": 209,
+          "tweet_count": 5986
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T00:45:33.000Z",
+        "description": "",
+        "id": "1500996020729114625",
+        "location": "艺术就是爆炸！",
+        "name": "总是在掉生命值",
+        "pinned_tweet_id": "2051514762014662948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060325366703833088/3IPmWBei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 66,
+          "like_count": 3983,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 1810
+        },
+        "username": "killua087z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T14:33:11.000Z",
+        "description": "",
+        "id": "1814307458636279808",
+        "location": "成都",
+        "name": "菠萝小猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888488057953017856/BVLJAbdn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 28,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 128
+        },
+        "username": "linchi086",
+        "verified": false
+      }
+    ]
+  }
+}

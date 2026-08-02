@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1953030746589020250",
+    "created_at": "2025-08-08T10:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T11:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953758332214239564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1691437463905124352",
+          "start": 0,
+          "username": "Amor177sir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953758332214239564",
+    "in_reply_to_user_id": "1691437463905124352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953658445938188614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amor177sir 就是很逆天的人？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1953030746589020250",
+        "created_at": "2025-08-08T10:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953758332214239564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1691437463905124352",
+              "start": 0,
+              "username": "Amor177sir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953758332214239564",
+        "in_reply_to_user_id": "1691437463905124352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953658445938188614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amor177sir 就是很逆天的人？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691437463905124352",
+        "conversation_id": "1953030746589020250",
+        "created_at": "2025-08-08T03:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T04:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953658445938188614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953658445938188614",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953030746589020250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 所以顺直是什么意思啊🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 世界第一 孤僻小透明凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 370,
+          "like_count": 13718,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 4202
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T13:11:50.000Z",
+        "description": "你好，我是兔山177，欢迎光临",
+        "id": "1691437463905124352",
+        "location": "10000000km",
+        "name": "兔山177",
+        "pinned_tweet_id": "1938516900193227170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951600291083866112/D2tDvXeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 338,
+          "like_count": 14485,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1661
+        },
+        "username": "Amor177sir",
+        "verified": false
+      }
+    ]
+  }
+}

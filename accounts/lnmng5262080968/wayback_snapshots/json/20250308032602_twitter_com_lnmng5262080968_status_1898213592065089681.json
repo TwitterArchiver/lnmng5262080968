@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1897997344320389318",
+    "created_at": "2025-03-08T03:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T04:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898213592065089681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1591801675836051456",
+          "start": 0,
+          "username": "kyuutaku_kari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898213592065089681",
+    "in_reply_to_user_id": "1591801675836051456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898207850255790111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyuutaku_kari 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1897997344320389318",
+        "created_at": "2025-03-08T03:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T04:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898213592065089681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1591801675836051456",
+              "start": 0,
+              "username": "kyuutaku_kari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898213592065089681",
+        "in_reply_to_user_id": "1591801675836051456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898207850255790111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyuutaku_kari 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591801675836051456",
+        "conversation_id": "1897997344320389318",
+        "created_at": "2025-03-08T03:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T04:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898207850255790111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898207850255790111",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897997344320389318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 生日快乐捏🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1896772567022911791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 330,
+          "like_count": 9617,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2231
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T14:34:36.000Z",
+        "description": "🌙 夜型人間、音楽と星空が好き/07年9.19/高校3年生（大学入試対策ver.）/重度性別認同障礙🥺🏳️‍⚧️/简体or繁體中文/日本語/English/小雨と呼んでもいいです🥳/喜歡國學☯️與修仙/愛攝影📷/古風愛好者/怕疼嗚嗚嗚/互fo捏/",
+        "id": "1591801675836051456",
+        "location": "一處洞天福地",
+        "name": "ほしのしずく🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885942896396029952/FV6QT4Io_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 137,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "username": "kyuutaku_kari",
+        "verified": false
+      }
+    ]
+  }
+}

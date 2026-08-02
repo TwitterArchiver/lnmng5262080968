@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1896302967311274376",
+    "created_at": "2025-03-03T15:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T16:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896584041308230002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531971331902050304",
+          "start": 0,
+          "username": "Liangbuxiangchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896584041308230002",
+    "in_reply_to_user_id": "1531971331902050304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896302967311274376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liangbuxiangchi 美神降临"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13908,
+        "height": 1280,
+        "media_key": "7_1896302943600816128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1896302943600816128/pu/img/37PKpsOxms4nJZ4m.jpg",
+        "public_metrics": {
+          "view_count": 928
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896302943600816128/pu/vid/avc1/320x568/V_JSAddP0wRDz5c2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896302943600816128/pu/vid/avc1/480x852/RlzNLa9dQswtQdJm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896302943600816128/pu/vid/avc1/720x1280/MEcvXbyFHPhvYwOm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1896302943600816128/pu/pl/bZC2eE1BCMbe2DtN.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1896302967311274376",
+        "created_at": "2025-03-03T15:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T16:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896584041308230002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531971331902050304",
+              "start": 0,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896584041308230002",
+        "in_reply_to_user_id": "1531971331902050304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896302967311274376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangbuxiangchi 美神降临"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1896302943600816128"
+          ]
+        },
+        "author_id": "1531971331902050304",
+        "conversation_id": "1896302967311274376",
+        "created_at": "2025-03-02T20:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T21:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896302967311274376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yQqi51Jvg",
+              "end": 108,
+              "expanded_url": "https://x.com/Liangbuxiangchi/status/1896302967311274376/video/1",
+              "media_key": "7_1896302943600816128",
+              "start": 85,
+              "url": "https://t.co/0yQqi51Jvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896302967311274376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2194,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我变得嗜血了😒😒好想……喝血😱😱😱盼乌归，透眼谁，向日葵铃兰枯萎🥀，三颗红星两颗碎💔。当瓷退，瓷兔悲，核污水霓虹无罪🥺。踹门美，红茶飞，拿白颜料的是谁😡🤬蝴蝶兰快快回😭 https://t.co/0yQqi51Jvg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 309,
+          "like_count": 8785,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2075
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:10:13.000Z",
+        "description": "茂名神人一个 不互推互转",
+        "id": "1531971331902050304",
+        "location": "🚪100纯绿",
+        "name": "这是我的义肢",
+        "pinned_tweet_id": "1864953513509556548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856607186224590849/b1VZP-gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5206,
+          "following_count": 1357,
+          "like_count": 31954,
+          "listed_count": 6,
+          "media_count": 849,
+          "tweet_count": 7867
+        },
+        "username": "Liangbuxiangchi",
+        "verified": false
+      }
+    ]
+  }
+}

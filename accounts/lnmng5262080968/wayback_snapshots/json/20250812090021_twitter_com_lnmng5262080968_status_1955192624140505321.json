@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1954667432733507741",
+    "created_at": "2025-08-12T09:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T10:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955192624140505321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1684934204499402753",
+          "start": 0,
+          "username": "117_pst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955192624140505321",
+    "in_reply_to_user_id": "1684934204499402753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954667432733507741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@117_pst 支持小帕我爱萌妹子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1954667432733507741",
+        "created_at": "2025-08-12T09:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T10:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955192624140505321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1684934204499402753",
+              "start": 0,
+              "username": "117_pst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955192624140505321",
+        "in_reply_to_user_id": "1684934204499402753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954667432733507741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@117_pst 支持小帕我爱萌妹子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684934204499402753",
+        "conversation_id": "1954667432733507741",
+        "created_at": "2025-08-10T22:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T23:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954667432733507741"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "小帕"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954667432733507741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 28857,
+          "like_count": 206,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#小帕 我一共只谈过两次恋爱。那些视频，是在吵架时被发出来的。我17岁，还在学着怎么和世界相处，也会犯错，但错误不是你们编造谎言的理由。\n真相不会因为被污蔑而改变”，可人心却容易被谣言带走。我只是想活得真实一点，不被虚构的故事吞没。请你们看见我，而不是你们想象的那个人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 世界第一 孤僻小透明凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 370,
+          "like_count": 13727,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 4213
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T14:29:54.000Z",
+        "description": "🚪52仅好友位无其他 Nadie Me Espera en Este Lugar不卖不线下不卖图包不聊骚只有一个账号别的是骗子",
+        "id": "1684934204499402753",
+        "name": "圈钱女鬼一枚",
+        "pinned_tweet_id": "1907384056100352035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926208286048522241/p49GoMxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8325,
+          "following_count": 93,
+          "like_count": 818,
+          "listed_count": 5,
+          "media_count": 343,
+          "tweet_count": 1332
+        },
+        "username": "117_pst",
+        "verified": false
+      }
+    ]
+  }
+}

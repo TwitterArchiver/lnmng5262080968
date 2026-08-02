@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871390666825363456"
+      ],
+      "media_source_tweet_id": [
+        "1871390668847006126"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1871477751477387761",
+    "created_at": "2024-12-24T08:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T09:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871477751477387761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZnsMviNfbx",
+          "end": 45,
+          "expanded_url": "https://x.com/ggdxfulan/status/1871390668847006126/photo/1",
+          "media_key": "3_1871390666825363456",
+          "start": 22,
+          "url": "https://t.co/ZnsMviNfbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871477751477387761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871390668847006126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 二次元闹麻了 https://t.co/ZnsMviNfbx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_1871390666825363456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfiD5XwbcAAwChf.jpg",
+        "width": 530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871390666825363456"
+          ],
+          "media_source_tweet_id": [
+            "1871390668847006126"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1871477751477387761",
+        "created_at": "2024-12-24T08:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T09:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871477751477387761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnsMviNfbx",
+              "end": 45,
+              "expanded_url": "https://x.com/ggdxfulan/status/1871390668847006126/photo/1",
+              "media_key": "3_1871390666825363456",
+              "start": 22,
+              "url": "https://t.co/ZnsMviNfbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871477751477387761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871390668847006126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 二次元闹麻了 https://t.co/ZnsMviNfbx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871390666825363456"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1871390668847006126",
+        "created_at": "2024-12-24T03:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T04:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871390668847006126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnsMviNfbx",
+              "end": 30,
+              "expanded_url": "https://x.com/ggdxfulan/status/1871390668847006126/photo/1",
+              "media_key": "3_1871390666825363456",
+              "start": 7,
+              "url": "https://t.co/ZnsMviNfbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871390668847006126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3456,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二次元闹麻了 https://t.co/ZnsMviNfbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪\n欢迎来到凛凛的阴暗小世界…\n此平台不定时在线🚪88纯绿聊天全天在线喵来找我玩",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "💛🤍💜🖤是个憨批",
+        "id": "1639816523190763521",
+        "location": "太阳系",
+        "name": "芙兰蛋包饭",
+        "pinned_tweet_id": "1845463168451309604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820804863007272960/EkFEipuw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4781,
+          "following_count": 392,
+          "like_count": 10200,
+          "listed_count": 14,
+          "media_count": 1812,
+          "tweet_count": 7441
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

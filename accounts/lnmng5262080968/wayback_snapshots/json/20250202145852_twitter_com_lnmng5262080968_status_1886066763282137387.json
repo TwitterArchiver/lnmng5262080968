@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1886004572273176950",
+    "created_at": "2025-02-02T14:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T15:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886066763282137387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472147307730817025",
+          "start": 0,
+          "username": "20080522dqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886066763282137387",
+    "in_reply_to_user_id": "1472147307730817025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886004572273176950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@20080522dqc 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1886004572273176950",
+        "created_at": "2025-02-02T14:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T15:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886066763282137387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472147307730817025",
+              "start": 0,
+              "username": "20080522dqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886066763282137387",
+        "in_reply_to_user_id": "1472147307730817025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886004572273176950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@20080522dqc 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886004561418285056",
+            "3_1886004564652109824",
+            "3_1886004568125014016"
+          ]
+        },
+        "author_id": "1472147307730817025",
+        "conversation_id": "1886004572273176950",
+        "created_at": "2025-02-02T10:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886004572273176950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xw8vN6kM1X",
+              "end": 36,
+              "expanded_url": "https://x.com/20080522dqc/status/1886004572273176950/photo/1",
+              "media_key": "3_1886004561418285056",
+              "start": 13,
+              "url": "https://t.co/Xw8vN6kM1X"
+            },
+            {
+              "display_url": "pic.x.com/Xw8vN6kM1X",
+              "end": 36,
+              "expanded_url": "https://x.com/20080522dqc/status/1886004572273176950/photo/1",
+              "media_key": "3_1886004564652109824",
+              "start": 13,
+              "url": "https://t.co/Xw8vN6kM1X"
+            },
+            {
+              "display_url": "pic.x.com/Xw8vN6kM1X",
+              "end": 36,
+              "expanded_url": "https://x.com/20080522dqc/status/1886004572273176950/photo/1",
+              "media_key": "3_1886004568125014016",
+              "start": 13,
+              "url": "https://t.co/Xw8vN6kM1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886004572273176950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蚊子视角  叮死你们😋😋 https://t.co/Xw8vN6kM1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 214,
+          "like_count": 4768,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1178
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T10:10:54.000Z",
+        "description": "坐标辽宁 高二啦 177cm  我叫绮辰呀～\n叫我辰辰就好 日常清水～  有时候会搞黄的说\n扩列扩列都来加我喵呜 喜欢furry!\n🥵🥵复制用",
+        "id": "1472147307730817025",
+        "location": "辽宁抚顺",
+        "name": "绮辰Chen",
+        "pinned_tweet_id": "1885945136879940087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879184803070914561/vJ65HArV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 926,
+          "like_count": 1291,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 549
+        },
+        "username": "20080522dqc",
+        "verified": false
+      }
+    ]
+  }
+}

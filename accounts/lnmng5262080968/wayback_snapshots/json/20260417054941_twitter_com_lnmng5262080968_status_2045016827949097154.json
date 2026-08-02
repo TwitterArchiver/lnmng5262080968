@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2044831777265688734",
+    "created_at": "2026-04-17T05:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045016827949097154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673478285970518016",
+          "start": 0,
+          "username": "1327144914V3frc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045016827949097154",
+    "in_reply_to_user_id": "1673478285970518016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044895918944862690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1327144914V3frc 我还以为你不玩推了呢🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2044831777265688734",
+        "created_at": "2026-04-17T05:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045016827949097154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673478285970518016",
+              "start": 0,
+              "username": "1327144914V3frc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045016827949097154",
+        "in_reply_to_user_id": "1673478285970518016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044895918944862690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1327144914V3frc 我还以为你不玩推了呢🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673478285970518016",
+        "conversation_id": "2044831777265688734",
+        "created_at": "2026-04-16T21:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T22:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044895918944862690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044895918944862690",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044831777265688734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 来北京了，早说碰到周末还能请你吃饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失                                          🚪52",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 308,
+          "like_count": 17357,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 5774
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T23:48:16.000Z",
+        "description": "男！男！男！",
+        "id": "1673478285970518016",
+        "name": "水母大军进攻蚂蚁窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896696762750173184/2vmUE9VV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 83,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 378
+        },
+        "username": "1327144914V3frc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1975221455601410365",
+    "created_at": "2025-10-11T18:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T19:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977083116750881225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1848294536784867328",
+          "start": 0,
+          "username": "Litchi022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977083116750881225",
+    "in_reply_to_user_id": "1848294536784867328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976934497888485768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Litchi022 高松灯出击！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1975221455601410365",
+        "created_at": "2025-10-11T18:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T19:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977083116750881225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1848294536784867328",
+              "start": 0,
+              "username": "Litchi022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977083116750881225",
+        "in_reply_to_user_id": "1848294536784867328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976934497888485768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Litchi022 高松灯出击！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848294536784867328",
+        "conversation_id": "1975221455601410365",
+        "created_at": "2025-10-11T08:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976934497888485768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976934497888485768",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975221455601410365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 好可爱！好萌的tmr🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 368,
+          "like_count": 14148,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 4506
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T09:25:40.000Z",
+        "description": "Les/可以喊我玉米^^/无🚪无lxfs自己发着玩/可以请主播吃饭",
+        "id": "1848294536784867328",
+        "location": "The Heart, Victoria",
+        "name": "Kyouuu 𖡼",
+        "pinned_tweet_id": "1975427559023386639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975253375156690946/R6FGejF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2071,
+          "following_count": 102,
+          "like_count": 1487,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 834
+        },
+        "username": "Litchi022",
+        "verified": false
+      }
+    ]
+  }
+}

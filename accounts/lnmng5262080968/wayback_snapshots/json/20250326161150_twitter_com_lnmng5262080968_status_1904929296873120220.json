@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1904925009786921317",
+    "created_at": "2025-03-26T16:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T17:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904929296873120220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "191565502",
+          "start": 0,
+          "username": "Eterna1luv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904929296873120220",
+    "in_reply_to_user_id": "191565502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904925009786921317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eterna1luv9 优爱本爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904924997073985537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm-nMS5bYAEcPlB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1904925009786921317",
+        "created_at": "2025-03-26T16:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T17:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904929296873120220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "191565502",
+              "start": 0,
+              "username": "Eterna1luv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904929296873120220",
+        "in_reply_to_user_id": "191565502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904925009786921317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eterna1luv9 优爱本爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904924997073985537"
+          ]
+        },
+        "author_id": "191565502",
+        "conversation_id": "1904925009786921317",
+        "created_at": "2025-03-26T15:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T16:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904925009786921317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aFOLBbNRkj",
+              "end": 28,
+              "expanded_url": "https://x.com/Eterna1luv9/status/1904925009786921317/photo/1",
+              "media_key": "3_1904924997073985537",
+              "start": 5,
+              "url": "https://t.co/aFOLBbNRkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904925009786921317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播旧照 https://t.co/aFOLBbNRkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 353,
+          "like_count": 10592,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2553
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-16T19:31:35.000Z",
+        "description": "祝你开心",
+        "id": "191565502",
+        "location": "地灵殿",
+        "name": "灼眼のシャナ",
+        "pinned_tweet_id": "1894419040002830612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902687263370473472/7HH9HBpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 168,
+          "like_count": 1166,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1197
+        },
+        "username": "Eterna1luv9",
+        "verified": false
+      }
+    ]
+  }
+}

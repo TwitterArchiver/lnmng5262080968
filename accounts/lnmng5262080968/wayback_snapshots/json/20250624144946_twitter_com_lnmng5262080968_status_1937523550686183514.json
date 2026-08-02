@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1937464804400349427",
+    "created_at": "2025-06-24T14:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T15:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937523550686183514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1865821618649649152",
+          "start": 0,
+          "username": "ukiyo_ou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937523550686183514",
+    "in_reply_to_user_id": "1865821618649649152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937464804400349427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ukiyo_ou 老婆🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937464801296547843",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNB-L4agAMSjRp.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1937464804400349427",
+        "created_at": "2025-06-24T14:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T15:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937523550686183514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1865821618649649152",
+              "start": 0,
+              "username": "ukiyo_ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937523550686183514",
+        "in_reply_to_user_id": "1865821618649649152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937464804400349427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ukiyo_ou 老婆🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937464801296547843"
+          ]
+        },
+        "author_id": "1865821618649649152",
+        "conversation_id": "1937464804400349427",
+        "created_at": "2025-06-24T10:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937464804400349427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLxt8XGCag",
+              "end": 23,
+              "expanded_url": "https://x.com/ukiyo_ou/status/1937464804400349427/photo/1",
+              "media_key": "3_1937464801296547843",
+              "start": 0,
+              "url": "https://t.co/JLxt8XGCag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937464804400349427",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JLxt8XGCag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "提问箱👉https://t.co/5i59dzrsAT                                                 \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            除互关和小女孩不加联系方式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Rinko_0o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/rinko0v0",
+                "end": 27,
+                "expanded_url": "https://pome.vip/rinko0v0",
+                "start": 4,
+                "url": "https://t.co/5i59dzrsAT"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 367,
+          "like_count": 13696,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3988
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:12:02.000Z",
+        "description": "=浮世\n世界滅びないなら君と死にたい",
+        "id": "1865821618649649152",
+        "location": "🚪52",
+        "name": "グレー",
+        "pinned_tweet_id": "1884856922370896165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931035365907025923/GBmjTBr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 70,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 513
+        },
+        "username": "ukiyo_ou",
+        "verified": false
+      }
+    ]
+  }
+}

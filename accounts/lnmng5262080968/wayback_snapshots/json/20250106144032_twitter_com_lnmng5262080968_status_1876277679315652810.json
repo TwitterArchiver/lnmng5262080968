@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1876277679315652810",
+    "created_at": "2025-01-06T14:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T15:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876277679315652810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/damatte8964/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/damatte8964/status/1876129224282837290",
+          "start": 7,
+          "url": "https://t.co/kueuqdyJNt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876277679315652810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876129224282837290",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的强项，， https://t.co/kueuqdyJNt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1876277679315652810",
+        "created_at": "2025-01-06T14:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T15:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876277679315652810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/damatte8964/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/damatte8964/status/1876129224282837290",
+              "start": 7,
+              "url": "https://t.co/kueuqdyJNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876277679315652810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876129224282837290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的强项，， https://t.co/kueuqdyJNt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876129206876430336"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1876129224282837290",
+        "created_at": "2025-01-06T04:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T05:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876129224282837290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXlOZGA3PY",
+              "end": 23,
+              "expanded_url": "https://x.com/damatte8964/status/1876129224282837290/photo/1",
+              "media_key": "3_1876129206876430336",
+              "start": 0,
+              "url": "https://t.co/rXlOZGA3PY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876129224282837290",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1739,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rXlOZGA3PY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜已有主人                                                \n欢迎来到凛凛的阴暗小世界…\n🚪88好友位 100开放朋友圈",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 40,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 149
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* ｜18⬆️｜术力口｜博主有人格障碍和精神病致歉｜喜欢一切毛茸茸，不毛的不喜欢｜里账号@damatte0526 （主要是我的日常）｜买情趣用品找她➡️@Koko_mia_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "damatte0526"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "Koko_mia_"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "location": "🚪99纯绿陪聊➕朋友圈（请不要骂我）",
+        "name": "小咪之家8964",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866768035429613569/DBur-Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11647,
+          "following_count": 586,
+          "like_count": 3319,
+          "listed_count": 11,
+          "media_count": 70,
+          "tweet_count": 1327
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

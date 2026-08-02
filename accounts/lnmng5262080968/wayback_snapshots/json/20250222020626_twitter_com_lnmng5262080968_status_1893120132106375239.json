@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1892755512296382769",
+    "created_at": "2025-02-22T02:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T03:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893120132106375239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1782636279001141249",
+          "start": 0,
+          "username": "okinpu1985"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893120132106375239",
+    "in_reply_to_user_id": "1782636279001141249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892989959134486564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okinpu1985 哇塞哇塞没毛病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1892755512296382769",
+        "created_at": "2025-02-22T02:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T03:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893120132106375239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1782636279001141249",
+              "start": 0,
+              "username": "okinpu1985"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893120132106375239",
+        "in_reply_to_user_id": "1782636279001141249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892989959134486564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okinpu1985 哇塞哇塞没毛病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782636279001141249",
+        "conversation_id": "1892755512296382769",
+        "created_at": "2025-02-21T17:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T18:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892989959134486564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892989959134486564",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892755512296382769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 他都收钱就能认爹了，一看就是干多了看谁都像同行啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 281,
+          "like_count": 7219,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1762
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T05:03:10.000Z",
+        "description": "我不抽烟不喝酒的，欣赏点帅哥美女好点色怎么了",
+        "id": "1782636279001141249",
+        "name": "LT吖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788548162283802624/vxzgV0Ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 536,
+          "like_count": 6342,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 429
+        },
+        "username": "okinpu1985",
+        "verified": false
+      }
+    ]
+  }
+}

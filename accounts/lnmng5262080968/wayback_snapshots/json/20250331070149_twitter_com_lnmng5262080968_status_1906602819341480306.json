@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1906602819341480306",
+    "created_at": "2025-03-31T07:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T08:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906602819341480306"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906602819341480306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个社会，周遭的一切给我处处设困。我现在有种冲动，我想放火烧毁政府大楼，随机高空抛物，光天化日之下无差别捅人，炸毁地铁。想杀高贵的人，贫穷的人，柔弱的人，健壮的人，什么人都想杀。把遭遇的恶意还回去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1906602819341480306",
+        "created_at": "2025-03-31T07:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T08:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906602819341480306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906602819341480306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个社会，周遭的一切给我处处设困。我现在有种冲动，我想放火烧毁政府大楼，随机高空抛物，光天化日之下无差别捅人，炸毁地铁。想杀高贵的人，贫穷的人，柔弱的人，健壮的人，什么人都想杀。把遭遇的恶意还回去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 351,
+          "like_count": 10784,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 2587
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914594924919709849",
+    "created_at": "2025-04-22T23:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T00:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914828837394997749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1623564439235485696",
+          "start": 0,
+          "username": "czshuibuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914828837394997749",
+    "in_reply_to_user_id": "1623564439235485696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914709605307072979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@czshuibuxing 我同意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-22T23:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T00:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914828837394997749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1623564439235485696",
+              "start": 0,
+              "username": "czshuibuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914828837394997749",
+        "in_reply_to_user_id": "1623564439235485696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914709605307072979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@czshuibuxing 我同意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623564439235485696",
+        "conversation_id": "1914594924919709849",
+        "created_at": "2025-04-22T15:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T16:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914709605307072979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914709605307072979",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914594924919709849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 塞她嘴里😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 373,
+          "like_count": 12166,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3126
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-09T06:08:29.000Z",
+        "description": "♱♡°.+兄妹骨重度依赖♱♡°.+\n🍊esfp 天秤座 普通女大日常吐槽  话多慎关\n🍊 想跟喜欢发碎碎念念的宝宝们互关，回关看眼缘（扣1哥退散）\n🍊不加v，不聊s，不线下，发生殖器官拉黑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/czshuibuxing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/czshuibuxing",
+                "start": 0,
+                "url": "https://t.co/khiqPogOpR"
+              }
+            ]
+          }
+        },
+        "id": "1623564439235485696",
+        "location": "来找我玩拜托了👉",
+        "name": "橙子睡不醒（天天早起版）",
+        "pinned_tweet_id": "1867622877228302542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891387040295485441/gv_nlPAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 106,
+          "like_count": 4385,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 2298
+        },
+        "url": "https://t.co/khiqPogOpR",
+        "username": "czshuibuxing",
+        "verified": false
+      }
+    ]
+  }
+}

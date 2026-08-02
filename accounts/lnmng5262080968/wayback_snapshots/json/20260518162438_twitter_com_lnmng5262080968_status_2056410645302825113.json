@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2055726240980746478",
+    "created_at": "2026-05-18T16:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056410645302825113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1422840890184269824",
+          "start": 0,
+          "username": "Tyy_jjsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056410645302825113",
+    "in_reply_to_user_id": "1422840890184269824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055761290828935636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tyy_jjsz 😭一直在哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2055726240980746478",
+        "created_at": "2026-05-18T16:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056410645302825113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1422840890184269824",
+              "start": 0,
+              "username": "Tyy_jjsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056410645302825113",
+        "in_reply_to_user_id": "1422840890184269824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055761290828935636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tyy_jjsz 😭一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422840890184269824",
+        "conversation_id": "2055726240980746478",
+        "created_at": "2026-05-16T21:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055761290828935636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055761290828935636",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055726240980746478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 给我看得都有点焦虑了😥这的确..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 313,
+          "like_count": 17512,
+          "listed_count": 5,
+          "media_count": 205,
+          "tweet_count": 5893
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T08:44:59.000Z",
+        "description": "中文/English/日本語/한국어\nVTB",
+        "id": "1422840890184269824",
+        "location": "People Republic of China",
+        "name": "輕鬆快樂🎨🦂💯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033016600962764800/kF2NMd0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 233,
+          "like_count": 2141,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 491
+        },
+        "username": "Tyy_jjsz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1908506580019974332",
+    "created_at": "2025-04-05T13:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T14:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908518248754323648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882997198872596480",
+          "start": 0,
+          "username": "mayumi1625658"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908518248754323648",
+    "in_reply_to_user_id": "1882997198872596480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908506678112243730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayumi1625658 我也爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1908506580019974332",
+        "created_at": "2025-04-05T13:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T14:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908518248754323648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882997198872596480",
+              "start": 0,
+              "username": "mayumi1625658"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908518248754323648",
+        "in_reply_to_user_id": "1882997198872596480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908506678112243730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayumi1625658 我也爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882997198872596480",
+        "conversation_id": "1908506580019974332",
+        "created_at": "2025-04-05T13:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T14:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908506678112243730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908506678112243730",
+        "in_reply_to_user_id": "1882997198872596480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908506580019974332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老婆老婆我爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 368,
+          "like_count": 11059,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2704
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T03:41:41.000Z",
+        "description": "要 一百个春天身死  蝴蝶才会忘却相思.",
+        "id": "1882997198872596480",
+        "location": "Hong Kong",
+        "name": "SAyumi茸、",
+        "pinned_tweet_id": "1902801969284100405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901549779479609344/iEdyr4Zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 21,
+          "like_count": 1626,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 328
+        },
+        "username": "mayumi1625658",
+        "verified": false
+      }
+    ]
+  }
+}

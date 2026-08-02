@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2055726240980746478",
+    "created_at": "2026-05-18T16:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056410425584136460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797705729379590145",
+          "start": 0,
+          "username": "dr1743820074420"
+        },
+        {
+          "end": 25,
+          "id": "1657288224451203073",
+          "start": 17,
+          "username": "Cialloi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056410425584136460",
+    "in_reply_to_user_id": "1797705729379590145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055982355450597720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dr1743820074420 @Cialloi 还好啦，只不过我就是没什么一技之长的笨蛋小猪🐖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2055726240980746478",
+        "created_at": "2026-05-18T16:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056410425584136460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797705729379590145",
+              "start": 0,
+              "username": "dr1743820074420"
+            },
+            {
+              "end": 25,
+              "id": "1657288224451203073",
+              "start": 17,
+              "username": "Cialloi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056410425584136460",
+        "in_reply_to_user_id": "1797705729379590145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055982355450597720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dr1743820074420 @Cialloi 还好啦，只不过我就是没什么一技之长的笨蛋小猪🐖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797705729379590145",
+        "conversation_id": "2055726240980746478",
+        "created_at": "2026-05-17T12:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055982355450597720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1657288224451203073",
+              "start": 0,
+              "username": "Cialloi"
+            },
+            {
+              "end": 25,
+              "id": "1792011763875184640",
+              "start": 9,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055982355450597720",
+        "in_reply_to_user_id": "1657288224451203073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055947797841748281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cialloi @lnmng5262080968 心态上很难转变吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 313,
+          "like_count": 17502,
+          "listed_count": 5,
+          "media_count": 205,
+          "tweet_count": 5889
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T19:03:53.000Z",
+        "description": "比较喜欢看书，想和大家讨论书的内容，爱写点石",
+        "id": "1797705729379590145",
+        "name": "dr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029687019853733888/VrB_Iqx8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 143,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 582
+        },
+        "username": "dr1743820074420",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T07:34:48.000Z",
+        "description": "主人喵@AyanamiRikako",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "AyanamiRikako"
+              }
+            ]
+          }
+        },
+        "id": "1657288224451203073",
+        "name": "耶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026323371575869440/UQdyScjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 662,
+          "like_count": 51168,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 14712
+        },
+        "username": "Cialloi",
+        "verified": false
+      }
+    ]
+  }
+}

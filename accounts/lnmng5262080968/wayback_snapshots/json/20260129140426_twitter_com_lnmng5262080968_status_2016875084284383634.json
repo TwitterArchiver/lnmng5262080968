@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2010416011074572465",
+    "created_at": "2026-01-29T14:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T15:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016875084284383634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1818649217822605318",
+          "start": 0,
+          "username": "cycy_yee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016875084284383634",
+    "in_reply_to_user_id": "1818649217822605318",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016871045672948095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cycy_yee 太好啦！我也是！和我玩和我玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2010416011074572465",
+        "created_at": "2026-01-29T14:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016875084284383634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1818649217822605318",
+              "start": 0,
+              "username": "cycy_yee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016875084284383634",
+        "in_reply_to_user_id": "1818649217822605318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016871045672948095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cycy_yee 太好啦！我也是！和我玩和我玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818649217822605318",
+        "conversation_id": "2010416011074572465",
+        "created_at": "2026-01-29T13:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016871045672948095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016871045672948095",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016870671482310906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 纯当音乐游戏玩不混圈子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 303,
+          "like_count": 15409,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 5344
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T14:05:59.000Z",
+        "description": "🌐 zh-cn/en-us\nuse fedora linux\n实用主义\n支持所有非过于极端的观点",
+        "id": "1818649217822605318",
+        "location": "地球 Earth",
+        "name": "熠颜",
+        "pinned_tweet_id": "1928810911416070409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895638200720506880/kzi6dfcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 44,
+          "like_count": 1860,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 421
+        },
+        "username": "cycy_yee",
+        "verified": false
+      }
+    ]
+  }
+}

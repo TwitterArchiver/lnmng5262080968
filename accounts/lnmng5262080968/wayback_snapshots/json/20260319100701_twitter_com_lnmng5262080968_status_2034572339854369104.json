@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2034572339854369104",
+    "created_at": "2026-03-19T10:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034572339854369104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034572339854369104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034429747921338559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: 不要轻易相信网蛆的惨文化，他们背地可能是高材生，九分女，富二代，关系户，发达国家地区户口绿卡持有者或入籍者，沪上精英，港澳高考生，外语精通者，社交达人，健身狂魔或者知名网红博主，而我才是惨文化本身。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2034572339854369104",
+        "created_at": "2026-03-19T10:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034572339854369104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034572339854369104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034429747921338559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: 不要轻易相信网蛆的惨文化，他们背地可能是高材生，九分女，富二代，关系户，发达国家地区户口绿卡持有者或入籍者，沪上精英，港澳高考生，外语精通者，社交达人，健身狂魔或者知名网红博主，而我才是惨文化本身。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2034429747921338559",
+        "created_at": "2026-03-19T00:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T01:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034429747921338559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034429747921338559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6742,
+          "like_count": 237,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "不要轻易相信网蛆的惨文化，他们背地可能是高材生，九分女，富二代，关系户，发达国家地区户口绿卡持有者或入籍者，沪上精英，港澳高考生，外语精通者，社交达人，健身狂魔或者知名网红博主，而我才是惨文化本身。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "可以叫我凛 世界的独行者｜邦多利 pjsk ｜吐黑泥不聊黄只加同好",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1938901164218822825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 304,
+          "like_count": 16525,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 5575
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "谁能请我吃饭饭",
+        "id": "2010357366466990080",
+        "name": "明日不香.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430656332730368/-ga_5xd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 230,
+          "like_count": 217,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 718
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

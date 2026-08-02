@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1881297785296912880",
+    "created_at": "2025-01-20T12:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T13:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881318727943344286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548992178436788226",
+          "start": 0,
+          "username": "Ameng0403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881318727943344286",
+    "in_reply_to_user_id": "1548992178436788226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881297785296912880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ameng0403 a梦帅得有点过分，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1881297785296912880",
+        "created_at": "2025-01-20T12:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T13:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881318727943344286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548992178436788226",
+              "start": 0,
+              "username": "Ameng0403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881318727943344286",
+        "in_reply_to_user_id": "1548992178436788226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881297785296912880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ameng0403 a梦帅得有点过分，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881297782482599936"
+          ]
+        },
+        "author_id": "1548992178436788226",
+        "conversation_id": "1881297785296912880",
+        "created_at": "2025-01-20T11:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T12:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881297785296912880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUMDXsQZGR",
+              "end": 55,
+              "expanded_url": "https://x.com/Ameng0403/status/1881297785296912880/photo/1",
+              "media_key": "3_1881297782482599936",
+              "start": 32,
+              "url": "https://t.co/rUMDXsQZGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881297785296912880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经彻底爱上pdd这个几十块钱的相机了୧₍˄·͈༝·͈˄₎୨ https://t.co/rUMDXsQZGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 136,
+          "like_count": 2666,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 485
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T11:25:18.000Z",
+        "description": "高三但自学 / 日常清水推 / 平时很社恐,熟了之后也社恐 / 请不要在意我的性取向 / 可以成为各位的心灵树洞 / 私信扩列门槛任意即可 / 情感倾诉或其他业务需求请提前说明 / 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ameng0403",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ameng0403",
+                "start": 0,
+                "url": "https://t.co/SdvtTJLQEm"
+              }
+            ]
+          }
+        },
+        "id": "1548992178436788226",
+        "location": "你的被窝里",
+        "name": "A梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868641352411684864/PUU9Nop2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 184,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/SdvtTJLQEm",
+        "username": "Ameng0403",
+        "verified": false
+      }
+    ]
+  }
+}

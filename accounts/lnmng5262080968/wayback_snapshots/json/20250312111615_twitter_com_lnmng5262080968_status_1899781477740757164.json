@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1899781477740757164",
+    "created_at": "2025-03-12T11:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T12:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899781477740757164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiyn91306622/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/jiyn91306622/status/1899751625629073735",
+          "start": 18,
+          "url": "https://t.co/OHf44CmswB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899781477740757164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899751625629073735",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能不能入我门槛啊？我陪你聊天一辈子 https://t.co/OHf44CmswB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1899781477740757164",
+        "created_at": "2025-03-12T11:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T12:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899781477740757164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiyn91306622/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/jiyn91306622/status/1899751625629073735",
+              "start": 18,
+              "url": "https://t.co/OHf44CmswB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899781477740757164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899751625629073735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能不能入我门槛啊？我陪你聊天一辈子 https://t.co/OHf44CmswB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606351071206674438",
+        "conversation_id": "1899751625629073735",
+        "created_at": "2025-03-12T09:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T10:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899751625629073735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakuya5552/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/sakuya5552/status/1899737929620353370",
+              "start": 18,
+              "url": "https://t.co/nx3Iu9j31N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899751625629073735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899737929620353370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能不能入我门槛啊？我陪你聊天一辈子 https://t.co/nx3Iu9j31N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 341,
+          "like_count": 9868,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2322
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T18:08:44.000Z",
+        "description": "鸟会从天空跌落，四月有时亦会飘雪",
+        "id": "1606351071206674438",
+        "location": "学园都市",
+        "name": "你踩到我的呕吐物了",
+        "pinned_tweet_id": "1897254919947870668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896598211961434112/BmTnJzsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 743,
+          "like_count": 14859,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2083
+        },
+        "username": "jiyn91306622",
+        "verified": false
+      }
+    ]
+  }
+}

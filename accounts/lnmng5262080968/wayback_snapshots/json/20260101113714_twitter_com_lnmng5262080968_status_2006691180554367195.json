@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2006309168458915886",
+    "created_at": "2026-01-01T11:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T12:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006691180554367195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880947070837964800",
+          "start": 0,
+          "username": "Guillermin45548"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006691180554367195",
+    "in_reply_to_user_id": "1880947070837964800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006309168458915886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guillermin45548 你父母逃离原生家庭了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2006309168458915886",
+        "created_at": "2026-01-01T11:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006691180554367195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880947070837964800",
+              "start": 0,
+              "username": "Guillermin45548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006691180554367195",
+        "in_reply_to_user_id": "1880947070837964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006309168458915886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guillermin45548 你父母逃离原生家庭了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880947070837964800",
+        "conversation_id": "2006309168458915886",
+        "created_at": "2025-12-31T10:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006309168458915886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006309168458915886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15942,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奉劝所有跟我同龄的学生，一定要好好学习！07年的我没好好读书，因为所谓的爱情辍学不顾父母反对网恋奔现，结果同居之后才发现他本人和网上完全不是一个人，分手后最终的结局就是送外卖！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r看看腿 一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 379,
+          "like_count": 15140,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 5050
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:14.000Z",
+        "description": "在校职中生（失眠症患者）我已经成年了，但很社恐，千万不要和我打招呼！\n纯分享不线下！！",
+        "id": "1880947070837964800",
+        "name": "瑶瑶睡不着💤",
+        "pinned_tweet_id": "2004199261488271584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955778435021987842/K9LkybKx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5625,
+          "following_count": 35,
+          "like_count": 833,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 695
+        },
+        "username": "Guillermin45548",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1990482006430626213",
+    "created_at": "2025-11-21T09:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T10:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991796584003379461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1419786407376154626",
+          "start": 0,
+          "username": "Housekeeper009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991796584003379461",
+    "in_reply_to_user_id": "1419786407376154626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990966849828499750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Housekeeper009 怎么还陪一根呢🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990966820254437376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FVxkDa0AAEvau.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1990482006430626213",
+        "created_at": "2025-11-21T09:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991796584003379461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1419786407376154626",
+              "start": 0,
+              "username": "Housekeeper009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991796584003379461",
+        "in_reply_to_user_id": "1419786407376154626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990966849828499750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Housekeeper009 怎么还陪一根呢🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990966820254437376"
+          ]
+        },
+        "author_id": "1419786407376154626",
+        "conversation_id": "1990482006430626213",
+        "created_at": "2025-11-19T02:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T03:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990966849828499750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbrspnVdfk",
+              "end": 45,
+              "expanded_url": "https://x.com/Housekeeper009/status/1990966849828499750/photo/1",
+              "media_key": "3_1990966820254437376",
+              "start": 22,
+              "url": "https://t.co/qbrspnVdfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990966849828499750",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990482006430626213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 嗯，，， https://t.co/qbrspnVdfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 379,
+          "like_count": 14573,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4756
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T22:27:59.000Z",
+        "description": "",
+        "id": "1419786407376154626",
+        "name": "梵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766482749236649984/0O6dQkxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 204,
+          "like_count": 6669,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "username": "Housekeeper009",
+        "verified": false
+      }
+    ]
+  }
+}

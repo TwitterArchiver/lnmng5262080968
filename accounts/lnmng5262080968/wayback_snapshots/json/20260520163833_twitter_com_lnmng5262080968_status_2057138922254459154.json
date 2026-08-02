@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2056654704130896045",
+    "created_at": "2026-05-20T16:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057138922254459154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040955931433787392",
+          "start": 0,
+          "username": "renireni1019902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057138922254459154",
+    "in_reply_to_user_id": "2040955931433787392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057096755393773886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renireni1019902 网上有些人魔症了总拿养孩子的拉踩实际上自己就在花父母的钱啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2056654704130896045",
+        "created_at": "2026-05-20T16:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057138922254459154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040955931433787392",
+              "start": 0,
+              "username": "renireni1019902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057138922254459154",
+        "in_reply_to_user_id": "2040955931433787392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057096755393773886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renireni1019902 网上有些人魔症了总拿养孩子的拉踩实际上自己就在花父母的钱啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040955931433787392",
+        "conversation_id": "2056654704130896045",
+        "created_at": "2026-05-20T13:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057096755393773886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057096755393773886",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056654704130896045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我也觉得 不止买谷子 还有其他的超前消费行为 和养孩子做比较 说难听点不和好的比和差的比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 314,
+          "like_count": 17595,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 5934
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T00:54:21.000Z",
+        "description": "",
+        "id": "2040955931433787392",
+        "name": "reni reni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052022528923824128/KisOswUB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "renireni1019902",
+        "verified": false
+      }
+    ]
+  }
+}

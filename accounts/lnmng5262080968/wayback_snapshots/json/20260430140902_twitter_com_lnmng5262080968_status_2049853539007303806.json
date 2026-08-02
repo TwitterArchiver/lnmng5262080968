@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2049176614915686486",
+    "created_at": "2026-04-30T14:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049853539007303806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948869135833989122",
+          "start": 0,
+          "username": "CarieShepp51778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049853539007303806",
+    "in_reply_to_user_id": "1948869135833989122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049326849445199952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarieShepp51778 那很坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2049176614915686486",
+        "created_at": "2026-04-30T14:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049853539007303806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948869135833989122",
+              "start": 0,
+              "username": "CarieShepp51778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049853539007303806",
+        "in_reply_to_user_id": "1948869135833989122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049326849445199952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarieShepp51778 那很坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948869135833989122",
+        "conversation_id": "2049176614915686486",
+        "created_at": "2026-04-29T03:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049326849445199952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049326849445199952",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049176614915686486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我一年抑郁就没了，换了家医院医生说我是双相"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 318,
+          "like_count": 17533,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 5868
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T22:13:06.000Z",
+        "description": "仙家对话",
+        "id": "1948869135833989122",
+        "location": "距离你11.4514㎞",
+        "name": "大蜘蛛哼唱",
+        "pinned_tweet_id": "1985965205353046193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010636142656319488/_Jwa0A24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 395,
+          "like_count": 14986,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 810
+        },
+        "username": "CarieShepp51778",
+        "verified": false
+      }
+    ]
+  }
+}

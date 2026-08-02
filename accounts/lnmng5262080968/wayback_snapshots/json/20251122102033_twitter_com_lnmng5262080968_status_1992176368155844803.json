@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-22T10:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992176368155844803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812450151044395008",
+          "start": 0,
+          "username": "cakehoshii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992176368155844803",
+    "in_reply_to_user_id": "1812450151044395008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992064273963790416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cakehoshii 精神分裂不是更糟嘛（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T10:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992176368155844803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812450151044395008",
+              "start": 0,
+              "username": "cakehoshii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992176368155844803",
+        "in_reply_to_user_id": "1812450151044395008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992064273963790416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cakehoshii 精神分裂不是更糟嘛（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812450151044395008",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T02:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992064273963790416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992064273963790416",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991846545025810547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 把病症变成精神分裂吧，这个对生活影响小一点，只要不经常和人交流的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 380,
+          "like_count": 14690,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4811
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T11:33:02.000Z",
+        "description": "荒诞和混乱是最有趣的浪漫\n\n平等地关心和攻击所有人",
+        "id": "1812450151044395008",
+        "location": "你妈坟头／ご両親の墓で",
+        "name": "cake ほしい",
+        "pinned_tweet_id": "1990742488647413989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871626446780944384/cLmML-6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 206,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1232
+        },
+        "username": "cakehoshii",
+        "verified": false
+      }
+    ]
+  }
+}

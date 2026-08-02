@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2049176614915686486",
+    "created_at": "2026-04-30T14:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049853178607546495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787670874549817344",
+          "start": 0,
+          "username": "elaineL187506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049853178607546495",
+    "in_reply_to_user_id": "1787670874549817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049444952812491220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elaineL187506 有点像开智就不跟风玉玉了哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2049176614915686486",
+        "created_at": "2026-04-30T14:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049853178607546495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787670874549817344",
+              "start": 0,
+              "username": "elaineL187506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049853178607546495",
+        "in_reply_to_user_id": "1787670874549817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049444952812491220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elaineL187506 有点像开智就不跟风玉玉了哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787670874549817344",
+        "conversation_id": "2049176614915686486",
+        "created_at": "2026-04-29T11:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049444952812491220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049444952812491220",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049176614915686486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我也是系统治疗吃药两年都没好，羡慕那些一个月就好了的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 318,
+          "like_count": 17520,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 5864
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T02:29:04.000Z",
+        "description": "碎碎念/INFP/抑郁症康复中还在吃药会失忆嗜睡失眠/想给我发私信请关注我/偶尔失忆请谅解/不和不好玩的人聊天ฅ՞•ﻌ•՞ฅ",
+        "id": "1787670874549817344",
+        "name": "废废小蝴蝶",
+        "pinned_tweet_id": "2043288069613535662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024736619102978048/xA4RGJfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 234,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1749
+        },
+        "username": "elaineL187506",
+        "verified": true
+      }
+    ]
+  }
+}

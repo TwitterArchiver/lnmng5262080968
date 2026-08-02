@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1897222866804043814",
+    "created_at": "2025-03-05T13:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T14:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897271457698472031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1895715329827094528",
+          "start": 0,
+          "username": "Nebula_SM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897271457698472031",
+    "in_reply_to_user_id": "1895715329827094528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897264178286723415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nebula_SM 是的呀，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1897222866804043814",
+        "created_at": "2025-03-05T13:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T14:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897271457698472031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1895715329827094528",
+              "start": 0,
+              "username": "Nebula_SM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897271457698472031",
+        "in_reply_to_user_id": "1895715329827094528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897264178286723415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nebula_SM 是的呀，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895715329827094528",
+        "conversation_id": "1897222866804043814",
+        "created_at": "2025-03-05T12:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T13:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897264178286723415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897264178286723415",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897263643357819144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 那种朋友很少很少，很难遇到，而且如果自己有缺点也会不小心失去。。嘛不过呢，有缘分迟早会遇到的吧。加油抓住机会就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1896772567022911791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 317,
+          "like_count": 9217,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2143
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T05:59:16.000Z",
+        "description": "喜欢涩涩但是我会友好对待大家的ww",
+        "id": "1895715329827094528",
+        "location": "你的心里(｡･ω･｡)ﾉ♡",
+        "name": "衔蝉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895802649783812096/rmbWAO2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 26,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 167
+        },
+        "username": "Nebula_SM",
+        "verified": false
+      }
+    ]
+  }
+}

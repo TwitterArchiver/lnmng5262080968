@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1892518402520121361",
+    "created_at": "2025-02-20T10:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T11:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892518402520121361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793537095115677696",
+          "start": 3,
+          "username": "JWDSX0831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892518402520121361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891830381797835186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JWDSX0831: 大家好这里是伊子的新置顶\n我营业很消极\n含有:自残，od，负面情绪碎碎念吐黑泥，我的各种照片\n\n喜欢我的可以给我打钱\n欢迎小女孩互转互fo\n打钱只接受赞赏码和口令\n\n我的雷点是:6，……\n\n没逼你打钱看不惯直接拉黑，贴脸就是你贱 https://t…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892518402520121361].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892518402520121361",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892518402520121361"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793537095115677696",
+        "conversation_id": "1891830381797835186",
+        "created_at": "2025-02-18T12:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T13:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891830381797835186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfPwldgtQ2",
+              "end": 138,
+              "expanded_url": "https://x.com/JWDSX0831/status/1891830381797835186/photo/1",
+              "media_key": "3_1891830236263874562",
+              "start": 115,
+              "url": "https://t.co/TfPwldgtQ2"
+            },
+            {
+              "display_url": "pic.x.com/TfPwldgtQ2",
+              "end": 138,
+              "expanded_url": "https://x.com/JWDSX0831/status/1891830381797835186/photo/1",
+              "media_key": "3_1891830240961495045",
+              "start": 115,
+              "url": "https://t.co/TfPwldgtQ2"
+            },
+            {
+              "display_url": "pic.x.com/TfPwldgtQ2",
+              "end": 138,
+              "expanded_url": "https://x.com/JWDSX0831/status/1891830381797835186/photo/1",
+              "media_key": "3_1891830244442767362",
+              "start": 115,
+              "url": "https://t.co/TfPwldgtQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891830381797835186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好这里是伊子的新置顶\n我营业很消极\n含有:自残，od，负面情绪碎碎念吐黑泥，我的各种照片\n\n喜欢我的可以给我打钱\n欢迎小女孩互转互fo\n打钱只接受赞赏码和口令\n\n我的雷点是:6，……\n\n没逼你打钱看不惯直接拉黑，贴脸就是你贱 https://t.co/TfPwldgtQ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1892424783637447088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 263,
+          "like_count": 7096,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1712
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T06:59:15.000Z",
+        "description": "🚪知道没人过但是也挂一下以免有人骚扰我\n      接纯绿半绿非绿，打钱只接受赞赏码和口令",
+        "id": "1793537095115677696",
+        "name": "伊子（接伤口定制版～",
+        "pinned_tweet_id": "1891830381797835186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873986336186576896/BRm-68Gr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 147,
+          "like_count": 2608,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 638
+        },
+        "username": "JWDSX0831",
+        "verified": false
+      }
+    ]
+  }
+}

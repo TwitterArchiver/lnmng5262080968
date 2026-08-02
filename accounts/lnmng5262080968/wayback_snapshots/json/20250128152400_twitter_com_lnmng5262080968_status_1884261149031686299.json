@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1884261149031686299",
+    "created_at": "2025-01-28T15:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T16:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884261149031686299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1530481765407633408",
+          "start": 3,
+          "username": "Kaei000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884261149031686299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884258990210847154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kaei000: Hello！这是一条关于本账号的置顶，可以帮我卷卷嘛🥺\n我是金毛摇粒绒，赛博人设是邪恶狂吠摇粒绒。坐标不定期更新，生理性别是武装直升机，性取向为沃尔玛塑料袋。喜欢和正常人类互动，会被动触发女鬼属性，我会盯着你们所有人🌹傻卵二次元什么成分都沾点，欢迎互f…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884261149031686299].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884261149031686299",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884261149031686299"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884258986402488320",
+            "3_1884258986503069698",
+            "3_1884258987308376066",
+            "3_1884258987186741248"
+          ]
+        },
+        "author_id": "1530481765407633408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884258990210847154",
+        "created_at": "2025-01-28T15:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T16:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884258990210847154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hi7vCZcx2p",
+              "end": 158,
+              "expanded_url": "https://x.com/Kaei000/status/1884258990210847154/photo/1",
+              "media_key": "3_1884258986402488320",
+              "start": 135,
+              "url": "https://t.co/Hi7vCZcx2p"
+            },
+            {
+              "display_url": "pic.x.com/Hi7vCZcx2p",
+              "end": 158,
+              "expanded_url": "https://x.com/Kaei000/status/1884258990210847154/photo/1",
+              "media_key": "3_1884258986503069698",
+              "start": 135,
+              "url": "https://t.co/Hi7vCZcx2p"
+            },
+            {
+              "display_url": "pic.x.com/Hi7vCZcx2p",
+              "end": 158,
+              "expanded_url": "https://x.com/Kaei000/status/1884258990210847154/photo/1",
+              "media_key": "3_1884258987308376066",
+              "start": 135,
+              "url": "https://t.co/Hi7vCZcx2p"
+            },
+            {
+              "display_url": "pic.x.com/Hi7vCZcx2p",
+              "end": 158,
+              "expanded_url": "https://x.com/Kaei000/status/1884258990210847154/photo/1",
+              "media_key": "3_1884258987186741248",
+              "start": 135,
+              "url": "https://t.co/Hi7vCZcx2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884258990210847154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Hello！这是一条关于本账号的置顶，可以帮我卷卷嘛🥺\n我是金毛摇粒绒，赛博人设是邪恶狂吠摇粒绒。坐标不定期更新，生理性别是武装直升机，性取向为沃尔玛塑料袋。喜欢和正常人类互动，会被动触发女鬼属性，我会盯着你们所有人🌹傻卵二次元什么成分都沾点，欢迎互fo/关注/一起玩 https://t.co/Hi7vCZcx2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            \n打赏随意 ｜我天天抽风",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 186,
+          "like_count": 4253,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1004
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T09:31:17.000Z",
+        "description": "只会留下双非一本的吻痕｜我爱所有人｜性别是武装直升机｜互联网邪恶摇粒绒，喜欢狂吠",
+        "id": "1530481765407633408",
+        "location": "后山老歪脖子树",
+        "name": "金毛摇粒绒",
+        "pinned_tweet_id": "1884258990210847154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878144671681232896/UO3q45AE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 68,
+          "like_count": 1107,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 118
+        },
+        "username": "Kaei000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1895292853355729294",
+    "created_at": "2025-02-28T14:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T15:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895476163876884699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840708439544352768",
+          "start": 0,
+          "username": "seiunn04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895476163876884699",
+    "in_reply_to_user_id": "1840708439544352768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895292853355729294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiunn04 你也太强了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1895292847798317056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1uzapbcAA39f6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1895292847789875203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1uzanaoAMRp12.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1895292847898648576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1uzbBWYAA5Ncn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1895292847911317504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1uzbEXsAAbEV1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1895292853355729294",
+        "created_at": "2025-02-28T14:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T15:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895476163876884699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840708439544352768",
+              "start": 0,
+              "username": "seiunn04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895476163876884699",
+        "in_reply_to_user_id": "1840708439544352768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895292853355729294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiunn04 你也太强了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895292847798317056",
+            "3_1895292847789875203",
+            "3_1895292847898648576",
+            "3_1895292847911317504"
+          ]
+        },
+        "author_id": "1840708439544352768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1895292853355729294",
+        "created_at": "2025-02-28T02:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T03:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895292853355729294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yn0YcUr4hJ",
+              "end": 44,
+              "expanded_url": "https://x.com/seiunn04/status/1895292853355729294/photo/1",
+              "media_key": "3_1895292847798317056",
+              "start": 21,
+              "url": "https://t.co/Yn0YcUr4hJ"
+            },
+            {
+              "display_url": "pic.x.com/Yn0YcUr4hJ",
+              "end": 44,
+              "expanded_url": "https://x.com/seiunn04/status/1895292853355729294/photo/1",
+              "media_key": "3_1895292847789875203",
+              "start": 21,
+              "url": "https://t.co/Yn0YcUr4hJ"
+            },
+            {
+              "display_url": "pic.x.com/Yn0YcUr4hJ",
+              "end": 44,
+              "expanded_url": "https://x.com/seiunn04/status/1895292853355729294/photo/1",
+              "media_key": "3_1895292847898648576",
+              "start": 21,
+              "url": "https://t.co/Yn0YcUr4hJ"
+            },
+            {
+              "display_url": "pic.x.com/Yn0YcUr4hJ",
+              "end": 44,
+              "expanded_url": "https://x.com/seiunn04/status/1895292853355729294/photo/1",
+              "media_key": "3_1895292847911317504",
+              "start": 21,
+              "url": "https://t.co/Yn0YcUr4hJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895292853355729294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近小小发力一下\n生日当天可以凑一个9图 https://t.co/Yn0YcUr4hJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 306,
+          "like_count": 8092,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 1940
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:01:10.000Z",
+        "description": "UC Davisに在学しているの大学三年生\nいまのじゃんたまアカウントは三代目です\n四麻：魂天lv1 三麻：魂天 Lv.1\n他の趣味は、音ゲー、歴史、鉄道、国際政治など\n麻雀に関する問題と普通のチェットが是非気軽くＤＭしますーー",
+        "id": "1840708439544352768",
+        "location": "Davis,CA",
+        "name": "UCD麻雀部",
+        "pinned_tweet_id": "1855474181540032890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859955127333105664/C3KHuK0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 439,
+          "like_count": 3017,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1108
+        },
+        "username": "seiunn04",
+        "verified": true
+      }
+    ]
+  }
+}

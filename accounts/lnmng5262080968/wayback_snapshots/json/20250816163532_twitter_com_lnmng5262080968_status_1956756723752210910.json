@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956756711341211648",
+        "3_1956756711286714368"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1956756723752210910",
+    "created_at": "2025-08-16T16:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T17:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956756723752210910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yVSYVEx93P",
+          "end": 64,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1956756723752210910/photo/1",
+          "media_key": "3_1956756711341211648",
+          "start": 41,
+          "url": "https://t.co/yVSYVEx93P"
+        },
+        {
+          "display_url": "pic.x.com/yVSYVEx93P",
+          "end": 64,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1956756723752210910/photo/1",
+          "media_key": "3_1956756711286714368",
+          "start": 41,
+          "url": "https://t.co/yVSYVEx93P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956756723752210910",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玛雅谢谢你宝宝😭😭😭😭雪中送炭desu\n想私信感谢你但是我好像回不了大家的消息了 https://t.co/yVSYVEx93P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_1956756711341211648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyfL3JNawAANbtP.jpg",
+        "width": 1179
+      },
+      {
+        "height": 362,
+        "media_key": "3_1956756711286714368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyfL3JAbMAAFWJP.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956756711341211648",
+            "3_1956756711286714368"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "1956756723752210910",
+        "created_at": "2025-08-16T16:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956756723752210910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yVSYVEx93P",
+              "end": 64,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1956756723752210910/photo/1",
+              "media_key": "3_1956756711341211648",
+              "start": 41,
+              "url": "https://t.co/yVSYVEx93P"
+            },
+            {
+              "display_url": "pic.x.com/yVSYVEx93P",
+              "end": 64,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1956756723752210910/photo/1",
+              "media_key": "3_1956756711286714368",
+              "start": 41,
+              "url": "https://t.co/yVSYVEx93P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956756723752210910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玛雅谢谢你宝宝😭😭😭😭雪中送炭desu\n想私信感谢你但是我好像回不了大家的消息了 https://t.co/yVSYVEx93P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "恋人@_Kochiya_X_ 欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友 世界第一 孤僻小透明凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "_Kochiya_X_"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 368,
+          "like_count": 13829,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 4258
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

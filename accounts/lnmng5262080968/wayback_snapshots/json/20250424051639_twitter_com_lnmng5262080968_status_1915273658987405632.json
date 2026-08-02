@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1914944143027064940",
+    "created_at": "2025-04-24T05:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T06:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915273658987405632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1492166667710783490",
+          "start": 0,
+          "username": "jiji15111832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915273658987405632",
+    "in_reply_to_user_id": "1492166667710783490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914944143027064940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiji15111832 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_1914944135704010754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpM_i61a4AIHlsY.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1914944143027064940",
+        "created_at": "2025-04-24T05:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T06:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915273658987405632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1492166667710783490",
+              "start": 0,
+              "username": "jiji15111832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915273658987405632",
+        "in_reply_to_user_id": "1492166667710783490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914944143027064940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiji15111832 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914944135704010754"
+          ]
+        },
+        "author_id": "1492166667710783490",
+        "conversation_id": "1914944143027064940",
+        "created_at": "2025-04-23T07:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914944143027064940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4GkvPi9U3",
+              "end": 31,
+              "expanded_url": "https://x.com/jiji15111832/status/1914944143027064940/photo/1",
+              "media_key": "3_1914944135704010754",
+              "start": 8,
+              "url": "https://t.co/d4GkvPi9U3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914944143027064940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40523,
+          "like_count": 276,
+          "quote_count": 10,
+          "reply_count": 191,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "谁接🤲❤️‍🔥 https://t.co/d4GkvPi9U3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 377,
+          "like_count": 12268,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 3182
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T16:00:39.000Z",
+        "description": "04｜pansexual｜XNTP｜1switch｜抽烟喝酒打麻将｜你好我叫唧唧｜小号@Jijichikkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "Jijichikkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiji1215",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiji1215",
+                "start": 0,
+                "url": "https://t.co/B75djz4pQx"
+              }
+            ]
+          }
+        },
+        "id": "1492166667710783490",
+        "location": "🚪52/98/198/328/648",
+        "name": "烟头烫你屁股",
+        "pinned_tweet_id": "1914188156364284179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909644364084920322/8UxdL-Bx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 280,
+          "like_count": 1665,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 4377
+        },
+        "url": "https://t.co/B75djz4pQx",
+        "username": "jiji15111832",
+        "verified": false
+      }
+    ]
+  }
+}

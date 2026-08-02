@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2039767685328973834",
+    "created_at": "2026-04-03T07:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039963045435458033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1632759941898592258",
+          "start": 0,
+          "username": "Alan_jupiters"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039963045435458033",
+    "in_reply_to_user_id": "1632759941898592258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039881819273957409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alan_jupiters 🥲但事实真是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2039767685328973834",
+        "created_at": "2026-04-03T07:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039963045435458033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1632759941898592258",
+              "start": 0,
+              "username": "Alan_jupiters"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039963045435458033",
+        "in_reply_to_user_id": "1632759941898592258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039881819273957409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alan_jupiters 🥲但事实真是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632759941898592258",
+        "conversation_id": "2039767685328973834",
+        "created_at": "2026-04-03T01:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039881819273957409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039881819273957409",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039767685328973834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 宝宝不要这么想呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 308,
+          "like_count": 17066,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 5685
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T15:08:19.000Z",
+        "description": "Everything will change.",
+        "id": "1632759941898592258",
+        "name": "Alan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850445522026598400/vSmlmzua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 49,
+          "like_count": 3592,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 2125
+        },
+        "username": "Alan_jupiters",
+        "verified": false
+      }
+    ]
+  }
+}

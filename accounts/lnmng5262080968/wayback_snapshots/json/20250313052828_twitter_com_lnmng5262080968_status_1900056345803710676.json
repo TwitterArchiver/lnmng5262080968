@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1900056345803710676",
+    "created_at": "2025-03-13T05:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T06:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900056345803710676"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900056345803710676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不小心语气冲了一点就特别内疚，真是废了。那帮贱人从来不会内疚随便恶心我对我释放恶意忽略冷漠，我就是太善良了才会如此痛苦，对贱人们好也不会领情。他们根本不会内疚伤人了也认为是别人自己的问题我讨厌为什么我不敢反击为什么贱人们有一点难受就要说出来就要记仇愚蠢的解读为什么我不想伤害任何人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1900056345803710676",
+        "created_at": "2025-03-13T05:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T06:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900056345803710676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900056345803710676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不小心语气冲了一点就特别内疚，真是废了。那帮贱人从来不会内疚随便恶心我对我释放恶意忽略冷漠，我就是太善良了才会如此痛苦，对贱人们好也不会领情。他们根本不会内疚伤人了也认为是别人自己的问题我讨厌为什么我不敢反击为什么贱人们有一点难受就要说出来就要记仇愚蠢的解读为什么我不想伤害任何人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 343,
+          "like_count": 9872,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2331
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

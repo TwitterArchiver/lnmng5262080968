@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2056654704130896045",
+    "created_at": "2026-05-19T14:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056744373736583439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906670949262569472",
+          "start": 0,
+          "username": "suki217423"
+        },
+        {
+          "end": 23,
+          "id": "1351877686889570305",
+          "start": 12,
+          "username": "dd99744279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056744373736583439",
+    "in_reply_to_user_id": "1906670949262569472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056735836025319485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suki217423 @dd99744279 展示厨力+有钱叭，现在网络风气真的很离谱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2056654704130896045",
+        "created_at": "2026-05-19T14:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056744373736583439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906670949262569472",
+              "start": 0,
+              "username": "suki217423"
+            },
+            {
+              "end": 23,
+              "id": "1351877686889570305",
+              "start": 12,
+              "username": "dd99744279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056744373736583439",
+        "in_reply_to_user_id": "1906670949262569472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056735836025319485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suki217423 @dd99744279 展示厨力+有钱叭，现在网络风气真的很离谱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906670949262569472",
+        "conversation_id": "2056654704130896045",
+        "created_at": "2026-05-19T13:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056735836025319485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1351877686889570305",
+              "start": 0,
+              "username": "dd99744279"
+            },
+            {
+              "end": 28,
+              "id": "1792011763875184640",
+              "start": 12,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056735836025319485",
+        "in_reply_to_user_id": "1351877686889570305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056725686388408496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd99744279 @lnmng5262080968 对有钱人就是炫富装逼展现实力，理解不了那种穷的揭不开锅了还偷偷用家里钱买谷摆阵的。最近那个十几万的oc也是很离谱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 313,
+          "like_count": 17518,
+          "listed_count": 5,
+          "media_count": 205,
+          "tweet_count": 5901
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T11:32:58.000Z",
+        "description": "来看恶俗笑话和喜欢的画师",
+        "id": "1906670949262569472",
+        "name": "u2u",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927650996186169344/L0U7W80M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 74,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "username": "suki217423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-20T13:02:34.000Z",
+        "description": "反婚反孝。话痨。开摆。没素质。明天的食堂还有大米套餐和鸡腿饭，我们一起去吃吧。看不惯我直接把我屏蔽，不喜欢吵架。",
+        "id": "1351877686889570305",
+        "name": "dd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396408266184265732/U022ncyb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 321,
+          "like_count": 4013,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 441
+        },
+        "username": "dd99744279",
+        "verified": false
+      }
+    ]
+  }
+}

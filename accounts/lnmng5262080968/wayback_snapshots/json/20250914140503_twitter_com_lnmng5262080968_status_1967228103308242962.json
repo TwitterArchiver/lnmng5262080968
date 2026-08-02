@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1967171183037857859",
+    "created_at": "2025-09-14T14:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T15:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967228103308242962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyu_xiaoyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967228103308242962",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967171183037857859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyu_xiaoyang 好萌呜呜😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1967171122535010304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zLtqMbEAArifg.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1967171183037857859",
+        "created_at": "2025-09-14T14:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967228103308242962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyu_xiaoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967228103308242962",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967171183037857859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyu_xiaoyang 好萌呜呜😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967171122535010304"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967171183037857859",
+        "created_at": "2025-09-14T10:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967171183037857859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMvZu6mH0D",
+              "end": 26,
+              "expanded_url": "https://x.com/xiaoyu_xiaoyang/status/1967171183037857859/photo/1",
+              "media_key": "3_1967171122535010304",
+              "start": 3,
+              "url": "https://t.co/FMvZu6mH0D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967171183037857859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孤独 https://t.co/FMvZu6mH0D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 367,
+          "like_count": 14022,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 4388
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "叫我小雨就好//🚪槛52 部分不需要//想要互关或者加好友请私信然后我看成分//gal 日乙 二游 魂类游戏爱好者//cos//碎碎念//电波系//自伤警告",
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "梦雨",
+        "pinned_tweet_id": "1962900627195056567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965003962266054656/dpGNpUpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 356,
+          "like_count": 3359,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 1801
+        },
+        "username": "xiaoyu_xiaoyang",
+        "verified": false
+      }
+    ]
+  }
+}

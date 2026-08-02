@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2056654704130896045",
+    "created_at": "2026-05-20T04:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056950335906935055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800467871287648256",
+          "start": 0,
+          "username": "udouyuu_1016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056950335906935055",
+    "in_reply_to_user_id": "1800467871287648256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056934867288613265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@udouyuu_1016 脱产阶级说话就是硬气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2056654704130896045",
+        "created_at": "2026-05-20T04:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056950335906935055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800467871287648256",
+              "start": 0,
+              "username": "udouyuu_1016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056950335906935055",
+        "in_reply_to_user_id": "1800467871287648256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056934867288613265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@udouyuu_1016 脱产阶级说话就是硬气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800467871287648256",
+        "conversation_id": "2056654704130896045",
+        "created_at": "2026-05-20T03:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056934867288613265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056934867288613265",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056654704130896045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 不生养后代就不需要生养后代的必需品了呀～还是说你那点遗产一定需要有人来继承☺️😲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 314,
+          "like_count": 17550,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 5920
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T09:59:43.000Z",
+        "description": "新アカ˖◛⁺⑅♡推しが宇宙の中心💎 / sjk/雑多＆好き勝手に生息中🤍🥂 /ᜊ(꒪ˊ꒳ˋ꒪)ᜊ",
+        "id": "1800467871287648256",
+        "name": "子春十六Udo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001188168591400963/DBrnMPJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 71
+        },
+        "username": "udouyuu_1016",
+        "verified": false
+      }
+    ]
+  }
+}

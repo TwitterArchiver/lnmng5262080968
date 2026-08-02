@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1982465069947740668",
+    "created_at": "2025-10-26T15:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T16:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982465069947740668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lnmng526208096…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/lnmng5262080968/status/1982464604761739770",
+          "start": 14,
+          "url": "https://t.co/3cEVShgcKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982465069947740668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982464604761739770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上吊教程同求，吊不死的那种 https://t.co/3cEVShgcKs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1982465069947740668",
+        "created_at": "2025-10-26T15:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982465069947740668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/1982464604761739770",
+              "start": 14,
+              "url": "https://t.co/3cEVShgcKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982465069947740668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982464604761739770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上吊教程同求，吊不死的那种 https://t.co/3cEVShgcKs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1982464604761739770",
+        "created_at": "2025-10-26T15:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982464604761739770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982464604761739770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有割脖子教程给我玩玩，今天买pr 需要处方才能行气的我开始割脖子。但我不想死也不想割太深，脖子这块皮肤摸起来挺嫩其实厚的很啊。。割半天还不如猫抓的深😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 371,
+          "like_count": 14295,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 4616
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

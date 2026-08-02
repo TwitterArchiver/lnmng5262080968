@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2014931464979451968",
+    "created_at": "2026-01-24T05:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T06:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014931464979451968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lnmng526208096…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/lnmng5262080968/status/2014931198318149751",
+          "start": 14,
+          "url": "https://t.co/GbPtMdX3kC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014931464979451968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014931198318149751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "过上我这种生活你们不跳了😂 https://t.co/GbPtMdX3kC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2014931464979451968",
+        "created_at": "2026-01-24T05:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014931464979451968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/2014931198318149751",
+              "start": 14,
+              "url": "https://t.co/GbPtMdX3kC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014931464979451968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014931198318149751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过上我这种生活你们不跳了😂 https://t.co/GbPtMdX3kC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2014929280720109582",
+        "created_at": "2026-01-24T05:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014931198318149751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014931198318149751",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014929280720109582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们没做错任何事，单纯仇富😂有钱就算了能别改花刀抑郁了不😂你们永远有退路实际上生活条件比大部分人都好😂父母既然给你铺路花钱就说明他们没虐待你😂能别拍照片背景是一堆日牌配上忧郁文案哭自己多么不幸福多么惨多缺爱了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 298,
+          "like_count": 15129,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 5277
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

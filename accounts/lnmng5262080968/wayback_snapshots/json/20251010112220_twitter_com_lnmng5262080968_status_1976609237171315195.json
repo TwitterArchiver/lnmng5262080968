@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1975221455601410365",
+    "created_at": "2025-10-10T11:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T12:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976609237171315195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1263368268103860227",
+          "start": 0,
+          "username": "kano_258025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976609237171315195",
+    "in_reply_to_user_id": "1263368268103860227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975503445676466260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kano_258025 高松灯可爱可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 112,
+        "media_key": "16_1975503433789845504",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G2pl6AebsAAfiV-.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G2pl6AebsAAfiV-.mp4"
+          }
+        ],
+        "width": 112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1975221455601410365",
+        "created_at": "2025-10-10T11:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T12:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976609237171315195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1263368268103860227",
+              "start": 0,
+              "username": "kano_258025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976609237171315195",
+        "in_reply_to_user_id": "1263368268103860227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975503445676466260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kano_258025 高松灯可爱可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1975503433789845504"
+          ]
+        },
+        "author_id": "1263368268103860227",
+        "conversation_id": "1975221455601410365",
+        "created_at": "2025-10-07T10:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975503445676466260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WqK1tIZZuy",
+              "end": 50,
+              "expanded_url": "https://x.com/kano_258025/status/1975503445676466260/photo/1",
+              "media_key": "16_1975503433789845504",
+              "start": 27,
+              "url": "https://t.co/WqK1tIZZuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975503445676466260",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975221455601410365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 企鹅可爱可爱大可爱 https://t.co/WqK1tIZZuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 366,
+          "like_count": 14097,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 4463
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-21T07:20:32.000Z",
+        "description": "性别不详，咱是武装直升机\n厨要乐奈？國慶日快樂🇹🇼",
+        "id": "1263368268103860227",
+        "location": "民国114年应天府明太庙",
+        "name": "太祖高皇帝朱重八MyGO子(🇹🇼中华民国双十国庆快乐🇹🇼)（世界精神病日）",
+        "pinned_tweet_id": "1975636191157625011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974043617779200003/RPPqNLZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 2288,
+          "like_count": 73548,
+          "listed_count": 6,
+          "media_count": 396,
+          "tweet_count": 6698
+        },
+        "username": "kano_258025",
+        "verified": false
+      }
+    ]
+  }
+}

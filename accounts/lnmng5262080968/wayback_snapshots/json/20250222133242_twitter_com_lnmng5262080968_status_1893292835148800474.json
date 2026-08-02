@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1883732190019920376",
+    "created_at": "2025-02-22T13:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T14:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893292835148800474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1877612529788309504",
+          "start": 0,
+          "username": "AugOnly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893292835148800474",
+    "in_reply_to_user_id": "1877612529788309504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893272129258287578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AugOnly1 是的，，也不知道当时哪来那么大勇气真的很烫很疼🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1883732190019920376",
+        "created_at": "2025-02-22T13:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893292835148800474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1877612529788309504",
+              "start": 0,
+              "username": "AugOnly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893292835148800474",
+        "in_reply_to_user_id": "1877612529788309504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893272129258287578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AugOnly1 是的，，也不知道当时哪来那么大勇气真的很烫很疼🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877612529788309504",
+        "conversation_id": "1883732190019920376",
+        "created_at": "2025-02-22T12:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T13:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893272129258287578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893272129258287578",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883732190019920376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 这是烫的吗宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 286,
+          "like_count": 7251,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1779
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T07:04:56.000Z",
+        "description": "Would u be mine | @xiaodiqiu0612 | 🚪纯绿138 | 入了不退 | 随缘聊天 | 不涉及线下 | 喜欢会回关 | 男的私信只回过🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "xiaodiqiu0612"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E5%9C%B0%E7%90%83%E6%98%AF%E4%B9%9F",
+                "start": 0,
+                "url": "https://t.co/Yzk0Bufwio"
+              }
+            ]
+          }
+        },
+        "id": "1877612529788309504",
+        "location": "🌏",
+        "name": "地球可不好混呀",
+        "pinned_tweet_id": "1891094462740254760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879980146473730048/8YXP-NZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 210,
+          "like_count": 4448,
+          "listed_count": 6,
+          "media_count": 37,
+          "tweet_count": 2624
+        },
+        "url": "https://t.co/Yzk0Bufwio",
+        "username": "AugOnly1",
+        "verified": false
+      }
+    ]
+  }
+}

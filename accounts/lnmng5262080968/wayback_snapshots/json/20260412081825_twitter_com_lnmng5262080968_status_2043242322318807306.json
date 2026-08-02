@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043242246787792896"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043242322318807306",
+    "created_at": "2026-04-12T08:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043242322318807306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PZ1IygZb0O",
+          "end": 32,
+          "expanded_url": "https://x.com/lnmng5262080968/status/2043242322318807306/photo/1",
+          "media_key": "3_2043242246787792896",
+          "start": 9,
+          "url": "https://t.co/PZ1IygZb0O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043242322318807306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "线下真实永雏小雨 https://t.co/PZ1IygZb0O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043242246787792896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsN_3XbgAAj_G9.jpg",
+        "width": 1629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043242246787792896"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043242322318807306",
+        "created_at": "2026-04-12T08:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043242322318807306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZ1IygZb0O",
+              "end": 32,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2043242322318807306/photo/1",
+              "media_key": "3_2043242246787792896",
+              "start": 9,
+              "url": "https://t.co/PZ1IygZb0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043242322318807306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "线下真实永雏小雨 https://t.co/PZ1IygZb0O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 309,
+          "like_count": 17274,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 5741
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

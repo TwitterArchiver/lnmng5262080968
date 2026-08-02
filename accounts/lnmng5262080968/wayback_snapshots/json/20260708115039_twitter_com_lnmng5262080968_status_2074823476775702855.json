@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2074712726241427482",
+    "created_at": "2026-07-08T11:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074823476775702855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2524396392",
+          "start": 0,
+          "username": "acgcnxox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074823476775702855",
+    "in_reply_to_user_id": "2524396392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074763474153222300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acgcnxox 恭喜跑路，接下来继续面试吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2074712726241427482",
+        "created_at": "2026-07-08T11:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074823476775702855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2524396392",
+              "start": 0,
+              "username": "acgcnxox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074823476775702855",
+        "in_reply_to_user_id": "2524396392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074763474153222300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acgcnxox 恭喜跑路，接下来继续面试吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2524396392",
+        "conversation_id": "2074712726241427482",
+        "created_at": "2026-07-08T07:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074763474153222300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074763474153222300",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074712726241427482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 跑路了我反而要说一身，恭喜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "有爱的世界回到来吗",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 314,
+          "like_count": 17796,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 6056
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-26T07:33:13.000Z",
+        "description": "🌙 幻月 | 二次元ACGer交友站\n\nidol｜coser｜音游人｜日常肝手游\n不分男女老少～一起聊天吧💕\n来聊番、聊cos、聊游戏、聊生活！\n\n🌙 幻月 | 二次元ACGer交流コミュニティ\nidol｜コスプレイヤー｜音ゲーマー｜ソシャゲ廃人\n年齢・性別問わず大歓迎✨\nアニメ・コス・ゲーム・日常話そうね💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idol.schoid.com",
+                "end": 23,
+                "expanded_url": "http://idol.schoid.com",
+                "start": 0,
+                "url": "https://t.co/HXkE6b6VR8"
+              }
+            ]
+          }
+        },
+        "id": "2524396392",
+        "location": "China",
+        "name": "幻月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056282464503615488/NKK_30G-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2669,
+          "following_count": 193,
+          "like_count": 142,
+          "listed_count": 20,
+          "media_count": 19566,
+          "tweet_count": 95267
+        },
+        "url": "https://t.co/HXkE6b6VR8",
+        "username": "acgcnxox",
+        "verified": true
+      }
+    ]
+  }
+}

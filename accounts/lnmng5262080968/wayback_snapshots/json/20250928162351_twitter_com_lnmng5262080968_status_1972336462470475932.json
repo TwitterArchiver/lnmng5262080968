@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1971672769894166620",
+    "created_at": "2025-09-28T16:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T17:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972336462470475932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1103029613008105472",
+          "start": 0,
+          "username": "ruoyu48542575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972336462470475932",
+    "in_reply_to_user_id": "1103029613008105472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971715153394913630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoyu48542575 避免不了，哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1971672769894166620",
+        "created_at": "2025-09-28T16:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T17:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972336462470475932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1103029613008105472",
+              "start": 0,
+              "username": "ruoyu48542575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972336462470475932",
+        "in_reply_to_user_id": "1103029613008105472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971715153394913630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoyu48542575 避免不了，哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103029613008105472",
+        "conversation_id": "1971672769894166620",
+        "created_at": "2025-09-26T23:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T00:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971715153394913630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971715153394913630",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971672769894166620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 拉黑套餐了解一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 367,
+          "like_count": 14023,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 4430
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-05T20:28:47.000Z",
+        "description": "半生荒唐半生痴，\n只恨沉醉不自知，\n我劝诸公皆抖擞，\n莫若如我后悔迟；\n枕戈待旦鸡鸣天，\n日落西山趁早眠，\n春夏秋冬成一统，\n粗茶淡饭耕薄田；\n夜半孤灯人难眠，\n昨日种种过眼前，\n豆蔻年华随时杳，\n冷暖自知空陌轩；\n南华一梦终须醒，\n东奔西走天复明，\n闲时但把诗书念，\n不负心怀不负卿。",
+        "id": "1103029613008105472",
+        "name": "ruoyu",
+        "pinned_tweet_id": "1965055972952711237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103029996010930176/E62tUT3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 368,
+          "like_count": 12073,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 9000
+        },
+        "username": "ruoyu48542575",
+        "verified": false
+      }
+    ]
+  }
+}

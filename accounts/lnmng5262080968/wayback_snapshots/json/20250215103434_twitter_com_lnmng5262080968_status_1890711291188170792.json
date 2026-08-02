@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1890386441303216319",
+    "created_at": "2025-02-15T10:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T11:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890711291188170792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1823603240145182724",
+          "start": 0,
+          "username": "Yeziua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890711291188170792",
+    "in_reply_to_user_id": "1823603240145182724",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890707950886363361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yeziua 😭🌚😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1890386441303216319",
+        "created_at": "2025-02-15T10:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T11:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890711291188170792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1823603240145182724",
+              "start": 0,
+              "username": "Yeziua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890711291188170792",
+        "in_reply_to_user_id": "1823603240145182724",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890707950886363361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yeziua 😭🌚😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823603240145182724",
+        "conversation_id": "1890386441303216319",
+        "created_at": "2025-02-15T10:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T11:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890707950886363361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890707950886363361",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890386441303216319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 😭谁不想一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 240,
+          "like_count": 6227,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1572
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T06:11:17.000Z",
+        "description": "坐标山西太原/08/炸柜/无证含糖/抑郁/自残/缺爱/抽🚬/同类fo/梦想有一段幸福的恋爱和能和爱的人抱一起睡觉/hrt2024.10.12",
+        "id": "1823603240145182724",
+        "location": "你心中",
+        "name": "花去他妈的ya🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1878257820144971942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889927069498482689/eI958Ix5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 326,
+          "like_count": 701,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 453
+        },
+        "username": "Yeziua",
+        "verified": false
+      }
+    ]
+  }
+}

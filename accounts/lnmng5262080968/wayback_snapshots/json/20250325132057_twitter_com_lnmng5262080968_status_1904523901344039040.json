@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1904521342088515714",
+    "created_at": "2025-03-25T13:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T14:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904523901344039040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673478285970518016",
+          "start": 0,
+          "username": "1327144914V3frc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904523901344039040",
+    "in_reply_to_user_id": "1673478285970518016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904523508262281348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1327144914V3frc 好好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1904521342088515714",
+        "created_at": "2025-03-25T13:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T14:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904523901344039040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673478285970518016",
+              "start": 0,
+              "username": "1327144914V3frc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904523901344039040",
+        "in_reply_to_user_id": "1673478285970518016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904523508262281348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1327144914V3frc 好好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673478285970518016",
+        "conversation_id": "1904521342088515714",
+        "created_at": "2025-03-25T13:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T14:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904523508262281348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904523508262281348",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904522274780348565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 时刻关注你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 355,
+          "like_count": 10512,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2530
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T23:48:16.000Z",
+        "description": "男！男！男！",
+        "id": "1673478285970518016",
+        "name": "水母大军进攻蚂蚁窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896696762750173184/2vmUE9VV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 61,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 277
+        },
+        "username": "1327144914V3frc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1894803220863606804",
+    "created_at": "2025-02-27T01:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T02:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894930225697546655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705758552395255808",
+          "start": 0,
+          "username": "04lizzz1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894930225697546655",
+    "in_reply_to_user_id": "1705758552395255808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894803220863606804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04lizzz1121 和我玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1894803220863606804",
+        "created_at": "2025-02-27T01:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T02:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894930225697546655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705758552395255808",
+              "start": 0,
+              "username": "04lizzz1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894930225697546655",
+        "in_reply_to_user_id": "1705758552395255808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894803220863606804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04lizzz1121 和我玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705758552395255808",
+        "conversation_id": "1894803220863606804",
+        "created_at": "2025-02-26T17:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T18:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894803220863606804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894803220863606804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求你们了别不搭理我，我现实中一个朋友都没有，去超市买东西服务员多跟我说几句话我都能开心一 宿，生活中我是父母口中扶不起的阿斗，是同事用 来闷子的小丑，是异性眼中不折不扣的大傻狗，是咱们这个朋友圈让我第一次把快乐拥有，求你们了别让我回到那个冰冷的现实世界，我真的好害怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 302,
+          "like_count": 7743,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1872
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T01:38:32.000Z",
+        "description": "看成分互fo/废话日记本📖/已有老公 请勿骚扰 就在置顶",
+        "id": "1705758552395255808",
+        "location": "渽民渽民",
+        "name": "sion",
+        "pinned_tweet_id": "1894694005985648741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894692999386320896/xspZSRw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 307,
+          "like_count": 1796,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 1912
+        },
+        "username": "04lizzz1121",
+        "verified": false
+      }
+    ]
+  }
+}

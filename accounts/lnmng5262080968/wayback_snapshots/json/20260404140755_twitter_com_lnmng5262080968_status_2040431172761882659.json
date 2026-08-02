@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2040431172761882659",
+    "created_at": "2026-04-04T14:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T15:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040431172761882659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__ju___ju__/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/__ju___ju__/status/2040016706287145410",
+          "start": 2,
+          "url": "https://t.co/SbqvnRKD56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040431172761882659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040016706287145410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/SbqvnRKD56"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2040431172761882659",
+        "created_at": "2026-04-04T14:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040431172761882659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__ju___ju__/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/__ju___ju__/status/2040016706287145410",
+              "start": 2,
+              "url": "https://t.co/SbqvnRKD56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040431172761882659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040016706287145410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/SbqvnRKD56"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3012350599",
+        "conversation_id": "2040016706287145410",
+        "created_at": "2026-04-03T10:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040016706287145410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040016706287145410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 103477,
+          "like_count": 2873,
+          "quote_count": 30,
+          "reply_count": 105,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "中国人除了原生家庭还有原生国家创伤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 308,
+          "like_count": 17149,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 5695
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "毛绒娃娃回家计划🐰🍊/#すこ部 推し /💕@GiveProofToLove 🫎@mukdengise 可以叫我桔桔/我要出去玩了！！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "mukdengise"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "김일성종합대학",
+        "name": "老学桔8964🍎",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4307,
+          "following_count": 490,
+          "like_count": 41850,
+          "listed_count": 16,
+          "media_count": 3154,
+          "tweet_count": 44128
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1979162126615732386",
+    "created_at": "2025-10-17T12:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T13:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979162126615732386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lnmng526208096…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/lnmng5262080968/status/1979161483868250541",
+          "start": 71,
+          "url": "https://t.co/LNxGAwYsRw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979162126615732386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979161483868250541",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要觉得当女的好有人陪着玩游戏，正常女生不想跟一群不认识的男的打游戏😅以为自己是众星捧月女明星，其实是向往逼的性压抑男和几把女信徒的双向奔赴 https://t.co/LNxGAwYsRw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 623,
+        "media_key": "3_1979161468474888192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dk3pmWEAAR19z.jpg",
+        "width": 607
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1979162126615732386",
+        "created_at": "2025-10-17T12:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979162126615732386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/1979161483868250541",
+              "start": 71,
+              "url": "https://t.co/LNxGAwYsRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979162126615732386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979161483868250541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要觉得当女的好有人陪着玩游戏，正常女生不想跟一群不认识的男的打游戏😅以为自己是众星捧月女明星，其实是向往逼的性压抑男和几把女信徒的双向奔赴 https://t.co/LNxGAwYsRw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979161468474888192"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "1979161483868250541",
+        "created_at": "2025-10-17T12:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979161483868250541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/13XXJJonqm",
+              "end": 59,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1979161483868250541/photo/1",
+              "media_key": "3_1979161468474888192",
+              "start": 36,
+              "url": "https://t.co/13XXJJonqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979161483868250541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某些女的打受众群体为男性的游戏还加群加小团体，安的什么心大家都知道哈😅 https://t.co/13XXJJonqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 371,
+          "like_count": 14207,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 4556
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

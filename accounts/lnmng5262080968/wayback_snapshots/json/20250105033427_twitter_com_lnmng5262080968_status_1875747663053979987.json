@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875747550281789440"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "1875747663053979987",
+    "created_at": "2025-01-05T03:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T04:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875747663053979987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/61HJZ6LQAo",
+          "end": 57,
+          "expanded_url": "https://x.com/lnmng5262080968/status/1875747663053979987/photo/1",
+          "media_key": "3_1875747550281789440",
+          "start": 34,
+          "url": "https://t.co/61HJZ6LQAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875747663053979987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁能收主播这套衣服呀，，状态很好的，买主播的衣服我什么都会做的，， https://t.co/61HJZ6LQAo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1875747550281789440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggf-dXba8AAXnJM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875747550281789440"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "1875747663053979987",
+        "created_at": "2025-01-05T03:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T04:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875747663053979987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/61HJZ6LQAo",
+              "end": 57,
+              "expanded_url": "https://x.com/lnmng5262080968/status/1875747663053979987/photo/1",
+              "media_key": "3_1875747550281789440",
+              "start": 34,
+              "url": "https://t.co/61HJZ6LQAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875747663053979987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能收主播这套衣服呀，，状态很好的，买主播的衣服我什么都会做的，， https://t.co/61HJZ6LQAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪\n欢迎来到凛凛的阴暗小世界…\n此平台不定时在线 随时暴毙\n凛凛找到了自己的主人",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 15,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 121
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2041417052951568384"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "2041417070970327430",
+    "created_at": "2026-04-07T07:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041417070970327430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sLPLhU6tsA",
+          "end": 41,
+          "expanded_url": "https://x.com/lnmng5262080968/status/2041417070970327430/video/1",
+          "media_key": "13_2041417052951568384",
+          "start": 18,
+          "url": "https://t.co/sLPLhU6tsA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041417070970327430",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "割手上瘾我割割割割割天天割手天天爽 https://t.co/sLPLhU6tsA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5133,
+        "height": 854,
+        "media_key": "13_2041417052951568384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041417052951568384/img/v3c-7amt7CDgWiyl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041417052951568384/vid/avc1/320x568/u9oPOfpJyLIVTKBY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041417052951568384/vid/avc1/480x854/D9n9suN47OxaCRVi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041417052951568384/pl/KB2GSKQzoAD30yVQ.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041417052951568384"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "2041417070970327430",
+        "created_at": "2026-04-07T07:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041417070970327430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sLPLhU6tsA",
+              "end": 41,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2041417070970327430/video/1",
+              "media_key": "13_2041417052951568384",
+              "start": 18,
+              "url": "https://t.co/sLPLhU6tsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041417070970327430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割手上瘾我割割割割割天天割手天天爽 https://t.co/sLPLhU6tsA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 309,
+          "like_count": 17181,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 5705
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2047723955545579836",
+    "created_at": "2026-04-25T06:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047931779424878971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1960520322517753860",
+          "start": 0,
+          "username": "wzy92649398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047931779424878971",
+    "in_reply_to_user_id": "1960520322517753860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047855479188267039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzy92649398 我也碰到一堆傻逼，一天天能被气吐血😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2047723955545579836",
+        "created_at": "2026-04-25T06:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047931779424878971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960520322517753860",
+              "start": 0,
+              "username": "wzy92649398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047931779424878971",
+        "in_reply_to_user_id": "1960520322517753860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047855479188267039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzy92649398 我也碰到一堆傻逼，一天天能被气吐血😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960520322517753860",
+        "conversation_id": "2047723955545579836",
+        "created_at": "2026-04-25T01:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047855479188267039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047855479188267039",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047723955545579836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 到现在没交到一个朋友。倒是碰到一堆傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "凛｜我正在腐烂 正在消失 🚪52+好友闲聊 音游老资历和妹子免门 纯绿 黄推请不要打扰我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 311,
+          "like_count": 17451,
+          "listed_count": 5,
+          "media_count": 211,
+          "tweet_count": 5826
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T01:50:57.000Z",
+        "description": "一个sub！\n我有一个圈钱梦……\n请投喂好看的手和肌肉\n不卡泡 聊骚看心情 \n没礼貌的孩子们就别打扰我了",
+        "id": "1960520322517753860",
+        "name": "你怎么又哭了?",
+        "pinned_tweet_id": "2017247462105481666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040721929917911040/rdIlu_A6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 22,
+          "like_count": 855,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 108
+        },
+        "username": "wzy92649398",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1875497310744146180",
+    "created_at": "2025-01-05T08:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T09:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875826107947389324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587050144259710976",
+          "start": 0,
+          "username": "LingJiang03103"
+        },
+        {
+          "end": 26,
+          "id": "1153921233445986304",
+          "start": 16,
+          "username": "shirumesu"
+        },
+        {
+          "end": 37,
+          "id": "1724478615973494784",
+          "start": 27,
+          "username": "yuan_7302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875826107947389324",
+    "in_reply_to_user_id": "1587050144259710976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875825913134465449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiang03103 @shirumesu @yuan_7302 支持，可以发寄吧，给我钱就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1875497310744146180",
+        "created_at": "2025-01-05T08:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T09:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875826107947389324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587050144259710976",
+              "start": 0,
+              "username": "LingJiang03103"
+            },
+            {
+              "end": 26,
+              "id": "1153921233445986304",
+              "start": 16,
+              "username": "shirumesu"
+            },
+            {
+              "end": 37,
+              "id": "1724478615973494784",
+              "start": 27,
+              "username": "yuan_7302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875826107947389324",
+        "in_reply_to_user_id": "1587050144259710976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875825913134465449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiang03103 @shirumesu @yuan_7302 支持，可以发寄吧，给我钱就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587050144259710976",
+        "conversation_id": "1875497310744146180",
+        "created_at": "2025-01-05T08:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T09:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875825913134465449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1153921233445986304",
+              "start": 0,
+              "username": "shirumesu"
+            },
+            {
+              "end": 21,
+              "id": "1724478615973494784",
+              "start": 11,
+              "username": "yuan_7302"
+            },
+            {
+              "end": 38,
+              "id": "1792011763875184640",
+              "start": 22,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875825913134465449",
+        "in_reply_to_user_id": "1153921233445986304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875776297038983297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirumesu @yuan_7302 @lnmng5262080968 那应该直接转账，而不是发几把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪\n欢迎来到凛凛的阴暗小世界…\n此平台不定时在线 随时暴毙\n凛凛找到了自己的主人",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 21,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 143
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T11:53:47.000Z",
+        "description": "业余妹摄爱好拍色图的模特/兄控/肌肉控/ 🚪29.9QQ无福利，仅限咨询➕好友位➕包终身/先过再问谢谢！私v1314 ！ 求包养接摄模举牌出原味及KFC代吃（主营业务）  希望大家多多互动随缘在这里给大家康康色图希望更多人能够欣赏（不会很露）未成年别来，好好读书吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+QdQOyL6hYx9hY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+QdQOyL6hYx9hYjhl",
+                "start": 0,
+                "url": "https://t.co/TMs0WTEAxA"
+              }
+            ]
+          }
+        },
+        "id": "1587050144259710976",
+        "location": "距你35.9km",
+        "name": "蘸酱小酥肉（臭发涩图的",
+        "pinned_tweet_id": "1726621213278294493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618884364905107457/tz3CvptL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6335,
+          "following_count": 96,
+          "like_count": 1071,
+          "listed_count": 18,
+          "media_count": 346,
+          "tweet_count": 1275
+        },
+        "url": "https://t.co/TMs0WTEAxA",
+        "username": "LingJiang03103",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc，希露梅斯·莉莉丝·菲利欧露，巡礼魔女，愿歌赫姆的星光永不消逝/是infp～/私信闲聊树洞都欢迎吧？/因为需要“正在关注”时间线，不一定回fo抱歉！（要回fo可以说！）/祝你开心～",
+        "id": "1153921233445986304",
+        "location": "卡梅利亚大森林远郊",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1846484419571519622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869417660737548288/hIoqCtVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 29,
+          "like_count": 7901,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 4650
+        },
+        "username": "shirumesu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-14T17:25:27.000Z",
+        "description": "我好累",
+        "id": "1724478615973494784",
+        "location": "🚪52 纯绿 偶尔聊天(^-^)",
+        "name": "緣",
+        "pinned_tweet_id": "1874535616404488514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861286460219105280/cXDdF38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3685,
+          "following_count": 194,
+          "like_count": 13235,
+          "listed_count": 7,
+          "media_count": 557,
+          "tweet_count": 4993
+        },
+        "username": "yuan_7302",
+        "verified": false
+      }
+    ]
+  }
+}

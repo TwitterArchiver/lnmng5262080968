@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2006445300253393342",
+    "created_at": "2026-01-01T07:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T08:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006627163685138588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789558771980574720",
+          "start": 0,
+          "username": "abc307539296763"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006627163685138588",
+    "in_reply_to_user_id": "1789558771980574720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006445851804377546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abc307539296763 🥺🥺我就是这样的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2006445300253393342",
+        "created_at": "2026-01-01T07:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006627163685138588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789558771980574720",
+              "start": 0,
+              "username": "abc307539296763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006627163685138588",
+        "in_reply_to_user_id": "1789558771980574720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006445851804377546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abc307539296763 🥺🥺我就是这样的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789558771980574720",
+        "conversation_id": "2006445300253393342",
+        "created_at": "2025-12-31T19:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T20:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006445851804377546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006445851804377546",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006445655754219799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 病娇感，控制欲好强，主人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r看看腿 一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 378,
+          "like_count": 15144,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 5040
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T07:30:45.000Z",
+        "description": "树洞(真)，我可以倾听你说的一切(无)。是坐忘道(真的)男的，爱看爱看",
+        "id": "1789558771980574720",
+        "name": "悲伤过后呢",
+        "pinned_tweet_id": "2006058793868939471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886660821402705922/wHcIwVJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 1091,
+          "like_count": 3116,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4675
+        },
+        "username": "abc307539296763",
+        "verified": false
+      }
+    ]
+  }
+}

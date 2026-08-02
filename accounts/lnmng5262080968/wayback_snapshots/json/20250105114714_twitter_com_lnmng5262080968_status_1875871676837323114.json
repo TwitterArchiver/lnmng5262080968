@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1875871676837323114",
+    "created_at": "2025-01-05T11:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T12:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875871676837323114"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1875871676837323114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怪我贪心得要命，我知道你爱我的淤青，我的红痕，爱我高潮时不自觉伸出的舌头爱得不行，但我还要你爱我的病，我的幻听，我看你下床开灯时突然落寞的神情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1875871676837323114",
+        "created_at": "2025-01-05T11:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T12:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875871676837323114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875871676837323114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怪我贪心得要命，我知道你爱我的淤青，我的红痕，爱我高潮时不自觉伸出的舌头爱得不行，但我还要你爱我的病，我的幻听，我看你下床开灯时突然落寞的神情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪\n欢迎来到凛凛的阴暗小世界…\n此平台不定时在线 随时暴毙\n凛凛找到了自己的主人",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875745488013803615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 27,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 146
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

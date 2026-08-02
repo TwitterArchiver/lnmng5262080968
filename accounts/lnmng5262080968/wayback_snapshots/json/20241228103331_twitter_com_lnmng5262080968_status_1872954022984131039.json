@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1872297619642622018",
+    "created_at": "2024-12-28T10:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T11:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872954022984131039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686884646406025219",
+          "start": 0,
+          "username": "xiaoshui000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872954022984131039",
+    "in_reply_to_user_id": "1686884646406025219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872595473393147976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshui000 还挺爽的（？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1872297619642622018",
+        "created_at": "2024-12-28T10:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T11:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872954022984131039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686884646406025219",
+              "start": 0,
+              "username": "xiaoshui000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872954022984131039",
+        "in_reply_to_user_id": "1686884646406025219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872595473393147976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshui000 还挺爽的（？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686884646406025219",
+        "conversation_id": "1872297619642622018",
+        "created_at": "2024-12-27T10:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T11:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872595473393147976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872595473393147976",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872297619642622018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 没试过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪\n欢迎来到凛凛的阴暗小世界…\n此平台不定时在线 随时暴毙",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 72
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T23:40:37.000Z",
+        "description": "be  like   the    wind",
+        "id": "1686884646406025219",
+        "name": "be like the wind",
+        "pinned_tweet_id": "1863945775073697830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829504433668931584/PBJJI0MM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 223
+        },
+        "username": "xiaoshui000",
+        "verified": false
+      }
+    ]
+  }
+}

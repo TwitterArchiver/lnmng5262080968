@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1877943481957781504",
+    "created_at": "2025-01-11T05:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T06:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877951992460693926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774063407559512064",
+          "start": 0,
+          "username": "lightly_wind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877951992460693926",
+    "in_reply_to_user_id": "1774063407559512064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877947387442024697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lightly_wind 我动不了😢出去也是换个地方玩手机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1877943481957781504",
+        "created_at": "2025-01-11T05:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T06:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877951992460693926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774063407559512064",
+              "start": 0,
+              "username": "lightly_wind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877951992460693926",
+        "in_reply_to_user_id": "1774063407559512064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877947387442024697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightly_wind 我动不了😢出去也是换个地方玩手机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774063407559512064",
+        "conversation_id": "1877943481957781504",
+        "created_at": "2025-01-11T05:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T06:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877947387442024697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877947387442024697",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877943481957781504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 如果碰到了恶心的人，就扔掉手机出去走一走或者睡一觉吧，和那些满脑子污秽的蛆虫接触只会让自己更恶心🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "04｜infp｜梦想是全国流浪                                                        \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友\n🚪38好友位+朋友圈  68聊天",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1877926803257393628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 66,
+          "like_count": 1490,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 274
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T13:17:38.000Z",
+        "description": "🇨🇳/来自中国福建/目前日本在住/一个和气的文学青年/法律系本科毕业文科生/努力用语言温暖每一个人/对所有友善的人友善/能接受不同思想观念和立场/反对一切以偏概全的国籍、种族、民族歧视/喜欢二次元，旅游和摄影/梦想是实现经济自由/不参与谏政⚠️",
+        "id": "1774063407559512064",
+        "location": "异世界，王国都城，上城区",
+        "name": "やさしい風通り",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774063486559207424/dSsXFsSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 175,
+          "like_count": 1848,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 449
+        },
+        "username": "lightly_wind",
+        "verified": false
+      }
+    ]
+  }
+}

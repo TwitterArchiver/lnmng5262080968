@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1985633884990816266",
+    "created_at": "2025-11-07T19:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T20:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986871944877334755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491692173653204993",
+          "start": 0,
+          "username": "sunnan61952547"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986871944877334755",
+    "in_reply_to_user_id": "1491692173653204993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985647857035354257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunnan61952547 救命😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1985633884990816266",
+        "created_at": "2025-11-07T19:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T20:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986871944877334755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491692173653204993",
+              "start": 0,
+              "username": "sunnan61952547"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986871944877334755",
+        "in_reply_to_user_id": "1491692173653204993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985647857035354257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunnan61952547 救命😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491692173653204993",
+        "conversation_id": "1985633884990816266",
+        "created_at": "2025-11-04T09:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T10:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985647857035354257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985647857035354257",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985633884990816266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 感官过载是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 383,
+          "like_count": 14548,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 4719
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T08:35:11.000Z",
+        "description": "一个恶劣的人",
+        "id": "1491692173653204993",
+        "location": "万事屋",
+        "name": "轻鸾轴心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962342698104541184/MOPomqm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 145,
+          "like_count": 2128,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 727
+        },
+        "username": "sunnan61952547",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1991846545025810547",
+    "created_at": "2025-11-22T10:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992175557216522742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429848627837476877",
+          "start": 0,
+          "username": "VM50Frokfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992175557216522742",
+    "in_reply_to_user_id": "1429848627837476877",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992106006688698669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VM50Frokfc 有钱光速躺平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T10:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992175557216522742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429848627837476877",
+              "start": 0,
+              "username": "VM50Frokfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992175557216522742",
+        "in_reply_to_user_id": "1429848627837476877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992106006688698669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VM50Frokfc 有钱光速躺平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429848627837476877",
+        "conversation_id": "1991846545025810547",
+        "created_at": "2025-11-22T05:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992106006688698669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992106006688698669",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991846545025810547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 有钱就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 混吃等死没朋友没学历没工作 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 380,
+          "like_count": 14682,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4804
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T16:50:59.000Z",
+        "description": "常驻厦门泉州福州 年06身160重100 qq1377785593 打赏188 线上福利 打赏520 指哪拍哪 ^ ̳ට ̫ ට ̳^线下价格合适",
+        "id": "1429848627837476877",
+        "location": "福建",
+        "name": "呆呆",
+        "pinned_tweet_id": "1990802202957607027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992106271089278976/PK3iOaNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17539,
+          "following_count": 56,
+          "like_count": 291,
+          "listed_count": 101,
+          "media_count": 18,
+          "tweet_count": 87
+        },
+        "username": "VM50Frokfc",
+        "verified": false
+      }
+    ]
+  }
+}

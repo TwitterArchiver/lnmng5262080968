@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2039434499168374989",
+    "created_at": "2026-04-01T20:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T21:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039434499168374989"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039434499168374989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是凛，喜欢打邦多利和pjsk，喜欢rpg游戏最爱的是刺客信条^\n每天都在打游戏，打各种各样的游戏，因为能让我的一天不再空虚无聊。\n社交已经放弃了只会让我痛苦。很对不起即使这样也愿意和我玩的朋友，长时间不回消息不是讨厌你们，只是我一直在逃避，我真的很爱你们。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2039434499168374989",
+        "created_at": "2026-04-01T20:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T21:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039434499168374989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039434499168374989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是凛，喜欢打邦多利和pjsk，喜欢rpg游戏最爱的是刺客信条^\n每天都在打游戏，打各种各样的游戏，因为能让我的一天不再空虚无聊。\n社交已经放弃了只会让我痛苦。很对不起即使这样也愿意和我玩的朋友，长时间不回消息不是讨厌你们，只是我一直在逃避，我真的很爱你们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "社交放弃｜清水52只回口令",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 308,
+          "like_count": 16962,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 5659
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2034227443675103330",
+    "created_at": "2026-03-26T15:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037196484232568859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952325481354969088",
+          "start": 0,
+          "username": "zi_qing80842"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037196484232568859",
+    "in_reply_to_user_id": "1952325481354969088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036824122232090912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zi_qing80842 怎么这样😭如果和家里关系好的话还是和父母说一下吧，毕竟健康最重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2034227443675103330",
+        "created_at": "2026-03-26T15:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037196484232568859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952325481354969088",
+              "start": 0,
+              "username": "zi_qing80842"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037196484232568859",
+        "in_reply_to_user_id": "1952325481354969088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036824122232090912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zi_qing80842 怎么这样😭如果和家里关系好的话还是和父母说一下吧，毕竟健康最重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952325481354969088",
+        "conversation_id": "2034227443675103330",
+        "created_at": "2026-03-25T15:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036824122232090912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036824122232090912",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036821069223592310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 1k也好贵了 有这钱我还不如去租个房远离我的舍友 可惜租房也没钱去看心理医生也没钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "逃避现实｜清水推｜52只回口令",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 304,
+          "like_count": 16726,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 5613
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T11:08:37.000Z",
+        "description": "04女大／社恐 勿扰",
+        "id": "1952325481354969088",
+        "name": "莫挨老子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032039576047349760/8g0Hjk6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 52,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 147
+        },
+        "username": "zi_qing80842",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1891630430815768902",
+    "created_at": "2025-02-18T14:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T15:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891863914549276847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1487887174569803781",
+          "start": 0,
+          "username": "chilldao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891863914549276847",
+    "in_reply_to_user_id": "1487887174569803781",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891630430815768902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chilldao2022 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1891630430815768902",
+        "created_at": "2025-02-18T14:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T15:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891863914549276847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1487887174569803781",
+              "start": 0,
+              "username": "chilldao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891863914549276847",
+        "in_reply_to_user_id": "1487887174569803781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891630430815768902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chilldao2022 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891630427141455872"
+          ]
+        },
+        "author_id": "1487887174569803781",
+        "conversation_id": "1891630430815768902",
+        "created_at": "2025-02-17T23:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T00:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891630430815768902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1R0uJJE9Uc",
+              "end": 57,
+              "expanded_url": "https://x.com/chilldao2022/status/1891630430815768902/photo/1",
+              "media_key": "3_1891630427141455872",
+              "start": 34,
+              "url": "https://t.co/1R0uJJE9Uc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891630430815768902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 23029,
+          "like_count": 128,
+          "quote_count": 7,
+          "reply_count": 66,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操 老铁 被包养了？？？？？？？？？？？？？？？？？？？？？？？ https://t.co/1R0uJJE9Uc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜infp｜发癫老鼠｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 254,
+          "like_count": 6758,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1659
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T20:35:31.000Z",
+        "description": "188/86/18 | 日记本 | 长靴/高跟｜⚠️开始自我提升",
+        "id": "1487887174569803781",
+        "location": "London, England",
+        "name": "Lawrence",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683311105890832385/ebXzaSdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4173,
+          "following_count": 188,
+          "like_count": 2683,
+          "listed_count": 9,
+          "media_count": 17,
+          "tweet_count": 198
+        },
+        "username": "chilldao2022",
+        "verified": false
+      }
+    ]
+  }
+}

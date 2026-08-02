@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1896107063983616480",
+    "created_at": "2025-03-03T16:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T17:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896594754080825421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804508340460130304",
+          "start": 0,
+          "username": "Ydayui0525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896594754080825421",
+    "in_reply_to_user_id": "1804508340460130304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896593841899401260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ydayui0525 好好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1896107063983616480",
+        "created_at": "2025-03-03T16:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T17:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896594754080825421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804508340460130304",
+              "start": 0,
+              "username": "Ydayui0525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896594754080825421",
+        "in_reply_to_user_id": "1804508340460130304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896593841899401260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ydayui0525 好好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804508340460130304",
+        "conversation_id": "1896107063983616480",
+        "created_at": "2025-03-03T16:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T17:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896593841899401260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896593841899401260",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896107063983616480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 可以的兄弟可以的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 309,
+          "like_count": 8812,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2080
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T13:34:59.000Z",
+        "description": "叫我25就好TVT\n♂ 07 玩cos臭宅男\n羽毛球重度依赖",
+        "id": "1804508340460130304",
+        "location": "心与心的距离",
+        "name": "Zi_25",
+        "pinned_tweet_id": "1887881757388853692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872943092757872642/99OQpcVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 53,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 171
+        },
+        "username": "Ydayui0525",
+        "verified": false
+      }
+    ]
+  }
+}

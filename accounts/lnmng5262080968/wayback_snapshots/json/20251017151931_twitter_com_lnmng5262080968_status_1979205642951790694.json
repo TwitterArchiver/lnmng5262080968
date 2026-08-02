@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1979162126615732386",
+    "created_at": "2025-10-17T15:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T16:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979205642951790694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862865795820425216",
+          "start": 0,
+          "username": "Misakura_Ameame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979205642951790694",
+    "in_reply_to_user_id": "1862865795820425216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979190933116567847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misakura_Ameame 素素，请让游戏回归游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1979162126615732386",
+        "created_at": "2025-10-17T15:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979205642951790694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862865795820425216",
+              "start": 0,
+              "username": "Misakura_Ameame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979205642951790694",
+        "in_reply_to_user_id": "1862865795820425216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979190933116567847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misakura_Ameame 素素，请让游戏回归游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862865795820425216",
+        "conversation_id": "1979162126615732386",
+        "created_at": "2025-10-17T14:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979190933116567847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979190933116567847",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979162126615732386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 真正来玩游戏的人也没这么性压抑的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 371,
+          "like_count": 14218,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 4560
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:26:48.000Z",
+        "description": "泛左派大欢迎📕态度温和，黑红粉橙☠️🛠️🌹🌈观点都能接纳，实事求是🤗🤗🤗，非政治方面🎮或ACG也可，多领域略有涉猎…😙😙😙",
+        "id": "1862865795820425216",
+        "name": "雨あめ-（不定期上线版）🇺🇳🚩",
+        "pinned_tweet_id": "1892614332258644369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937456419487305728/UYVb9FdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 359,
+          "like_count": 949,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 702
+        },
+        "username": "Misakura_Ameame",
+        "verified": false
+      }
+    ]
+  }
+}

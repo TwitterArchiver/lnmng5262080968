@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1897222866804043814",
+    "created_at": "2025-03-06T04:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T05:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897500945912864991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840708439544352768",
+          "start": 0,
+          "username": "seiunn04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897500945912864991",
+    "in_reply_to_user_id": "1840708439544352768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897394197868716451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiunn04 😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1897394197868716451].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1897394197868716451",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1897394197868716451"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1897222866804043814",
+        "created_at": "2025-03-06T04:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T05:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897500945912864991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840708439544352768",
+              "start": 0,
+              "username": "seiunn04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897500945912864991",
+        "in_reply_to_user_id": "1840708439544352768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897394197868716451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiunn04 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1896772567022911791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 320,
+          "like_count": 9282,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2154
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:01:10.000Z",
+        "description": "UC Davisに在学しているの大学三年生\nいまのじゃんたまアカウントは三代目です\n四麻：魂天lv1 三麻：魂天 Lv.1\n他の趣味は、音ゲー、歴史、鉄道、国際政治など\n麻雀に関する問題と普通のチェットが是非気軽くＤＭしますーー",
+        "id": "1840708439544352768",
+        "location": "Davis,CA",
+        "name": "UCD麻雀部",
+        "pinned_tweet_id": "1897225654250414216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859955127333105664/C3KHuK0W_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 473,
+          "like_count": 3409,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1263
+        },
+        "username": "seiunn04",
+        "verified": true
+      }
+    ]
+  }
+}

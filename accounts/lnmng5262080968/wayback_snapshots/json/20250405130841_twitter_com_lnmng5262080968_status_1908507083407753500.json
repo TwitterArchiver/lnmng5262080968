@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1907592174176448599",
+    "created_at": "2025-04-05T13:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T14:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908507083407753500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1682031537016147972",
+          "start": 0,
+          "username": "KimJong_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908507083407753500",
+    "in_reply_to_user_id": "1682031537016147972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908496694750437415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KimJong_114514 是的🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1907592174176448599",
+        "created_at": "2025-04-05T13:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T14:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908507083407753500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1682031537016147972",
+              "start": 0,
+              "username": "KimJong_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908507083407753500",
+        "in_reply_to_user_id": "1682031537016147972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908496694750437415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KimJong_114514 是的🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682031537016147972",
+        "conversation_id": "1907592174176448599",
+        "created_at": "2025-04-05T12:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T13:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908496694750437415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908496694750437415",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907592174176448599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 看的我都心疼 烟烫的?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "大学狗｜碎碎念｜梦想是全国流浪｜                                                     \n欢迎来到凛凛的阴暗小世界…想和大家互fo交朋友            小女孩大欢迎！\n打赏随意 小号@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 368,
+          "like_count": 11057,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2702
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T14:15:54.000Z",
+        "description": "花有重开日人无再少年 中国古代神话爱好者 将军头号粉丝",
+        "id": "1682031537016147972",
+        "location": "大铁棍子医院主治医师办公室",
+        "name": "少林寺驻武当山办事处大神父王喇嘛",
+        "pinned_tweet_id": "1884897442707182051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901825012488970240/k7YIv2Qh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 5709,
+          "like_count": 14198,
+          "listed_count": 7,
+          "media_count": 790,
+          "tweet_count": 12963
+        },
+        "username": "KimJong_114514",
+        "verified": false
+      }
+    ]
+  }
+}

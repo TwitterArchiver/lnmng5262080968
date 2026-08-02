@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "1976691018071523578",
+    "created_at": "2025-10-13T05:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T06:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977600183421849907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1973114914668683269",
+          "start": 0,
+          "username": "Yux2108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977600183421849907",
+    "in_reply_to_user_id": "1973114914668683269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977359693270917357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yux2108 是的！其实想纹空针十字来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "1976691018071523578",
+        "created_at": "2025-10-13T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977600183421849907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1973114914668683269",
+              "start": 0,
+              "username": "Yux2108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977600183421849907",
+        "in_reply_to_user_id": "1973114914668683269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977359693270917357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yux2108 是的！其实想纹空针十字来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973114914668683269",
+        "conversation_id": "1976691018071523578",
+        "created_at": "2025-10-12T13:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T14:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977359693270917357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977359693270917357",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976691018071523578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 唔啊十字好漂亮的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 地球online独狼模式 凛分身@Rinko_0o0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Rinko_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 370,
+          "like_count": 14171,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 4526
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T19:57:18.000Z",
+        "description": "皮下是尸体｜此账号会有18禁发言＆转发哦",
+        "id": "1973114914668683269",
+        "location": "欢迎私信找我玩ww",
+        "name": "Yux",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975476038860959744/vUbBuNkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 74,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "username": "Yux2108",
+        "verified": false
+      }
+    ]
+  }
+}
