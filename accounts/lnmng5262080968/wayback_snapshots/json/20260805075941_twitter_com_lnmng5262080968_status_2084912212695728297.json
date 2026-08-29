@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2084659077423223069",
+    "created_at": "2026-08-05T07:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084912212695728297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2043720894321917952",
+          "start": 0,
+          "username": "Djdjthccq"
+        },
+        {
+          "end": 19,
+          "id": "1976129860029558784",
+          "start": 11,
+          "username": "M0kowa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084912212695728297",
+    "in_reply_to_user_id": "2043720894321917952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084907819623657610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Djdjthccq @M0kowa_ 你私信我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2084659077423223069",
+        "created_at": "2026-08-05T07:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084912212695728297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2043720894321917952",
+              "start": 0,
+              "username": "Djdjthccq"
+            },
+            {
+              "end": 19,
+              "id": "1976129860029558784",
+              "start": 11,
+              "username": "M0kowa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084912212695728297",
+        "in_reply_to_user_id": "2043720894321917952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084907819623657610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Djdjthccq @M0kowa_ 你私信我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043720894321917952",
+        "conversation_id": "2084659077423223069",
+        "created_at": "2026-08-05T07:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084907819623657610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            },
+            {
+              "end": 25,
+              "id": "1976129860029558784",
+              "start": 17,
+              "username": "M0kowa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084907819623657610",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084865152315470180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 @M0kowa_ 什么频道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 307,
+          "like_count": 17915,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 6157
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T16:00:39.000Z",
+        "description": "4im",
+        "id": "2043720894321917952",
+        "location": "荷兰",
+        "name": "Djdj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046627862791458816/hiq4N76K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 663,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "Djdjthccq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T03:37:44.000Z",
+        "description": "=かん、中文+한국어OK!! 音声合成｜ヒカ碁💚💛アキヒカ左右固定。坑品很差^ ^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "notion.so/22220a9fd7e480…",
+                "end": 23,
+                "expanded_url": "https://www.notion.so/22220a9fd7e480418ad2e6c817c9ee90?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/lzUesYRvqD"
+              }
+            ]
+          }
+        },
+        "id": "1976129860029558784",
+        "name": "など",
+        "pinned_tweet_id": "2009798300925649075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079123701757616129/qEFoZphI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 62,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 528
+        },
+        "url": "https://t.co/lzUesYRvqD",
+        "username": "M0kowa_",
+        "verified": false
+      }
+    ]
+  }
+}

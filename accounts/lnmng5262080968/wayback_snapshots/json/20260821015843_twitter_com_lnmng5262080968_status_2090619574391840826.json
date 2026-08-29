@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2090346231889568167",
+    "created_at": "2026-08-21T01:58:43.000Z",
+    "display_text_range": [
+      13,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090619574391840826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505095290973347840",
+          "start": 0,
+          "username": "zxy06964627"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090619574391840826",
+    "in_reply_to_user_id": "1505095290973347840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090612780995068026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxy06964627 我同意，不过想正儿八经申请补贴是需要繁复的流程，那些精神小🔥应该整不明白🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2090346231889568167",
+        "created_at": "2026-08-21T01:58:43.000Z",
+        "display_text_range": [
+          13,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090619574391840826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505095290973347840",
+              "start": 0,
+              "username": "zxy06964627"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090619574391840826",
+        "in_reply_to_user_id": "1505095290973347840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090612780995068026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxy06964627 我同意，不过想正儿八经申请补贴是需要繁复的流程，那些精神小🔥应该整不明白🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505095290973347840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "2090346231889568167",
+        "created_at": "2026-08-21T01:31:43.000Z",
+        "display_text_range": [
+          17,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090612780995068026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090612780995068026",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090346231889568167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 最重要的一点是这个病的确认没有可靠的物理依据，磕药od改花刀滥交的地雷妹都在说自己抑郁，真想办法确诊也能确诊上。税金用来看病我没意见，就算给癌症晚期患者临终关怀也没意见，尽管他们治不好了。但一想到我的税可能变成精神小伙精神小妹磕的药就觉得还是算了吧。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2090619574391840826",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 302,
+          "like_count": 17996,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 6210
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-19T08:14:33.000Z",
+        "description": "大阪大学の大学院中国から留学生です\n日本語勉強中 ダイエット頑張り 軽度二次元 日中友好🇯🇵🇰🇷🇨🇳 初心者プログラマー",
+        "id": "1505095290973347840",
+        "is_identity_verified": false,
+        "location": "Suita-shi, Osaka",
+        "most_recent_tweet_id": "2090617986382192848",
+        "name": "クリスティーナだ",
+        "pinned_tweet_id": "1966011596058308679",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033134253257678849/Mi5KDvu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 10,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2483
+        },
+        "url": "",
+        "username": "zxy06964627",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

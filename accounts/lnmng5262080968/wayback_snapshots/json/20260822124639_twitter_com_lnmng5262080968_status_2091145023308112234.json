@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2090674405575893257",
+    "created_at": "2026-08-22T12:46:39.000Z",
+    "display_text_range": [
+      10,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091145023308112234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1336929446494793728",
+          "start": 0,
+          "username": "fzwwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091145023308112234",
+    "in_reply_to_user_id": "1336929446494793728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090881578968981854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fzwwwwww 5%的弱智发出了80%的声音😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2090674405575893257",
+        "created_at": "2026-08-22T12:46:39.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091145023308112234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1336929446494793728",
+              "start": 0,
+              "username": "fzwwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091145023308112234",
+        "in_reply_to_user_id": "1336929446494793728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090881578968981854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fzwwwwww 5%的弱智发出了80%的声音😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336929446494793728",
+        "conversation_id": "2090674405575893257",
+        "created_at": "2026-08-21T19:19:49.000Z",
+        "display_text_range": [
+          17,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090881578968981854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090881578968981854",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090674405575893257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 拉黑就好了，遵循动物本能的人们说了也很难理解"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2091145023308112234",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 301,
+          "like_count": 18055,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 6237
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-10T07:03:23.000Z",
+        "description": "男｜喜欢同类｜厌现实的一切｜不喜欢大部分人类｜等待死亡",
+        "id": "1336929446494793728",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2090881578968981854",
+        "name": "冰羽",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1336929446494793728/1741354108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941855703670607872/mv2msWzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 39,
+          "like_count": 17103,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1530
+        },
+        "url": "",
+        "username": "fzwwwwww",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

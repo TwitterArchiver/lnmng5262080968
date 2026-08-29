@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2090346231889568167",
+    "created_at": "2026-08-22T12:30:07.000Z",
+    "display_text_range": [
+      25,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091140862218834117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1362362374078881794",
+          "start": 0,
+          "username": "ARKKUMA_"
+        },
+        {
+          "end": 24,
+          "id": "1965113706100260864",
+          "start": 10,
+          "username": "ShamemaruAya_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091140862218834117",
+    "in_reply_to_user_id": "1362362374078881794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091122796831092800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARKKUMA_ @ShamemaruAya_ 其实是进股市梭哈了🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2090346231889568167",
+        "created_at": "2026-08-22T12:30:07.000Z",
+        "display_text_range": [
+          25,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091140862218834117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1362362374078881794",
+              "start": 0,
+              "username": "ARKKUMA_"
+            },
+            {
+              "end": 24,
+              "id": "1965113706100260864",
+              "start": 10,
+              "username": "ShamemaruAya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091140862218834117",
+        "in_reply_to_user_id": "1362362374078881794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091122796831092800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARKKUMA_ @ShamemaruAya_ 其实是进股市梭哈了🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362362374078881794",
+        "conversation_id": "2090346231889568167",
+        "created_at": "2026-08-22T11:18:20.000Z",
+        "display_text_range": [
+          32,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091122796831092800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965113706100260864",
+              "start": 0,
+              "username": "ShamemaruAya_"
+            },
+            {
+              "end": 31,
+              "id": "1792011763875184640",
+              "start": 15,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091122796831092800",
+        "in_reply_to_user_id": "1965113706100260864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091071758099218531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShamemaruAya_ @lnmng5262080968 社保大部分最后还是归自己了，最多只能算是进财政可以临时拿来周转一下，其实我觉得更像一种债务"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2091140862218834117",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 301,
+          "like_count": 18045,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 6232
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-18T11:24:49.000Z",
+        "description": "INFP - T | 赛博熊窝🐻 | 千兆网速🏄 | 内有热饮☕ | 炼丹炸炉💥 | 田园将芜胡不归🍵",
+        "id": "1362362374078881794",
+        "is_identity_verified": false,
+        "location": "Eternal Void",
+        "most_recent_tweet_id": "2091122796831092800",
+        "name": "ARKKUMA アックマニャ",
+        "pinned_tweet_id": "1641115426636861449",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362362374078881794/1664292515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937129527676661760/bWSXK6Kh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 141,
+          "like_count": 2633,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1359
+        },
+        "url": "",
+        "username": "ARKKUMA_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-08T18:03:42.000Z",
+        "description": "脱离生活的任何意识形态争论都没有任何意义，所以不要和脱产者争论任何事情",
+        "id": "1965113706100260864",
+        "is_identity_verified": false,
+        "location": "首尔",
+        "most_recent_tweet_id": "2091104279167926308",
+        "name": "東風谷早喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967376003447361536/cTvFqh3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 57,
+          "like_count": 2889,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "ShamemaruAya_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

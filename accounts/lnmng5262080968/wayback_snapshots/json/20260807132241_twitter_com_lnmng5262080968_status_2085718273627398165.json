@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2085583513802379564",
+    "created_at": "2026-08-07T13:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085718273627398165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844383857581359105",
+          "start": 0,
+          "username": "Gangbangxjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085718273627398165",
+    "in_reply_to_user_id": "1844383857581359105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085583513802379564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gangbangxjp 最讨厌搞地域歧视的人了。傻逼是人而不是某个地区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2085583513802379564",
+        "created_at": "2026-08-07T13:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085718273627398165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844383857581359105",
+              "start": 0,
+              "username": "Gangbangxjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085718273627398165",
+        "in_reply_to_user_id": "1844383857581359105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085583513802379564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gangbangxjp 最讨厌搞地域歧视的人了。傻逼是人而不是某个地区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844383857581359105",
+        "conversation_id": "2085583513802379564",
+        "created_at": "2026-08-07T04:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085583513802379564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085583513802379564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然很多推友都说东北人咋样咋样，但是我实际接触下来，东北人其实算是很好相处的。我其实不太想管别人怎么谋生，只要不害人就行\n我看很多推友日常行为和言论，还不如东北人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1818,
+          "following_count": 308,
+          "like_count": 17960,
+          "listed_count": 5,
+          "media_count": 220,
+          "tweet_count": 6185
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T14:26:13.000Z",
+        "description": "反对共产主义/反对后天自我性别认同/反对od和自杀/拒绝自残珍爱生命/有什么问题可以找我聊，我或许会安慰你",
+        "id": "1844383857581359105",
+        "location": "Japan",
+        "name": "狂暴抽插习近平屁眼",
+        "pinned_tweet_id": "2083308399337574494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014319204158341120/hoi88m94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 100,
+          "like_count": 8951,
+          "listed_count": 1,
+          "media_count": 377,
+          "tweet_count": 8245
+        },
+        "url": "",
+        "username": "Gangbangxjp",
+        "verified": false
+      }
+    ]
+  }
+}

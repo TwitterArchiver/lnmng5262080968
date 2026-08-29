@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2090346231889568167",
+    "created_at": "2026-08-21T02:04:36.000Z",
+    "display_text_range": [
+      10,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090621055841005582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2038949132745007104",
+          "start": 0,
+          "username": "Jack54vi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090621055841005582",
+    "in_reply_to_user_id": "2038949132745007104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090454117282201792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jack54vi 事实是现实中的人也这么想，我的绝望是一点一点小事积累起来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2090346231889568167",
+        "created_at": "2026-08-21T02:04:36.000Z",
+        "display_text_range": [
+          10,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090621055841005582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2038949132745007104",
+              "start": 0,
+              "username": "Jack54vi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090621055841005582",
+        "in_reply_to_user_id": "2038949132745007104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090454117282201792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack54vi 事实是现实中的人也这么想，我的绝望是一点一点小事积累起来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038949132745007104",
+        "conversation_id": "2090346231889568167",
+        "created_at": "2026-08-20T15:01:14.000Z",
+        "display_text_range": [
+          17,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090454117282201792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090454117282201792",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1573,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090346231889568167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 互联网而已 还是先关注现实生活吧 算法只会给你推你所认为的 如果真因此而感到绝望我还是觉得眼界狭隘了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2090621055841005582",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 302,
+          "like_count": 18011,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 6217
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-31T11:59:19.000Z",
+        "description": "",
+        "id": "2038949132745007104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090532741620310286",
+        "name": "Jack",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038949132745007104/1777291160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048733677543432192/YxAMTTCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 48,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "Jack54vi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

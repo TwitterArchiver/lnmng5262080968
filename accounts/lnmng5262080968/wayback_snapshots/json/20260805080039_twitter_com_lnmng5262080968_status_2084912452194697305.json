@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2084659077423223069",
+    "created_at": "2026-08-05T08:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084912452194697305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1776415850767286272",
+          "start": 0,
+          "username": "plactisic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084912452194697305",
+    "in_reply_to_user_id": "1776415850767286272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084866356227510273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plactisic 私信我呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2084659077423223069",
+        "created_at": "2026-08-05T08:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084912452194697305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1776415850767286272",
+              "start": 0,
+              "username": "plactisic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084912452194697305",
+        "in_reply_to_user_id": "1776415850767286272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084866356227510273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plactisic 私信我呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776415850767286272",
+        "conversation_id": "2084659077423223069",
+        "created_at": "2026-08-05T04:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084866356227510273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084866356227510273",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084659077423223069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 宝宝我有tg 能分享一下吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 307,
+          "like_count": 17918,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 6160
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T01:05:25.000Z",
+        "description": "",
+        "id": "1776415850767286272",
+        "name": "願得一人心",
+        "pinned_tweet_id": "2026189258122527214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025951507875835905/zNbavvma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 65,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "plactisic",
+        "verified": false
+      }
+    ]
+  }
+}

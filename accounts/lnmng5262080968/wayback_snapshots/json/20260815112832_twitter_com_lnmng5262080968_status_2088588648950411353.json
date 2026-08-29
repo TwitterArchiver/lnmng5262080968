@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2088319418661294486",
+    "created_at": "2026-08-15T11:28:32.000Z",
+    "display_text_range": [
+      12,
+      154
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088588648950411353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088588648950411353",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088319418661294486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ 我是番茄的朋友，当事人自拍的女装照无可非议，小番茄自己被严重的异装癖困扰，发情和奇怪的声线完全会因为异装癖和性取向变化导致，同时根本不存在环状线当天吃过什么药的证明  这是一件完全不复杂的环状线翻车事件，不能围绕事件事实讨论的话没有被你们用来炒作毫不相关的吃糖和hrt，宣泄性欲的理由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2088319418661294486",
+        "created_at": "2026-08-15T11:28:32.000Z",
+        "display_text_range": [
+          12,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088588648950411353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088588648950411353",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088319418661294486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ 我是番茄的朋友，当事人自拍的女装照无可非议，小番茄自己被严重的异装癖困扰，发情和奇怪的声线完全会因为异装癖和性取向变化导致，同时根本不存在环状线当天吃过什么药的证明  这是一件完全不复杂的环状线翻车事件，不能围绕事件事实讨论的话没有被你们用来炒作毫不相关的吃糖和hrt，宣泄性欲的理由"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756909109788753920",
+        "conversation_id": "2088319418661294486",
+        "created_at": "2026-08-14T17:38:43.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088319418661294486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuroki___tomok…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/kuroki___tomoko/status/2087961303596105770",
+              "start": 84,
+              "url": "https://t.co/NWMCiqQ5T3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088319418661294486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是环状线的朋友，当事人自拍的女装照无可非议，环状线自己被严重的异装癖困扰，发情和奇怪的声线完全会因为异装癖和性取向变化导致，同时根本不存在环状线当天吃过什么药的证明  这是一件完全不复杂的环状线翻车事件，不能围绕事件事实讨论的话没有被你们用来炒作毫不相关的吃糖和hrt，宣泄性欲的理由"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4465,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087961303596105770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是环状线的朋友，当事人自拍的女装照无可非议，环状线自己被严重的异装癖困扰，发情和奇怪的声线完全会因为异装癖和性取向变化导致，同时根本不存在环状线当天吃过什么药的证明 https://t.co/NWMCiqQ5T3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2088588648950411353",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 305,
+          "like_count": 17990,
+          "listed_count": 5,
+          "media_count": 220,
+          "tweet_count": 6197
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuO2ty"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "is_identity_verified": false,
+        "location": "番茄树上",
+        "most_recent_tweet_id": "2088588419484246290",
+        "name": "不包番茄籽的番茄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756909109788753920/1768587768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12568,
+          "following_count": 2777,
+          "like_count": 1620,
+          "listed_count": 26,
+          "media_count": 2677,
+          "tweet_count": 11611
+        },
+        "url": "https://t.co/ndOwWuO2ty",
+        "username": "__fanqie__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

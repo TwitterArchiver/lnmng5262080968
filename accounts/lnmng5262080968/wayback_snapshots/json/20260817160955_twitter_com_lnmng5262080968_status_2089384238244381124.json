@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2088915874535059848",
+    "created_at": "2026-08-17T16:09:55.000Z",
+    "display_text_range": [
+      25,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089384238244381124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844383857581359105",
+          "start": 0,
+          "username": "Gangbangxjp"
+        },
+        {
+          "end": 24,
+          "id": "1756909109788753920",
+          "start": 13,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089384238244381124",
+    "in_reply_to_user_id": "1844383857581359105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089311496073629891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gangbangxjp @__fanqie__ 那很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2088915874535059848",
+        "created_at": "2026-08-17T16:09:55.000Z",
+        "display_text_range": [
+          25,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089384238244381124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844383857581359105",
+              "start": 0,
+              "username": "Gangbangxjp"
+            },
+            {
+              "end": 24,
+              "id": "1756909109788753920",
+              "start": 13,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089384238244381124",
+        "in_reply_to_user_id": "1844383857581359105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089311496073629891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gangbangxjp @__fanqie__ 那很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844383857581359105",
+        "conversation_id": "2088915874535059848",
+        "created_at": "2026-08-17T11:20:52.000Z",
+        "display_text_range": [
+          29,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089311496073629891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            },
+            {
+              "end": 28,
+              "id": "1756909109788753920",
+              "start": 17,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089311496073629891",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089192883010375751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 @__fanqie__ 我都是一次性做两天的饭菜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2089384238244381124",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 304,
+          "like_count": 17987,
+          "listed_count": 5,
+          "media_count": 220,
+          "tweet_count": 6203
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-10T14:26:13.000Z",
+        "description": "反对共产主义/反对后天自我性别认同/反对od和自杀/拒绝自残珍爱生命/有什么问题可以找我聊，我或许会安慰你",
+        "id": "1844383857581359105",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2089358673420374168",
+        "name": "狂暴抽插习近平屁眼",
+        "pinned_tweet_id": "2083308399337574494",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844383857581359105/1774962274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014319204158341120/hoi88m94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 102,
+          "like_count": 9172,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 8426
+        },
+        "url": "",
+        "username": "Gangbangxjp",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅梗图号/生活号@bcfqdtfqz/随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "bcfqdtfqz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuNuE0"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "is_identity_verified": false,
+        "location": "番茄树上",
+        "most_recent_tweet_id": "2089301170343088159",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2088928458567217357",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756909109788753920/1768587768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13177,
+          "following_count": 2774,
+          "like_count": 1626,
+          "listed_count": 26,
+          "media_count": 2709,
+          "tweet_count": 11658
+        },
+        "url": "https://t.co/ndOwWuNuE0",
+        "username": "__fanqie__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080499070972620800"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "2080499082691530860",
+    "created_at": "2026-07-24T03:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080499082691530860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uJuFJzNWqc",
+          "end": 45,
+          "expanded_url": "https://x.com/lnmng5262080968/status/2080499082691530860/photo/1",
+          "media_key": "3_2080499070972620800",
+          "start": 22,
+          "url": "https://t.co/uJuFJzNWqc"
+        },
+        {
+          "display_url": "x.com/lnmng526208096…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/lnmng5262080968/status/2080458635847905739",
+          "start": 46,
+          "url": "https://t.co/3nlI7yHYXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080499082691530860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080458635847905739",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骂我的那个傻逼qq号指路：48651336 https://t.co/uJuFJzNWqc https://t.co/3nlI7yHYXH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_2080499070972620800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9q4dDacAAt4Vn.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080458625219493888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9GGM4bAAAEFgj.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080458625223659520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9GGM5akAAJMs2.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080458625294983168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9GGNKa4AADNqc.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080499070972620800"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "2080499082691530860",
+        "created_at": "2026-07-24T03:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080499082691530860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJuFJzNWqc",
+              "end": 45,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2080499082691530860/photo/1",
+              "media_key": "3_2080499070972620800",
+              "start": 22,
+              "url": "https://t.co/uJuFJzNWqc"
+            },
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/2080458635847905739",
+              "start": 46,
+              "url": "https://t.co/3nlI7yHYXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080499082691530860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080458635847905739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骂我的那个傻逼qq号指路：48651336 https://t.co/uJuFJzNWqc https://t.co/3nlI7yHYXH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080458625219493888",
+            "3_2080458625223659520",
+            "3_2080458625294983168"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "2080458635847905739",
+        "created_at": "2026-07-24T01:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080458635847905739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IL3PXOdkLH",
+              "end": 143,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2080458635847905739/photo/1",
+              "media_key": "3_2080458625219493888",
+              "start": 120,
+              "url": "https://t.co/IL3PXOdkLH"
+            },
+            {
+              "display_url": "pic.x.com/IL3PXOdkLH",
+              "end": 143,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2080458635847905739/photo/1",
+              "media_key": "3_2080458625223659520",
+              "start": 120,
+              "url": "https://t.co/IL3PXOdkLH"
+            },
+            {
+              "display_url": "pic.x.com/IL3PXOdkLH",
+              "end": 143,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2080458635847905739/photo/1",
+              "media_key": "3_2080458625294983168",
+              "start": 120,
+              "url": "https://t.co/IL3PXOdkLH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080458635847905739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太他妈傻逼了，一想到跟你在一个城市我就想吐，你这种用刻板印象，学历，长相，心理阴影反过来攻击我的人最该死了，自己长一幅死妈样还好意思说别人高p长得丑😂校门某外国人随便进的高含金量大学土木专业小哥哥你好呀，你的人生已经活成了你攻击别人的样子 https://t.co/IL3PXOdkLH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 311,
+          "like_count": 17867,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 6114
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

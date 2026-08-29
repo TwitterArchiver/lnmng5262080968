@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2084659077423223069",
+    "created_at": "2026-08-05T08:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084912483480055854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1813599149407031297",
+          "start": 0,
+          "username": "xcool006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084912483480055854",
+    "in_reply_to_user_id": "1813599149407031297",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084866120088186969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcool006 ohno"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2084659077423223069",
+        "created_at": "2026-08-05T08:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084912483480055854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1813599149407031297",
+              "start": 0,
+              "username": "xcool006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084912483480055854",
+        "in_reply_to_user_id": "1813599149407031297",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084866120088186969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcool006 ohno"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813599149407031297",
+        "conversation_id": "2084659077423223069",
+        "created_at": "2026-08-05T04:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084866120088186969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084866120088186969",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084865127250350259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 没有，被冻结了就没再注册了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 307,
+          "like_count": 17918,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 6161
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T15:38:39.000Z",
+        "description": "",
+        "id": "1813599149407031297",
+        "name": "沉默の鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975473707654303744/UKMjUkjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 27,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1554
+        },
+        "url": "",
+        "username": "xcool006",
+        "verified": false
+      }
+    ]
+  }
+}

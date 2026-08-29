@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2090346231889568167",
+    "created_at": "2026-08-21T02:01:33.000Z",
+    "display_text_range": [
+      10,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090620290309246987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1362362374078881794",
+          "start": 0,
+          "username": "ARKKUMA_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090620290309246987",
+    "in_reply_to_user_id": "1362362374078881794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090572484320084440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARKKUMA_ 现在税很高只是你不知道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_2090572468297826304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQM0lWYagAAt3MK.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2090346231889568167",
+        "created_at": "2026-08-21T02:01:33.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090620290309246987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1362362374078881794",
+              "start": 0,
+              "username": "ARKKUMA_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090620290309246987",
+        "in_reply_to_user_id": "1362362374078881794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090572484320084440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARKKUMA_ 现在税很高只是你不知道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090572468297826304"
+          ]
+        },
+        "author_id": "1362362374078881794",
+        "conversation_id": "2090346231889568167",
+        "created_at": "2026-08-20T22:51:35.000Z",
+        "display_text_range": [
+          17,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090572484320084440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iso6hV3jKF",
+              "end": 125,
+              "expanded_url": "https://x.com/ARKKUMA_/status/2090572484320084440/photo/1",
+              "media_key": "3_2090572468297826304",
+              "start": 102,
+              "url": "https://t.co/Iso6hV3jKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090572484320084440",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090572468297826304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090346231889568167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 很无奈，说穿了还是税缴少了，什么时候真的跟欧洲一样普通+底层工人也要被税40%的时候才有余裕讲公民福利。而且真的站在纳税人的角度讲税后基尼已经很高了，再加税真的要崩溃了 https://t.co/Iso6hV3jKF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2090620290309246987",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 302,
+          "like_count": 17999,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 6214
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-18T11:24:49.000Z",
+        "description": "INFP - T | 赛博熊窝🐻 | 千兆网速🏄 | 内有热饮☕ | 炼丹炸炉💥 | 田园将芜胡不归🍵",
+        "id": "1362362374078881794",
+        "is_identity_verified": false,
+        "location": "Eternal Void",
+        "most_recent_tweet_id": "2090572484320084440",
+        "name": "ARKKUMA アックマニャ",
+        "pinned_tweet_id": "1641115426636861449",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362362374078881794/1664292515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937129527676661760/bWSXK6Kh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 141,
+          "like_count": 2627,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1349
+        },
+        "url": "",
+        "username": "ARKKUMA_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

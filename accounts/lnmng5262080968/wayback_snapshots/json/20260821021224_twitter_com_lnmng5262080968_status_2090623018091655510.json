@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2090359612944048251",
+    "created_at": "2026-08-21T02:12:24.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090623018091655510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004554262756651009",
+          "start": 0,
+          "username": "M2uriceRave1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090623018091655510",
+    "in_reply_to_user_id": "2004554262756651009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090598456784224606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M2uriceRave1 一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2090359612944048251",
+        "created_at": "2026-08-21T02:12:24.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090623018091655510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004554262756651009",
+              "start": 0,
+              "username": "M2uriceRave1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090623018091655510",
+        "in_reply_to_user_id": "2004554262756651009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090598456784224606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M2uriceRave1 一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004554262756651009",
+        "conversation_id": "2090359612944048251",
+        "created_at": "2026-08-21T00:34:48.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090598456784224606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090598456784224606",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090359612944048251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我也想"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2090623018091655510",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 302,
+          "like_count": 18019,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 6223
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T14:06:07.000Z",
+        "description": "post-structuralism…｜純粹符號空轉中…｜🚪88｜申必",
+        "id": "2004554262756651009",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090598456784224606",
+        "name": "De lá grammatologie",
+        "pinned_tweet_id": "2083468059919208646",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004554262756651009/1780073297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083288650322956288/12zGjylI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 55,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "M2uriceRave1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

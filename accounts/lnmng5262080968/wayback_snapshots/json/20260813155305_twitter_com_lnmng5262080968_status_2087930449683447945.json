@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2087798318055501959",
+    "created_at": "2026-08-13T15:53:05.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087930449683447945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1366340658563149827",
+          "start": 0,
+          "username": "kugi55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087930449683447945",
+    "in_reply_to_user_id": "1366340658563149827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087798318055501959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kugi55 我真受不了这帮人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087798313290735616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlZgRpaoAAnpCt.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087798312955244544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlZgQZbcAAOkVx.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2087798318055501959",
+        "created_at": "2026-08-13T15:53:05.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087930449683447945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1366340658563149827",
+              "start": 0,
+              "username": "kugi55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087930449683447945",
+        "in_reply_to_user_id": "1366340658563149827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087798318055501959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kugi55 我真受不了这帮人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087798313290735616",
+            "3_2087798312955244544"
+          ]
+        },
+        "author_id": "1366340658563149827",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2087798318055501959",
+        "created_at": "2026-08-13T07:08:03.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087798318055501959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4H7B6Nybq",
+              "end": 104,
+              "expanded_url": "https://x.com/kugi55/status/2087798318055501959/photo/1",
+              "media_key": "3_2087798313290735616",
+              "start": 81,
+              "url": "https://t.co/B4H7B6Nybq"
+            },
+            {
+              "display_url": "pic.x.com/B4H7B6Nybq",
+              "end": 104,
+              "expanded_url": "https://x.com/kugi55/status/2087798318055501959/photo/1",
+              "media_key": "3_2087798312955244544",
+              "start": 81,
+              "url": "https://t.co/B4H7B6Nybq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087798318055501959",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087798313290735616"
+          },
+          {
+            "media_key": "3_2087798312955244544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 33751,
+          "like_count": 166,
+          "quote_count": 9,
+          "reply_count": 79,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我们mtf是这样的\nod 贩毒 紫砂次数两位数依旧不死 跟警察表演中华功夫 自残 聚众斗殴 卖淫 极端自恋 隔空打舞萌\n请远离任何MTF 不要相信任何海量个例！ https://t.co/B4H7B6Nybq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2087930449683447945",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 304,
+          "like_count": 17981,
+          "listed_count": 5,
+          "media_count": 220,
+          "tweet_count": 6192
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-01T10:53:01.000Z",
+        "description": "04年/mtf/173.6cm56.5kg/ip:kr/hrt:2022.10.26/ 已停药 摸鱼减肥喵 常驻韩国 假期回国玩 目前摸鱼减肥 留发中ing 胸围36A/80A vrc：kugi55",
+        "id": "1366340658563149827",
+        "is_identity_verified": true,
+        "location": "Gyeonggi-do, Republic of Korea",
+        "most_recent_tweet_id": "2087923513156055268",
+        "name": "@kugi55🏳️‍⚧️🇰🇷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366340658563149827/1671667172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985525846225104896/KZ4cBosK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 957,
+          "like_count": 50121,
+          "listed_count": 7,
+          "media_count": 1510,
+          "tweet_count": 16664
+        },
+        "url": "",
+        "username": "kugi55",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
