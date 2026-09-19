@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096910222019469312",
+        "3_2096910221994278912"
+      ],
+      "media_source_tweet_id": [
+        "2096910229552390640",
+        "2096910229552390640"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098340498381648083",
+    "created_at": "2026-09-11T09:18:54.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098340498381648083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1784109678953480192",
+          "start": 3,
+          "username": "chidianmaima"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uCE9xdyzoa",
+          "end": 57,
+          "expanded_url": "https://x.com/chidianmaima/status/2096910229552390640/photo/1",
+          "media_key": "3_2096910222019469312",
+          "start": 34,
+          "url": "https://t.co/uCE9xdyzoa"
+        },
+        {
+          "display_url": "pic.x.com/uCE9xdyzoa",
+          "end": 57,
+          "expanded_url": "https://x.com/chidianmaima/status/2096910229552390640/photo/1",
+          "media_key": "3_2096910221994278912",
+          "start": 34,
+          "url": "https://t.co/uCE9xdyzoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098340498381648083",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096910222019469312"
+      },
+      {
+        "media_key": "3_2096910221994278912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 237
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096910229552390640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chidianmaima: 我他妈对着这个帖子笑了10分钟 https://t.co/uCE9xdyzoa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096910222019469312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm4vK1bIAA7zX7.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096910221994278912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm4vKvawAAqRYE.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096910222019469312",
+            "3_2096910221994278912"
+          ],
+          "media_source_tweet_id": [
+            "2096910229552390640",
+            "2096910229552390640"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098340498381648083",
+        "created_at": "2026-09-11T09:18:54.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098340498381648083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1784109678953480192",
+              "start": 3,
+              "username": "chidianmaima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCE9xdyzoa",
+              "end": 57,
+              "expanded_url": "https://x.com/chidianmaima/status/2096910229552390640/photo/1",
+              "media_key": "3_2096910222019469312",
+              "start": 34,
+              "url": "https://t.co/uCE9xdyzoa"
+            },
+            {
+              "display_url": "pic.x.com/uCE9xdyzoa",
+              "end": 57,
+              "expanded_url": "https://x.com/chidianmaima/status/2096910229552390640/photo/1",
+              "media_key": "3_2096910221994278912",
+              "start": 34,
+              "url": "https://t.co/uCE9xdyzoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098340498381648083",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096910222019469312"
+          },
+          {
+            "media_key": "3_2096910221994278912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 237
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096910229552390640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chidianmaima: 我他妈对着这个帖子笑了10分钟 https://t.co/uCE9xdyzoa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096910222019469312",
+            "3_2096910221994278912"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096910229552390640",
+        "created_at": "2026-09-07T10:35:32.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096910229552390640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCE9xdyzoa",
+              "end": 39,
+              "expanded_url": "https://x.com/chidianmaima/status/2096910229552390640/photo/1",
+              "media_key": "3_2096910222019469312",
+              "start": 16,
+              "url": "https://t.co/uCE9xdyzoa"
+            },
+            {
+              "display_url": "pic.x.com/uCE9xdyzoa",
+              "end": 39,
+              "expanded_url": "https://x.com/chidianmaima/status/2096910229552390640/photo/1",
+              "media_key": "3_2096910221994278912",
+              "start": 16,
+              "url": "https://t.co/uCE9xdyzoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096910229552390640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096910222019469312"
+          },
+          {
+            "media_key": "3_2096910221994278912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 512,
+          "impression_count": 1111076,
+          "like_count": 6411,
+          "quote_count": 140,
+          "reply_count": 1045,
+          "retweet_count": 237
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈对着这个帖子笑了10分钟 https://t.co/uCE9xdyzoa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2098340498381648083",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 299,
+          "like_count": 18123,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 6274
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2098333939480019178",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 114,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 546
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

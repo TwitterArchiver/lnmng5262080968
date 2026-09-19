@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2099157554802905579",
+    "created_at": "2026-09-15T02:04:22.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T03:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099680696696815730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841626911228780545",
+          "start": 0,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099680696696815730",
+    "in_reply_to_user_id": "1841626911228780545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099221423588102211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujou_king 哦吼吼👅👅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2099157554802905579",
+        "created_at": "2026-09-15T02:04:22.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099680696696815730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841626911228780545",
+              "start": 0,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099680696696815730",
+        "in_reply_to_user_id": "1841626911228780545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099221423588102211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujou_king 哦吼吼👅👅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841626911228780545",
+        "conversation_id": "2099157554802905579",
+        "created_at": "2026-09-13T19:39:23.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T20:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099221423588102211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099221423588102211",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099157554802905579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 闺蜜你好酷"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2099680696696815730",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 299,
+          "like_count": 18144,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 6287
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "我爱说啥说啥，看我不顺眼就滚，我活着又不是为了取悦你，中国人离我远一点",
+        "id": "1841626911228780545",
+        "is_identity_verified": false,
+        "location": "没有🚪不加V不加Q不扩列不要问了",
+        "most_recent_tweet_id": "2099532258411720940",
+        "name": "🧸猪逼大王菲菲非菲🍺",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841626911228780545/1788860797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099214562285461504/HH_dH61D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 350,
+          "like_count": 6024,
+          "listed_count": 22,
+          "media_count": 108,
+          "tweet_count": 2166
+        },
+        "url": "",
+        "username": "kujou_king",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

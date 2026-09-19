@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2096455077062221898",
+    "created_at": "2026-09-06T04:26:55.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T05:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096455077062221898"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096455077062221898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每当我感到开心幸福的时候就在想接下来要痛苦了。上天不允许我快乐，当下的幸福是要偿还的幸福是有代价的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2096455077062221898",
+        "created_at": "2026-09-06T04:26:55.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096455077062221898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096455077062221898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每当我感到开心幸福的时候就在想接下来要痛苦了。上天不允许我快乐，当下的幸福是要偿还的幸福是有代价的啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2096455077062221898",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 298,
+          "like_count": 18088,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 6242
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

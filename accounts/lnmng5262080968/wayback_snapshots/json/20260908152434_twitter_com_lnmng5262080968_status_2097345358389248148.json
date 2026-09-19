@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2097275580848939425",
+    "created_at": "2026-09-08T15:24:34.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097345358389248148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618818362506608641",
+          "start": 0,
+          "username": "ls376810161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097345358389248148",
+    "in_reply_to_user_id": "1618818362506608641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097299928704065606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ls376810161 没事宝宝😭有点难过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2097275580848939425",
+        "created_at": "2026-09-08T15:24:34.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097345358389248148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618818362506608641",
+              "start": 0,
+              "username": "ls376810161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097345358389248148",
+        "in_reply_to_user_id": "1618818362506608641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097299928704065606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ls376810161 没事宝宝😭有点难过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618818362506608641",
+        "conversation_id": "2097275580848939425",
+        "created_at": "2026-09-08T12:24:03.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097299928704065606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097299928704065606",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097275580848939425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 怎么了？朋友？发生什么事了吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2097345358389248148",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 300,
+          "like_count": 18091,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 6252
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-27T03:49:28.000Z",
+        "description": "你好，欢迎来到我的胡言乱语空间。",
+        "id": "1618818362506608641",
+        "is_identity_verified": false,
+        "location": "中国大陆",
+        "most_recent_tweet_id": "2097299928704065606",
+        "name": "繁",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618818362506608641/1738351341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885408170149109763/G4k5XdhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 118,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "ls376810161",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

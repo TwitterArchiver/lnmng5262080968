@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2082770917814673467",
+    "created_at": "2026-09-13T02:13:06.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T03:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098958115739980201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688138166098939904",
+          "start": 0,
+          "username": "woshibendan911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098958115739980201",
+    "in_reply_to_user_id": "1688138166098939904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098645281348968483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshibendan911 不爽，😭不能经常吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2082770917814673467",
+        "created_at": "2026-09-13T02:13:06.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098958115739980201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688138166098939904",
+              "start": 0,
+              "username": "woshibendan911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098958115739980201",
+        "in_reply_to_user_id": "1688138166098939904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098645281348968483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshibendan911 不爽，😭不能经常吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688138166098939904",
+        "conversation_id": "2082770917814673467",
+        "created_at": "2026-09-12T05:30:00.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098645281348968483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098645281348968483",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082770917814673467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 爽在哪😿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2098958115739980201",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 299,
+          "like_count": 18118,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 6275
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-06T10:41:23.000Z",
+        "description": "毫无疑问 你曾是我的天使",
+        "id": "1688138166098939904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098817734331208101",
+        "name": "水野师九",
+        "pinned_tweet_id": "2065828908440891761",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688138166098939904/1777211719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086459721457057792/gjUxR2Bj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 24,
+          "like_count": 5852,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 4356
+        },
+        "url": "",
+        "username": "woshibendan911",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

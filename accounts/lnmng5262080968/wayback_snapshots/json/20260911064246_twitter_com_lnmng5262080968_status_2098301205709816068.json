@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2098213433040941295",
+    "created_at": "2026-09-11T06:42:46.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098301205709816068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841626911228780545",
+          "start": 0,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098301205709816068",
+    "in_reply_to_user_id": "1841626911228780545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098213433040941295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujou_king 繁殖癌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3130,
+        "media_key": "3_2098213425998696448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5Z_n-bkAAPn2y.jpg",
+        "width": 1862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2098213433040941295",
+        "created_at": "2026-09-11T06:42:46.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098301205709816068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841626911228780545",
+              "start": 0,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098301205709816068",
+        "in_reply_to_user_id": "1841626911228780545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098213433040941295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujou_king 繁殖癌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098213425998696448"
+          ]
+        },
+        "author_id": "1841626911228780545",
+        "conversation_id": "2098213433040941295",
+        "created_at": "2026-09-11T00:54:00.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T01:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098213433040941295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hk4UiFanWa",
+              "end": 31,
+              "expanded_url": "https://x.com/kujou_king/status/2098213433040941295/photo/1",
+              "media_key": "3_2098213425998696448",
+              "start": 8,
+              "url": "https://t.co/hk4UiFanWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098213433040941295",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098213425998696448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国入，爱繁殖 https://t.co/hk4UiFanWa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2098301205709816068",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 299,
+          "like_count": 18109,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 6271
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "我爱说啥说啥，看我不顺眼就滚，我活着又不是为了取悦你",
+        "id": "1841626911228780545",
+        "is_identity_verified": false,
+        "location": "没有🚪不加V不扩列不要问了",
+        "most_recent_tweet_id": "2098213433040941295",
+        "name": "🧸猪逼大王菲菲非菲🍺",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841626911228780545/1788860797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097906595351212032/VEwRm6bh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 346,
+          "like_count": 5969,
+          "listed_count": 20,
+          "media_count": 104,
+          "tweet_count": 2151
+        },
+        "url": "",
+        "username": "kujou_king",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

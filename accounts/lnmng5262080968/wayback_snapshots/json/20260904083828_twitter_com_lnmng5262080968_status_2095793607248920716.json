@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2095524208990462210",
+    "created_at": "2026-09-04T08:38:28.000Z",
+    "display_text_range": [
+      13,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095793607248920716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844383857581359105",
+          "start": 0,
+          "username": "Gangbangxjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095793607248920716",
+    "in_reply_to_user_id": "1844383857581359105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095524208990462210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gangbangxjp 喵喵我看到你的私信了但是回不了🥺🥺我知道你的意思哦喵，只是想起来以前也有一段很蛆的过往.jpg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2095524208990462210",
+        "created_at": "2026-09-04T08:38:28.000Z",
+        "display_text_range": [
+          13,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095793607248920716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844383857581359105",
+              "start": 0,
+              "username": "Gangbangxjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095793607248920716",
+        "in_reply_to_user_id": "1844383857581359105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095524208990462210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gangbangxjp 喵喵我看到你的私信了但是回不了🥺🥺我知道你的意思哦喵，只是想起来以前也有一段很蛆的过往.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844383857581359105",
+        "conversation_id": "2095524208990462210",
+        "created_at": "2026-09-03T14:47:59.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095524208990462210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095524208990462210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚看完孙老师节目，孙老师和我判断其实差不多。你要是三年前准备润那我是支持的，但是现在真的晚了\n而且在中国，地位也是分情况的，你只要在战时经济系统里，你日子就不会差。这种情况下反而别润。\n箭在弦上不得不发，现在拉弓，受制于人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2095793607248920716",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 298,
+          "like_count": 18044,
+          "listed_count": 5,
+          "media_count": 218,
+          "tweet_count": 6249
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-10T14:26:13.000Z",
+        "description": "反对共产主义/反对后天自我性别认同/反对od和自杀/拒绝自残珍爱生命/有什么问题可以找我聊，我或许会安慰你",
+        "id": "1844383857581359105",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2095713342652629388",
+        "name": "狂暴抽插习近平屁眼",
+        "pinned_tweet_id": "2095552126382666140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844383857581359105/1774962274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014319204158341120/hoi88m94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 112,
+          "like_count": 9598,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 8734
+        },
+        "url": "",
+        "username": "Gangbangxjp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

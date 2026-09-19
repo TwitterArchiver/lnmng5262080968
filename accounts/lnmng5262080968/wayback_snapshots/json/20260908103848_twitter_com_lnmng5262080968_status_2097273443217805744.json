@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2096808335337275459",
+    "created_at": "2026-09-08T10:38:48.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T11:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097273443217805744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1631871471680372737",
+          "start": 0,
+          "username": "Kik7410_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097273443217805744",
+    "in_reply_to_user_id": "1631871471680372737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096924279460028521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kik7410_ 哦吼吼💪💪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2096808335337275459",
+        "created_at": "2026-09-08T10:38:48.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097273443217805744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1631871471680372737",
+              "start": 0,
+              "username": "Kik7410_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097273443217805744",
+        "in_reply_to_user_id": "1631871471680372737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096924279460028521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kik7410_ 哦吼吼💪💪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631871471680372737",
+        "conversation_id": "2096808335337275459",
+        "created_at": "2026-09-07T11:31:21.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096924279460028521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096924279460028521",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096808335337275459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 好萌芽诡密"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2097273443217805744",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 300,
+          "like_count": 18080,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 6241
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-04T04:17:45.000Z",
+        "description": "我的语言表达能力很差精神状态很混乱",
+        "id": "1631871471680372737",
+        "is_identity_verified": false,
+        "location": "爱",
+        "most_recent_tweet_id": "2096924279460028521",
+        "name": "我珍惜你的方式错了吗",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1631871471680372737/1686764817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066233994782662656/Q5gfBTkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 74,
+          "like_count": 8410,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 2831
+        },
+        "url": "",
+        "username": "Kik7410_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

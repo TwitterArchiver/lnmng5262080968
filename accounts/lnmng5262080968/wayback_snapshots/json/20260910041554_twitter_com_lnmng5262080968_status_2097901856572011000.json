@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2097703322497261604",
+    "created_at": "2026-09-10T04:15:54.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097901856572011000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1199138410704715776",
+          "start": 0,
+          "username": "L_R_001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097901856572011000",
+    "in_reply_to_user_id": "1199138410704715776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097703322497261604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_R_001 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2097703322497261604",
+        "created_at": "2026-09-10T04:15:54.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097901856572011000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1199138410704715776",
+              "start": 0,
+              "username": "L_R_001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097901856572011000",
+        "in_reply_to_user_id": "1199138410704715776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097703322497261604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_R_001 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199138410704715776",
+        "conversation_id": "2097703322497261604",
+        "created_at": "2026-09-09T15:07:00.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097703322497261604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097703322497261604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人通过造假把谋财害命做到了各行各业"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2097901856572011000",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 300,
+          "like_count": 18135,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 6266
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-26T01:31:00.000Z",
+        "description": "/实验室研究员/摄影 日语 读书 写作/",
+        "id": "1199138410704715776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097703382530310388",
+        "name": "漂亮鼠",
+        "pinned_tweet_id": "2076000812229066868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1199138410704715776/1746275772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951934945989103616/iXjq20eI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 707,
+          "like_count": 5998,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 4834
+        },
+        "url": "",
+        "username": "L_R_001",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
