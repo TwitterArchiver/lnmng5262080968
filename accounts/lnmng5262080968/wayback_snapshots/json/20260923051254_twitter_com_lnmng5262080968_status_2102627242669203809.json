@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2102453513863475237",
+    "created_at": "2026-09-23T05:12:54.000Z",
+    "display_text_range": [
+      10,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T06:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102627242669203809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1336929446494793728",
+          "start": 0,
+          "username": "fzwwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102627242669203809",
+    "in_reply_to_user_id": "1336929446494793728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102466422576472370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fzwwwwww 我丈化水平太低了，其实想表达亲情对抗不了了时间。从小时候就担心以后家人不在了怎么办😖亲情是一生的感情，是唯一能确定直至死亡的陪伴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2102453513863475237",
+        "created_at": "2026-09-23T05:12:54.000Z",
+        "display_text_range": [
+          10,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102627242669203809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1336929446494793728",
+              "start": 0,
+              "username": "fzwwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102627242669203809",
+        "in_reply_to_user_id": "1336929446494793728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102466422576472370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fzwwwwww 我丈化水平太低了，其实想表达亲情对抗不了了时间。从小时候就担心以后家人不在了怎么办😖亲情是一生的感情，是唯一能确定直至死亡的陪伴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336929446494793728",
+        "conversation_id": "2102453513863475237",
+        "created_at": "2026-09-22T18:33:51.000Z",
+        "display_text_range": [
+          17,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T19:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102466422576472370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102466422576472370",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102453513863475237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 自己从诞生起也是个倒计时，谁都一样结束就没了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2102627242669203809",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 300,
+          "like_count": 18345,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 6360
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-10T07:03:23.000Z",
+        "description": "男｜喜欢同类｜厌现实的一切｜不喜欢大部分人类｜等待死亡",
+        "id": "1336929446494793728",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2102488392705749372",
+        "name": "冰羽",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1336929446494793728/1741354108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941855703670607872/mv2msWzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 39,
+          "like_count": 17844,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1569
+        },
+        "url": "",
+        "username": "fzwwwwww",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

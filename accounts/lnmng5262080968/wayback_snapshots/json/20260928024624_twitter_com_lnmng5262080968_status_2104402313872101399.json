@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2104038030806024640",
+    "created_at": "2026-09-28T02:46:24.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T03:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104402313872101399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841626911228780545",
+          "start": 0,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104402313872101399",
+    "in_reply_to_user_id": "1841626911228780545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104038030806024640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujou_king 女王妈妈你是我亲妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2104038025265364992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMLb7HbQAAQJja.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2104038030806024640",
+        "created_at": "2026-09-28T02:46:24.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104402313872101399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841626911228780545",
+              "start": 0,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104402313872101399",
+        "in_reply_to_user_id": "1841626911228780545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104038030806024640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujou_king 女王妈妈你是我亲妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104038025265364992"
+          ]
+        },
+        "author_id": "1841626911228780545",
+        "conversation_id": "2104038030806024640",
+        "created_at": "2026-09-27T02:38:52.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104038030806024640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MwGpFZPfpM",
+              "end": 30,
+              "expanded_url": "https://x.com/kujou_king/status/2104038030806024640/photo/1",
+              "media_key": "3_2104038025265364992",
+              "start": 7,
+              "url": "https://t.co/MwGpFZPfpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104038030806024640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104038025265364992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4583,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的私信列表 https://t.co/MwGpFZPfpM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2104402313872101399",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 305,
+          "like_count": 18454,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 6407
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "我爱说啥说啥，看我不顺眼就滚，我活着又不是为了取悦你，中国人离我远一点",
+        "id": "1841626911228780545",
+        "is_identity_verified": false,
+        "location": "没有🚪不加V不加Q不扩列不要问了",
+        "most_recent_tweet_id": "2104358600256974945",
+        "name": "🧸猪逼大王菲菲非菲🍺",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841626911228780545/1790353789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099214562285461504/HH_dH61D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 356,
+          "like_count": 6046,
+          "listed_count": 21,
+          "media_count": 117,
+          "tweet_count": 2234
+        },
+        "url": "",
+        "username": "kujou_king",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2102727825224773808",
+    "created_at": "2026-09-23T11:52:34.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T12:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102727825224773808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tanda_hazuki/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/tanda_hazuki/status/2085695923737502156",
+          "start": 5,
+          "url": "https://t.co/gGfxixGNJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102727825224773808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085695923737502156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她在看我 https://t.co/gGfxixGNJi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085695918125588481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHhYxVboAEVQaV.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2102727825224773808",
+        "created_at": "2026-09-23T11:52:34.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102727825224773808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tanda_hazuki/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/tanda_hazuki/status/2085695923737502156",
+              "start": 5,
+              "url": "https://t.co/gGfxixGNJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102727825224773808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085695923737502156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她在看我 https://t.co/gGfxixGNJi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085695918125588481"
+          ]
+        },
+        "author_id": "3853228393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "DJs",
+              "id": "847526099986685952",
+              "name": "DJs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2085695923737502156",
+        "created_at": "2026-08-07T11:53:53.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085695923737502156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "tiget.net/events/493247",
+              "end": 160,
+              "expanded_url": "http://tiget.net/events/493247",
+              "start": 137,
+              "unwound_url": "http://tiget.net/events/493247",
+              "url": "https://t.co/5FKpDZGNnv"
+            },
+            {
+              "display_url": "pic.x.com/jiZcQ206oo",
+              "end": 184,
+              "expanded_url": "https://x.com/tanda_hazuki/status/2085695923737502156/photo/1",
+              "media_key": "3_2085695918125588481",
+              "start": 161,
+              "url": "https://t.co/jiZcQ206oo"
+            },
+            {
+              "display_url": "x.com/ZEPPIN_DISCO/s…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/ZEPPIN_DISCO/status/2084942494156882279",
+              "start": 185,
+              "url": "https://t.co/HYbGnwtoWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085695923737502156",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2085695918125588481"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 35981,
+          "like_count": 1253,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084942494156882279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⋱ 明日 .ᐟ.ᐟ🍽⋰\n\nZEPPIN DISCO Vol.6 ついに明日です.ᐟ.ᐟ🌙\n私も沢山盛り上げられるように\nがんばるぞ〜.ᐟ.ᐟ会えるの楽しみです🎀\n\n┈┈反田葉月 タイムテーブル┈┈┈⟡\nLIVE /15：00～15：25\n特典会/15：50～16：50\n🎟 https://t.co/5FKpDZGNnv https://t.co/jiZcQ206oo https://t.co/HYbGnwtoWe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2102727825224773808",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 302,
+          "like_count": 18366,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 6373
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-11T01:05:14.000Z",
+        "description": "🌙moony club.広島県出身./D4DJ Lyrical Lily 桜田美夢/バンドリ sumimi 純田まな役 etc../🎀ﾏﾈｰｼﾞｬｰ垢@tandahazuki_mg #みてみては〜ちゃん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 91,
+                "tag": "みてみては〜ちゃん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "tandahazuki_mg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/tandahazuki_",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/tandahazuki_",
+                "start": 0,
+                "url": "https://t.co/9SVW7luLa1"
+              }
+            ]
+          }
+        },
+        "id": "3853228393",
+        "is_identity_verified": false,
+        "location": "ストロボ",
+        "most_recent_tweet_id": "2102666923985322433",
+        "name": "反田葉月",
+        "pinned_tweet_id": "2084905010601840901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3853228393/1783861408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034591675679752192/vD9SNOEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179677,
+          "following_count": 642,
+          "like_count": 75660,
+          "listed_count": 1249,
+          "media_count": 3437,
+          "tweet_count": 11823
+        },
+        "url": "https://t.co/9SVW7luLa1",
+        "username": "tanda_hazuki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

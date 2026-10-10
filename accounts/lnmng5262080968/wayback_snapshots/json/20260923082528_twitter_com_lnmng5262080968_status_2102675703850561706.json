@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2102675703850561706",
+    "created_at": "2026-09-23T08:25:28.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102675703850561706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tanda_hazuki/s…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/tanda_hazuki/status/2099821885651615887",
+          "start": 70,
+          "url": "https://t.co/cJgFfGQboD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102675703850561706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099821885651615887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ft妖女给我魂都勾走了千万不要直视妖女的眼睛呜呜原来那么漂亮的女生还要给我拍视频看她是不是喜欢我呀呜呜妈咪勾引我呜呜呜被女人玩弄于股掌之中 https://t.co/cJgFfGQboD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51250,
+        "height": 3840,
+        "media_key": "13_2099821482142744577",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099821482142744577/img/BQDhEZROHsvqBLMw.jpg",
+        "public_metrics": {
+          "view_count": 18055
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099821482142744577/vid/avc1/2160x3840/-4YumICGyPKfqOJ_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099821482142744577/pl/s7dW6TasJGqY1N-8.m3u8?v=d39"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099821482142744577/vid/avc1/480x852/0lRmCOkAB1rgGvxb.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099821482142744577/vid/avc1/1080x1920/O6pYnxXuNj_ThXBb.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099821482142744577/vid/avc1/320x568/YxHfpA8Wf9IJKxFq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099821482142744577/vid/avc1/720x1280/id1CpXMZ_MLZe1AU.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2102675703850561706",
+        "created_at": "2026-09-23T08:25:28.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102675703850561706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tanda_hazuki/s…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/tanda_hazuki/status/2099821885651615887",
+              "start": 70,
+              "url": "https://t.co/cJgFfGQboD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102675703850561706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099821885651615887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ft妖女给我魂都勾走了千万不要直视妖女的眼睛呜呜原来那么漂亮的女生还要给我拍视频看她是不是喜欢我呀呜呜妈咪勾引我呜呜呜被女人玩弄于股掌之中 https://t.co/cJgFfGQboD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099821482142744577"
+          ]
+        },
+        "author_id": "3853228393",
+        "conversation_id": "2099821885651615887",
+        "created_at": "2026-09-15T11:25:25.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099821885651615887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fki2AyLvrN",
+              "end": 23,
+              "expanded_url": "https://x.com/tanda_hazuki/status/2099821885651615887/video/1",
+              "media_key": "13_2099821482142744577",
+              "start": 0,
+              "url": "https://t.co/Fki2AyLvrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099821885651615887",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2099821482142744577"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 300,
+          "impression_count": 67247,
+          "like_count": 5572,
+          "quote_count": 31,
+          "reply_count": 37,
+          "retweet_count": 486
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Fki2AyLvrN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2102675703850561706",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 302,
+          "like_count": 18350,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 6363
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-11T01:05:14.000Z",
+        "description": "🌙moony club.広島県出身./D4DJ Lyrical Lily 桜田美夢/バンドリ sumimi 純田まな役 etc../🎀ﾏﾈｰｼﾞｬｰ垢@tandahazuki_mg #みてみては〜ちゃん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 91,
+                "tag": "みてみては〜ちゃん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "tandahazuki_mg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/tandahazuki_",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/tandahazuki_",
+                "start": 0,
+                "url": "https://t.co/9SVW7luLa1"
+              }
+            ]
+          }
+        },
+        "id": "3853228393",
+        "is_identity_verified": false,
+        "location": "ストロボ",
+        "most_recent_tweet_id": "2102666923985322433",
+        "name": "反田葉月",
+        "pinned_tweet_id": "2084905010601840901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3853228393/1783861408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034591675679752192/vD9SNOEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179665,
+          "following_count": 642,
+          "like_count": 75653,
+          "listed_count": 1249,
+          "media_count": 3437,
+          "tweet_count": 11823
+        },
+        "url": "https://t.co/9SVW7luLa1",
+        "username": "tanda_hazuki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

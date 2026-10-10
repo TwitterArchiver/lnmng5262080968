@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2102676542363238544",
+    "created_at": "2026-09-23T08:28:48.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102676542363238544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/okada_mei0519/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/okada_mei0519/status/2100544290044994037",
+          "start": 30,
+          "url": "https://t.co/2r77xWNKp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102676542363238544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100544290044994037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呀这个手我哦吼吼吼吼吼吼🥵🥵🥵🥵🥵🥵🥵妈妈扣我啊啊啊啊啊 https://t.co/2r77xWNKp1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2100544263499247616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSah4OTbcAAc4RU.jpg",
+        "width": 3024
+      },
+      {
+        "height": 1932,
+        "media_key": "3_2100544263507591168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSah4OVawAAR89e.jpg",
+        "width": 2898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2102676542363238544",
+        "created_at": "2026-09-23T08:28:48.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102676542363238544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/okada_mei0519/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/okada_mei0519/status/2100544290044994037",
+              "start": 30,
+              "url": "https://t.co/2r77xWNKp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102676542363238544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100544290044994037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呀这个手我哦吼吼吼吼吼吼🥵🥵🥵🥵🥵🥵🥵妈妈扣我啊啊啊啊啊 https://t.co/2r77xWNKp1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100544263499247616",
+            "3_2100544263507591168"
+          ]
+        },
+        "author_id": "2880189872",
+        "conversation_id": "2100544290044994037",
+        "created_at": "2026-09-17T11:15:59.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100544290044994037"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 152,
+              "start": 141,
+              "tag": "ESPGuitars"
+            },
+            {
+              "end": 158,
+              "start": 154,
+              "tag": "MEI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "トップアーティストに愛用されるエレクトリックギター＆ベースメーカーESP GUITARS JAPAN",
+              "display_url": "espguitars.co.jp/productinfo/60…",
+              "end": 88,
+              "expanded_url": "https://espguitars.co.jp/productinfo/60534/",
+              "start": 65,
+              "status": 200,
+              "title": "MEIが愛用するベース、ESP AMASE-AS-5 MEI Custom 発売",
+              "unwound_url": "https://espguitars.co.jp/productinfo/60534/",
+              "url": "https://t.co/96oGNSYPpP"
+            },
+            {
+              "display_url": "pic.x.com/KPBKo62jCA",
+              "end": 182,
+              "expanded_url": "https://x.com/okada_mei0519/status/2100544290044994037/photo/1",
+              "media_key": "3_2100544263499247616",
+              "start": 159,
+              "url": "https://t.co/KPBKo62jCA"
+            },
+            {
+              "display_url": "pic.x.com/KPBKo62jCA",
+              "end": 182,
+              "expanded_url": "https://x.com/okada_mei0519/status/2100544290044994037/photo/1",
+              "media_key": "3_2100544263507591168",
+              "start": 159,
+              "url": "https://t.co/KPBKo62jCA"
+            },
+            {
+              "display_url": "x.com/espguitarsjp/s…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/espguitarsjp/status/2100434583695294639",
+              "start": 183,
+              "url": "https://t.co/au6v2ndgGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100544290044994037",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100544263499247616"
+          },
+          {
+            "media_key": "3_2100544263507591168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 101684,
+          "like_count": 1937,
+          "quote_count": 14,
+          "reply_count": 14,
+          "retweet_count": 204
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100434583695294639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ついに…っ❕\nESPさんから〚 𝐌𝐄𝐈 ⟡ 𝙎𝙞𝙜𝙣𝙖𝙩𝙪𝙧𝙚 𝙈𝙤𝙙𝙚𝙡  〛\nが、発売受付スタートですっっ🎸❤️‍🩹⚡️\n⛓️https://t.co/96oGNSYPpP\n\n𝐌𝐄𝐈としての大切な相棒ベース &amp; アクセサリーたち…っ⁺｡ ぜひ、チェックしてね ☪️⋆✦\n#ESPGuitars  #MEI https://t.co/KPBKo62jCA https://t.co/au6v2ndgGr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2102676542363238544",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 302,
+          "like_count": 18357,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 6365
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "AceCrew Entertainment所属 ︴声優 #D4DJ Merm4id 水島茉莉花 ┊ #バンドリ Ave Mujica Ba.🎸Timoris/八幡海鈴 ┊ #らぶフォー 最上羅巫 ┊ etc…┊ #𝐌𝐄𝐈 ┊#めいしゃんねる┊ Fan club ✦ https://t.co/XCUSC0TRUU 👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "𝐌𝐄𝐈"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "tag": "めいしゃんねる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 156,
+                "expanded_url": "https://maysland.jp/",
+                "start": 133,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "is_identity_verified": false,
+        "location": "埼玉県 出身🪽⋆✦",
+        "most_recent_tweet_id": "2102389475007680931",
+        "name": "岡田夢以",
+        "pinned_tweet_id": "1988228371151810658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2880189872/1785008392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969841732847362048/2nc87moH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155677,
+          "following_count": 434,
+          "like_count": 65543,
+          "listed_count": 1310,
+          "media_count": 4854,
+          "tweet_count": 15436
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

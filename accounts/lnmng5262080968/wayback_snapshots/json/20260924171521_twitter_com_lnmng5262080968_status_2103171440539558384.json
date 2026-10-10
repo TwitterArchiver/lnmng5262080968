@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2102816045736366241",
+    "created_at": "2026-09-24T17:15:21.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T18:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103171440539558384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734492845958983680",
+          "start": 0,
+          "username": "Ruby0125210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103171440539558384",
+    "in_reply_to_user_id": "1734492845958983680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103133245919592481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruby0125210 过去那么久了还是一样"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103133245919592481].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103133245919592481",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103133245919592481"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2102816045736366241",
+        "created_at": "2026-09-24T17:15:21.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103171440539558384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734492845958983680",
+              "start": 0,
+              "username": "Ruby0125210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103171440539558384",
+        "in_reply_to_user_id": "1734492845958983680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103133245919592481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruby0125210 过去那么久了还是一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2103171440539558384",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 303,
+          "like_count": 18421,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 6396
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-12T08:38:32.000Z",
+        "description": "08年/无证不含糖🍥/渴望变成女孩子/intp/什么也不懂的ばか/同位体：@Sapphire0125210/欢迎同类互fo/关注啦就不要取消啦/🚪50加好友/不线下/希望被大家喜欢/希望被投喂（会掉落特殊素材哦）  不要上来就给咱发你那牛子照！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "Sapphire0125210"
+              }
+            ]
+          }
+        },
+        "id": "1734492845958983680",
+        "is_identity_verified": false,
+        "location": "Backrooms",
+        "most_recent_tweet_id": "2082128850964697565",
+        "name": "Ruby",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734492845958983680/1703304522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094463309080883201/_4ed6UQd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 534,
+          "like_count": 4192,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 862
+        },
+        "url": "",
+        "username": "Ruby0125210",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

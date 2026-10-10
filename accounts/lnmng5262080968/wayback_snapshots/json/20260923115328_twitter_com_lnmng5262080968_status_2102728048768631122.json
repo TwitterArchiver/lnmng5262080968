@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2102728048768631122",
+    "created_at": "2026-09-23T11:53:28.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T12:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102728048768631122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/okada_mei0519/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/okada_mei0519/status/2096961998760333752",
+          "start": 27,
+          "url": "https://t.co/XPWVcKwKAZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102728048768631122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096961998760333752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梅梅好大呀🥵🥵🥵🥵👅👅👅👅👅我埋我埋我滚滚滚我亲我贴 https://t.co/XPWVcKwKAZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2102728048768631122",
+        "created_at": "2026-09-23T11:53:28.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102728048768631122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/okada_mei0519/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/okada_mei0519/status/2096961998760333752",
+              "start": 27,
+              "url": "https://t.co/XPWVcKwKAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102728048768631122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096961998760333752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梅梅好大呀🥵🥵🥵🥵👅👅👅👅👅我埋我埋我滚滚滚我亲我贴 https://t.co/XPWVcKwKAZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2880189872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2096961998760333752",
+        "created_at": "2026-09-07T14:01:14.000Z",
+        "display_text_range": [
+          0,
+          187
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096961998760333752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "岡田夢以オフィシャルファンクラブ「MAY’s LAND」",
+              "display_url": "maysland.jp/mei01tour/",
+              "end": 164,
+              "expanded_url": "https://maysland.jp/mei01tour/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2102380468272545792/PHlSFGFN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102380468272545792/PHlSFGFN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 141,
+              "status": 200,
+              "title": "岡田夢以オフィシャルファンクラブ「MAY’s LAND」",
+              "unwound_url": "https://maysland.jp/mei01tour/",
+              "url": "https://t.co/RPb8j6rYVh"
+            },
+            {
+              "display_url": "x.com/acecrew_label/…",
+              "end": 211,
+              "expanded_url": "https://twitter.com/acecrew_label/status/2096929483102236805",
+              "start": 188,
+              "url": "https://t.co/wZl7C1jnzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096961998760333752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 51647,
+          "like_count": 1516,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096929483102236805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1st写真集 &amp; 10thアニバーサリーDVD の\n⋱ツアー会場✦販売⋰が決定しました🌙ིྀ◝✩\n\n9. 20┊ 大阪 ⟡ Yogibo META VALLEY\n9. 22┊ 愛知 ⟡ SOUND SPACE DIVA\n10. 4┊ 神奈川 ⟡ みなとみらいブロンテ\n🍒⇢ https://t.co/RPb8j6rYVh\n\n初ツアーももうすぐっ楽しみーーっ🧸🤍ིྀ🎸 https://t.co/wZl7C1jnzB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2102728048768631122",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 302,
+          "like_count": 18366,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 6374
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "AceCrew Entertainment所属 ︴声優 #D4DJ Merm4id 水島茉莉花 ┊ #バンドリ Ave Mujica Ba.🎸Timoris/八幡海鈴 ┊ #らぶフォー 最上羅巫 ┊ etc…┊ #𝐌𝐄𝐈 ┊#めいしゃんねる┊ Fan club ✦ https://t.co/XCUSC0TRUU 👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "𝐌𝐄𝐈"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "tag": "めいしゃんねる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 156,
+                "expanded_url": "https://maysland.jp/",
+                "start": 133,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "is_identity_verified": false,
+        "location": "埼玉県 出身🪽⋆✦",
+        "most_recent_tweet_id": "2102389475007680931",
+        "name": "岡田夢以",
+        "pinned_tweet_id": "1988228371151810658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2880189872/1785008392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969841732847362048/2nc87moH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155681,
+          "following_count": 434,
+          "like_count": 65543,
+          "listed_count": 1309,
+          "media_count": 4854,
+          "tweet_count": 15436
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

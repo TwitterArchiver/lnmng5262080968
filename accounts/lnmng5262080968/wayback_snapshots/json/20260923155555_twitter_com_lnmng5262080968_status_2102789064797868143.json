@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102437189569191936"
+      ],
+      "media_source_tweet_id": [
+        "2102437195047203035"
+      ]
+    },
+    "author_id": "1792011763875184640",
+    "conversation_id": "2102789064797868143",
+    "created_at": "2026-09-23T15:55:55.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T16:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102789064797868143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2027463282353930241",
+          "start": 3,
+          "username": "charjayjay666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WJfR1leLOx",
+          "end": 59,
+          "expanded_url": "https://x.com/charjayjay666/status/2102437195047203035/photo/1",
+          "media_key": "3_2102437189569191936",
+          "start": 36,
+          "url": "https://t.co/WJfR1leLOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102789064797868143",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2102437189569191936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1613
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102437195047203035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @charjayjay666: Eu daqui a pouco https://t.co/WJfR1leLOx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2102437189569191936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1bfBbXoAAfi4P.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102437189569191936"
+          ],
+          "media_source_tweet_id": [
+            "2102437195047203035"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "2102789064797868143",
+        "created_at": "2026-09-23T15:55:55.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102789064797868143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2027463282353930241",
+              "start": 3,
+              "username": "charjayjay666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJfR1leLOx",
+              "end": 59,
+              "expanded_url": "https://x.com/charjayjay666/status/2102437195047203035/photo/1",
+              "media_key": "3_2102437189569191936",
+              "start": 36,
+              "url": "https://t.co/WJfR1leLOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102789064797868143",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2102437189569191936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1613
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102437195047203035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @charjayjay666: Eu daqui a pouco https://t.co/WJfR1leLOx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102437189569191936"
+          ]
+        },
+        "author_id": "2027463282353930241",
+        "conversation_id": "2102437195047203035",
+        "created_at": "2026-09-22T16:37:43.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T17:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102437195047203035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJfR1leLOx",
+              "end": 40,
+              "expanded_url": "https://x.com/charjayjay666/status/2102437195047203035/photo/1",
+              "media_key": "3_2102437189569191936",
+              "start": 17,
+              "url": "https://t.co/WJfR1leLOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102437195047203035",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2102437189569191936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 52312,
+          "like_count": 6755,
+          "quote_count": 36,
+          "reply_count": 14,
+          "retweet_count": 1613
+        },
+        "reply_settings": "everyone",
+        "text": "Eu daqui a pouco https://t.co/WJfR1leLOx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2102789064797868143",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 303,
+          "like_count": 18401,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 6385
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-27T19:18:28.000Z",
+        "description": "Conta nova🙊/posto qualquer besteira/🏳️‍⚧️♂️/ Faço moots!!/ não me levem a sério./ SH(🧵)/ Jay pros antigos😂",
+        "id": "2027463282353930241",
+        "is_identity_verified": false,
+        "location": "Umbral",
+        "most_recent_tweet_id": "2102772507673526576",
+        "name": "Charleshtwt",
+        "pinned_tweet_id": "2096086557245522209",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027463282353930241/1790114648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100402970294652928/StUHSKPr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 75,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1146
+        },
+        "url": "",
+        "username": "charjayjay666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

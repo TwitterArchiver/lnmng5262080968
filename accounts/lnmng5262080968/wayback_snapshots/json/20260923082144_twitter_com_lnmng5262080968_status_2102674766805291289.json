@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2102674766805291289",
+    "created_at": "2026-09-23T08:21:44.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102674766805291289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/okada_mei0519/…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/okada_mei0519/status/2101658672724353266",
+          "start": 49,
+          "url": "https://t.co/DPUrkYDtLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102674766805291289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101658672724353266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊妈妈的手指啊啊啊我坐上去了呃啊啊啊啊好想枕梅梅的大腿呀好肉好软哦滑滑的我蹭蹭蹭好香呀呜呜 https://t.co/DPUrkYDtLi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3699,
+        "media_key": "3_2101658614268379136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqXX-abQAAxOis.jpg",
+        "width": 2773
+      },
+      {
+        "height": 2246,
+        "media_key": "3_2101658614318669825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqXX-maoAED4Ct.jpg",
+        "width": 1684
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2101658614348099584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqXX-tbsAADR5h.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2102674766805291289",
+        "created_at": "2026-09-23T08:21:44.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102674766805291289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/okada_mei0519/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/okada_mei0519/status/2101658672724353266",
+              "start": 49,
+              "url": "https://t.co/DPUrkYDtLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102674766805291289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101658672724353266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊妈妈的手指啊啊啊我坐上去了呃啊啊啊啊好想枕梅梅的大腿呀好肉好软哦滑滑的我蹭蹭蹭好香呀呜呜 https://t.co/DPUrkYDtLi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101658614268379136",
+            "3_2101658614318669825",
+            "3_2101658614348099584"
+          ]
+        },
+        "author_id": "2880189872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2101658672724353266",
+        "created_at": "2026-09-20T13:04:09.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101658672724353266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "MEI_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvGdVtCLHq",
+              "end": 185,
+              "expanded_url": "https://x.com/okada_mei0519/status/2101658672724353266/photo/1",
+              "media_key": "3_2101658614268379136",
+              "start": 162,
+              "url": "https://t.co/gvGdVtCLHq"
+            },
+            {
+              "display_url": "pic.x.com/gvGdVtCLHq",
+              "end": 185,
+              "expanded_url": "https://x.com/okada_mei0519/status/2101658672724353266/photo/1",
+              "media_key": "3_2101658614318669825",
+              "start": 162,
+              "url": "https://t.co/gvGdVtCLHq"
+            },
+            {
+              "display_url": "pic.x.com/gvGdVtCLHq",
+              "end": 185,
+              "expanded_url": "https://x.com/okada_mei0519/status/2101658672724353266/photo/1",
+              "media_key": "3_2101658614348099584",
+              "start": 162,
+              "url": "https://t.co/gvGdVtCLHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101658672724353266",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101658614268379136"
+          },
+          {
+            "media_key": "3_2101658614318669825"
+          },
+          {
+            "media_key": "3_2101658614348099584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 52455,
+          "like_count": 3024,
+          "quote_count": 9,
+          "reply_count": 26,
+          "retweet_count": 314
+        },
+        "reply_settings": "everyone",
+        "text": "𝐌𝐄𝐈 ✦ Live tour〚 #MEI_01 〛 大阪公演 🍒˒˒\n\n1部トークには、ゆづ が来てくれました 🤍ིྀ\n大阪で一緒に過ごしてくれて本当にありがとう⁺｡  ﾋﾞｯｸﾞﾗﾌﾞ…🫶🏻\n\n 2部のLiveもみんなから温かく優しいパワーをもらって幸せでした🌙ིྀ  次は、愛知っっ⟡\nありがとうございました 🎸⋆✦ https://t.co/gvGdVtCLHq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2102674766805291289",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 302,
+          "like_count": 18350,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 6362
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "AceCrew Entertainment所属 ︴声優 #D4DJ Merm4id 水島茉莉花 ┊ #バンドリ Ave Mujica Ba.🎸Timoris/八幡海鈴 ┊ #らぶフォー 最上羅巫 ┊ etc…┊ #𝐌𝐄𝐈 ┊#めいしゃんねる┊ Fan club ✦ https://t.co/XCUSC0TRUU 👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "𝐌𝐄𝐈"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "tag": "めいしゃんねる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 156,
+                "expanded_url": "https://maysland.jp/",
+                "start": 133,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "is_identity_verified": false,
+        "location": "埼玉県 出身🪽⋆✦",
+        "most_recent_tweet_id": "2102389475007680931",
+        "name": "岡田夢以",
+        "pinned_tweet_id": "1988228371151810658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2880189872/1785008392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969841732847362048/2nc87moH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155677,
+          "following_count": 434,
+          "like_count": 65543,
+          "listed_count": 1310,
+          "media_count": 4854,
+          "tweet_count": 15436
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

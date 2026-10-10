@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792011763875184640",
+    "conversation_id": "2103445748750979564",
+    "created_at": "2026-09-25T11:25:21.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T12:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103445748750979564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanimono_mifuy…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/nanimono_mifuyu/status/2079560668349714829",
+          "start": 31,
+          "url": "https://t.co/EZPyVmUBr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103445748750979564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079560668349714829",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈麻麻麻麻麻麻麻麻麻麻啊麻麻吗啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/EZPyVmUBr4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2865,
+        "media_key": "3_2079560530008973312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwVSLgboAAIiW_.jpg",
+        "width": 2149
+      },
+      {
+        "duration_ms": 6235,
+        "height": 3840,
+        "media_key": "13_2079560530034135040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079560530034135040/img/Sa9ccNg_ax73Yhpv.jpg",
+        "public_metrics": {
+          "view_count": 13582
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079560530034135040/vid/avc1/720x1280/s8hEmK50Lgs7A_7T.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079560530034135040/pl/qEc1MTRVYnD_8RNO.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079560530034135040/vid/avc1/2160x3840/_Vhi8EVJWQWVJd4X.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079560530034135040/vid/avc1/320x568/jcNdkkKluAsKIbiu.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079560530034135040/vid/avc1/1080x1920/4JJWgB4ZGOsbd9f6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079560530034135040/vid/avc1/480x852/jHGygt5KtC0rKx55.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2103445748750979564",
+        "created_at": "2026-09-25T11:25:21.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103445748750979564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanimono_mifuy…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/nanimono_mifuyu/status/2079560668349714829",
+              "start": 31,
+              "url": "https://t.co/EZPyVmUBr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103445748750979564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079560668349714829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈麻麻麻麻麻麻麻麻麻麻啊麻麻吗啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/EZPyVmUBr4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079560530008973312",
+            "13_2079560530034135040"
+          ]
+        },
+        "author_id": "1375036351897198592",
+        "conversation_id": "2079560668349714829",
+        "created_at": "2026-07-21T13:34:34.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079560668349714829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMyrveC0dG",
+              "end": 29,
+              "expanded_url": "https://x.com/NANIMONO_mifuyu/status/2079560668349714829/video/1",
+              "media_key": "3_2079560530008973312",
+              "start": 6,
+              "url": "https://t.co/tMyrveC0dG"
+            },
+            {
+              "display_url": "pic.x.com/tMyrveC0dG",
+              "end": 29,
+              "expanded_url": "https://x.com/NANIMONO_mifuyu/status/2079560668349714829/video/1",
+              "media_key": "13_2079560530034135040",
+              "start": 6,
+              "url": "https://t.co/tMyrveC0dG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079560668349714829",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2079560530008973312"
+          },
+          {
+            "media_key": "13_2079560530034135040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 62421,
+          "like_count": 2815,
+          "quote_count": 79,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "reply_settings": "following",
+        "text": "2Pカラー https://t.co/tMyrveC0dG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2103445748750979564",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 302,
+          "like_count": 18439,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 6404
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-25T10:46:36.000Z",
+        "description": "冬眠中 . @NANIMONO_idol 🎠🎀🌙* :ﾟ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "NANIMONO_idol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/__13229_.o",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/__13229_.o",
+                "start": 0,
+                "url": "https://t.co/qph6v2uN81"
+              }
+            ]
+          }
+        },
+        "id": "1375036351897198592",
+        "is_identity_verified": false,
+        "location": "#冬眠喫茶室   174cm 青色狼 🐺",
+        "most_recent_tweet_id": "2103423004210606122",
+        "name": "柊真ミフユ",
+        "pinned_tweet_id": "2031730178037313790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1375036351897198592/1783650373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062514526504017921/WvUfgvA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42513,
+          "following_count": 105,
+          "like_count": 4043,
+          "listed_count": 307,
+          "media_count": 307,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/qph6v2uN81",
+        "username": "NANIMONO_mifuyu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
